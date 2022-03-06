@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Mar/2022 @ 14:00:06 PST",
+    "last_update": "06/Mar/2022 @ 15:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2203/SunVenusUv3_SdoDove_960.jpg",
     "title": "Venus and the Triply Ultraviolet Sun (06/Mar/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -443,6 +443,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000h2kc",
+        "location": "http://maps.google.com/maps?q=-23.1239,-66.9608",
+        "name": "M 4.1 - 129 km E of San Pedro de Atacama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2kc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000h2l2",
         "location": "http://maps.google.com/maps?q=-24.3084,-67.2942",
         "name": "M 4.1 - 99 km W of San Antonio de los Cobres, Argentina",
@@ -497,6 +515,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000h2lt",
+        "location": "http://maps.google.com/maps?q=5.0319,127.5289",
+        "name": "M 4.2 - Philippine Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2lt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000h2j5",
         "location": "http://maps.google.com/maps?q=-7.9437,120.6695",
         "name": "M 4.4 - 77 km NNE of Ruteng, Indonesia",
@@ -535,7 +571,7 @@
         ],
         "eid": "us6000h2ih",
         "location": "http://maps.google.com/maps?q=-0.1512,29.8224",
-        "name": "M 4.6 - 44 km SSW of Kilembe, Uganda",
+        "name": "M 4.6 - Lake Edward region, Uganda",
         "source": [
           {
             "sid": "USGS",
@@ -569,34 +605,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000h2g3",
-        "location": "http://maps.google.com/maps?q=3.5839,126.0575",
-        "name": "M 4.8 - 211 km SSE of Sarangani, Philippines",
+        "eid": "us6000h2lu",
+        "location": "http://maps.google.com/maps?q=70.4013,-134.4761",
+        "name": "M 4.8 - 229 km N of Inuvik, Canada",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2g3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000h2fw",
-        "location": "http://maps.google.com/maps?q=-21.6167,-173.7901",
-        "name": "M 5.0 - 124 km ESE of ‘Ohonua, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2fw"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2lu"
       },
       {
         "category": [
@@ -659,6 +677,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000h2h0",
+        "location": "http://maps.google.com/maps?q=16.9706,-95.0836",
+        "name": "M 5.5 - 1 km NE of San Juan Guichicovi, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2h0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000h2il",
         "location": "http://maps.google.com/maps?q=-28.5653,-68.8277",
         "name": "M 5.5 - 64 km WNW of Vinchina, Argentina",
@@ -669,24 +705,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2il"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000h2h0",
-        "location": "http://maps.google.com/maps?q=16.9706,-95.0836",
-        "name": "M 5.5 - Oaxaca, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2h0"
       },
       {
         "category": [
@@ -889,11 +907,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6018"
       }
     ],
-    "last_update": "06/Mar/2022 @ 14:00:11 PST",
+    "last_update": "06/Mar/2022 @ 15:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=70.4013,-134.4761\"><b>M 4.8 - 229 km N of Inuvik, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2lu\">USGS</a>",
+          70.4013,
+          -134.4761
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=5.0319,127.5289\"><b>M 4.2 - Philippine Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2lt\">USGS</a>",
+          5.0319,
+          127.5289
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.4886,70.2509\"><b>M 4.2 - 36 km ESE of Farkhār, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2ls\">USGS</a>",
           36.4886,
@@ -908,6 +936,11 @@
           "<a href=\"http://maps.google.com/maps?q=-24.3084,-67.2942\"><b>M 4.1 - 99 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2l2\">USGS</a>",
           -24.3084,
           -67.2942
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-23.1239,-66.9608\"><b>M 4.1 - 129 km E of San Pedro de Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2kc\">USGS</a>",
+          -23.1239,
+          -66.9608
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=19.6006,-64.7268\"><b>M 4.2 - 140 km N of Cruz Bay, U.S. Virgin Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2022065000\">USGS</a>",
@@ -930,7 +963,7 @@
           -68.8277
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-0.1512,29.8224\"><b>M 4.6 - 44 km SSW of Kilembe, Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2ih\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-0.1512,29.8224\"><b>M 4.6 - Lake Edward region, Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2ih\">USGS</a>",
           -0.1512,
           29.8224
         ],
@@ -945,7 +978,7 @@
           122.2398
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=16.9706,-95.0836\"><b>M 5.5 - Oaxaca, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2h0\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=16.9706,-95.0836\"><b>M 5.5 - 1 km NE of San Juan Guichicovi, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2h0\">USGS</a>",
           16.9706,
           -95.0836
         ],
@@ -968,16 +1001,6 @@
           "<a href=\"http://maps.google.com/maps?q=28.0138,130.1198\"><b>M 5.1 - 73 km ESE of Naze, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2gp\">USGS</a>",
           28.0138,
           130.1198
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=3.5839,126.0575\"><b>M 4.8 - 211 km SSE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2g3\">USGS</a>",
-          3.5839,
-          126.0575
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.6167,-173.7901\"><b>M 5.0 - 124 km ESE of ‘Ohonua, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h2fw\">USGS</a>",
-          -21.6167,
-          -173.7901
         ]
       ],
       "Floods": [],
@@ -3155,13 +3178,13 @@
         ]
       ]
     },
-    "title": "47 events (06/Mar/2022 PST)"
+    "title": "48 events (06/Mar/2022 PST)"
   },
-  "last_update": "06/Mar/2022 @ 14:01:14 PST",
-  "last_update_epoch": 1646604074.792551,
+  "last_update": "06/Mar/2022 @ 15:01:10 PST",
+  "last_update_epoch": 1646607670.45823,
   "neo": {
     "date": "06/Mar/2022 PST",
-    "last_update": "06/Mar/2022 @ 14:00:13 PST",
+    "last_update": "06/Mar/2022 @ 15:00:12 PST",
     "objects": [
       {
         "cat": "06/Mar/2022 @ 11:14:00 ",
@@ -3396,7 +3419,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Mar/2022 @ 14:00:13 PST",
+    "last_update": "06/Mar/2022 @ 15:00:12 PST",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -5026,7 +5049,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Mar/2022 @ 14:00:34 PST",
+    "last_update": "06/Mar/2022 @ 15:00:18 PST",
     "launches": {
       "future": [
         {
@@ -16308,12 +16331,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "233,775,427.30 miles",
+      "earth_distance": "233,770,098.22 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "188,084,334.01 miles",
+      "mars_distance": "188,066,400.09 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,526.15 mph",
+      "speed": "4,525.72 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
