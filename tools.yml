@@ -1,0 +1,71 @@
+tools:
+  - name: hexd
+    url: https://github.com/FireyFly/hexd
+    description: hexd prints a human-readable hexdump of the specified files, or standard input if omitted. Its main distinguishing feature is the use of colours to visually indicate which range of values an octet belongs to, aiding in spotting patterns in binary data.
+
+  - name: pixd
+    url: https://github.com/FireyFly/pixd
+    description: pixd is a tool for visualizing binary data using a colour palette. It is in a lot of ways akin to a hexdump tool, except using coloured squares to represent each octet.
+
+  - name: webshark
+    url: https://github.com/FireyFly/webshark.git
+    description: Webshark is a tool for visualizing pcap (e.g. Wireshark) network captures on a timeline. It was written as part of reverse-engineering efforts because the tabular view in Wireshark didn't visualize the timing aspects of the packets very well.
+
+  - name: DidierStevensSuite
+    url: https://github.com/DidierStevens/DidierStevensSuite
+    description: Collection of tools and utilities created by Didier Stevens.
+
+  - name: distribution
+    url: https://github.com/wizzat/distribution
+    description: Short, simple, direct scripts for creating character-based graphs in a command terminal.
+
+  - name: peframe
+    url: https://github.com/guelfoweb/peframe
+    description: peframe is a open source tool to perform static analysis on Portable Executable malware and generic suspicious file. It can help malware researchers to detect packer, xor, digital signature, mutex, anti debug, anti virtual machine, suspicious sections and functions, macro and much more information about the suspicious files.
+
+  - name: Neurax
+    url: https://github.com/redcode-labs/Neurax
+    description:  A framework that aids in creation of self-spreading software.
+
+  - name: Bashark
+    url: https://github.com/redcode-labs/Bashark
+    description: Bashark aids pentesters and security researchers during the post-exploitation phase of security audit.
+
+https://github.com/redcode-labs/Coldfire
+ColdFire provides various methods useful for malware development in Golang.
+
+https://github.com/guelfoweb/knock
+Knockpy is a python3 tool designed to enumerate subdomains on a target domain through dictionary attack.
+
+http://procdot.com/
+
+https://github.com/tomchop/malcom
+
+https://github.com/redcode-labs/Citadel
+
+wireshark filters:
+ssl/tls start/finish filter:  tcp.flags & 0x02 || tcp.flags.fin == 1 || ( tcp.flags.ack == 1 && tcp.seq == 1 && tcp.len == 0)
+http req/resp:  http.request|| http.response
+smtp commands: smtp.command_line 
+POST's:  http.request.method == "POST"
+Display...pretty much all everything you'd want to show to someone:  (http.request.full_uri||http.response||dns.flags == 0x0100||ssl.handshake.type == 1) && !(ssdp)
+
+
+feeds:
+www.tweettioc.com/feed/daily/domain
+www.tweettioc.com/feed/daily/ip
+www.tweettioc.com/feed/daily/mail
+www.tweettioc.com/feed/daily/md5
+www.tweettioc.com/feed/daily/sha1
+www.tweettioc.com/feed/daily/sha256
+www.tweettioc.com/feed/daily/url
+www.tweettioc.com/v1/tweets/daily/domain
+www.tweettioc.com/v1/tweets/daily/full
+www.tweettioc.com/v1/tweets/daily/ioc
+www.tweettioc.com/v1/tweets/daily/ip
+www.tweettioc.com/v1/tweets/daily/mail
+www.tweettioc.com/v1/tweets/daily/md5
+www.tweettioc.com/v1/tweets/daily/sha1
+www.tweettioc.com/v1/tweets/daily/sha256
+www.tweettioc.com/v1/tweets/daily/url
+
