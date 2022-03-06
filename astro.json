@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Mar/2022 @ 09:00:05 PST",
+    "last_update": "06/Mar/2022 @ 10:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2203/SunVenusUv3_SdoDove_960.jpg",
     "title": "Venus and the Triply Ultraviolet Sun (06/Mar/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3598,8 +3598,8 @@
     },
     "title": "56 events (24/Feb/2022 PST)"
   },
-  "last_update": "06/Mar/2022 @ 09:00:05 PST",
-  "last_update_epoch": 1646586005.331271,
+  "last_update": "06/Mar/2022 @ 10:00:04 PST",
+  "last_update_epoch": 1646589604.478012,
   "neo": {
     "date": "25/Feb/2022 PST",
     "last_update": "24/Feb/2022 @ 20:00:09 PST",
