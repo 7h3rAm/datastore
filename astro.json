@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Mar/2022 @ 18:00:06 PST",
+    "last_update": "09/Mar/2022 @ 19:00:04 PST",
     "source": "https://apod.nasa.gov/apod/image/2203/FlowerRock_Curiosity_960.jpg",
     "title": "A Flower-Shaped Rock on Mars (09/Mar/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -533,24 +533,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000h37d",
-        "location": "http://maps.google.com/maps?q=7.2553,-78.0744",
-        "name": "M 4.6 - 30 km SSE of Jaqué, Panama",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h37d"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000h3cz",
         "location": "http://maps.google.com/maps?q=-22.1939,-68.6028",
         "name": "M 4.8 - 44 km NE of Calama, Chile",
@@ -615,42 +597,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h3b7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000h37j",
-        "location": "http://maps.google.com/maps?q=-37.758,177.3363",
-        "name": "M 5.1 - 28 km N of Opotiki, New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h37j"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000h37h",
-        "location": "http://maps.google.com/maps?q=-38.3861,-93.0291",
-        "name": "M 5.1 - West Chile Rise",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h37h"
       },
       {
         "category": [
@@ -823,7 +769,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6018"
       }
     ],
-    "last_update": "09/Mar/2022 @ 18:00:07 PST",
+    "last_update": "09/Mar/2022 @ 19:00:06 PST",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -887,21 +833,6 @@
           "<a href=\"http://maps.google.com/maps?q=33.4131,137.9029\"><b>M 4.0 - 135 km SSW of Ōyama, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h39n\">USGS</a>",
           33.4131,
           137.9029
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-37.758,177.3363\"><b>M 5.1 - 28 km N of Opotiki, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h37j\">USGS</a>",
-          -37.758,
-          177.3363
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-38.3861,-93.0291\"><b>M 5.1 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h37h\">USGS</a>",
-          -38.3861,
-          -93.0291
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=7.2553,-78.0744\"><b>M 4.6 - 30 km SSE of Jaqué, Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h37d\">USGS</a>",
-          7.2553,
-          -78.0744
         ]
       ],
       "Floods": [],
@@ -2849,10 +2780,10 @@
         ]
       ]
     },
-    "title": "44 events (09/Mar/2022 PST)"
+    "title": "41 events (09/Mar/2022 PST)"
   },
-  "last_update": "09/Mar/2022 @ 18:00:42 PST",
-  "last_update_epoch": 1646877642.576175,
+  "last_update": "09/Mar/2022 @ 19:00:06 PST",
+  "last_update_epoch": 1646881206.820156,
   "neo": {
     "date": "10/Mar/2022 PST",
     "last_update": "09/Mar/2022 @ 18:00:09 PST",
