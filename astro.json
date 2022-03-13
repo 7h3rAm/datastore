@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Mar/2022 @ 13:00:04 PDT",
+    "last_update": "13/Mar/2022 @ 14:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2203/AirglowRings_Wang_1080.jpg",
     "title": "Colorful Airglow Bands Surround Milky Way (13/Mar/2022 PST)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -429,6 +429,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000h484",
+        "location": "http://maps.google.com/maps?q=51.5491,-175.2238",
+        "name": "M 4.1 - 100 km SW of Atka, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h484"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000h45n",
         "location": "http://maps.google.com/maps?q=-21.2889,-68.8911",
         "name": "M 4.1 - 129 km N of Calama, Chile",
@@ -511,6 +529,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h44l"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "nc73705146",
+        "location": "http://maps.google.com/maps?q=36.5866661,-121.1894989",
+        "name": "M 4.2 - 7km NW of Pinnacles, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73705146"
       },
       {
         "category": [
@@ -753,6 +789,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000h43m",
+        "location": "http://maps.google.com/maps?q=23.7098,-86.6665",
+        "name": "M 4.6 - 252 km NNE of Isla Holbox, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h43m"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000h45x",
         "location": "http://maps.google.com/maps?q=-1.827,-78.3495",
         "name": "M 4.6 - 37 km ESE of Riobamba, Ecuador",
@@ -763,24 +817,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h45x"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000h43m",
-        "location": "http://maps.google.com/maps?q=23.7098,-86.6665",
-        "name": "M 4.6 - Gulf of Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h43m"
       },
       {
         "category": [
@@ -825,42 +861,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ak02239qtmiy",
-        "location": "http://maps.google.com/maps?q=60.7797,-152.0345",
-        "name": "M 5.1 - 41 km WNW of Nikiski, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak02239qtmiy"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000h42h",
-        "location": "http://maps.google.com/maps?q=-57.7151,-23.9727",
-        "name": "M 5.2 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h42h"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000h43k",
         "location": "http://maps.google.com/maps?q=15.1085,-93.8542",
         "name": "M 5.3 - 81 km WSW of El Palmarcito, Mexico",
@@ -871,6 +871,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h43k"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000h489",
+        "location": "http://maps.google.com/maps?q=-29.8828,-13.8672",
+        "name": "M 5.3 - southern Mid-Atlantic Ridge",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h489"
       },
       {
         "category": [
@@ -949,11 +967,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6018"
       }
     ],
-    "last_update": "13/Mar/2022 @ 13:00:06 PDT",
+    "last_update": "13/Mar/2022 @ 14:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.5866661,-121.1894989\"><b>M 4.2 - 7km NW of Pinnacles, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73705146\">USGS</a>",
+          36.5866661,
+          -121.1894989
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-29.8828,-13.8672\"><b>M 5.3 - southern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h489\">USGS</a>",
+          -29.8828,
+          -13.8672
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=51.5491,-175.2238\"><b>M 4.1 - 100 km SW of Atka, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h484\">USGS</a>",
+          51.5491,
+          -175.2238
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=17.1316,-84.993\"><b>M 4.6 - 118 km NE of Savannah Bight, Honduras</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h472\">USGS</a>",
           17.1316,
@@ -1040,7 +1073,7 @@
           94.5421
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=23.7098,-86.6665\"><b>M 4.6 - Gulf of Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h43m\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=23.7098,-86.6665\"><b>M 4.6 - 252 km NNE of Isla Holbox, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h43m\">USGS</a>",
           23.7098,
           -86.6665
         ],
@@ -1068,16 +1101,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.9133,168.3123\"><b>M 4.4 - 98 km ENE of Lakatoro, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h436\">USGS</a>",
           -15.9133,
           168.3123
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-57.7151,-23.9727\"><b>M 5.2 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000h42h\">USGS</a>",
-          -57.7151,
-          -23.9727
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=60.7797,-152.0345\"><b>M 5.1 - 41 km WNW of Nikiski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak02239qtmiy\">USGS</a>",
-          60.7797,
-          -152.0345
         ]
       ],
       "Floods": [],
@@ -3080,13 +3103,13 @@
         ]
       ]
     },
-    "title": "51 events (13/Mar/2022 PDT)"
+    "title": "52 events (13/Mar/2022 PDT)"
   },
-  "last_update": "13/Mar/2022 @ 13:00:59 PDT",
-  "last_update_epoch": 1647201659.813753,
+  "last_update": "13/Mar/2022 @ 14:00:46 PDT",
+  "last_update_epoch": 1647205246.574916,
   "neo": {
     "date": "13/Mar/2022 PST",
-    "last_update": "13/Mar/2022 @ 13:00:07 PDT",
+    "last_update": "13/Mar/2022 @ 14:00:06 PDT",
     "objects": [
       {
         "cat": "13/Mar/2022 @ 12:08:00 ",
@@ -3366,7 +3389,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Mar/2022 @ 13:00:07 PDT",
+    "last_update": "13/Mar/2022 @ 14:00:07 PDT",
     "people": [
       {
         "name": "Anton Shkaplerov",
@@ -4996,7 +5019,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Mar/2022 @ 13:00:20 PDT",
+    "last_update": "13/Mar/2022 @ 14:00:12 PDT",
     "launches": {
       "future": [
         {
@@ -16278,12 +16301,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "232,719,010.49 miles",
+      "earth_distance": "232,711,627.59 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "185,117,765.13 miles",
+      "mars_distance": "185,099,980.11 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,454.76 mph",
+      "speed": "4,454.33 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
