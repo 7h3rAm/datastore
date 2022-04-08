@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2022 @ 17:00:05 PDT",
+    "last_update": "07/Apr/2022 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/M24_APOD_GabrielRodriguesSantosAPOD1100.jpg",
     "title": "Messier 24: Sagittarius Star Cloud (07/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -519,6 +519,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000h0k5",
+        "location": "http://maps.google.com/maps?q=-22.1317,-68.7774",
+        "name": "M 4.2 - 39 km NNE of Calama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0k5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000h0jp",
         "location": "http://maps.google.com/maps?q=42.2557,144.5011",
         "name": "M 4.2 - 80 km S of Kushiro, Japan",
@@ -609,24 +627,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h09j",
-        "location": "http://maps.google.com/maps?q=-9.7009,111.5518",
-        "name": "M 4.5 - 179 km SSW of Boyolangu, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h09j"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h0c4",
         "location": "http://maps.google.com/maps?q=-24.1147,-67.2022",
         "name": "M 4.5 - 90 km W of San Antonio de los Cobres, Argentina",
@@ -681,6 +681,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000h0k6",
+        "location": "http://maps.google.com/maps?q=-7.4533,126.8925",
+        "name": "M 4.7 - 118 km N of Lospalos, Timor Leste",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0k6"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000h0b3",
         "location": "http://maps.google.com/maps?q=26.6468,126.3663",
         "name": "M 4.7 - 139 km WNW of Naha, Japan",
@@ -691,24 +709,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0b3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000h09l",
-        "location": "http://maps.google.com/maps?q=34.9314,137.4802",
-        "name": "M 4.7 - 3 km NNW of Shinshiro, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h09l"
       },
       {
         "category": [
@@ -745,24 +745,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0cc"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000h09n",
-        "location": "http://maps.google.com/maps?q=14.2585,119.3984",
-        "name": "M 5.0 - 81 km WNW of Cabra, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h09n"
       },
       {
         "category": [
@@ -808,8 +790,8 @@
           }
         ],
         "eid": "us7000h0jz",
-        "location": "http://maps.google.com/maps?q=21.7113,121.0332",
-        "name": "M 5.7 - 44 km SE of Hengchun, Taiwan",
+        "location": "http://maps.google.com/maps?q=21.7044,121.0172",
+        "name": "M 5.7 - 43 km SE of Hengchun, Taiwan",
         "source": [
           {
             "sid": "USGS",
@@ -877,15 +859,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6041"
       }
     ],
-    "last_update": "07/Apr/2022 @ 17:00:07 PDT",
+    "last_update": "07/Apr/2022 @ 18:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=21.7113,121.0332\"><b>M 5.7 - 44 km SE of Hengchun, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0jz\">USGS</a>",
-          21.7113,
-          121.0332
+          "<a href=\"http://maps.google.com/maps?q=-7.4533,126.8925\"><b>M 4.7 - 118 km N of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0k6\">USGS</a>",
+          -7.4533,
+          126.8925
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.1317,-68.7774\"><b>M 4.2 - 39 km NNE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0k5\">USGS</a>",
+          -22.1317,
+          -68.7774
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=21.7044,121.0172\"><b>M 5.7 - 43 km SE of Hengchun, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0jz\">USGS</a>",
+          21.7044,
+          121.0172
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=42.2557,144.5011\"><b>M 4.2 - 80 km S of Kushiro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0jp\">USGS</a>",
@@ -951,21 +943,6 @@
           "<a href=\"http://maps.google.com/maps?q=-13.3512,-75.244\"><b>M 5.1 - 16 km SE of Cocas, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0af\">USGS</a>",
           -13.3512,
           -75.244
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.2585,119.3984\"><b>M 5.0 - 81 km WNW of Cabra, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h09n\">USGS</a>",
-          14.2585,
-          119.3984
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.9314,137.4802\"><b>M 4.7 - 3 km NNW of Shinshiro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h09l\">USGS</a>",
-          34.9314,
-          137.4802
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-9.7009,111.5518\"><b>M 4.5 - 179 km SSW of Boyolangu, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h09j\">USGS</a>",
-          -9.7009,
-          111.5518
         ]
       ],
       "Floods": [],
@@ -3567,13 +3544,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (07/Apr/2022 PDT)"
+    "title": "46 events (07/Apr/2022 PDT)"
   },
-  "last_update": "07/Apr/2022 @ 17:00:46 PDT",
-  "last_update_epoch": 1649376046.082385,
+  "last_update": "07/Apr/2022 @ 18:00:40 PDT",
+  "last_update_epoch": 1649379640.993915,
   "neo": {
     "date": "08/Apr/2022 PDT",
-    "last_update": "07/Apr/2022 @ 17:00:08 PDT",
+    "last_update": "07/Apr/2022 @ 18:00:07 PDT",
     "objects": [
       {
         "cat": "08/Apr/2022 @ 17:53:00 ",
@@ -3763,7 +3740,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2022 @ 17:00:09 PDT",
+    "last_update": "07/Apr/2022 @ 18:00:07 PDT",
     "people": [
       {
         "name": "Denis Matveev",
@@ -5425,7 +5402,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2022 @ 17:00:15 PDT",
+    "last_update": "07/Apr/2022 @ 18:00:14 PDT",
     "launches": {
       "future": [
         {
@@ -16919,12 +16896,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "226,286,203.85 miles",
+      "earth_distance": "226,272,571.03 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "174,805,556.20 miles",
+      "mars_distance": "174,789,538.44 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,206.61 mph",
+      "speed": "4,206.22 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
