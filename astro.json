@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Apr/2022 @ 11:00:04 PDT",
+    "last_update": "10/Apr/2022 @ 12:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/SouthPoleShadows_LRO_960.jpg",
     "title": "Shadows at the Moon's South Pole (10/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -667,24 +667,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h0xr",
-        "location": "http://maps.google.com/maps?q=28.8265,86.5402",
-        "name": "M 4.2 - 100 km NNW of Lobujya, Nepal",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0xr"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h0zq",
         "location": "http://maps.google.com/maps?q=42.3427,20.1824",
         "name": "M 4.2 - 16 km SSW of Junik, Kosovo",
@@ -695,24 +677,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0zq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000h0xs",
-        "location": "http://maps.google.com/maps?q=54.5466,161.4813",
-        "name": "M 4.2 - 166 km SE of Atlasovo, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0xs"
       },
       {
         "category": [
@@ -829,24 +793,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h12d",
-        "location": "http://maps.google.com/maps?q=7.1959,94.3092",
-        "name": "M 4.5 - 182 km NW of Sabang, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h12d"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h0zi",
         "location": "http://maps.google.com/maps?q=-22.1602,-177.1433",
         "name": "M 4.5 - 228 km WSW of Haveluloto, Tonga",
@@ -857,6 +803,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0zi"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h12d",
+        "location": "http://maps.google.com/maps?q=7.1959,94.3092",
+        "name": "M 4.5 - Nicobar Islands, India region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h12d"
       },
       {
         "category": [
@@ -893,6 +857,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0ya"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h14s",
+        "location": "http://maps.google.com/maps?q=21.5646,143.6279",
+        "name": "M 4.8 - Mariana Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h14s"
       },
       {
         "category": [
@@ -1259,11 +1241,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6043"
       }
     ],
-    "last_update": "10/Apr/2022 @ 11:00:06 PDT",
+    "last_update": "10/Apr/2022 @ 12:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=21.5646,143.6279\"><b>M 4.8 - Mariana Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h14s\">USGS</a>",
+          21.5646,
+          143.6279
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.2131,38.7501\"><b>M 4.0 - 23 km NNE of Sincik, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h143\">USGS</a>",
           38.2131,
@@ -1305,7 +1292,7 @@
           94.4874
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=7.1959,94.3092\"><b>M 4.5 - 182 km NW of Sabang, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h12d\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=7.1959,94.3092\"><b>M 4.5 - Nicobar Islands, India region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h12d\">USGS</a>",
           7.1959,
           94.3092
         ],
@@ -1408,16 +1395,6 @@
           "<a href=\"http://maps.google.com/maps?q=-22.9049,171.537\"><b>M 5.0 - southeast of the Loyalty Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0y5\">USGS</a>",
           -22.9049,
           171.537
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=28.8265,86.5402\"><b>M 4.2 - 100 km NNW of Lobujya, Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0xr\">USGS</a>",
-          28.8265,
-          86.5402
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=54.5466,161.4813\"><b>M 4.2 - 166 km SE of Atlasovo, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0xs\">USGS</a>",
-          54.5466,
-          161.4813
         ]
       ],
       "Floods": [],
@@ -4314,13 +4291,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "68 events (10/Apr/2022 PDT)"
+    "title": "67 events (10/Apr/2022 PDT)"
   },
-  "last_update": "10/Apr/2022 @ 11:00:30 PDT",
-  "last_update_epoch": 1649613630.047917,
+  "last_update": "10/Apr/2022 @ 12:00:06 PDT",
+  "last_update_epoch": 1649617206.502551,
   "neo": {
     "date": "10/Apr/2022 PDT",
-    "last_update": "10/Apr/2022 @ 11:00:07 PDT",
+    "last_update": "10/Apr/2022 @ 12:00:06 PDT",
     "objects": [
       {
         "cat": "10/Apr/2022 @ 11:02:00 ",
@@ -4582,7 +4559,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Apr/2022 @ 11:00:07 PDT",
+    "last_update": "10/Apr/2022 @ 12:00:06 PDT",
     "people": [
       {
         "name": "Denis Matveev",
