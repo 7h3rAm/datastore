@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "10/Apr/2022 @ 16:00:03 PDT",
+    "last_update": "10/Apr/2022 @ 17:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/SouthPoleShadows_LRO_960.jpg",
     "title": "Shadows at the Moon's South Pole (10/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -721,6 +721,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000h164",
+        "location": "http://maps.google.com/maps?q=-15.2647,49.6867",
+        "name": "M 4.4 - 13 km WNW of Antakotako, Madagascar",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h164"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000h12n",
         "location": "http://maps.google.com/maps?q=14.9012,-91.5291",
         "name": "M 4.4 - 2 km SSE of San Francisco la Unión, Guatemala",
@@ -973,24 +991,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h0zl",
-        "location": "http://maps.google.com/maps?q=31.6297,-40.8994",
-        "name": "M 5.0 - northern Mid-Atlantic Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0zl"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h135",
         "location": "http://maps.google.com/maps?q=7.3139,94.4393",
         "name": "M 5.1 - 184 km NNW of Sabang, Indonesia",
@@ -1151,11 +1151,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6043"
       }
     ],
-    "last_update": "10/Apr/2022 @ 16:00:05 PDT",
+    "last_update": "10/Apr/2022 @ 17:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.2647,49.6867\"><b>M 4.4 - 13 km WNW of Antakotako, Madagascar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h164\">USGS</a>",
+          -15.2647,
+          49.6867
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=56.6471,-156.4416\"><b>M 4.6 - 112 km SSE of Ugashik, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0224lr0ipu\">USGS</a>",
           56.6471,
@@ -1275,11 +1280,6 @@
           "<a href=\"http://maps.google.com/maps?q=21.4417,97.997\"><b>M 4.4 - 123 km NE of Taunggyi, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0zn\">USGS</a>",
           21.4417,
           97.997
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=31.6297,-40.8994\"><b>M 5.0 - northern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0zl\">USGS</a>",
-          31.6297,
-          -40.8994
         ]
       ],
       "Floods": [],
@@ -4183,203 +4183,131 @@
     },
     "title": "62 events (10/Apr/2022 PDT)"
   },
-  "last_update": "10/Apr/2022 @ 16:00:37 PDT",
-  "last_update_epoch": 1649631637.626712,
+  "last_update": "10/Apr/2022 @ 17:00:44 PDT",
+  "last_update_epoch": 1649635244.673778,
   "neo": {
-    "date": "10/Apr/2022 PDT",
-    "last_update": "10/Apr/2022 @ 16:00:09 PDT",
+    "date": "11/Apr/2022 PDT",
+    "last_update": "10/Apr/2022 @ 17:00:07 PDT",
     "objects": [
       {
-        "cat": "10/Apr/2022 @ 11:02:00 ",
-        "diameter": "0.06-0.13 miles",
-        "distance": "13,768,264.22 miles",
+        "cat": "11/Apr/2022 @ 09:46:00 ",
+        "diameter": "0.17-0.38 miles",
+        "distance": "13,088,418.30 miles",
         "hazardous": false,
-        "name": "Asteroid (2012 HL31)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3603128",
-        "velocity": "29,175.09 mph"
+        "name": "Asteroid (2006 UR216)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3355846",
+        "velocity": "29,562.37 mph"
       },
       {
-        "cat": "10/Apr/2022 @ 14:53:00 ",
-        "diameter": "0.22-0.50 miles",
-        "distance": "38,544,638.14 miles",
+        "cat": "11/Apr/2022 @ 14:47:00 ",
+        "diameter": "0.03-0.07 miles",
+        "distance": "45,400,592.46 miles",
         "hazardous": false,
-        "name": "Asteroid (2013 TS5)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3648863",
-        "velocity": "85,800.47 mph"
+        "name": "Asteroid (2010 LF14)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3527904",
+        "velocity": "40,477.36 mph"
       },
       {
-        "cat": "10/Apr/2022 @ 13:04:00 ",
-        "diameter": "0.18-0.41 miles",
-        "distance": "10,320,290.95 miles",
-        "hazardous": false,
-        "name": "Asteroid (2015 TX143)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3729536",
-        "velocity": "37,830.88 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 15:39:00 ",
-        "diameter": "0.02-0.04 miles",
-        "distance": "16,984,974.09 miles",
-        "hazardous": false,
-        "name": "Asteroid (2016 SL3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3759775",
-        "velocity": "17,515.81 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 11:59:00 ",
-        "diameter": "0.10-0.22 miles",
-        "distance": "34,429,452.25 miles",
-        "hazardous": false,
-        "name": "Asteroid (2016 TM18)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3760583",
-        "velocity": "38,747.92 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 23:08:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "14,976,650.00 miles",
-        "hazardous": false,
-        "name": "Asteroid (2017 DB)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3769412",
-        "velocity": "14,244.64 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 23:30:00 ",
-        "diameter": "0.04-0.08 miles",
-        "distance": "4,256,961.55 miles",
-        "hazardous": false,
-        "name": "Asteroid (2017 TO2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3785695",
-        "velocity": "25,999.78 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 00:37:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "35,816,610.37 miles",
-        "hazardous": false,
-        "name": "Asteroid (2018 TH3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3831610",
-        "velocity": "14,604.31 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 05:52:00 ",
-        "diameter": "0.02-0.03 miles",
-        "distance": "31,761,504.08 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 QQ)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843575",
-        "velocity": "15,675.15 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 04:14:00 ",
-        "diameter": "0.04-0.08 miles",
-        "distance": "5,868,467.02 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 YA4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3959222",
-        "velocity": "29,608.95 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 09:36:00 ",
+        "cat": "11/Apr/2022 @ 06:21:00 ",
         "diameter": "0.01-0.03 miles",
-        "distance": "4,208,993.21 miles",
+        "distance": "21,238,169.91 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 GH1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016467",
-        "velocity": "16,152.67 mph"
+        "name": "Asteroid (2012 UX136)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3614400",
+        "velocity": "25,725.14 mph"
       },
       {
-        "cat": "10/Apr/2022 @ 12:19:00 ",
-        "diameter": "0.14-0.31 miles",
-        "distance": "6,724,993.01 miles",
+        "cat": "11/Apr/2022 @ 04:41:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "15,711,329.92 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 VM25)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54221466",
-        "velocity": "19,829.17 mph"
+        "name": "Asteroid (2013 GK69)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3634714",
+        "velocity": "32,176.99 mph"
       },
       {
-        "cat": "10/Apr/2022 @ 14:00:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "4,712,103.60 miles",
+        "cat": "11/Apr/2022 @ 14:56:00 ",
+        "diameter": "0.04-0.08 miles",
+        "distance": "13,551,185.94 miles",
         "hazardous": false,
-        "name": "Asteroid (2022 FT3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54266061",
-        "velocity": "24,536.02 mph"
+        "name": "Asteroid (2014 JR25)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3670729",
+        "velocity": "27,852.55 mph"
       },
       {
-        "cat": "10/Apr/2022 @ 17:09:00 ",
+        "cat": "11/Apr/2022 @ 10:51:00 ",
+        "diameter": "0.00-0.00 miles",
+        "distance": "9,763,371.44 miles",
+        "hazardous": false,
+        "name": "Asteroid (2020 VB3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54087744",
+        "velocity": "7,744.73 mph"
+      },
+      {
+        "cat": "11/Apr/2022 @ 11:55:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "34,471,872.09 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 GC)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54134095",
+        "velocity": "45,211.88 mph"
+      },
+      {
+        "cat": "11/Apr/2022 @ 22:45:00 ",
+        "diameter": "0.04-0.09 miles",
+        "distance": "33,503,516.66 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 GK4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54135546",
+        "velocity": "57,176.75 mph"
+      },
+      {
+        "cat": "11/Apr/2022 @ 10:24:00 ",
         "diameter": "0.02-0.04 miles",
-        "distance": "7,063,236.06 miles",
+        "distance": "46,448,219.10 miles",
         "hazardous": false,
-        "name": "Asteroid (2022 GD1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54268812",
-        "velocity": "15,002.79 mph"
+        "name": "Asteroid (2021 NQ8)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54171307",
+        "velocity": "21,233.19 mph"
       },
       {
-        "cat": "10/Apr/2022 @ 04:40:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "2,886,338.01 miles",
+        "cat": "11/Apr/2022 @ 16:26:00 ",
+        "diameter": "0.03-0.07 miles",
+        "distance": "33,705,858.88 miles",
         "hazardous": false,
-        "name": "Asteroid (2022 GE2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54269399",
-        "velocity": "20,357.02 mph"
+        "name": "Asteroid (2021 RU7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54194978",
+        "velocity": "29,857.71 mph"
       },
       {
-        "cat": "10/Apr/2022 @ 12:29:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "264,388.61 miles",
-        "hazardous": false,
-        "name": "Asteroid (2022 GN3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54271302",
-        "velocity": "16,385.39 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 15:53:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "716,721.55 miles",
-        "hazardous": false,
-        "name": "Asteroid (2022 GO2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54269583",
-        "velocity": "20,101.23 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 04:22:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "4,008,552.10 miles",
-        "hazardous": false,
-        "name": "Asteroid (2022 GV3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54271310",
-        "velocity": "11,519.66 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 05:27:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "1,823,998.05 miles",
-        "hazardous": false,
-        "name": "Asteroid (2022 GW2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54269644",
-        "velocity": "17,256.66 mph"
-      },
-      {
-        "cat": "10/Apr/2022 @ 03:55:00 ",
+        "cat": "11/Apr/2022 @ 21:50:00 ",
         "diameter": "0.01-0.03 miles",
-        "distance": "5,993,817.49 miles",
+        "distance": "16,020,092.25 miles",
         "hazardous": false,
-        "name": "Asteroid (2022 GW3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54271311",
-        "velocity": "25,627.95 mph"
+        "name": "Asteroid (2022 FW3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54266162",
+        "velocity": "5,009.85 mph"
       },
       {
-        "cat": "10/Apr/2022 @ 19:55:00 ",
-        "diameter": "0.04-0.10 miles",
-        "distance": "13,555,084.31 miles",
+        "cat": "11/Apr/2022 @ 04:55:00 ",
+        "diameter": "0.00-0.01 miles",
+        "distance": "363,052.34 miles",
         "hazardous": false,
-        "name": "Asteroid 330659 (2008 GG2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2330659",
-        "velocity": "16,051.19 mph"
+        "name": "Asteroid (2022 GG3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54269717",
+        "velocity": "25,486.03 mph"
+      },
+      {
+        "cat": "11/Apr/2022 @ 07:04:00 ",
+        "diameter": "0.19-0.43 miles",
+        "distance": "31,625,058.56 miles",
+        "hazardous": true,
+        "name": "Asteroid 395207 (2010 HQ80)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2395207",
+        "velocity": "61,353.65 mph"
       }
     ],
-    "title": "21 objects making close approach (10/Apr/2022 PDT)"
+    "title": "13 objects making close approach (11/Apr/2022 PDT)"
   },
   "satview": {
     "date": "10/Apr/2022 PDT",
@@ -4449,7 +4377,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "10/Apr/2022 @ 16:00:09 PDT",
+    "last_update": "10/Apr/2022 @ 17:00:07 PDT",
     "people": [
       {
         "name": "Denis Matveev",
@@ -6131,7 +6059,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "10/Apr/2022 @ 16:00:16 PDT",
+    "last_update": "10/Apr/2022 @ 17:00:12 PDT",
     "launches": {
       "future": [
         {
@@ -17625,12 +17553,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "225,297,478.19 miles",
+      "earth_distance": "225,283,258.37 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "173,680,294.78 miles",
+      "mars_distance": "173,664,625.23 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,179.53 mph",
+      "speed": "4,179.15 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
