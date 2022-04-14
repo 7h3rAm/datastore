@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "13/Apr/2022 @ 21:00:04 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2204/DevilsWay_Kiczenski_960.jpg",
-    "title": "Milky Way over Devils Tower (13/Apr/2022 PDT)",
+    "last_update": "13/Apr/2022 @ 22:00:03 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2204/M_96_LRGB_CDK_1000_8April2022HansonSelbyFinal1024.jpg",
+    "title": "Messier 96 (14/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -649,27 +649,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h1na",
-        "location": "http://maps.google.com/maps?q=-7.4807,127.8374",
-        "name": "M 4.3 - 147 km NE of Lospalos, Timor Leste",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1na"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h1zz",
         "location": "http://maps.google.com/maps?q=14.072,-91.7861",
-        "name": "M 4.3 - Guatemala",
+        "name": "M 4.3 - 28 km SSE of Champerico, Guatemala",
         "source": [
           {
             "sid": "USGS",
@@ -759,7 +741,7 @@
         ],
         "eid": "us7000h1q8",
         "location": "http://maps.google.com/maps?q=26.8034,126.2691",
-        "name": "M 4.5 - 155 km WNW of Naha, Japan",
+        "name": "M 4.5 - Ryukyu Islands, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -785,6 +767,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1np"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h220",
+        "location": "http://maps.google.com/maps?q=33.3357,141.087",
+        "name": "M 4.6 - 213 km SSE of Katsuura, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h220"
       },
       {
         "category": [
@@ -865,24 +865,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h1yk",
-        "location": "http://maps.google.com/maps?q=26.8345,126.4812",
-        "name": "M 4.8 - 137 km WNW of Naha, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1yk"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h1xv",
         "location": "http://maps.google.com/maps?q=34.831,24.6753",
         "name": "M 4.8 - 28 km SSW of Tympáki, Greece",
@@ -893,6 +875,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1xv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h1yk",
+        "location": "http://maps.google.com/maps?q=26.8345,126.4812",
+        "name": "M 4.8 - Ryukyu Islands, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1yk"
       },
       {
         "category": [
@@ -1032,7 +1032,7 @@
           }
         ],
         "eid": "EONET_6043",
-        "location": "https://www.google.com/maps/dir/4.5,146.7/5.1,146.3/5.7,146/6.2,145.7/6.5,144.6/7,144.5/7.7,143.7/8.4,143/9.7,142/11.6,140.3/11.9,138.1/12.4,136.8/11.9,136.9/12.5,136.5/13.5,136/14.2,135.7/14.5,135.6/15.4,135.2/15.8,135.1/16.1,135.4/16.7,135.9/17.3,136.4/17.9,137/18.8,137.6/19.7,137.6/@4.5,146.7,3z",
+        "location": "https://www.google.com/maps/dir/4.5,146.7/5.1,146.3/5.7,146/6.2,145.7/6.5,144.6/7,144.5/7.7,143.7/8.4,143/9.7,142/11.6,140.3/11.9,138.1/12.4,136.8/11.9,136.9/12.5,136.5/13.5,136/14.2,135.7/14.5,135.6/15.4,135.2/15.8,135.1/16.1,135.4/16.7,135.9/17.3,136.4/17.9,137/18.8,137.6/19.7,137.6/20.6,138/@4.5,146.7,3z",
         "name": "Typhoon Malakas",
         "source": [
           {
@@ -1047,11 +1047,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6043"
       }
     ],
-    "last_update": "13/Apr/2022 @ 21:00:06 PDT",
+    "last_update": "13/Apr/2022 @ 22:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.3357,141.087\"><b>M 4.6 - 213 km SSE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h220\">USGS</a>",
+          33.3357,
+          141.087
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=56.584,112.1594\"><b>M 4.7 - 55 km NNE of Novyy Uoyan, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h21x\">USGS</a>",
           56.584,
@@ -1068,7 +1073,7 @@
           126.4942
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=14.072,-91.7861\"><b>M 4.3 - Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1zz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=14.072,-91.7861\"><b>M 4.3 - 28 km SSE of Champerico, Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1zz\">USGS</a>",
           14.072,
           -91.7861
         ],
@@ -1083,7 +1088,7 @@
           170.258
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=26.8345,126.4812\"><b>M 4.8 - 137 km WNW of Naha, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1yk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=26.8345,126.4812\"><b>M 4.8 - Ryukyu Islands, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1yk\">USGS</a>",
           26.8345,
           126.4812
         ],
@@ -1108,7 +1113,7 @@
           -159.7734
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=26.8034,126.2691\"><b>M 4.5 - 155 km WNW of Naha, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1q8\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=26.8034,126.2691\"><b>M 4.5 - Ryukyu Islands, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1q8\">USGS</a>",
           26.8034,
           126.2691
         ],
@@ -1141,11 +1146,6 @@
           "<a href=\"http://maps.google.com/maps?q=26.7503,126.4946\"><b>M 4.6 - 132 km WNW of Naha, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1np\">USGS</a>",
           26.7503,
           126.4946
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.4807,127.8374\"><b>M 4.3 - 147 km NE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h1na\">USGS</a>",
-          -7.4807,
-          127.8374
         ]
       ],
       "Floods": [],
@@ -4018,6 +4018,11 @@
           "<a href=\"http://maps.google.com/maps?q=19.7,137.6\"><b>Typhoon Malakas</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000878&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0222.tcw\">JTWC</a>",
           19.7,
           137.6
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=20.6,138\"><b>Typhoon Malakas</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000878&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0222.tcw\">JTWC</a>",
+          20.6,
+          138
         ]
       ],
       "Snow": [],
@@ -4059,11 +4064,11 @@
     },
     "title": "56 events (13/Apr/2022 PDT)"
   },
-  "last_update": "13/Apr/2022 @ 21:00:53 PDT",
-  "last_update_epoch": 1649908853.734998,
+  "last_update": "13/Apr/2022 @ 22:00:48 PDT",
+  "last_update_epoch": 1649912448.254575,
   "neo": {
     "date": "14/Apr/2022 PDT",
-    "last_update": "13/Apr/2022 @ 21:00:07 PDT",
+    "last_update": "13/Apr/2022 @ 22:00:06 PDT",
     "objects": [
       {
         "cat": "14/Apr/2022 @ 14:28:00 ",
@@ -4253,7 +4258,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "13/Apr/2022 @ 21:00:07 PDT",
+    "last_update": "13/Apr/2022 @ 22:00:06 PDT",
     "people": [
       {
         "name": "Denis Matveev",
@@ -5935,7 +5940,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "13/Apr/2022 @ 21:00:14 PDT",
+    "last_update": "13/Apr/2022 @ 22:00:11 PDT",
     "launches": {
       "future": [
         {
@@ -17429,12 +17434,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "224,179,875.16 miles",
+      "earth_distance": "224,165,067.09 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "172,489,223.23 miles",
+      "mars_distance": "172,473,967.58 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,150.86 mph",
+      "speed": "4,150.50 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
