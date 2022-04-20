@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Apr/2022 @ 09:00:03 PDT",
+    "last_update": "20/Apr/2022 @ 10:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/PlanetBridge_Honda_960.jpg",
     "title": "Planet Line over New York Bridge (20/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -615,7 +615,7 @@
         ],
         "eid": "us7000h3hf",
         "location": "http://maps.google.com/maps?q=-1.6721,-77.8011",
-        "name": "M 4.2 - Ecuador",
+        "name": "M 4.2 - 18 km E of Palora, Ecuador",
         "source": [
           {
             "sid": "USGS",
@@ -623,42 +623,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3hf"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000h3cr",
-        "location": "http://maps.google.com/maps?q=-6.1067,128.131",
-        "name": "M 4.3 - 266 km S of Ambon, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3cr"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000h3dm",
-        "location": "http://maps.google.com/maps?q=6.9919,126.7254",
-        "name": "M 4.6 - 29 km ESE of San Ignacio, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3dm"
       },
       {
         "category": [
@@ -731,24 +695,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3he"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000h3dn",
-        "location": "http://maps.google.com/maps?q=-57.9235,-25.1426",
-        "name": "M 4.7 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3dn"
       },
       {
         "category": [
@@ -883,24 +829,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h3gm",
-        "location": "http://maps.google.com/maps?q=-20.2082,66.0709",
-        "name": "M 5.0 - 283 km ESE of Port Mathurin, Mauritius",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3gm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h3dv",
         "location": "http://maps.google.com/maps?q=6.4706,127.1187",
         "name": "M 5.0 - 97 km SE of Lukatan, Philippines",
@@ -911,6 +839,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3dv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h3gm",
+        "location": "http://maps.google.com/maps?q=-20.2082,66.0709",
+        "name": "M 5.0 - Mauritius - Reunion region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3gm"
       },
       {
         "category": [
@@ -1133,7 +1079,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6043"
       }
     ],
-    "last_update": "20/Apr/2022 @ 09:00:06 PDT",
+    "last_update": "20/Apr/2022 @ 10:00:12 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1194,7 +1140,7 @@
           53.4724
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-1.6721,-77.8011\"><b>M 4.2 - Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3hf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-1.6721,-77.8011\"><b>M 4.2 - 18 km E of Palora, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3hf\">USGS</a>",
           -1.6721,
           -77.8011
         ],
@@ -1214,7 +1160,7 @@
           167.4274
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-20.2082,66.0709\"><b>M 5.0 - 283 km ESE of Port Mathurin, Mauritius</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3gm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-20.2082,66.0709\"><b>M 5.0 - Mauritius - Reunion region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3gm\">USGS</a>",
           -20.2082,
           66.0709
         ],
@@ -1247,21 +1193,6 @@
           "<a href=\"http://maps.google.com/maps?q=6.4706,127.1187\"><b>M 5.0 - 97 km SE of Lukatan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3dv\">USGS</a>",
           6.4706,
           127.1187
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-57.9235,-25.1426\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3dn\">USGS</a>",
-          -57.9235,
-          -25.1426
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=6.9919,126.7254\"><b>M 4.6 - 29 km ESE of San Ignacio, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3dm\">USGS</a>",
-          6.9919,
-          126.7254
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-6.1067,128.131\"><b>M 4.3 - 266 km S of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3cr\">USGS</a>",
-          -6.1067,
-          128.131
         ]
       ],
       "Floods": [],
@@ -4218,13 +4149,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "61 events (20/Apr/2022 PDT)"
+    "title": "58 events (20/Apr/2022 PDT)"
   },
-  "last_update": "20/Apr/2022 @ 09:01:13 PDT",
-  "last_update_epoch": 1650470473.235595,
+  "last_update": "20/Apr/2022 @ 10:01:08 PDT",
+  "last_update_epoch": 1650474068.011322,
   "neo": {
     "date": "20/Apr/2022 PDT",
-    "last_update": "20/Apr/2022 @ 09:00:06 PDT",
+    "last_update": "20/Apr/2022 @ 10:00:14 PDT",
     "objects": [
       {
         "cat": "20/Apr/2022 @ 01:57:00 ",
@@ -4423,7 +4354,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Apr/2022 @ 09:00:07 PDT",
+    "last_update": "20/Apr/2022 @ 10:00:14 PDT",
     "people": [
       {
         "name": "Denis Matveev",
@@ -6090,7 +6021,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Apr/2022 @ 09:00:23 PDT",
+    "last_update": "20/Apr/2022 @ 10:00:23 PDT",
     "launches": {
       "future": [
         {
@@ -17652,12 +17583,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "221,786,146.87 miles",
+      "earth_distance": "221,770,286.54 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "170,181,443.87 miles",
+      "mars_distance": "170,167,145.59 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,095.33 mph",
+      "speed": "4,094.98 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
