@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Apr/2022 @ 03:00:09 PDT",
+    "last_update": "21/Apr/2022 @ 04:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/Apollo-16-station-10crop1110.jpg",
     "title": "Apollo 16 Moon Panorama (21/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -595,6 +595,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000hf85",
+        "location": "http://maps.google.com/maps?q=11.5689,-86.9465",
+        "name": "M 4.1 - 52 km WSW of Masachapa, Nicaragua",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hf85"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000hf47",
         "location": "http://maps.google.com/maps?q=72.3645,125.2336",
         "name": "M 4.2 - 145 km WNW of Tiksi, Russia",
@@ -723,7 +741,7 @@
         ],
         "eid": "us6000hf40",
         "location": "http://maps.google.com/maps?q=-15.1999,167.9689",
-        "name": "M 4.6 - 93 km ENE of Luganville, Vanuatu",
+        "name": "M 4.6 - Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -731,24 +749,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hf40"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000h3it",
-        "location": "http://maps.google.com/maps?q=-1.8385,122.5617",
-        "name": "M 4.7 - 101 km SSW of Luwuk, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3it"
       },
       {
         "category": [
@@ -893,24 +893,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3kw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000h3in",
-        "location": "http://maps.google.com/maps?q=-33.7452,-179.3735",
-        "name": "M 4.9 - south of the Kermadec Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3in"
       },
       {
         "category": [
@@ -1129,11 +1111,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6040"
       }
     ],
-    "last_update": "21/Apr/2022 @ 03:00:22 PDT",
+    "last_update": "21/Apr/2022 @ 04:00:11 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=11.5689,-86.9465\"><b>M 4.1 - 52 km WSW of Masachapa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hf85\">USGS</a>",
+          11.5689,
+          -86.9465
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=11.5538,-86.9919\"><b>M 6.7 - 58 km WSW of Masachapa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hf75\">USGS</a>",
           11.5538,
@@ -1190,7 +1177,7 @@
           -68.4473
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.1999,167.9689\"><b>M 4.6 - 93 km ENE of Luganville, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hf40\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-15.1999,167.9689\"><b>M 4.6 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hf40\">USGS</a>",
           -15.1999,
           167.9689
         ],
@@ -1253,16 +1240,6 @@
           "<a href=\"http://maps.google.com/maps?q=-60.2861,-46.6867\"><b>M 5.5 - Scotia Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3ix\">USGS</a>",
           -60.2861,
           -46.6867
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-1.8385,122.5617\"><b>M 4.7 - 101 km SSW of Luwuk, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3it\">USGS</a>",
-          -1.8385,
-          122.5617
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-33.7452,-179.3735\"><b>M 4.9 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h3in\">USGS</a>",
-          -33.7452,
-          -179.3735
         ]
       ],
       "Floods": [],
@@ -4063,13 +4040,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "61 events (21/Apr/2022 PDT)"
+    "title": "60 events (21/Apr/2022 PDT)"
   },
-  "last_update": "21/Apr/2022 @ 03:01:03 PDT",
-  "last_update_epoch": 1650535263.68733,
+  "last_update": "21/Apr/2022 @ 04:00:55 PDT",
+  "last_update_epoch": 1650538855.564799,
   "neo": {
     "date": "21/Apr/2022 PDT",
-    "last_update": "21/Apr/2022 @ 03:00:22 PDT",
+    "last_update": "21/Apr/2022 @ 04:00:13 PDT",
     "objects": [
       {
         "cat": "21/Apr/2022 @ 16:07:00 ",
@@ -4214,7 +4191,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Apr/2022 @ 03:00:23 PDT",
+    "last_update": "21/Apr/2022 @ 04:00:14 PDT",
     "people": [
       {
         "name": "Denis Matveev",
@@ -5881,7 +5858,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Apr/2022 @ 03:00:29 PDT",
+    "last_update": "21/Apr/2022 @ 04:00:20 PDT",
     "launches": {
       "future": [
         {
@@ -17443,12 +17420,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "221,499,706.28 miles",
+      "earth_distance": "221,483,733.92 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "169,925,099.44 miles",
+      "mars_distance": "169,910,922.08 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,089.16 mph",
+      "speed": "4,088.82 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
