@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Apr/2022 @ 02:00:04 PDT",
+    "last_update": "23/Apr/2022 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/M104_HST_final2_1024.jpg",
     "title": "Messier 104 (23/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -949,7 +949,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6040"
       }
     ],
-    "last_update": "23/Apr/2022 @ 02:00:07 PDT",
+    "last_update": "23/Apr/2022 @ 03:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3835,11 +3835,11 @@
     },
     "title": "51 events (23/Apr/2022 PDT)"
   },
-  "last_update": "23/Apr/2022 @ 02:00:10 PDT",
-  "last_update_epoch": 1650704410.359419,
+  "last_update": "23/Apr/2022 @ 03:00:09 PDT",
+  "last_update_epoch": 1650708009.603417,
   "neo": {
     "date": "23/Apr/2022 PDT",
-    "last_update": "23/Apr/2022 @ 02:00:10 PDT",
+    "last_update": "23/Apr/2022 @ 03:00:09 PDT",
     "objects": [
       {
         "cat": "23/Apr/2022 @ 20:17:00 ",
@@ -4011,7 +4011,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Apr/2022 @ 02:00:10 PDT",
+    "last_update": "23/Apr/2022 @ 03:00:09 PDT",
     "people": [
       {
         "name": "Denis Matveev",
