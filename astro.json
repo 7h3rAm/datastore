@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Apr/2022 @ 01:00:03 PDT",
+    "last_update": "23/Apr/2022 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/M104_HST_final2_1024.jpg",
     "title": "Messier 104 (23/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -667,6 +667,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000hfse",
+        "location": "http://maps.google.com/maps?q=-5.1192,-76.8164",
+        "name": "M 4.3 - 35 km SSW of Barranca, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfse"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000hfp4",
         "location": "http://maps.google.com/maps?q=7.2041,126.9216",
         "name": "M 4.3 - 39 km ESE of Santiago, Philippines",
@@ -685,16 +703,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hfse",
-        "location": "http://maps.google.com/maps?q=-5.1192,-76.8164",
-        "name": "M 4.3 - northern Peru",
+        "eid": "us6000hftc",
+        "location": "http://maps.google.com/maps?q=-37.1681,-74.1732",
+        "name": "M 4.3 - 67 km NW of Lebu, Chile",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfse"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hftc"
       },
       {
         "category": [
@@ -713,6 +731,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfsv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000hfte",
+        "location": "http://maps.google.com/maps?q=-37.2124,-74.1097",
+        "name": "M 4.4 - 59 km NW of Lebu, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfte"
       },
       {
         "category": [
@@ -741,7 +777,7 @@
         ],
         "eid": "us6000hfj7",
         "location": "http://maps.google.com/maps?q=-6.484,133.0144",
-        "name": "M 4.5 - Kepulauan Aru region, Indonesia",
+        "name": "M 4.5 - 98 km SSE of Tual, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -813,7 +849,7 @@
         ],
         "eid": "us6000hft9",
         "location": "http://maps.google.com/maps?q=-1.4264,148.0902",
-        "name": "M 4.7 - Admiralty Islands region, Papua New Guinea",
+        "name": "M 4.7 - 113 km NE of Lorengau, Papua New Guinea",
         "source": [
           {
             "sid": "USGS",
@@ -821,24 +857,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hft9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000hfip",
-        "location": "http://maps.google.com/maps?q=-58.003,-25.2467",
-        "name": "M 4.7 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfip"
       },
       {
         "category": [
@@ -931,13 +949,23 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6040"
       }
     ],
-    "last_update": "23/Apr/2022 @ 01:00:05 PDT",
+    "last_update": "23/Apr/2022 @ 02:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-1.4264,148.0902\"><b>M 4.7 - Admiralty Islands region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hft9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-37.2124,-74.1097\"><b>M 4.4 - 59 km NW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfte\">USGS</a>",
+          -37.2124,
+          -74.1097
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-37.1681,-74.1732\"><b>M 4.3 - 67 km NW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hftc\">USGS</a>",
+          -37.1681,
+          -74.1732
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-1.4264,148.0902\"><b>M 4.7 - 113 km NE of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hft9\">USGS</a>",
           -1.4264,
           148.0902
         ],
@@ -957,7 +985,7 @@
           144.6682
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-5.1192,-76.8164\"><b>M 4.3 - northern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfse\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-5.1192,-76.8164\"><b>M 4.3 - 35 km SSW of Barranca, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfse\">USGS</a>",
           -5.1192,
           -76.8164
         ],
@@ -1002,14 +1030,9 @@
           70.7238
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-6.484,133.0144\"><b>M 4.5 - Kepulauan Aru region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfj7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-6.484,133.0144\"><b>M 4.5 - 98 km SSE of Tual, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfj7\">USGS</a>",
           -6.484,
           133.0144
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-58.003,-25.2467\"><b>M 4.7 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfip\">USGS</a>",
-          -58.003,
-          -25.2467
         ]
       ],
       "Floods": [],
@@ -3810,13 +3833,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "50 events (23/Apr/2022 PDT)"
+    "title": "51 events (23/Apr/2022 PDT)"
   },
-  "last_update": "23/Apr/2022 @ 01:00:09 PDT",
-  "last_update_epoch": 1650700809.250145,
+  "last_update": "23/Apr/2022 @ 02:00:10 PDT",
+  "last_update_epoch": 1650704410.359419,
   "neo": {
     "date": "23/Apr/2022 PDT",
-    "last_update": "23/Apr/2022 @ 01:00:09 PDT",
+    "last_update": "23/Apr/2022 @ 02:00:10 PDT",
     "objects": [
       {
         "cat": "23/Apr/2022 @ 20:17:00 ",
@@ -3988,7 +4011,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Apr/2022 @ 01:00:09 PDT",
+    "last_update": "23/Apr/2022 @ 02:00:10 PDT",
     "people": [
       {
         "name": "Denis Matveev",
