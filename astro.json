@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Apr/2022 @ 02:00:04 PDT",
+    "last_update": "24/Apr/2022 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/1704/SatelliteSale_NASA_960_split3.jpg",
     "title": "Split the Universe (24/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -631,24 +631,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hftq",
-        "location": "http://maps.google.com/maps?q=-22.9045,-66.2585",
-        "name": "M 4.3 - 61 km WSW of Abra Pampa, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hftq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000hfxy",
         "location": "http://maps.google.com/maps?q=39.7579,141.8504",
         "name": "M 4.4 - 14 km NNW of Miyako, Japan",
@@ -659,6 +641,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hfxy"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000hg0y",
+        "location": "http://maps.google.com/maps?q=36.7858,76.8111",
+        "name": "M 4.4 - 182 km WSW of Zangguy, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hg0y"
       },
       {
         "category": [
@@ -757,16 +757,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hftr",
-        "location": "http://maps.google.com/maps?q=6.8747,-76.4602",
-        "name": "M 4.5 - 25 km WSW of Dabeiba, Colombia",
+        "eid": "us6000hg12",
+        "location": "http://maps.google.com/maps?q=36.631,67.5266",
+        "name": "M 4.5 - 17 km WSW of Khulm, Afghanistan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hftr"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hg12"
       },
       {
         "category": [
@@ -1201,11 +1201,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6040"
       }
     ],
-    "last_update": "24/Apr/2022 @ 02:00:05 PDT",
+    "last_update": "24/Apr/2022 @ 03:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.631,67.5266\"><b>M 4.5 - 17 km WSW of Khulm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hg12\">USGS</a>",
+          36.631,
+          67.5266
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.7858,76.8111\"><b>M 4.4 - 182 km WSW of Zangguy, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hg0y\">USGS</a>",
+          36.7858,
+          76.8111
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=41.7673,143.7542\"><b>M 5.1 - 130 km ESE of Shizunai-furukawachō, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hg0m\">USGS</a>",
           41.7673,
@@ -1360,16 +1370,6 @@
           "<a href=\"http://maps.google.com/maps?q=-8.7156,-74.2769\"><b>M 4.5 - Central Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hftt\">USGS</a>",
           -8.7156,
           -74.2769
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=6.8747,-76.4602\"><b>M 4.5 - 25 km WSW of Dabeiba, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hftr\">USGS</a>",
-          6.8747,
-          -76.4602
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.9045,-66.2585\"><b>M 4.3 - 61 km WSW of Abra Pampa, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hftq\">USGS</a>",
-          -22.9045,
-          -66.2585
         ]
       ],
       "Floods": [],
@@ -4167,11 +4167,11 @@
     },
     "title": "65 events (24/Apr/2022 PDT)"
   },
-  "last_update": "24/Apr/2022 @ 02:00:57 PDT",
-  "last_update_epoch": 1650790857.32271,
+  "last_update": "24/Apr/2022 @ 03:00:42 PDT",
+  "last_update_epoch": 1650794442.803968,
   "neo": {
     "date": "24/Apr/2022 PDT",
-    "last_update": "24/Apr/2022 @ 02:00:08 PDT",
+    "last_update": "24/Apr/2022 @ 03:00:08 PDT",
     "objects": [
       {
         "cat": "24/Apr/2022 @ 17:22:00 ",
@@ -4361,7 +4361,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Apr/2022 @ 02:00:09 PDT",
+    "last_update": "24/Apr/2022 @ 03:00:08 PDT",
     "people": [
       {
         "name": "Denis Matveev",
@@ -6048,7 +6048,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Apr/2022 @ 02:00:17 PDT",
+    "last_update": "24/Apr/2022 @ 03:00:13 PDT",
     "launches": {
       "future": [
         {
@@ -17627,12 +17627,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "220,350,599.80 miles",
+      "earth_distance": "220,334,201.19 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "168,935,746.49 miles",
+      "mars_distance": "168,922,067.49 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,065.35 mph",
+      "speed": "4,065.02 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
