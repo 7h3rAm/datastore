@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "25/Apr/2022 @ 23:00:05 PDT",
+    "last_update": "26/Apr/2022 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/PlanetParadeSydney_Agrawal_960_ann.jpg",
     "title": "Planet Parade over Sydney Opera House (26/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "25/Apr/2022 PDT",
+    "date": "26/Apr/2022 PDT",
     "events": [
       {
         "category": [
@@ -899,7 +899,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6050"
       }
     ],
-    "last_update": "25/Apr/2022 @ 23:00:07 PDT",
+    "last_update": "26/Apr/2022 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3819,13 +3819,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (25/Apr/2022 PDT)"
+    "title": "48 events (26/Apr/2022 PDT)"
   },
-  "last_update": "25/Apr/2022 @ 23:00:11 PDT",
-  "last_update_epoch": 1650952811.793961,
+  "last_update": "26/Apr/2022 @ 00:00:10 PDT",
+  "last_update_epoch": 1650956410.051312,
   "neo": {
     "date": "26/Apr/2022 PDT",
-    "last_update": "25/Apr/2022 @ 23:00:11 PDT",
+    "last_update": "26/Apr/2022 @ 00:00:10 PDT",
     "objects": [
       {
         "cat": "26/Apr/2022 @ 17:24:00 ",
