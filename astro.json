@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Apr/2022 @ 14:00:05 PDT",
+    "last_update": "27/Apr/2022 @ 15:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/JupiterDarkSpot_JunoTT_1080.jpg",
     "title": "Moon Shadow on Jupiter (27/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -597,7 +597,7 @@
         ],
         "eid": "us6000hgkx",
         "location": "http://maps.google.com/maps?q=5.5881,126.3483",
-        "name": "M 4.4 - 86 km ESE of Caburan, Philippines",
+        "name": "M 4.4 - Mindanao, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -659,6 +659,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgjn"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h5h9",
+        "location": "http://maps.google.com/maps?q=10.8321,-62.1576",
+        "name": "M 4.7 - 32 km NNE of Güiria, Venezuela",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5h9"
       },
       {
         "category": [
@@ -775,6 +793,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000hgkm",
+        "location": "http://maps.google.com/maps?q=-32.705,-179.4786",
+        "name": "M 5.2 - south of the Kermadec Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000hgmt",
         "location": "http://maps.google.com/maps?q=-60.2254,-24.8823",
         "name": "M 5.4 - South Sandwich Islands region",
@@ -863,11 +899,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6050"
       }
     ],
-    "last_update": "27/Apr/2022 @ 14:00:08 PDT",
+    "last_update": "27/Apr/2022 @ 15:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=10.8321,-62.1576\"><b>M 4.7 - 32 km NNE of Güiria, Venezuela</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5h9\">USGS</a>",
+          10.8321,
+          -62.1576
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=31.61522295,-103.975015\"><b>M 4.0 - 36 km WSW of Mentone, Texas</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/tx2022ifjt\">USGS</a>",
           31.61522295,
@@ -919,6 +960,11 @@
           22.6996
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-32.705,-179.4786\"><b>M 5.2 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkm\">USGS</a>",
+          -32.705,
+          -179.4786
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-33.1119,-179.5042\"><b>M 5.0 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkn\">USGS</a>",
           -33.1119,
           -179.5042
@@ -934,7 +980,7 @@
           -64.8321
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=5.5881,126.3483\"><b>M 4.4 - 86 km ESE of Caburan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkx\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=5.5881,126.3483\"><b>M 4.4 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkx\">USGS</a>",
           5.5881,
           126.3483
         ],
@@ -3798,13 +3844,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (27/Apr/2022 PDT)"
+    "title": "48 events (27/Apr/2022 PDT)"
   },
-  "last_update": "27/Apr/2022 @ 14:00:55 PDT",
-  "last_update_epoch": 1651093255.843082,
+  "last_update": "27/Apr/2022 @ 15:00:57 PDT",
+  "last_update_epoch": 1651096857.717261,
   "neo": {
     "date": "27/Apr/2022 PDT",
-    "last_update": "27/Apr/2022 @ 14:00:10 PDT",
+    "last_update": "27/Apr/2022 @ 15:00:07 PDT",
     "objects": [
       {
         "cat": "27/Apr/2022 @ 09:32:00 ",
@@ -3940,7 +3986,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Apr/2022 @ 14:00:10 PDT",
+    "last_update": "27/Apr/2022 @ 15:00:07 PDT",
     "people": [
       {
         "name": "Denis Matveev",
@@ -5607,7 +5653,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Apr/2022 @ 14:00:17 PDT",
+    "last_update": "27/Apr/2022 @ 15:00:13 PDT",
     "launches": {
       "future": [
         {
@@ -17186,12 +17232,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "218,953,381.53 miles",
+      "earth_distance": "218,936,514.69 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "167,812,689.86 miles",
+      "mars_distance": "167,799,645.07 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,038.33 mph",
+      "speed": "4,038.01 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
