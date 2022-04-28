@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Apr/2022 @ 17:00:04 PDT",
+    "last_update": "27/Apr/2022 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/JupiterDarkSpot_JunoTT_1080.jpg",
     "title": "Moon Shadow on Jupiter (27/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -595,24 +595,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hgkb",
-        "location": "http://maps.google.com/maps?q=35.1859,140.4374",
-        "name": "M 4.6 - 7 km SSE of Ōhara, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h5h9",
         "location": "http://maps.google.com/maps?q=10.8321,-62.1576",
         "name": "M 4.7 - 32 km NNE of Güiria, Venezuela",
@@ -623,6 +605,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5h9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h5i6",
+        "location": "http://maps.google.com/maps?q=-4.3683,129.1707",
+        "name": "M 4.8 - 117 km SSE of Amahai, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5i6"
       },
       {
         "category": [
@@ -863,11 +863,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6050"
       }
     ],
-    "last_update": "27/Apr/2022 @ 17:00:07 PDT",
+    "last_update": "27/Apr/2022 @ 18:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-4.3683,129.1707\"><b>M 4.8 - 117 km SSE of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5i6\">USGS</a>",
+          -4.3683,
+          129.1707
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-19.2902,167.5419\"><b>M 5.4 - 182 km N of Wé, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5hl\">USGS</a>",
           -19.2902,
@@ -937,11 +942,6 @@
           "<a href=\"http://maps.google.com/maps?q=-33.1119,-179.5042\"><b>M 5.0 - south of the Kermadec Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkn\">USGS</a>",
           -33.1119,
           -179.5042
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.1859,140.4374\"><b>M 4.6 - 7 km SSE of Ōhara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hgkb\">USGS</a>",
-          35.1859,
-          140.4374
         ]
       ],
       "Floods": [],
@@ -3800,11 +3800,11 @@
     },
     "title": "46 events (27/Apr/2022 PDT)"
   },
-  "last_update": "27/Apr/2022 @ 17:00:54 PDT",
-  "last_update_epoch": 1651104054.68172,
+  "last_update": "27/Apr/2022 @ 18:00:46 PDT",
+  "last_update_epoch": 1651107646.254651,
   "neo": {
     "date": "28/Apr/2022 PDT",
-    "last_update": "27/Apr/2022 @ 17:00:08 PDT",
+    "last_update": "27/Apr/2022 @ 18:00:08 PDT",
     "objects": [
       {
         "cat": "28/Apr/2022 @ 05:12:00 ",
@@ -3958,7 +3958,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Apr/2022 @ 17:00:09 PDT",
+    "last_update": "27/Apr/2022 @ 18:00:08 PDT",
     "people": [
       {
         "name": "Denis Matveev",
@@ -5625,7 +5625,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Apr/2022 @ 17:00:15 PDT",
+    "last_update": "27/Apr/2022 @ 18:00:14 PDT",
     "launches": {
       "future": [
         {
@@ -17204,12 +17204,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "218,899,951.70 miles",
+      "earth_distance": "218,883,068.09 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "167,771,408.27 miles",
+      "mars_distance": "167,758,388.34 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,037.33 mph",
+      "speed": "4,037.02 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
