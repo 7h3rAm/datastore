@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Apr/2022 @ 19:00:16 PDT",
+    "last_update": "30/Apr/2022 @ 20:00:11 PDT",
     "source": "https://apod.nasa.gov/apod/image/2204/M44-resized1024.jpg",
     "title": "M44: The Beehive Cluster (30/Apr/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -667,6 +667,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000h65c",
+        "location": "http://maps.google.com/maps?q=26.8227,126.4682",
+        "name": "M 4.5 - 138 km WNW of Naha, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h65c"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000h61w",
         "location": "http://maps.google.com/maps?q=-34.4647,-72.07",
         "name": "M 4.5 - 67 km WNW of Santa Cruz, Chile",
@@ -847,24 +865,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h5zh",
-        "location": "http://maps.google.com/maps?q=-16.2633,-177.7456",
-        "name": "M 5.0 - 219 km S of Alo, Wallis and Futuna",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5zh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h5zm",
         "location": "http://maps.google.com/maps?q=-59.0086,-25.731",
         "name": "M 5.0 - South Sandwich Islands region",
@@ -917,11 +917,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6050"
       }
     ],
-    "last_update": "30/Apr/2022 @ 19:00:19 PDT",
+    "last_update": "30/Apr/2022 @ 20:00:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=26.8227,126.4682\"><b>M 4.5 - 138 km WNW of Naha, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h65c\">USGS</a>",
+          26.8227,
+          126.4682
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=39.6354,24.0976\"><b>M 4.1 - 46 km SSE of Sykiá, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h65b\">USGS</a>",
           39.6354,
@@ -1016,11 +1021,6 @@
           "<a href=\"http://maps.google.com/maps?q=-59.0086,-25.731\"><b>M 5.0 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5zm\">USGS</a>",
           -59.0086,
           -25.731
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-16.2633,-177.7456\"><b>M 5.0 - 219 km S of Alo, Wallis and Futuna</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h5zh\">USGS</a>",
-          -16.2633,
-          -177.7456
         ]
       ],
       "Floods": [],
@@ -3919,11 +3919,11 @@
     },
     "title": "49 events (30/Apr/2022 PDT)"
   },
-  "last_update": "30/Apr/2022 @ 19:01:06 PDT",
-  "last_update_epoch": 1651370466.385068,
+  "last_update": "30/Apr/2022 @ 20:01:12 PDT",
+  "last_update_epoch": 1651374072.762917,
   "neo": {
     "date": "01/May/2022 PDT",
-    "last_update": "30/Apr/2022 @ 19:00:23 PDT",
+    "last_update": "30/Apr/2022 @ 20:00:17 PDT",
     "objects": [
       {
         "cat": "01/May/2022 @ 05:23:00 ",
@@ -4158,7 +4158,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Apr/2022 @ 19:00:24 PDT",
+    "last_update": "30/Apr/2022 @ 20:00:18 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5845,7 +5845,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Apr/2022 @ 19:00:30 PDT",
+    "last_update": "30/Apr/2022 @ 20:00:23 PDT",
     "launches": {
       "future": [
         {
@@ -17424,12 +17424,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "217,639,663.59 miles",
+      "earth_distance": "217,622,410.51 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "166,831,699.23 miles",
+      "mars_distance": "166,819,278.73 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,014.72 mph",
+      "speed": "4,014.42 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
