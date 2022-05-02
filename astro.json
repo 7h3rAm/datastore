@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/May/2022 @ 15:00:14 PDT",
+    "last_update": "02/May/2022 @ 16:00:14 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/PartialEclipse_Andrada_960.jpg",
     "title": "Partial Solar Eclipse over Argentina (02/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -523,6 +523,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000h6px",
+        "location": "http://maps.google.com/maps?q=33.2649,-15.1667",
+        "name": "M 4.0 - 158 km ENE of Caniçal, Portugal",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6px"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000h6db",
         "location": "http://maps.google.com/maps?q=35.1425,135.5837",
         "name": "M 4.3 - 15 km N of Kameoka, Japan",
@@ -659,6 +677,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6ed"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h6q1",
+        "location": "http://maps.google.com/maps?q=2.4005,128.4961",
+        "name": "M 4.7 - 91 km NE of Tobelo, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6q1"
       },
       {
         "category": [
@@ -823,11 +859,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6049"
       }
     ],
-    "last_update": "02/May/2022 @ 15:00:18 PDT",
+    "last_update": "02/May/2022 @ 16:00:26 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=2.4005,128.4961\"><b>M 4.7 - 91 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6q1\">USGS</a>",
+          2.4005,
+          128.4961
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.2649,-15.1667\"><b>M 4.0 - 158 km ENE of Caniçal, Portugal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6px\">USGS</a>",
+          33.2649,
+          -15.1667
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-23.8305,-66.6743\"><b>M 4.4 - 56 km NW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6fb\">USGS</a>",
           -23.8305,
@@ -3697,13 +3743,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (02/May/2022 PDT)"
+    "title": "46 events (02/May/2022 PDT)"
   },
-  "last_update": "02/May/2022 @ 15:02:49 PDT",
-  "last_update_epoch": 1651528969.607096,
+  "last_update": "02/May/2022 @ 16:02:41 PDT",
+  "last_update_epoch": 1651532561.560366,
   "neo": {
     "date": "02/May/2022 PDT",
-    "last_update": "02/May/2022 @ 15:00:24 PDT",
+    "last_update": "02/May/2022 @ 16:00:31 PDT",
     "objects": [
       {
         "cat": "02/May/2022 @ 23:29:00 ",
@@ -3902,7 +3948,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/May/2022 @ 15:00:27 PDT",
+    "last_update": "02/May/2022 @ 16:00:31 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5589,7 +5635,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/May/2022 @ 15:01:08 PDT",
+    "last_update": "02/May/2022 @ 16:01:02 PDT",
     "launches": {
       "future": [
         {
@@ -17168,12 +17214,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "216,876,191.24 miles",
+      "earth_distance": "216,858,739.32 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "166,293,216.57 miles",
+      "mars_distance": "166,281,171.37 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,001.76 mph",
+      "speed": "4,001.47 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
