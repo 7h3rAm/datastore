@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/May/2022 @ 17:00:31 PDT",
+    "last_update": "04/May/2022 @ 18:00:13 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/PyramidPlanets_Fatehi_1080.jpg",
     "title": "Planets Over Egyptian Pyramid (04/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -613,6 +613,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000h6xp",
+        "location": "http://maps.google.com/maps?q=11.8893,-86.2631",
+        "name": "M 4.4 - 4 km NW of Diriamba, Nicaragua",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6xp"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000h708",
         "location": "http://maps.google.com/maps?q=-19.2438,-69.4281",
         "name": "M 4.5 - 125 km SE of Arica, Chile",
@@ -695,6 +713,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6ya"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h75s",
+        "location": "http://maps.google.com/maps?q=37.5022,71.7337",
+        "name": "M 5.0 - 16 km E of Khorugh, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h75s"
       },
       {
         "category": [
@@ -841,11 +877,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6049"
       }
     ],
-    "last_update": "04/May/2022 @ 17:00:43 PDT",
+    "last_update": "04/May/2022 @ 18:00:18 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.5022,71.7337\"><b>M 5.0 - 16 km E of Khorugh, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h75s\">USGS</a>",
+          37.5022,
+          71.7337
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=6.5555,127.1265\"><b>M 5.6 - 92 km ESE of Lukatan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h74t\">USGS</a>",
           6.5555,
@@ -915,6 +956,11 @@
           "<a href=\"http://maps.google.com/maps?q=-63.1245,-162.2212\"><b>M 5.1 - Pacific-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6xw\">USGS</a>",
           -63.1245,
           -162.2212
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=11.8893,-86.2631\"><b>M 4.4 - 4 km NW of Diriamba, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6xp\">USGS</a>",
+          11.8893,
+          -86.2631
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=24.8283,125.3051\"><b>M 4.6 - 2 km N of Hirara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h6xa\">USGS</a>",
@@ -3720,13 +3766,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (04/May/2022 PDT)"
+    "title": "47 events (04/May/2022 PDT)"
   },
-  "last_update": "04/May/2022 @ 17:03:25 PDT",
-  "last_update_epoch": 1651709005.38762,
+  "last_update": "04/May/2022 @ 18:02:52 PDT",
+  "last_update_epoch": 1651712572.906168,
   "neo": {
     "date": "05/May/2022 PDT",
-    "last_update": "04/May/2022 @ 17:00:45 PDT",
+    "last_update": "04/May/2022 @ 18:00:19 PDT",
     "objects": [
       {
         "cat": "05/May/2022 @ 19:00:00 ",
@@ -3871,7 +3917,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/May/2022 @ 17:00:48 PDT",
+    "last_update": "04/May/2022 @ 18:00:20 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5558,7 +5604,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/May/2022 @ 17:01:33 PDT",
+    "last_update": "04/May/2022 @ 18:01:05 PDT",
     "launches": {
       "future": [
         {
@@ -17137,12 +17183,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "215,998,481.61 miles",
+      "earth_distance": "215,980,824.90 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "165,701,735.78 miles",
+      "mars_distance": "165,690,133.52 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,987.53 mph",
+      "speed": "3,987.25 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
