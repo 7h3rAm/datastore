@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/May/2022 @ 16:00:17 PDT",
+    "last_update": "05/May/2022 @ 17:00:11 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/NGC3521LRGBHaAPOD-20_1024.jpg",
     "title": "NGC 3521: Galaxy in a Bubble (05/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -667,6 +667,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000h7ea",
+        "location": "http://maps.google.com/maps?q=-25.0002,179.6324",
+        "name": "M 4.4 - south of the Fiji Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7ea"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000h79r",
         "location": "http://maps.google.com/maps?q=-7.5443,127.7582",
         "name": "M 4.5 - 136 km NE of Lospalos, Timor Leste",
@@ -721,6 +739,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000h7eb",
+        "location": "http://maps.google.com/maps?q=-21.1407,-175.6895",
+        "name": "M 4.6 - 49 km W of Haveluloto, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7eb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000h7ay",
         "location": "http://maps.google.com/maps?q=6.5741,126.9605",
         "name": "M 4.6 - 76 km SE of Lukatan, Philippines",
@@ -740,7 +776,7 @@
           }
         ],
         "eid": "us7000h76q",
-        "location": "http://maps.google.com/maps?q=-23.6139,-179.9666",
+        "location": "http://maps.google.com/maps?q=-23.6084,-179.9488",
         "name": "M 4.6 - south of the Fiji Islands",
         "source": [
           {
@@ -749,6 +785,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h76q"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h7ec",
+        "location": "http://maps.google.com/maps?q=51.5503,-176.7908",
+        "name": "M 4.7 - 37 km SSW of Adak, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7ec"
       },
       {
         "category": [
@@ -829,27 +883,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000h78u",
-        "location": "http://maps.google.com/maps?q=6.5578,126.9107",
-        "name": "M 5.1 - 72 km ESE of Bobon, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h78u"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000h7dn",
         "location": "http://maps.google.com/maps?q=-33.1245,-73.0439",
-        "name": "M 5.1 - Off the coast of Valparaiso, Chile",
+        "name": "M 5.1 - 132 km W of Valparaíso, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -867,7 +903,7 @@
         ],
         "eid": "us7000h7a3",
         "location": "http://maps.google.com/maps?q=-5.4143,147.3702",
-        "name": "M 5.1 - eastern New Guinea region, Papua New Guinea",
+        "name": "M 5.1 - 137 km NNW of Finschhafen, Papua New Guinea",
         "source": [
           {
             "sid": "USGS",
@@ -875,6 +911,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7a3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000h78u",
+        "location": "http://maps.google.com/maps?q=6.5578,126.9107",
+        "name": "M 5.1 - 72 km ESE of Bobon, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h78u"
       },
       {
         "category": [
@@ -949,11 +1003,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6049"
       }
     ],
-    "last_update": "05/May/2022 @ 16:00:26 PDT",
+    "last_update": "05/May/2022 @ 17:00:16 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=51.5503,-176.7908\"><b>M 4.7 - 37 km SSW of Adak, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7ec\">USGS</a>",
+          51.5503,
+          -176.7908
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.1407,-175.6895\"><b>M 4.6 - 49 km W of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7eb\">USGS</a>",
+          -21.1407,
+          -175.6895
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-25.0002,179.6324\"><b>M 4.4 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7ea\">USGS</a>",
+          -25.0002,
+          179.6324
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=71.6921,-2.6687\"><b>M 4.3 - 232 km ENE of Olonkinbyen, Svalbard and Jan Mayen</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7dw\">USGS</a>",
           71.6921,
@@ -965,7 +1034,7 @@
           99.9716
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-33.1245,-73.0439\"><b>M 5.1 - Off the coast of Valparaiso, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7dn\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-33.1245,-73.0439\"><b>M 5.1 - 132 km W of Valparaíso, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7dn\">USGS</a>",
           -33.1245,
           -73.0439
         ],
@@ -1000,7 +1069,7 @@
           126.9605
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-5.4143,147.3702\"><b>M 5.1 - eastern New Guinea region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7a3\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-5.4143,147.3702\"><b>M 5.1 - 137 km NNW of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h7a3\">USGS</a>",
           -5.4143,
           147.3702
         ],
@@ -1045,9 +1114,9 @@
           -71.3046
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-23.6139,-179.9666\"><b>M 4.6 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h76q\">USGS</a>",
-          -23.6139,
-          -179.9666
+          "<a href=\"http://maps.google.com/maps?q=-23.6084,-179.9488\"><b>M 4.6 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h76q\">USGS</a>",
+          -23.6084,
+          -179.9488
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-30.0146,-72.1111\"><b>M 4.1 - 74 km W of Coquimbo, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000h765\">USGS</a>",
@@ -3858,88 +3927,106 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "51 events (05/May/2022 PDT)"
+    "title": "54 events (05/May/2022 PDT)"
   },
-  "last_update": "05/May/2022 @ 16:03:24 PDT",
-  "last_update_epoch": 1651791804.670239,
+  "last_update": "05/May/2022 @ 17:02:31 PDT",
+  "last_update_epoch": 1651795351.032553,
   "neo": {
-    "date": "05/May/2022 PDT",
-    "last_update": "05/May/2022 @ 16:00:32 PDT",
+    "date": "06/May/2022 PDT",
+    "last_update": "05/May/2022 @ 17:00:21 PDT",
     "objects": [
       {
-        "cat": "05/May/2022 @ 19:00:00 ",
-        "diameter": "0.02-0.05 miles",
-        "distance": "32,352,353.43 miles",
+        "cat": "06/May/2022 @ 10:52:00 ",
+        "diameter": "0.04-0.10 miles",
+        "distance": "30,869,272.79 miles",
         "hazardous": false,
-        "name": "Asteroid (1997 YM9)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3092168",
-        "velocity": "26,463.01 mph"
+        "name": "Asteroid (2008 NP3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3418110",
+        "velocity": "19,123.65 mph"
       },
       {
-        "cat": "05/May/2022 @ 19:36:00 ",
+        "cat": "06/May/2022 @ 13:29:00 ",
+        "diameter": "0.10-0.21 miles",
+        "distance": "45,596,803.17 miles",
+        "hazardous": false,
+        "name": "Asteroid (2015 ER)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3712982",
+        "velocity": "45,803.60 mph"
+      },
+      {
+        "cat": "06/May/2022 @ 04:41:00 ",
         "diameter": "0.07-0.15 miles",
-        "distance": "23,642,475.87 miles",
+        "distance": "27,020,932.65 miles",
         "hazardous": false,
-        "name": "Asteroid (2016 LW9)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3753835",
-        "velocity": "40,769.19 mph"
+        "name": "Asteroid (2015 XA352)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3736677",
+        "velocity": "22,480.32 mph"
       },
       {
-        "cat": "05/May/2022 @ 08:30:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "39,289,984.93 miles",
+        "cat": "06/May/2022 @ 05:56:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "44,807,033.54 miles",
         "hazardous": false,
-        "name": "Asteroid (2017 LE1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3775208",
-        "velocity": "35,742.63 mph"
+        "name": "Asteroid (2019 BW1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3837982",
+        "velocity": "49,945.87 mph"
       },
       {
-        "cat": "05/May/2022 @ 19:28:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "44,890,846.12 miles",
+        "cat": "06/May/2022 @ 14:54:00 ",
+        "diameter": "0.02-0.06 miles",
+        "distance": "23,363,048.10 miles",
         "hazardous": false,
-        "name": "Asteroid (2018 VA4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3836095",
-        "velocity": "17,281.69 mph"
+        "name": "Asteroid (2019 UX1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3879280",
+        "velocity": "22,202.40 mph"
       },
       {
-        "cat": "05/May/2022 @ 21:15:00 ",
-        "diameter": "0.00-0.00 miles",
-        "distance": "24,234,648.44 miles",
+        "cat": "06/May/2022 @ 23:32:00 ",
+        "diameter": "0.09-0.20 miles",
+        "distance": "22,504,016.90 miles",
         "hazardous": false,
-        "name": "Asteroid (2019 JH7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3841907",
-        "velocity": "37,695.10 mph"
+        "name": "Asteroid (2021 WP3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54225013",
+        "velocity": "45,072.70 mph"
       },
       {
-        "cat": "05/May/2022 @ 23:43:00 ",
-        "diameter": "0.17-0.37 miles",
-        "distance": "9,808,462.98 miles",
+        "cat": "06/May/2022 @ 04:32:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "22,944,941.61 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 KR6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54017292",
-        "velocity": "42,560.08 mph"
+        "name": "Asteroid (2021 XC)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54225722",
+        "velocity": "13,159.06 mph"
       },
       {
-        "cat": "05/May/2022 @ 13:20:00 ",
-        "diameter": "0.02-0.05 miles",
-        "distance": "36,008,464.91 miles",
+        "cat": "06/May/2022 @ 04:19:00 ",
+        "diameter": "0.05-0.12 miles",
+        "distance": "11,926,531.43 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 KU1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54017130",
-        "velocity": "54,438.57 mph"
+        "name": "Asteroid (2022 FP1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54265630",
+        "velocity": "11,757.84 mph"
       },
       {
-        "cat": "05/May/2022 @ 19:48:00 ",
-        "diameter": "0.07-0.16 miles",
-        "distance": "31,640,684.76 miles",
+        "cat": "06/May/2022 @ 07:41:00 ",
+        "diameter": "0.13-0.28 miles",
+        "distance": "25,628,317.96 miles",
         "hazardous": true,
-        "name": "Asteroid (2021 TK15)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54209486",
-        "velocity": "69,762.40 mph"
+        "name": "Asteroid 216523 (2001 HY7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2216523",
+        "velocity": "21,245.33 mph"
+      },
+      {
+        "cat": "06/May/2022 @ 10:52:00 ",
+        "diameter": "0.04-0.10 miles",
+        "distance": "30,869,272.79 miles",
+        "hazardous": false,
+        "name": "Asteroid 613995 (2008 NP3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2613995",
+        "velocity": "19,123.65 mph"
       }
     ],
-    "title": "8 objects making close approach (05/May/2022 PDT)"
+    "title": "10 objects making close approach (06/May/2022 PDT)"
   },
   "satview": {
     "date": "05/May/2022 PDT",
@@ -4009,7 +4096,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/May/2022 @ 16:00:35 PDT",
+    "last_update": "05/May/2022 @ 17:00:23 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5696,7 +5783,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/May/2022 @ 16:01:26 PDT",
+    "last_update": "05/May/2022 @ 17:00:58 PDT",
     "launches": {
       "future": [
         {
@@ -17275,12 +17362,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "215,591,418.02 miles",
+      "earth_distance": "215,573,674.98 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "165,437,182.84 miles",
+      "mars_distance": "165,425,790.23 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,981.16 mph",
+      "speed": "3,980.89 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
