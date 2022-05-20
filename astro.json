@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/May/2022 @ 05:00:04 PDT",
+    "last_update": "20/May/2022 @ 06:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/eclipse-lune-2022c1024.jpg",
     "title": "A View from Earth's Shadow (20/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -497,24 +497,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hmgq",
-        "location": "http://maps.google.com/maps?q=8.999,-82.794",
-        "name": "M 4.0 - 18 km N of Santa Clara, Panama",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmgq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000hmjv",
         "location": "http://maps.google.com/maps?q=11.4441,-87.3349",
         "name": "M 4.3 - 97 km WSW of Masachapa, Nicaragua",
@@ -605,24 +587,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hmbh",
-        "location": "http://maps.google.com/maps?q=-17.3669,-178.7937",
-        "name": "M 4.8 - 214 km ENE of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmbh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000hmil",
         "location": "http://maps.google.com/maps?q=47.6886,155.1799",
         "name": "M 4.8 - east of the Kuril Islands",
@@ -695,6 +659,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000hmld",
+        "location": "http://maps.google.com/maps?q=35.4993,-3.4919",
+        "name": "M 5.5 - 48 km NE of Al Hoceïma, Morocco",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmld"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000hmkd",
         "location": "http://maps.google.com/maps?q=-29.5388,-72.0423",
         "name": "M 5.8 - 82 km NW of Coquimbo, Chile",
@@ -729,11 +711,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6058"
       }
     ],
-    "last_update": "20/May/2022 @ 05:00:06 PDT",
+    "last_update": "20/May/2022 @ 06:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.4993,-3.4919\"><b>M 5.5 - 48 km NE of Al Hoceïma, Morocco</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmld\">USGS</a>",
+          35.4993,
+          -3.4919
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=9.5863,-84.8275\"><b>M 4.4 - 21 km W of Jacó, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hml1\">USGS</a>",
           9.5863,
@@ -783,16 +770,6 @@
           "<a href=\"http://maps.google.com/maps?q=1.6824,126.4462\"><b>M 5.1 - 143 km NW of Ternate, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmci\">USGS</a>",
           1.6824,
           126.4462
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.3669,-178.7937\"><b>M 4.8 - 214 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmbh\">USGS</a>",
-          -17.3669,
-          -178.7937
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=8.999,-82.794\"><b>M 4.0 - 18 km N of Santa Clara, Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmgq\">USGS</a>",
-          8.999,
-          -82.794
         ]
       ],
       "Floods": [],
@@ -3360,13 +3337,13 @@
         ]
       ]
     },
-    "title": "39 events (20/May/2022 PDT)"
+    "title": "38 events (20/May/2022 PDT)"
   },
-  "last_update": "20/May/2022 @ 05:00:38 PDT",
-  "last_update_epoch": 1653048038.808813,
+  "last_update": "20/May/2022 @ 06:00:55 PDT",
+  "last_update_epoch": 1653051655.309052,
   "neo": {
     "date": "20/May/2022 PDT",
-    "last_update": "20/May/2022 @ 05:00:07 PDT",
+    "last_update": "20/May/2022 @ 06:00:06 PDT",
     "objects": [
       {
         "cat": "20/May/2022 @ 00:46:00 ",
@@ -3465,8 +3442,8 @@
     "date": "20/May/2022 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 18/May/2022 @ 15:02:10 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2022/05/18/jpg/epic_1b_20220518220659.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 19/May/2022 @ 14:52:47 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2022/05/19/jpg/epic_1b_20220519215736.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -3529,7 +3506,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/May/2022 @ 05:00:07 PDT",
+    "last_update": "20/May/2022 @ 06:00:07 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5244,7 +5221,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/May/2022 @ 05:00:16 PDT",
+    "last_update": "20/May/2022 @ 06:00:15 PDT",
     "launches": {
       "future": [
         {
@@ -16866,12 +16843,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "209,246,804.31 miles",
+      "earth_distance": "209,228,371.40 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "162,068,874.16 miles",
+      "mars_distance": "162,061,115.19 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,900.10 mph",
+      "speed": "3,899.92 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
