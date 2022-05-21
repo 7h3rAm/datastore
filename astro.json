@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/May/2022 @ 00:00:06 PDT",
+    "last_update": "21/May/2022 @ 01:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/Abell_7-2022-02-20-HOO-1024.jpg",
     "title": "Planetary Nebula Abell 7 (21/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -569,6 +569,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000hmv5",
+        "location": "http://maps.google.com/maps?q=84.1422,-1.3979",
+        "name": "M 4.3 - north of Svalbard",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmv5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000hmu1",
         "location": "http://maps.google.com/maps?q=28.1315,86.1529",
         "name": "M 4.3 - western Xizang",
@@ -695,6 +713,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000hmv4",
+        "location": "http://maps.google.com/maps?q=84.1691,-0.7749",
+        "name": "M 4.5 - north of Svalbard",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmv4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000hmlc",
         "location": "http://maps.google.com/maps?q=4.2989,126.2709",
         "name": "M 4.6 - 151 km SE of Sarangani, Philippines",
@@ -803,6 +839,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000hmv8",
+        "location": "http://maps.google.com/maps?q=84.2101,-0.6007",
+        "name": "M 5.1 - north of Svalbard",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmv8"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000hmld",
         "location": "http://maps.google.com/maps?q=35.4993,-3.4919",
         "name": "M 5.5 - 48 km NE of Al Hoceïma, Morocco",
@@ -835,6 +889,24 @@
       {
         "category": [
           {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000hmv1",
+        "location": "http://maps.google.com/maps?q=84.3425,0.8374",
+        "name": "M 5.8 - north of Svalbard",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmv1"
+      },
+      {
+        "category": [
+          {
             "emoji": "🌀",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
           }
@@ -855,11 +927,31 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6058"
       }
     ],
-    "last_update": "21/May/2022 @ 00:00:12 PDT",
+    "last_update": "21/May/2022 @ 01:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=84.2101,-0.6007\"><b>M 5.1 - north of Svalbard</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmv8\">USGS</a>",
+          84.2101,
+          -0.6007
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=84.1691,-0.7749\"><b>M 4.5 - north of Svalbard</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmv4\">USGS</a>",
+          84.1691,
+          -0.7749
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=84.1422,-1.3979\"><b>M 4.3 - north of Svalbard</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmv5\">USGS</a>",
+          84.1422,
+          -1.3979
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=84.3425,0.8374\"><b>M 5.8 - north of Svalbard</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmv1\">USGS</a>",
+          84.3425,
+          0.8374
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=19.6768,-62.1689\"><b>M 4.7 - 186 km NNE of The Valley, Anguilla</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hmuj\">USGS</a>",
           19.6768,
@@ -3536,13 +3628,13 @@
         ]
       ]
     },
-    "title": "46 events (21/May/2022 PDT)"
+    "title": "50 events (21/May/2022 PDT)"
   },
-  "last_update": "21/May/2022 @ 00:01:39 PDT",
-  "last_update_epoch": 1653116499.982777,
+  "last_update": "21/May/2022 @ 01:00:37 PDT",
+  "last_update_epoch": 1653120037.452229,
   "neo": {
     "date": "21/May/2022 PDT",
-    "last_update": "21/May/2022 @ 00:00:14 PDT",
+    "last_update": "21/May/2022 @ 01:00:06 PDT",
     "objects": [
       {
         "cat": "21/May/2022 @ 13:02:00 ",
@@ -3687,7 +3779,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/May/2022 @ 00:00:15 PDT",
+    "last_update": "21/May/2022 @ 01:00:07 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5402,7 +5494,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/May/2022 @ 00:00:32 PDT",
+    "last_update": "21/May/2022 @ 01:00:13 PDT",
     "launches": {
       "future": [
         {
@@ -17024,12 +17116,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "208,896,488.24 miles",
+      "earth_distance": "208,878,045.63 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "161,923,445.86 miles",
+      "mars_distance": "161,915,908.66 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,896.60 mph",
+      "speed": "3,896.42 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
