@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/May/2022 @ 20:00:10 PDT",
+    "last_update": "24/May/2022 @ 21:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/RhoLunarEclipse_Dascalu_960.jpg",
     "title": "A Deep Sky Behind an Eclipsed Moon (24/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -627,16 +627,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hc3i",
-        "location": "http://maps.google.com/maps?q=-22.4824,-67.6754",
-        "name": "M 4.1 - 71 km NE of San Pedro de Atacama, Chile",
+        "eid": "us7000hccf",
+        "location": "http://maps.google.com/maps?q=17.6394,-72.11",
+        "name": "M 4.1 - 58 km SW of Pedernales, Dominican Republic",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc3i"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hccf"
       },
       {
         "category": [
@@ -645,16 +645,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hc3m",
-        "location": "http://maps.google.com/maps?q=35.7512,140.0356",
-        "name": "M 4.2 - 6 km SSW of Shiroi, Japan",
+        "eid": "us7000hc4u",
+        "location": "http://maps.google.com/maps?q=81.7894,119.2589",
+        "name": "M 4.2 - east of Severnaya Zemlya",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc3m"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc4u"
       },
       {
         "category": [
@@ -879,24 +879,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hc67",
-        "location": "http://maps.google.com/maps?q=-20.8557,-174.1273",
-        "name": "M 4.9 - 100 km ENE of ‘Ohonua, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc67"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000hcal",
         "location": "http://maps.google.com/maps?q=-5.6409,103.8864",
         "name": "M 4.9 - 142 km SW of Kotabumi, Indonesia",
@@ -907,24 +889,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hcal"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000hc3l",
-        "location": "http://maps.google.com/maps?q=-28.143,-70.9004",
-        "name": "M 4.9 - 49 km NNW of Vallenar, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc3l"
       },
       {
         "category": [
@@ -1039,11 +1003,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6058"
       }
     ],
-    "last_update": "24/May/2022 @ 20:00:20 PDT",
+    "last_update": "24/May/2022 @ 21:00:15 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=17.6394,-72.11\"><b>M 4.1 - 58 km SW of Pedernales, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hccf\">USGS</a>",
+          17.6394,
+          -72.11
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=50.0395,154.9382\"><b>M 4.5 - 110 km SW of Severo-Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hcbk\">USGS</a>",
           50.0395,
@@ -1130,29 +1099,14 @@
           -179.1736
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=81.7894,119.2589\"><b>M 4.2 - east of Severnaya Zemlya</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc4u\">USGS</a>",
+          81.7894,
+          119.2589
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=84.1979,-0.907\"><b>M 5.0 - north of Svalbard</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc4h\">USGS</a>",
           84.1979,
           -0.907
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.143,-70.9004\"><b>M 4.9 - 49 km NNW of Vallenar, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc3l\">USGS</a>",
-          -28.143,
-          -70.9004
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.7512,140.0356\"><b>M 4.2 - 6 km SSW of Shiroi, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc3m\">USGS</a>",
-          35.7512,
-          140.0356
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.8557,-174.1273\"><b>M 4.9 - 100 km ENE of ‘Ohonua, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc67\">USGS</a>",
-          -20.8557,
-          -174.1273
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.4824,-67.6754\"><b>M 4.1 - 71 km NE of San Pedro de Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hc3i\">USGS</a>",
-          -22.4824,
-          -67.6754
         ]
       ],
       "Floods": [],
@@ -4200,13 +4154,13 @@
         ]
       ]
     },
-    "title": "56 events (24/May/2022 PDT)"
+    "title": "54 events (24/May/2022 PDT)"
   },
-  "last_update": "24/May/2022 @ 20:02:31 PDT",
-  "last_update_epoch": 1653447751.721868,
+  "last_update": "24/May/2022 @ 21:02:54 PDT",
+  "last_update_epoch": 1653451374.184677,
   "neo": {
     "date": "25/May/2022 PDT",
-    "last_update": "24/May/2022 @ 20:00:22 PDT",
+    "last_update": "24/May/2022 @ 21:00:17 PDT",
     "objects": [
       {
         "cat": "25/May/2022 @ 06:58:00 ",
@@ -4333,7 +4287,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/May/2022 @ 20:00:24 PDT",
+    "last_update": "24/May/2022 @ 21:00:19 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6048,7 +6002,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/May/2022 @ 20:01:05 PDT",
+    "last_update": "24/May/2022 @ 21:01:05 PDT",
     "launches": {
       "future": [
         {
@@ -17670,12 +17624,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "207,195,602.38 miles",
+      "earth_distance": "207,177,145.28 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "161,278,920.66 miles",
+      "mars_distance": "161,272,493.08 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,881.09 mph",
+      "speed": "3,880.94 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
