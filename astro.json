@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/May/2022 @ 13:00:03 PDT",
+    "last_update": "29/May/2022 @ 14:00:03 PDT",
     "source": "https://www.youtube.com/embed/cNT5yAqpBmI?rel=0",
     "title": "Simulation TNG50: A Galaxy Cluster Forms (29/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -655,7 +655,7 @@
         ],
         "eid": "us7000hdcm",
         "location": "http://maps.google.com/maps?q=19.4815,-62.2176",
-        "name": "M 4.4 - 165 km NNE of The Valley, Anguilla",
+        "name": "M 4.4 - Leeward Islands",
         "source": [
           {
             "sid": "USGS",
@@ -761,6 +761,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hdh7",
+        "location": "http://maps.google.com/maps?q=13.6644,120.7871",
+        "name": "M 4.6 - 9 km W of Tingloy, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdh7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hdeu",
         "location": "http://maps.google.com/maps?q=-6.4885,147.7118",
         "name": "M 4.8 - 16 km WNW of Finschhafen, Papua New Guinea",
@@ -845,11 +863,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
       }
     ],
-    "last_update": "29/May/2022 @ 13:00:06 PDT",
+    "last_update": "29/May/2022 @ 14:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=13.6644,120.7871\"><b>M 4.6 - 9 km W of Tingloy, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdh7\">USGS</a>",
+          13.6644,
+          120.7871
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-21.9883,-177.8945\"><b>M 4.6 - 292 km WSW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdgk\">USGS</a>",
           -21.9883,
@@ -906,7 +929,7 @@
           -62.162
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=19.4815,-62.2176\"><b>M 4.4 - 165 km NNE of The Valley, Anguilla</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdcm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=19.4815,-62.2176\"><b>M 4.4 - Leeward Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdcm\">USGS</a>",
           19.4815,
           -62.2176
         ],
@@ -3886,13 +3909,13 @@
         ]
       ]
     },
-    "title": "45 events (29/May/2022 PDT)"
+    "title": "46 events (29/May/2022 PDT)"
   },
-  "last_update": "29/May/2022 @ 13:00:51 PDT",
-  "last_update_epoch": 1653854451.285044,
+  "last_update": "29/May/2022 @ 14:00:45 PDT",
+  "last_update_epoch": 1653858045.213355,
   "neo": {
     "date": "29/May/2022 PDT",
-    "last_update": "29/May/2022 @ 13:00:09 PDT",
+    "last_update": "29/May/2022 @ 14:00:09 PDT",
     "objects": [
       {
         "cat": "29/May/2022 @ 11:13:00 ",
@@ -4046,7 +4069,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/May/2022 @ 13:00:09 PDT",
+    "last_update": "29/May/2022 @ 14:00:09 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5761,7 +5784,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/May/2022 @ 13:00:19 PDT",
+    "last_update": "29/May/2022 @ 14:00:18 PDT",
     "launches": {
       "future": [
         {
@@ -17383,12 +17406,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "205,115,855.02 miles",
+      "earth_distance": "205,097,466.04 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,633,024.19 miles",
+      "mars_distance": "160,628,029.05 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,865.55 mph",
+      "speed": "3,865.43 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
