@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/May/2022 @ 19:00:04 PDT",
+    "last_update": "28/May/2022 @ 20:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/RCW86_MP1024.jpg",
     "title": "RCW 86: Historical Supernova Remnant (28/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -649,6 +649,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hdcz",
+        "location": "http://maps.google.com/maps?q=6.9806,-73.1633",
+        "name": "M 4.2 - 9 km S of Girón, Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdcz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hd7k",
         "location": "http://maps.google.com/maps?q=6.8758,-73.0708",
         "name": "M 4.3 - 12 km S of Piedecuesta, Colombia",
@@ -875,13 +893,44 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
+        "eid": "EONET_6071",
+        "location": "https://www.google.com/maps/dir/12.9,-98.1/13.2,-98.4/13.8,-98.1/@12.9,-98.1,3z",
+        "name": "Tropical Storm Agatha",
+        "source": [
+          {
+            "sid": "GDACS",
+            "url": "https://www.gdacs.org/Cyclones/report.aspx?eventid=1000886&amp;eventtype=TC"
+          },
+          {
+            "sid": "JTWC",
+            "url": "https://www.metoc.navy.mil/jtwc/products/ep0122.tcw"
+          },
+          {
+            "sid": "NOAA_NHC",
+            "url": "https://www.nhc.noaa.gov/archive/2022/AGATHA.shtml"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6071"
       }
     ],
-    "last_update": "28/May/2022 @ 19:00:07 PDT",
+    "last_update": "28/May/2022 @ 20:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=6.9806,-73.1633\"><b>M 4.2 - 9 km S of Girón, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdcz\">USGS</a>",
+          6.9806,
+          -73.1633
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=19.5462,-62.162\"><b>M 4.6 - 174 km NNE of The Valley, Anguilla</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdcn\">USGS</a>",
           19.5462,
@@ -3918,7 +3967,23 @@
           99.61
         ]
       ],
-      "Severe Storms": [],
+      "Severe Storms": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=12.9,-98.1\"><b>Tropical Storm Agatha</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000886&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0122.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/AGATHA.shtml\">NOAA_NHC</a>",
+          12.9,
+          -98.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=13.2,-98.4\"><b>Tropical Storm Agatha</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000886&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0122.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/AGATHA.shtml\">NOAA_NHC</a>",
+          13.2,
+          -98.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=13.8,-98.1\"><b>Tropical Storm Agatha</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000886&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0122.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/AGATHA.shtml\">NOAA_NHC</a>",
+          13.8,
+          -98.1
+        ]
+      ],
       "Snow": [],
       "Temperature Extremes": [],
       "Volcanoes": [
@@ -3962,13 +4027,13 @@
         ]
       ]
     },
-    "title": "47 events (28/May/2022 PDT)"
+    "title": "49 events (28/May/2022 PDT)"
   },
-  "last_update": "28/May/2022 @ 19:00:43 PDT",
-  "last_update_epoch": 1653789643.377162,
+  "last_update": "28/May/2022 @ 20:00:37 PDT",
+  "last_update_epoch": 1653793237.953461,
   "neo": {
     "date": "29/May/2022 PDT",
-    "last_update": "28/May/2022 @ 19:00:10 PDT",
+    "last_update": "28/May/2022 @ 20:00:10 PDT",
     "objects": [
       {
         "cat": "29/May/2022 @ 11:13:00 ",
@@ -4122,7 +4187,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/May/2022 @ 19:00:11 PDT",
+    "last_update": "28/May/2022 @ 20:00:10 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5837,7 +5902,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/May/2022 @ 19:00:20 PDT",
+    "last_update": "28/May/2022 @ 20:00:19 PDT",
     "launches": {
       "future": [
         {
@@ -17459,12 +17524,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "205,447,032.16 miles",
+      "earth_distance": "205,428,625.16 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,725,160.96 miles",
+      "mars_distance": "160,719,932.00 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,867.77 mph",
+      "speed": "3,867.64 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
