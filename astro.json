@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/May/2022 @ 02:00:03 PDT",
+    "last_update": "29/May/2022 @ 03:00:03 PDT",
     "source": "https://www.youtube.com/embed/cNT5yAqpBmI?rel=0",
     "title": "Simulation TNG50: A Galaxy Cluster Forms (29/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -627,16 +627,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hd8q",
-        "location": "http://maps.google.com/maps?q=-0.1132,124.6903",
-        "name": "M 4.4 - 158 km S of Tomohon, Indonesia",
+        "eid": "us7000hdet",
+        "location": "http://maps.google.com/maps?q=-22.8814,172.2706",
+        "name": "M 4.2 - southeast of the Loyalty Islands",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hd8q"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdet"
       },
       {
         "category": [
@@ -647,7 +647,7 @@
         ],
         "eid": "us7000hdcm",
         "location": "http://maps.google.com/maps?q=19.4815,-62.2176",
-        "name": "M 4.4 - 165 km NNE of The Valley, Anguilla",
+        "name": "M 4.4 - Leeward Islands",
         "source": [
           {
             "sid": "USGS",
@@ -709,6 +709,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hd93"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000hdeu",
+        "location": "http://maps.google.com/maps?q=-6.4885,147.7118",
+        "name": "M 4.8 - 16 km WNW of Finschhafen, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdeu"
       },
       {
         "category": [
@@ -845,11 +863,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6071"
       }
     ],
-    "last_update": "29/May/2022 @ 02:00:06 PDT",
+    "last_update": "29/May/2022 @ 03:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.4885,147.7118\"><b>M 4.8 - 16 km WNW of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdeu\">USGS</a>",
+          -6.4885,
+          147.7118
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.8814,172.2706\"><b>M 4.2 - southeast of the Loyalty Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdet\">USGS</a>",
+          -22.8814,
+          172.2706
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=15.442,-94.4076\"><b>M 4.1 - 84 km SSW of La Gloria, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hden\">USGS</a>",
           15.442,
@@ -876,7 +904,7 @@
           -62.162
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=19.4815,-62.2176\"><b>M 4.4 - 165 km NNE of The Valley, Anguilla</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdcm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=19.4815,-62.2176\"><b>M 4.4 - Leeward Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdcm\">USGS</a>",
           19.4815,
           -62.2176
         ],
@@ -914,11 +942,6 @@
           "<a href=\"http://maps.google.com/maps?q=33.0393,141.4035\"><b>M 4.6 - 254 km SSE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hd93\">USGS</a>",
           33.0393,
           141.4035
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-0.1132,124.6903\"><b>M 4.4 - 158 km S of Tomohon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hd8q\">USGS</a>",
-          -0.1132,
-          124.6903
         ]
       ],
       "Floods": [],
@@ -3876,13 +3899,13 @@
         ]
       ]
     },
-    "title": "45 events (29/May/2022 PDT)"
+    "title": "46 events (29/May/2022 PDT)"
   },
-  "last_update": "29/May/2022 @ 02:00:43 PDT",
-  "last_update_epoch": 1653814843.478783,
+  "last_update": "29/May/2022 @ 03:00:39 PDT",
+  "last_update_epoch": 1653818439.565973,
   "neo": {
     "date": "29/May/2022 PDT",
-    "last_update": "29/May/2022 @ 02:00:09 PDT",
+    "last_update": "29/May/2022 @ 03:00:09 PDT",
     "objects": [
       {
         "cat": "29/May/2022 @ 11:13:00 ",
@@ -4036,7 +4059,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/May/2022 @ 02:00:09 PDT",
+    "last_update": "29/May/2022 @ 03:00:09 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5751,7 +5774,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/May/2022 @ 02:00:19 PDT",
+    "last_update": "29/May/2022 @ 03:00:18 PDT",
     "launches": {
       "future": [
         {
@@ -17373,12 +17396,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "205,318,202.92 miles",
+      "earth_distance": "205,299,802.58 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,688,830.17 miles",
+      "mars_distance": "160,683,691.90 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,866.89 mph",
+      "speed": "3,866.77 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
