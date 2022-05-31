@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/May/2022 @ 08:00:11 PDT",
+    "last_update": "31/May/2022 @ 09:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/FalconSun_Cain_960.jpg",
     "title": "Rocket Transits Rippling Sun (31/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -834,8 +834,8 @@
           }
         ],
         "eid": "us7000hdtn",
-        "location": "http://maps.google.com/maps?q=51.5256,-178.3194",
-        "name": "M 5.2 - 122 km WSW of Adak, Alaska",
+        "location": "http://maps.google.com/maps?q=51.5023,-178.3443",
+        "name": "M 5.2 - 125 km WSW of Adak, Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -863,15 +863,15 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
       }
     ],
-    "last_update": "31/May/2022 @ 08:00:17 PDT",
+    "last_update": "31/May/2022 @ 09:00:11 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=51.5256,-178.3194\"><b>M 5.2 - 122 km WSW of Adak, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdtn\">USGS</a>",
-          51.5256,
-          -178.3194
+          "<a href=\"http://maps.google.com/maps?q=51.5023,-178.3443\"><b>M 5.2 - 125 km WSW of Adak, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdtn\">USGS</a>",
+          51.5023,
+          -178.3443
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.5469,149.6593\"><b>M 4.3 - 123 km NNW of Kimbe, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdta\">USGS</a>",
@@ -3946,11 +3946,11 @@
     },
     "title": "46 events (31/May/2022 PDT)"
   },
-  "last_update": "31/May/2022 @ 08:02:18 PDT",
-  "last_update_epoch": 1654009338.230185,
+  "last_update": "31/May/2022 @ 09:01:06 PDT",
+  "last_update_epoch": 1654012866.46843,
   "neo": {
     "date": "31/May/2022 PDT",
-    "last_update": "31/May/2022 @ 08:00:21 PDT",
+    "last_update": "31/May/2022 @ 09:00:16 PDT",
     "objects": [
       {
         "cat": "31/May/2022 @ 04:15:00 ",
@@ -4113,7 +4113,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/May/2022 @ 08:00:21 PDT",
+    "last_update": "31/May/2022 @ 09:00:16 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5828,7 +5828,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/May/2022 @ 08:00:46 PDT",
+    "last_update": "31/May/2022 @ 09:00:23 PDT",
     "launches": {
       "future": [
         {
@@ -17450,12 +17450,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "204,326,221.34 miles",
+      "earth_distance": "204,307,887.29 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,430,088.91 miles",
+      "mars_distance": "160,425,660.22 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,860.67 mph",
+      "speed": "3,860.56 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
