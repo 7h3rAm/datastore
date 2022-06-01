@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/May/2022 @ 17:00:03 PDT",
+    "last_update": "31/May/2022 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2205/FalconSun_Cain_960.jpg",
     "title": "Rocket Transits Rippling Sun (31/May/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -599,24 +599,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hdpk",
-        "location": "http://maps.google.com/maps?q=-20.5026,-68.8771",
-        "name": "M 4.2 - 136 km ESE of Iquique, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdpk"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000hdqn",
         "location": "http://maps.google.com/maps?q=47.6309,146.7471",
         "name": "M 4.2 - 280 km NNW of Kuril’sk, Russia",
@@ -725,16 +707,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hdpm",
-        "location": "http://maps.google.com/maps?q=-3.6298,131.328",
-        "name": "M 5.1 - 269 km E of Amahai, Indonesia",
+        "eid": "us7000hdzg",
+        "location": "http://maps.google.com/maps?q=-5.9671,148.4356",
+        "name": "M 5.1 - 92 km NE of Finschhafen, Papua New Guinea",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdpm"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdzg"
       },
       {
         "category": [
@@ -791,11 +773,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
       }
     ],
-    "last_update": "31/May/2022 @ 17:00:06 PDT",
+    "last_update": "31/May/2022 @ 18:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.9671,148.4356\"><b>M 5.1 - 92 km NE of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdzg\">USGS</a>",
+          -5.9671,
+          148.4356
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-6.2146,128.0455\"><b>M 4.0 - 278 km S of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdvk\">USGS</a>",
           -6.2146,
@@ -840,16 +827,6 @@
           "<a href=\"http://maps.google.com/maps?q=-19.0044,-67.0383\"><b>M 4.4 - 30 km WSW of Challapata, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdqg\">USGS</a>",
           -19.0044,
           -67.0383
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.6298,131.328\"><b>M 5.1 - 269 km E of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdpm\">USGS</a>",
-          -3.6298,
-          131.328
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.5026,-68.8771\"><b>M 4.2 - 136 km ESE of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hdpk\">USGS</a>",
-          -20.5026,
-          -68.8771
         ]
       ],
       "Floods": [],
@@ -3857,13 +3834,13 @@
         ]
       ]
     },
-    "title": "42 events (31/May/2022 PDT)"
+    "title": "41 events (31/May/2022 PDT)"
   },
-  "last_update": "31/May/2022 @ 17:01:00 PDT",
-  "last_update_epoch": 1654041660.988174,
+  "last_update": "31/May/2022 @ 18:01:06 PDT",
+  "last_update_epoch": 1654045266.485283,
   "neo": {
     "date": "01/Jun/2022 PDT",
-    "last_update": "31/May/2022 @ 17:00:10 PDT",
+    "last_update": "31/May/2022 @ 18:00:10 PDT",
     "objects": [
       {
         "cat": "01/Jun/2022 @ 04:42:00 ",
@@ -4098,7 +4075,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/May/2022 @ 17:00:11 PDT",
+    "last_update": "31/May/2022 @ 18:00:11 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5813,7 +5790,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/May/2022 @ 17:00:20 PDT",
+    "last_update": "31/May/2022 @ 18:00:19 PDT",
     "launches": {
       "future": [
         {
@@ -17435,12 +17412,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "204,161,269.08 miles",
+      "earth_distance": "204,142,948.72 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,390,710.12 miles",
+      "mars_distance": "160,386,401.38 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,859.72 mph",
+      "speed": "3,859.62 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
