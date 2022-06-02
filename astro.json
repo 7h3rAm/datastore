@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Jun/2022 @ 05:00:04 PDT",
+    "last_update": "02/Jun/2022 @ 06:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/OccultationVenusQuentinGineys1024.gif",
     "title": "Lunar Occultation of Venus (02/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -563,6 +563,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "nc73740051",
+        "location": "http://maps.google.com/maps?q=38.0791664,-121.9786682",
+        "name": "M 4.1 - 6km NNW of Bay Point, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73740051"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000he9q",
         "location": "http://maps.google.com/maps?q=51.2048,178.7851",
         "name": "M 4.1 - Rat Islands, Aleutian Islands, Alaska",
@@ -761,6 +779,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hebj",
+        "location": "http://maps.google.com/maps?q=9.024,126.1449",
+        "name": "M 4.6 - 3 km NW of Gamut, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hebj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "tx2022krce",
         "location": "http://maps.google.com/maps?q=31.71526584,-104.5509138",
         "name": "M 4.6 - 53 km SSW of Whites City, New Mexico",
@@ -901,6 +937,24 @@
       {
         "category": [
           {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000hebv",
+        "location": "http://maps.google.com/maps?q=-55.9953,-144.0576",
+        "name": "M 5.4 - Pacific-Antarctic Ridge",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hebv"
+      },
+      {
+        "category": [
+          {
             "emoji": "🔥",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/wildfires"
           }
@@ -917,11 +971,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
       }
     ],
-    "last_update": "02/Jun/2022 @ 05:00:07 PDT",
+    "last_update": "02/Jun/2022 @ 06:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-55.9953,-144.0576\"><b>M 5.4 - Pacific-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hebv\">USGS</a>",
+          -55.9953,
+          -144.0576
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.0791664,-121.9786682\"><b>M 4.1 - 6km NNW of Bay Point, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73740051\">USGS</a>",
+          38.0791664,
+          -121.9786682
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=9.024,126.1449\"><b>M 4.6 - 3 km NW of Gamut, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hebj\">USGS</a>",
+          9.024,
+          126.1449
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-55.3429,-32.4817\"><b>M 5.0 - South Georgia Island region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hean\">USGS</a>",
           -55.3429,
@@ -4018,13 +4087,13 @@
         ]
       ]
     },
-    "title": "49 events (02/Jun/2022 PDT)"
+    "title": "52 events (02/Jun/2022 PDT)"
   },
-  "last_update": "02/Jun/2022 @ 05:00:34 PDT",
-  "last_update_epoch": 1654171234.397334,
+  "last_update": "02/Jun/2022 @ 06:00:36 PDT",
+  "last_update_epoch": 1654174836.621533,
   "neo": {
     "date": "02/Jun/2022 PDT",
-    "last_update": "02/Jun/2022 @ 05:00:07 PDT",
+    "last_update": "02/Jun/2022 @ 06:00:07 PDT",
     "objects": [
       {
         "cat": "02/Jun/2022 @ 10:25:00 ",
@@ -4069,8 +4138,8 @@
     "date": "02/Jun/2022 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 31/May/2022 @ 15:20:50 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2022/05/31/jpg/epic_1b_20220531222538.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 01/Jun/2022 @ 15:02:09 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2022/06/01/jpg/epic_1b_20220601220658.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -4133,7 +4202,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Jun/2022 @ 05:00:08 PDT",
+    "last_update": "02/Jun/2022 @ 06:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5848,7 +5917,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Jun/2022 @ 05:00:14 PDT",
+    "last_update": "02/Jun/2022 @ 06:00:14 PDT",
     "launches": {
       "future": [
         {
@@ -17470,12 +17539,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "203,502,792.45 miles",
+      "earth_distance": "203,484,534.61 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,244,051.74 miles",
+      "mars_distance": "160,240,227.51 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,856.19 mph",
+      "speed": "3,856.10 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
