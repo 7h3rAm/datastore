@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Jun/2022 @ 19:00:03 PDT",
+    "last_update": "02/Jun/2022 @ 20:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/OccultationVenusQuentinGineys1024.gif",
     "title": "Lunar Occultation of Venus (02/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -581,6 +581,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000he8u",
+        "location": "http://maps.google.com/maps?q=-17.9538,-69.8565",
+        "name": "M 4.0 - 22 km SSE of Palca, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8u"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hecc",
         "location": "http://maps.google.com/maps?q=36.6233,71.2227",
         "name": "M 4.0 - 28 km WSW of Ashkāsham, Afghanistan",
@@ -671,24 +689,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000he8u",
-        "location": "http://maps.google.com/maps?q=-17.7573,-70.1506",
-        "name": "M 4.3 - 20 km W of Palca, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8u"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000heik",
         "location": "http://maps.google.com/maps?q=-17.9483,-178.1542",
         "name": "M 4.3 - 268 km E of Levuka, Fiji",
@@ -725,6 +725,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000he8w",
+        "location": "http://maps.google.com/maps?q=-32.2263,-70.2841",
+        "name": "M 4.4 - 71 km NE of San Felipe, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8w"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000he97",
         "location": "http://maps.google.com/maps?q=-6.4504,-76.8448",
         "name": "M 4.5 - 21 km WSW of Tabalosos, Peru",
@@ -735,24 +753,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000he97"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000he8w",
-        "location": "http://maps.google.com/maps?q=-32.2168,-70.2996",
-        "name": "M 4.5 - 71 km NE of San Felipe, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8w"
       },
       {
         "category": [
@@ -825,24 +825,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hebj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000he8l",
-        "location": "http://maps.google.com/maps?q=-16.9596,168.6966",
-        "name": "M 4.6 - 95 km NNE of Port-Vila, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8l"
       },
       {
         "category": [
@@ -1079,7 +1061,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
       }
     ],
-    "last_update": "02/Jun/2022 @ 19:00:07 PDT",
+    "last_update": "02/Jun/2022 @ 20:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1205,24 +1187,19 @@
           -76.8448
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-32.2168,-70.2996\"><b>M 4.5 - 71 km NE of San Felipe, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8w\">USGS</a>",
-          -32.2168,
-          -70.2996
+          "<a href=\"http://maps.google.com/maps?q=-32.2263,-70.2841\"><b>M 4.4 - 71 km NE of San Felipe, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8w\">USGS</a>",
+          -32.2263,
+          -70.2841
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.7573,-70.1506\"><b>M 4.3 - 20 km W of Palca, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8u\">USGS</a>",
-          -17.7573,
-          -70.1506
+          "<a href=\"http://maps.google.com/maps?q=-17.9538,-69.8565\"><b>M 4.0 - 22 km SSE of Palca, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8u\">USGS</a>",
+          -17.9538,
+          -69.8565
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=6.0501,127.5671\"><b>M 5.2 - 157 km ESE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8r\">USGS</a>",
           6.0501,
           127.5671
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-16.9596,168.6966\"><b>M 4.6 - 95 km NNE of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000he8l\">USGS</a>",
-          -16.9596,
-          168.6966
         ]
       ],
       "Floods": [],
@@ -4225,13 +4202,13 @@
         ]
       ]
     },
-    "title": "58 events (02/Jun/2022 PDT)"
+    "title": "57 events (02/Jun/2022 PDT)"
   },
-  "last_update": "02/Jun/2022 @ 19:00:39 PDT",
-  "last_update_epoch": 1654221639.133123,
+  "last_update": "02/Jun/2022 @ 20:00:40 PDT",
+  "last_update_epoch": 1654225240.929483,
   "neo": {
     "date": "03/Jun/2022 PDT",
-    "last_update": "02/Jun/2022 @ 19:00:07 PDT",
+    "last_update": "02/Jun/2022 @ 20:00:07 PDT",
     "objects": [
       {
         "cat": "03/Jun/2022 @ 19:16:00 ",
@@ -4385,7 +4362,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Jun/2022 @ 19:00:08 PDT",
+    "last_update": "02/Jun/2022 @ 20:00:07 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6100,7 +6077,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Jun/2022 @ 19:00:17 PDT",
+    "last_update": "02/Jun/2022 @ 20:00:16 PDT",
     "launches": {
       "future": [
         {
@@ -17722,12 +17699,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "203,247,360.71 miles",
+      "earth_distance": "203,229,130.60 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,191,748.87 miles",
+      "mars_distance": "160,188,115.06 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,854.93 mph",
+      "speed": "3,854.84 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
