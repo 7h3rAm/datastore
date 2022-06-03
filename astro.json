@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Jun/2022 @ 15:00:04 PDT",
+    "last_update": "03/Jun/2022 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/Oudoux-and-Jeff-Graphy-with10000km_c.jpg",
     "title": "A 10,000 Kilometer Galactic Bridge (03/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -581,16 +581,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hei4",
-        "location": "http://maps.google.com/maps?q=23.2756,95.9523",
-        "name": "M 4.2 - 69 km NW of Mogok, Myanmar",
+        "eid": "us7000hesn",
+        "location": "http://maps.google.com/maps?q=39.8707,27.9867",
+        "name": "M 4.0 - 15 km WSW of Susurluk, Turkey",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hei4"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hesn"
       },
       {
         "category": [
@@ -627,24 +627,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000heik"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000hei1",
-        "location": "http://maps.google.com/maps?q=11.6432,-87.3546",
-        "name": "M 4.3 - 92 km W of Masachapa, Nicaragua",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hei1"
       },
       {
         "category": [
@@ -971,11 +953,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
       }
     ],
-    "last_update": "03/Jun/2022 @ 15:00:07 PDT",
+    "last_update": "03/Jun/2022 @ 16:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=39.8707,27.9867\"><b>M 4.0 - 15 km WSW of Susurluk, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hesn\">USGS</a>",
+          39.8707,
+          27.9867
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=14.1165,-91.4227\"><b>M 4.7 - 16 km SW of Nueva Concepción, Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hery\">USGS</a>",
           14.1165,
@@ -1070,16 +1057,6 @@
           "<a href=\"http://maps.google.com/maps?q=52.3887,-170.0226\"><b>M 5.1 - 99 km SW of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000heii\">USGS</a>",
           52.3887,
           -170.0226
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=23.2756,95.9523\"><b>M 4.2 - 69 km NW of Mogok, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hei4\">USGS</a>",
-          23.2756,
-          95.9523
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=11.6432,-87.3546\"><b>M 4.3 - 92 km W of Masachapa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hei1\">USGS</a>",
-          11.6432,
-          -87.3546
         ]
       ],
       "Floods": [],
@@ -4107,13 +4084,13 @@
         ]
       ]
     },
-    "title": "52 events (03/Jun/2022 PDT)"
+    "title": "51 events (03/Jun/2022 PDT)"
   },
-  "last_update": "03/Jun/2022 @ 15:00:47 PDT",
-  "last_update_epoch": 1654293647.006806,
+  "last_update": "03/Jun/2022 @ 16:00:43 PDT",
+  "last_update_epoch": 1654297243.111608,
   "neo": {
     "date": "03/Jun/2022 PDT",
-    "last_update": "03/Jun/2022 @ 15:00:08 PDT",
+    "last_update": "03/Jun/2022 @ 16:00:08 PDT",
     "objects": [
       {
         "cat": "03/Jun/2022 @ 19:16:00 ",
@@ -4267,7 +4244,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Jun/2022 @ 15:00:08 PDT",
+    "last_update": "03/Jun/2022 @ 16:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5982,7 +5959,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Jun/2022 @ 15:00:17 PDT",
+    "last_update": "03/Jun/2022 @ 16:00:15 PDT",
     "launches": {
       "future": [
         {
@@ -17604,12 +17581,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "202,883,160.52 miles",
+      "earth_distance": "202,864,973.42 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,121,671.38 miles",
+      "mars_distance": "160,118,311.51 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,853.24 mph",
+      "speed": "3,853.16 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
