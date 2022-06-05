@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Jun/2022 @ 09:00:03 PDT",
+    "last_update": "05/Jun/2022 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/3c75_chandraNRAO_960.jpg",
     "title": "Two Black Holes Dancing in 3C 75 (05/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -935,7 +935,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
       }
     ],
-    "last_update": "05/Jun/2022 @ 09:00:05 PDT",
+    "last_update": "05/Jun/2022 @ 10:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4008,11 +4008,11 @@
     },
     "title": "50 events (05/Jun/2022 PDT)"
   },
-  "last_update": "05/Jun/2022 @ 09:00:40 PDT",
-  "last_update_epoch": 1654444840.762932,
+  "last_update": "05/Jun/2022 @ 10:00:09 PDT",
+  "last_update_epoch": 1654448409.364584,
   "neo": {
     "date": "05/Jun/2022 PDT",
-    "last_update": "05/Jun/2022 @ 09:00:07 PDT",
+    "last_update": "05/Jun/2022 @ 10:00:09 PDT",
     "objects": [
       {
         "cat": "05/Jun/2022 @ 03:23:00 ",
