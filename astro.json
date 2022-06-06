@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Jun/2022 @ 08:00:07 PDT",
+    "last_update": "06/Jun/2022 @ 09:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/M31MwBang_NASA_1080.jpg",
     "title": "Milky Way Galaxy Doomed: Collision with Andromeda Pending (06/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -671,6 +671,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hfb7",
+        "location": "http://maps.google.com/maps?q=26.6638,126.2384",
+        "name": "M 4.6 - 152 km WNW of Naha, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hfb7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hf7s",
         "location": "http://maps.google.com/maps?q=6.0298,126.0336",
         "name": "M 4.6 - 37 km E of Lamitan, Philippines",
@@ -707,24 +725,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hf63",
-        "location": "http://maps.google.com/maps?q=-57.7448,148.0946",
-        "name": "M 4.7 - west of Macquarie Island",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hf63"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000hf9e",
         "location": "http://maps.google.com/maps?q=-8.5242,118.274",
         "name": "M 4.8 - 20 km W of Dompu, Indonesia",
@@ -753,6 +753,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hf85"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000hfbe",
+        "location": "http://maps.google.com/maps?q=-19.2502,-174.8033",
+        "name": "M 4.9 - 78 km NW of Pangai, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hfbe"
       },
       {
         "category": [
@@ -827,11 +845,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6065"
       }
     ],
-    "last_update": "06/Jun/2022 @ 08:00:10 PDT",
+    "last_update": "06/Jun/2022 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-19.2502,-174.8033\"><b>M 4.9 - 78 km NW of Pangai, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hfbe\">USGS</a>",
+          -19.2502,
+          -174.8033
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.7839,70.9267\"><b>M 4.2 - 12 km SE of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hfb9\">USGS</a>",
           36.7839,
@@ -841,6 +864,11 @@
           "<a href=\"http://maps.google.com/maps?q=-8.1113,119.9503\"><b>M 4.5 - 43 km N of Labuan Bajo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hfb6\">USGS</a>",
           -8.1113,
           119.9503
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=26.6638,126.2384\"><b>M 4.6 - 152 km WNW of Naha, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hfb7\">USGS</a>",
+          26.6638,
+          126.2384
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-2.7574,139.1176\"><b>M 4.7 - 169 km W of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hfap\">USGS</a>",
@@ -901,11 +929,6 @@
           "<a href=\"http://maps.google.com/maps?q=30.201,142.6032\"><b>M 4.5 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hf6j\">USGS</a>",
           30.201,
           142.6032
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-57.7448,148.0946\"><b>M 4.7 - west of Macquarie Island</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hf63\">USGS</a>",
-          -57.7448,
-          148.0946
         ]
       ],
       "Floods": [],
@@ -3868,13 +3891,13 @@
         ]
       ]
     },
-    "title": "44 events (06/Jun/2022 PDT)"
+    "title": "45 events (06/Jun/2022 PDT)"
   },
-  "last_update": "06/Jun/2022 @ 08:00:54 PDT",
-  "last_update_epoch": 1654527654.642622,
+  "last_update": "06/Jun/2022 @ 09:00:51 PDT",
+  "last_update_epoch": 1654531251.719165,
   "neo": {
     "date": "06/Jun/2022 PDT",
-    "last_update": "06/Jun/2022 @ 08:00:10 PDT",
+    "last_update": "06/Jun/2022 @ 09:00:07 PDT",
     "objects": [
       {
         "cat": "06/Jun/2022 @ 19:07:00 ",
@@ -4091,7 +4114,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Jun/2022 @ 08:00:10 PDT",
+    "last_update": "06/Jun/2022 @ 09:00:07 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5821,7 +5844,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Jun/2022 @ 08:00:17 PDT",
+    "last_update": "06/Jun/2022 @ 09:00:15 PDT",
     "launches": {
       "future": [
         {
@@ -17443,12 +17466,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "201,706,134.62 miles",
+      "earth_distance": "201,688,115.34 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "159,932,131.09 miles",
+      "mars_distance": "159,929,676.67 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,848.68 mph",
+      "speed": "3,848.62 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
