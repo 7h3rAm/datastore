@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "08/Jun/2022 @ 20:00:03 PDT",
+    "last_update": "08/Jun/2022 @ 21:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/ShipTracks_Terra_960.jpg",
     "title": "Ship Tracks over the Pacific Ocean (08/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3970,8 +3970,8 @@
     },
     "title": "44 events (08/Jun/2022 PDT)"
   },
-  "last_update": "08/Jun/2022 @ 20:00:40 PDT",
-  "last_update_epoch": 1654743640.494711,
+  "last_update": "08/Jun/2022 @ 21:00:05 PDT",
+  "last_update_epoch": 1654747205.259671,
   "neo": {
     "date": "09/Jun/2022 PDT",
     "last_update": "08/Jun/2022 @ 20:00:06 PDT",
