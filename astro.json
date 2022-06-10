@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "09/Jun/2022 @ 22:00:04 PDT",
+    "last_update": "09/Jun/2022 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/Arp286-202203-CDK24-FLIPL9000-LRGB_NicolasROLLAND_signature_LD1024.jpg",
     "title": "Arp 286: Trio in Virgo (10/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -953,7 +953,7 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hg9p"
       }
     ],
-    "last_update": "09/Jun/2022 @ 22:00:06 PDT",
+    "last_update": "09/Jun/2022 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4131,11 +4131,11 @@
     },
     "title": "51 events (09/Jun/2022 PDT)"
   },
-  "last_update": "09/Jun/2022 @ 22:00:36 PDT",
-  "last_update_epoch": 1654837236.290069,
+  "last_update": "09/Jun/2022 @ 23:00:06 PDT",
+  "last_update_epoch": 1654840806.894934,
   "neo": {
     "date": "10/Jun/2022 PDT",
-    "last_update": "09/Jun/2022 @ 22:00:09 PDT",
+    "last_update": "09/Jun/2022 @ 23:00:06 PDT",
     "objects": [
       {
         "cat": "10/Jun/2022 @ 14:04:00 ",
@@ -4325,7 +4325,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "09/Jun/2022 @ 22:00:09 PDT",
+    "last_update": "09/Jun/2022 @ 23:00:06 PDT",
     "people": [
       {
         "name": "Bob Hines",
