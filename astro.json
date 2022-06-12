@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "11/Jun/2022 @ 18:00:04 PDT",
+    "last_update": "11/Jun/2022 @ 19:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/MilkyWayArchCumeada-fb1200.jpg",
     "title": "The Road and the Milky Way (11/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -761,6 +761,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hgu3",
+        "location": "http://maps.google.com/maps?q=6.9021,-76.1565",
+        "name": "M 4.6 - 1 km E of Uramita, Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hgu3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hgs5",
         "location": "http://maps.google.com/maps?q=-36.4565,178.4601",
         "name": "M 4.6 - 201 km NNE of Opotiki, New Zealand",
@@ -1097,11 +1115,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "11/Jun/2022 @ 18:00:05 PDT",
+    "last_update": "11/Jun/2022 @ 19:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=6.9021,-76.1565\"><b>M 4.6 - 1 km E of Uramita, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hgu3\">USGS</a>",
+          6.9021,
+          -76.1565
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-8.3459,111.4605\"><b>M 5.0 - 40 km SW of Trenggalek, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hgtm\">USGS</a>",
           -8.3459,
@@ -4403,13 +4426,13 @@
         ]
       ]
     },
-    "title": "59 events (11/Jun/2022 PDT)"
+    "title": "60 events (11/Jun/2022 PDT)"
   },
-  "last_update": "11/Jun/2022 @ 18:00:39 PDT",
-  "last_update_epoch": 1654995639.465985,
+  "last_update": "11/Jun/2022 @ 19:00:09 PDT",
+  "last_update_epoch": 1654999209.962911,
   "neo": {
     "date": "12/Jun/2022 PDT",
-    "last_update": "11/Jun/2022 @ 18:00:09 PDT",
+    "last_update": "11/Jun/2022 @ 19:00:09 PDT",
     "objects": [
       {
         "cat": "12/Jun/2022 @ 04:48:00 ",
@@ -4554,7 +4577,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "11/Jun/2022 @ 18:00:09 PDT",
+    "last_update": "11/Jun/2022 @ 19:00:09 PDT",
     "people": [
       {
         "name": "Bob Hines",
