@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Jun/2022 @ 15:00:03 PDT",
+    "last_update": "19/Jun/2022 @ 16:00:03 PDT",
     "source": "https://stefanom.org/spc/game.php",
     "title": "Game: Super Planet Crash (19/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -198,7 +198,7 @@
           }
         ],
         "eid": "EONET_6084",
-        "location": "https://www.google.com/maps/dir/13.5,-102.4/13.8,-102.1/14.5,-102/14.9,-102.1/15.3,-102.4/15,-102.7/15,-102.9/15.2,-103.3/15.6,-103.7/15.8,-104.3/16,-105.1/16.4,-106/16.8,-106.9/17.6,-108.4/17.3,-109.5/17.5,-109.9/17.7,-110.5/17.9,-110.8/18.3,-111.3/18.6,-111.6/18.8,-112.1/19,-112.8/@13.5,-102.4,3z",
+        "location": "https://www.google.com/maps/dir/13.5,-102.4/13.8,-102.1/14.5,-102/14.9,-102.1/15.3,-102.4/15,-102.7/15,-102.9/15.2,-103.3/15.6,-103.7/15.8,-104.3/16,-105.1/16.4,-106/16.8,-106.9/17.6,-108.4/17.3,-109.5/17.5,-109.9/17.7,-110.5/17.9,-110.8/18.3,-111.3/18.6,-111.6/18.8,-112.1/19,-112.8/19.1,-112.3/@13.5,-102.4,3z",
         "name": "Hurricane Blas",
         "source": [
           {
@@ -887,6 +887,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hiln",
+        "location": "http://maps.google.com/maps?q=27.5201,103.7248",
+        "name": "M 4.5 - Sichuan-Yunnan-Guizhou region, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hiln"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000higv",
         "location": "http://maps.google.com/maps?q=22.1149,143.8145",
         "name": "M 4.5 - Volcano Islands, Japan region",
@@ -1140,7 +1158,7 @@
           }
         ],
         "eid": "EONET_6089",
-        "location": "https://www.google.com/maps/dir/11.5,-89.4/11.7,-89.4/11.9,-89.1/12.4,-89.3/12.8,-89.8/12.9,-90.1/13.1,-90.2/13.1,-90.9/12.9,-91.9/@11.5,-89.4,3z",
+        "location": "https://www.google.com/maps/dir/11.5,-89.4/11.7,-89.4/11.9,-89.1/12.4,-89.3/12.8,-89.8/12.9,-90.1/13.1,-90.2/13.1,-90.9/12.9,-91.9/12.7,-93.1/@11.5,-89.4,3z",
         "name": "Tropical Storm Celia",
         "source": [
           {
@@ -1173,11 +1191,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "19/Jun/2022 @ 15:00:06 PDT",
+    "last_update": "19/Jun/2022 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=27.5201,103.7248\"><b>M 4.5 - Sichuan-Yunnan-Guizhou region, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hiln\">USGS</a>",
+          27.5201,
+          103.7248
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=44.4647,147.9723\"><b>M 5.0 - 85 km S of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hikw\">USGS</a>",
           44.4647,
@@ -4406,6 +4429,11 @@
           -91.9
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=12.7,-93.1\"><b>Tropical Storm Celia</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0322.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/CELIA.shtml\">NOAA_NHC</a>",
+          12.7,
+          -93.1
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=13.5,-102.4\"><b>Hurricane Blas</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/report.aspx?eventid=1000888&amp;episodeid=2&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0222.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/BLAS.shtml\">NOAA_NHC</a>",
           13.5,
           -102.4
@@ -4514,6 +4542,11 @@
           "<a href=\"http://maps.google.com/maps?q=19,-112.8\"><b>Hurricane Blas</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/report.aspx?eventid=1000888&amp;episodeid=2&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0222.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/BLAS.shtml\">NOAA_NHC</a>",
           19,
           -112.8
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.1,-112.3\"><b>Hurricane Blas</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/report.aspx?eventid=1000888&amp;episodeid=2&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0222.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/BLAS.shtml\">NOAA_NHC</a>",
+          19.1,
+          -112.3
         ]
       ],
       "Snow": [],
@@ -4609,10 +4642,10 @@
         ]
       ]
     },
-    "title": "63 events (19/Jun/2022 PDT)"
+    "title": "64 events (19/Jun/2022 PDT)"
   },
-  "last_update": "19/Jun/2022 @ 15:00:37 PDT",
-  "last_update_epoch": 1655676037.094209,
+  "last_update": "19/Jun/2022 @ 16:00:05 PDT",
+  "last_update_epoch": 1655679605.575133,
   "neo": {
     "date": "19/Jun/2022 PDT",
     "last_update": "19/Jun/2022 @ 15:00:09 PDT",
