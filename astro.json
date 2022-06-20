@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jun/2022 @ 05:00:04 PDT",
+    "last_update": "20/Jun/2022 @ 06:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/MarsFingers_Curiosity_960.jpg",
     "title": "Rock Fingers on Mars (20/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -923,6 +923,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hipr",
+        "location": "http://maps.google.com/maps?q=-22.5651,-66.258",
+        "name": "M 4.4 - 60 km WNW of Abra Pampa, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hipr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hilz",
         "location": "http://maps.google.com/maps?q=45.3436,148.8708",
         "name": "M 4.4 - 78 km E of Kuril’sk, Russia",
@@ -1067,24 +1085,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hija",
-        "location": "http://maps.google.com/maps?q=-22.5266,-174.7607",
-        "name": "M 4.8 - 133 km S of ‘Ohonua, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hija"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000himb",
         "location": "http://maps.google.com/maps?q=-20.2875,-68.7046",
         "name": "M 4.8 - 151 km E of Iquique, Chile",
@@ -1095,6 +1095,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000himb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000hiq6",
+        "location": "http://maps.google.com/maps?q=-60.563,-26.7939",
+        "name": "M 4.8 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hiq6"
       },
       {
         "category": [
@@ -1317,11 +1335,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "20/Jun/2022 @ 05:00:06 PDT",
+    "last_update": "20/Jun/2022 @ 06:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-60.563,-26.7939\"><b>M 4.8 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hiq6\">USGS</a>",
+          -60.563,
+          -26.7939
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.5651,-66.258\"><b>M 4.4 - 60 km WNW of Abra Pampa, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hipr\">USGS</a>",
+          -22.5651,
+          -66.258
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-7.543,-13.4247\"><b>M 4.9 - 116 km ENE of Georgetown, Saint Helena</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hipq\">USGS</a>",
           -7.543,
@@ -1436,11 +1464,6 @@
           "<a href=\"http://maps.google.com/maps?q=39.5802,141.556\"><b>M 4.2 - 29 km N of Tōno, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hijh\">USGS</a>",
           39.5802,
           141.556
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.5266,-174.7607\"><b>M 4.8 - 133 km S of ‘Ohonua, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hija\">USGS</a>",
-          -22.5266,
-          -174.7607
         ]
       ],
       "Floods": [],
@@ -4823,13 +4846,13 @@
         ]
       ]
     },
-    "title": "71 events (20/Jun/2022 PDT)"
+    "title": "72 events (20/Jun/2022 PDT)"
   },
-  "last_update": "20/Jun/2022 @ 05:00:40 PDT",
-  "last_update_epoch": 1655726440.951539,
+  "last_update": "20/Jun/2022 @ 06:00:36 PDT",
+  "last_update_epoch": 1655730036.530462,
   "neo": {
     "date": "20/Jun/2022 PDT",
-    "last_update": "20/Jun/2022 @ 05:00:07 PDT",
+    "last_update": "20/Jun/2022 @ 06:00:06 PDT",
     "objects": [
       {
         "cat": "20/Jun/2022 @ 21:42:00 ",
@@ -4874,8 +4897,8 @@
     "date": "20/Jun/2022 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 18/Jun/2022 @ 08:57:27 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2022/06/18/jpg/epic_1b_20220618160216.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 19/Jun/2022 @ 14:43:27 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2022/06/19/jpg/epic_1b_20220619214816.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -4938,7 +4961,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jun/2022 @ 05:00:07 PDT",
+    "last_update": "20/Jun/2022 @ 06:00:07 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6668,7 +6691,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jun/2022 @ 05:00:17 PDT",
+    "last_update": "20/Jun/2022 @ 06:00:13 PDT",
     "launches": {
       "future": [
         {
@@ -18371,12 +18394,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "195,927,291.14 miles",
+      "earth_distance": "195,910,760.45 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "159,923,409.30 miles",
+      "mars_distance": "159,925,903.83 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,848.47 mph",
+      "speed": "3,848.53 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
