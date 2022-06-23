@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Jun/2022 @ 21:00:09 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2206/Veil_Stocks_1080.jpg",
-    "title": "Supernova Remnant: The Veil Nebula (22/Jun/2022 PDT)",
+    "last_update": "22/Jun/2022 @ 22:00:04 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2206/NGC6744_chakrabarti1024R.jpg",
+    "title": "Spiral Galaxy NGC 6744 (23/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -798,7 +798,7 @@
           }
         ],
         "eid": "us7000hjgc",
-        "location": "http://maps.google.com/maps?q=36.4679,70.8119",
+        "location": "http://maps.google.com/maps?q=36.464,70.7917",
         "name": "M 4.2 - 44 km S of Jurm, Afghanistan",
         "source": [
           {
@@ -815,16 +815,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hj6u",
-        "location": "http://maps.google.com/maps?q=41.8462,140.2227",
-        "name": "M 4.3 - 35 km W of Kamiiso, Japan",
+        "eid": "us7000hjha",
+        "location": "http://maps.google.com/maps?q=36.5149,70.5141",
+        "name": "M 4.3 - 48 km SW of Jurm, Afghanistan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj6u"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hjha"
       },
       {
         "category": [
@@ -923,6 +923,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hj8v",
+        "location": "http://maps.google.com/maps?q=30.72,131.9468",
+        "name": "M 4.5 - 90 km E of Nishinoomote, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj8v"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hj8x",
         "location": "http://maps.google.com/maps?q=-7.1414,129.3465",
         "name": "M 4.5 - Kepulauan Babar, Indonesia",
@@ -933,24 +951,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj8x"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000hj8v",
-        "location": "http://maps.google.com/maps?q=30.72,131.9468",
-        "name": "M 4.5 - Kyushu, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj8v"
       },
       {
         "category": [
@@ -1031,24 +1031,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hj73",
-        "location": "http://maps.google.com/maps?q=-9.2416,-109.7224",
-        "name": "M 4.7 - central East Pacific Rise",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj73"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000hj8t",
         "location": "http://maps.google.com/maps?q=2.6387,128.7269",
         "name": "M 4.8 - 128 km NE of Tobelo, Indonesia",
@@ -1059,24 +1041,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj8t"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000hj70",
-        "location": "http://maps.google.com/maps?q=0.6793,-77.9203",
-        "name": "M 4.8 - 6 km NNE of El Ángel, Ecuador",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj70"
       },
       {
         "category": [
@@ -1140,8 +1104,8 @@
           }
         ],
         "eid": "us7000hjgi",
-        "location": "http://maps.google.com/maps?q=-9.4635,149.833",
-        "name": "M 5.2 - 116 km NW of Alotau, Papua New Guinea",
+        "location": "http://maps.google.com/maps?q=-9.469,149.8001",
+        "name": "M 5.2 - 118 km NW of Alotau, Papua New Guinea",
         "source": [
           {
             "sid": "USGS",
@@ -1248,7 +1212,7 @@
           }
         ],
         "eid": "EONET_6089",
-        "location": "https://www.google.com/maps/dir/11.5,-89.4/11.7,-89.4/11.9,-89.1/12.4,-89.3/12.8,-89.8/12.9,-90.1/13.1,-90.2/13.1,-90.9/12.9,-91.9/12.7,-93.1/12.4,-93.6/12,-93.9/11.7,-94.4/11.9,-95.8/11.8,-96.9/11.6,-98/11.6,-98.9/12.3,-100.8/12.8,-101.4/13.2,-102.5/13.6,-103.4/13.6,-103.9/@11.5,-89.4,3z",
+        "location": "https://www.google.com/maps/dir/11.5,-89.4/11.7,-89.4/11.9,-89.1/12.4,-89.3/12.8,-89.8/12.9,-90.1/13.1,-90.2/13.1,-90.9/12.9,-91.9/12.7,-93.1/12.4,-93.6/12,-93.9/11.7,-94.4/11.9,-95.8/11.8,-96.9/11.6,-98/11.6,-98.9/12.3,-100.8/12.8,-101.4/13.2,-102.5/13.6,-103.4/13.6,-103.9/13.9,-104.1/@11.5,-89.4,3z",
         "name": "Tropical Storm Celia",
         "source": [
           {
@@ -1285,20 +1249,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "22/Jun/2022 @ 21:00:12 PDT",
+    "last_update": "22/Jun/2022 @ 22:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-9.4635,149.833\"><b>M 5.2 - 116 km NW of Alotau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hjgi\">USGS</a>",
-          -9.4635,
-          149.833
+          "<a href=\"http://maps.google.com/maps?q=36.5149,70.5141\"><b>M 4.3 - 48 km SW of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hjha\">USGS</a>",
+          36.5149,
+          70.5141
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.4679,70.8119\"><b>M 4.2 - 44 km S of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hjgc\">USGS</a>",
-          36.4679,
-          70.8119
+          "<a href=\"http://maps.google.com/maps?q=-9.469,149.8001\"><b>M 5.2 - 118 km NW of Alotau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hjgi\">USGS</a>",
+          -9.469,
+          149.8001
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.464,70.7917\"><b>M 4.2 - 44 km S of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hjgc\">USGS</a>",
+          36.464,
+          70.7917
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=50.5991,157.2031\"><b>M 5.2 - 76 km E of Severo-Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hjgb\">USGS</a>",
@@ -1381,7 +1350,7 @@
           96.4937
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=30.72,131.9468\"><b>M 4.5 - Kyushu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj8v\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=30.72,131.9468\"><b>M 4.5 - 90 km E of Nishinoomote, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj8v\">USGS</a>",
           30.72,
           131.9468
         ],
@@ -1389,21 +1358,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.3324,120.4418\"><b>M 5.6 - 141 km N of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj75\">USGS</a>",
           -7.3324,
           120.4418
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=0.6793,-77.9203\"><b>M 4.8 - 6 km NNE of El Ángel, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj70\">USGS</a>",
-          0.6793,
-          -77.9203
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-9.2416,-109.7224\"><b>M 4.7 - central East Pacific Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj73\">USGS</a>",
-          -9.2416,
-          -109.7224
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=41.8462,140.2227\"><b>M 4.3 - 35 km W of Kamiiso, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hj6u\">USGS</a>",
-          41.8462,
-          140.2227
         ]
       ],
       "Floods": [],
@@ -4618,6 +4572,11 @@
           -103.9
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=13.9,-104.1\"><b>Tropical Storm Celia</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000889&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0322.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/CELIA.shtml\">NOAA_NHC</a>",
+          13.9,
+          -104.1
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=13.5,-102.4\"><b>Hurricane Blas</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/report.aspx?eventid=1000888&amp;episodeid=2&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0222.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/BLAS.shtml\">NOAA_NHC</a>",
           13.5,
           -102.4
@@ -4836,13 +4795,13 @@
         ]
       ]
     },
-    "title": "69 events (22/Jun/2022 PDT)"
+    "title": "67 events (22/Jun/2022 PDT)"
   },
-  "last_update": "22/Jun/2022 @ 21:00:49 PDT",
-  "last_update_epoch": 1655956849.140804,
+  "last_update": "22/Jun/2022 @ 22:00:39 PDT",
+  "last_update_epoch": 1655960439.903078,
   "neo": {
     "date": "23/Jun/2022 PDT",
-    "last_update": "22/Jun/2022 @ 21:00:14 PDT",
+    "last_update": "22/Jun/2022 @ 22:00:10 PDT",
     "objects": [
       {
         "cat": "23/Jun/2022 @ 15:05:00 ",
@@ -5023,7 +4982,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Jun/2022 @ 21:00:15 PDT",
+    "last_update": "22/Jun/2022 @ 22:00:10 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6753,7 +6712,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Jun/2022 @ 21:00:22 PDT",
+    "last_update": "22/Jun/2022 @ 22:00:19 PDT",
     "launches": {
       "future": [
         {
@@ -18456,12 +18415,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "194,881,007.17 miles",
+      "earth_distance": "194,864,851.65 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,114,423.78 miles",
+      "mars_distance": "160,117,915.90 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,853.07 mph",
+      "speed": "3,853.15 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
