@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Jun/2022 @ 12:00:05 PDT",
+    "last_update": "26/Jun/2022 @ 13:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/V838Mon_Hubble_960.jpg",
     "title": "Light Echoes from V838 Mon (26/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -865,24 +865,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hk84",
-        "location": "http://maps.google.com/maps?q=-18.1961,-177.9868",
-        "name": "M 4.3 - 285 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hk84"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000hkeg",
         "location": "http://maps.google.com/maps?q=31.878,57.3319",
         "name": "M 4.3 - 84 km NE of Rāvar, Iran",
@@ -955,6 +937,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hkf6",
+        "location": "http://maps.google.com/maps?q=-5.2633,151.9304",
+        "name": "M 4.5 - 108 km SSW of Kokopo, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkf6"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hk8i",
         "location": "http://maps.google.com/maps?q=5.9714,125.7253",
         "name": "M 4.5 - 5 km SE of Mangili, Philippines",
@@ -965,24 +965,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hk8i"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000hk85",
-        "location": "http://maps.google.com/maps?q=-58.6246,-25.0482",
-        "name": "M 4.5 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hk85"
       },
       {
         "category": [
@@ -1209,11 +1191,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "26/Jun/2022 @ 12:00:07 PDT",
+    "last_update": "26/Jun/2022 @ 13:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.2633,151.9304\"><b>M 4.5 - 108 km SSW of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkf6\">USGS</a>",
+          -5.2633,
+          151.9304
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=31.878,57.3319\"><b>M 4.3 - 84 km NE of Rāvar, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkeg\">USGS</a>",
           31.878,
@@ -1298,16 +1285,6 @@
           "<a href=\"http://maps.google.com/maps?q=5.9714,125.7253\"><b>M 4.5 - 5 km SE of Mangili, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hk8i\">USGS</a>",
           5.9714,
           125.7253
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-58.6246,-25.0482\"><b>M 4.5 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hk85\">USGS</a>",
-          -58.6246,
-          -25.0482
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.1961,-177.9868\"><b>M 4.3 - 285 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hk84\">USGS</a>",
-          -18.1961,
-          -177.9868
         ]
       ],
       "Floods": [],
@@ -4815,13 +4792,13 @@
         ]
       ]
     },
-    "title": "65 events (26/Jun/2022 PDT)"
+    "title": "64 events (26/Jun/2022 PDT)"
   },
-  "last_update": "26/Jun/2022 @ 12:00:37 PDT",
-  "last_update_epoch": 1656270037.431446,
+  "last_update": "26/Jun/2022 @ 13:00:45 PDT",
+  "last_update_epoch": 1656273645.082404,
   "neo": {
     "date": "26/Jun/2022 PDT",
-    "last_update": "26/Jun/2022 @ 12:00:09 PDT",
+    "last_update": "26/Jun/2022 @ 13:00:06 PDT",
     "objects": [
       {
         "cat": "26/Jun/2022 @ 19:20:00 ",
@@ -4975,7 +4952,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Jun/2022 @ 12:00:10 PDT",
+    "last_update": "26/Jun/2022 @ 13:00:06 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6705,7 +6682,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "26/Jun/2022 @ 12:00:17 PDT",
+    "last_update": "26/Jun/2022 @ 13:00:13 PDT",
     "launches": {
       "future": [
         {
@@ -18408,12 +18385,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "193,496,313.49 miles",
+      "earth_distance": "193,483,312.73 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,477,921.66 miles",
+      "mars_distance": "160,481,976.04 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,861.82 mph",
+      "speed": "3,861.92 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
