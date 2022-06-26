@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Jun/2022 @ 02:00:03 PDT",
+    "last_update": "26/Jun/2022 @ 03:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/V838Mon_Hubble_960.jpg",
     "title": "Light Echoes from V838 Mon (26/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -793,6 +793,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hkci",
+        "location": "http://maps.google.com/maps?q=-4.9736,-80.6019",
+        "name": "M 4.1 - 12 km SE of Sullana, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkci"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hk8j",
         "location": "http://maps.google.com/maps?q=-24.0539,-66.9082",
         "name": "M 4.1 - 62 km WNW of San Antonio de los Cobres, Argentina",
@@ -1191,11 +1209,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "26/Jun/2022 @ 02:00:05 PDT",
+    "last_update": "26/Jun/2022 @ 03:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-4.9736,-80.6019\"><b>M 4.1 - 12 km SE of Sullana, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkci\">USGS</a>",
+          -4.9736,
+          -80.6019
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-19.1797,168.3117\"><b>M 4.9 - 109 km WNW of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkc6\">USGS</a>",
           -19.1797,
@@ -4782,13 +4805,13 @@
         ]
       ]
     },
-    "title": "64 events (26/Jun/2022 PDT)"
+    "title": "65 events (26/Jun/2022 PDT)"
   },
-  "last_update": "26/Jun/2022 @ 02:00:37 PDT",
-  "last_update_epoch": 1656234037.373468,
+  "last_update": "26/Jun/2022 @ 03:00:08 PDT",
+  "last_update_epoch": 1656237608.811942,
   "neo": {
     "date": "26/Jun/2022 PDT",
-    "last_update": "26/Jun/2022 @ 02:00:08 PDT",
+    "last_update": "26/Jun/2022 @ 03:00:08 PDT",
     "objects": [
       {
         "cat": "26/Jun/2022 @ 19:20:00 ",
@@ -4942,7 +4965,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Jun/2022 @ 02:00:08 PDT",
+    "last_update": "26/Jun/2022 @ 03:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
