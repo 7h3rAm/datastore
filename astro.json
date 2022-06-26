@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Jun/2022 @ 15:00:04 PDT",
+    "last_update": "26/Jun/2022 @ 16:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/V838Mon_Hubble_960.jpg",
     "title": "Light Echoes from V838 Mon (26/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -1118,7 +1118,7 @@
           }
         ],
         "eid": "EONET_6089",
-        "location": "https://www.google.com/maps/dir/11.5,-89.4/11.7,-89.4/11.9,-89.1/12.4,-89.3/12.8,-89.8/12.9,-90.1/13.1,-90.2/13.1,-90.9/12.9,-91.9/12.7,-93.1/12.4,-93.6/12,-93.9/11.7,-94.4/11.9,-95.8/11.8,-96.9/11.6,-98/11.6,-98.9/12.3,-100.8/12.8,-101.4/13.2,-102.5/13.6,-103.4/13.6,-103.9/13.9,-104.1/15.1,-104.7/15.8,-105.6/16.2,-106.4/16.6,-107.2/16.9,-108.1/17,-108.8/17,-108.7/17.6,-109.3/17.9,-109.8/18.3,-110.4/18.5,-111.2/18.9,-112.2/19.1,-112.7/19,-113.3/@11.5,-89.4,3z",
+        "location": "https://www.google.com/maps/dir/11.5,-89.4/11.7,-89.4/11.9,-89.1/12.4,-89.3/12.8,-89.8/12.9,-90.1/13.1,-90.2/13.1,-90.9/12.9,-91.9/12.7,-93.1/12.4,-93.6/12,-93.9/11.7,-94.4/11.9,-95.8/11.8,-96.9/11.6,-98/11.6,-98.9/12.3,-100.8/12.8,-101.4/13.2,-102.5/13.6,-103.4/13.6,-103.9/13.9,-104.1/15.1,-104.7/15.8,-105.6/16.2,-106.4/16.6,-107.2/16.9,-108.1/17,-108.8/17,-108.7/17.6,-109.3/17.9,-109.8/18.3,-110.4/18.5,-111.2/18.9,-112.2/19.1,-112.7/19,-113.3/19.4,-113.8/@11.5,-89.4,3z",
         "name": "Tropical Storm Celia",
         "source": [
           {
@@ -1155,7 +1155,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "26/Jun/2022 @ 15:00:06 PDT",
+    "last_update": "26/Jun/2022 @ 16:00:11 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4656,6 +4656,11 @@
           "<a href=\"http://maps.google.com/maps?q=19,-113.3\"><b>Tropical Storm Celia</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000889&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0322.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/CELIA.shtml\">NOAA_NHC</a>",
           19,
           -113.3
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.4,-113.8\"><b>Tropical Storm Celia</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000889&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0322.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/CELIA.shtml\">NOAA_NHC</a>",
+          19.4,
+          -113.8
         ]
       ],
       "Snow": [],
@@ -4748,11 +4753,11 @@
     },
     "title": "62 events (26/Jun/2022 PDT)"
   },
-  "last_update": "26/Jun/2022 @ 15:00:41 PDT",
-  "last_update_epoch": 1656280841.248809,
+  "last_update": "26/Jun/2022 @ 16:00:45 PDT",
+  "last_update_epoch": 1656284445.295399,
   "neo": {
     "date": "26/Jun/2022 PDT",
-    "last_update": "26/Jun/2022 @ 15:00:09 PDT",
+    "last_update": "26/Jun/2022 @ 16:00:13 PDT",
     "objects": [
       {
         "cat": "26/Jun/2022 @ 19:20:00 ",
@@ -4906,7 +4911,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Jun/2022 @ 15:00:10 PDT",
+    "last_update": "26/Jun/2022 @ 16:00:14 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6636,7 +6641,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "26/Jun/2022 @ 15:00:16 PDT",
+    "last_update": "26/Jun/2022 @ 16:00:21 PDT",
     "launches": {
       "future": [
         {
@@ -18339,12 +18344,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "193,452,129.87 miles",
+      "earth_distance": "193,433,952.25 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,491,751.50 miles",
+      "mars_distance": "160,497,483.14 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,862.15 mph",
+      "speed": "3,862.29 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
