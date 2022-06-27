@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Jun/2022 @ 16:00:09 PDT",
+    "last_update": "26/Jun/2022 @ 17:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/V838Mon_Hubble_960.jpg",
     "title": "Light Echoes from V838 Mon (26/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -811,6 +811,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hkfu",
+        "location": "http://maps.google.com/maps?q=-21.4915,-66.7368",
+        "name": "M 4.1 - 81 km SW of Atocha, Bolivia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkfu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hkay",
         "location": "http://maps.google.com/maps?q=-19.7523,-69.4004",
         "name": "M 4.1 - 93 km ENE of Iquique, Chile",
@@ -885,7 +903,7 @@
         ],
         "eid": "us7000hkde",
         "location": "http://maps.google.com/maps?q=-8.6838,115.279",
-        "name": "M 4.4 - 7 km ESE of Denpasar, Indonesia",
+        "name": "M 4.4 - Bali region, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -957,7 +975,7 @@
         ],
         "eid": "us7000hkby",
         "location": "http://maps.google.com/maps?q=14.706,-90.7706",
-        "name": "M 4.6 - Guatemala",
+        "name": "M 4.6 - 6 km NNE of El Tejar, Guatemala",
         "source": [
           {
             "sid": "USGS",
@@ -1155,11 +1173,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "26/Jun/2022 @ 16:00:11 PDT",
+    "last_update": "26/Jun/2022 @ 17:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.4915,-66.7368\"><b>M 4.1 - 81 km SW of Atocha, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkfu\">USGS</a>",
+          -21.4915,
+          -66.7368
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.9133,-0.3626\"><b>M 4.5 - 13 km NNW of Aïn el Bya, Algeria</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkfb\">USGS</a>",
           35.9133,
@@ -1191,7 +1214,7 @@
           130.6153
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.6838,115.279\"><b>M 4.4 - 7 km ESE of Denpasar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkde\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.6838,115.279\"><b>M 4.4 - Bali region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkde\">USGS</a>",
           -8.6838,
           115.279
         ],
@@ -1206,7 +1229,7 @@
           168.3117
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=14.706,-90.7706\"><b>M 4.6 - Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkby\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=14.706,-90.7706\"><b>M 4.6 - 6 km NNE of El Tejar, Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkby\">USGS</a>",
           14.706,
           -90.7706
         ],
@@ -4751,97 +4774,79 @@
         ]
       ]
     },
-    "title": "62 events (26/Jun/2022 PDT)"
+    "title": "63 events (26/Jun/2022 PDT)"
   },
-  "last_update": "26/Jun/2022 @ 16:00:45 PDT",
-  "last_update_epoch": 1656284445.295399,
+  "last_update": "26/Jun/2022 @ 17:00:41 PDT",
+  "last_update_epoch": 1656288041.02718,
   "neo": {
-    "date": "26/Jun/2022 PDT",
-    "last_update": "26/Jun/2022 @ 16:00:13 PDT",
+    "date": "27/Jun/2022 PDT",
+    "last_update": "26/Jun/2022 @ 17:00:08 PDT",
     "objects": [
       {
-        "cat": "26/Jun/2022 @ 19:20:00 ",
-        "diameter": "0.03-0.06 miles",
-        "distance": "40,740,095.73 miles",
+        "cat": "27/Jun/2022 @ 16:56:00 ",
+        "diameter": "0.10-0.23 miles",
+        "distance": "41,960,918.59 miles",
         "hazardous": false,
-        "name": "Asteroid (2006 SD25)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3343108",
-        "velocity": "44,249.47 mph"
+        "name": "Asteroid (1996 FQ3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3009003",
+        "velocity": "39,588.63 mph"
       },
       {
-        "cat": "26/Jun/2022 @ 12:26:00 ",
-        "diameter": "0.09-0.19 miles",
-        "distance": "40,349,471.47 miles",
-        "hazardous": true,
-        "name": "Asteroid (2014 MK55)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3674335",
-        "velocity": "12,052.86 mph"
-      },
-      {
-        "cat": "26/Jun/2022 @ 19:52:00 ",
-        "diameter": "0.04-0.10 miles",
-        "distance": "42,345,590.58 miles",
+        "cat": "27/Jun/2022 @ 20:21:00 ",
+        "diameter": "0.08-0.17 miles",
+        "distance": "27,034,083.54 miles",
         "hazardous": false,
-        "name": "Asteroid (2015 HN117)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3718388",
-        "velocity": "23,122.38 mph"
+        "name": "Asteroid (2013 MR)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3644087",
+        "velocity": "29,365.52 mph"
       },
       {
-        "cat": "26/Jun/2022 @ 07:55:00 ",
-        "diameter": "0.00-0.00 miles",
-        "distance": "4,399,348.99 miles",
+        "cat": "27/Jun/2022 @ 20:14:00 ",
+        "diameter": "0.30-0.67 miles",
+        "distance": "40,427,812.72 miles",
         "hazardous": false,
-        "name": "Asteroid (2015 WP2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3735497",
-        "velocity": "25,399.35 mph"
+        "name": "Asteroid (2014 DE10)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3662287",
+        "velocity": "38,241.64 mph"
       },
       {
-        "cat": "26/Jun/2022 @ 21:07:00 ",
-        "diameter": "0.07-0.16 miles",
-        "distance": "22,036,054.06 miles",
+        "cat": "27/Jun/2022 @ 14:20:00 ",
+        "diameter": "0.05-0.10 miles",
+        "distance": "14,495,274.78 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 HK7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016780",
-        "velocity": "47,058.36 mph"
+        "name": "Asteroid (2014 MR67)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3674825",
+        "velocity": "33,442.73 mph"
       },
       {
-        "cat": "26/Jun/2022 @ 14:30:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "32,261,459.41 miles",
+        "cat": "27/Jun/2022 @ 09:29:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "21,674,130.18 miles",
         "hazardous": false,
-        "name": "Asteroid (2022 AE2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54235536",
-        "velocity": "15,377.11 mph"
+        "name": "Asteroid (2018 RO5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3829424",
+        "velocity": "16,527.67 mph"
       },
       {
-        "cat": "26/Jun/2022 @ 04:44:00 ",
-        "diameter": "0.26-0.57 miles",
-        "distance": "33,029,435.71 miles",
+        "cat": "27/Jun/2022 @ 09:23:00 ",
+        "diameter": "0.01-0.01 miles",
+        "distance": "17,910,115.11 miles",
         "hazardous": false,
-        "name": "Asteroid 141018 (2001 WC47)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2141018",
-        "velocity": "8,169.43 mph"
+        "name": "Asteroid (2019 GE1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3840783",
+        "velocity": "13,922.18 mph"
       },
       {
-        "cat": "26/Jun/2022 @ 01:22:00 ",
-        "diameter": "0.23-0.52 miles",
-        "distance": "35,742,593.18 miles",
+        "cat": "27/Jun/2022 @ 17:58:00 ",
+        "diameter": "0.00-0.01 miles",
+        "distance": "15,449,689.98 miles",
         "hazardous": false,
-        "name": "Asteroid 348776 (2006 KZ37)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2348776",
-        "velocity": "24,808.34 mph"
-      },
-      {
-        "cat": "26/Jun/2022 @ 10:18:00 ",
-        "diameter": "0.09-0.20 miles",
-        "distance": "5,850,454.96 miles",
-        "hazardous": true,
-        "name": "Asteroid 441987 (2010 NY65)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2441987",
-        "velocity": "31,344.05 mph"
+        "name": "Asteroid (2021 LF6)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54159403",
+        "velocity": "12,417.75 mph"
       }
     ],
-    "title": "9 objects making close approach (26/Jun/2022 PDT)"
+    "title": "7 objects making close approach (27/Jun/2022 PDT)"
   },
   "satview": {
     "date": "26/Jun/2022 PDT",
@@ -4911,7 +4916,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Jun/2022 @ 16:00:14 PDT",
+    "last_update": "26/Jun/2022 @ 17:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6641,7 +6646,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "26/Jun/2022 @ 16:00:21 PDT",
+    "last_update": "26/Jun/2022 @ 17:00:15 PDT",
     "launches": {
       "future": [
         {
@@ -18344,12 +18349,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "193,433,952.25 miles",
+      "earth_distance": "193,420,973.82 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,497,483.14 miles",
+      "mars_distance": "160,501,590.38 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,862.29 mph",
+      "speed": "3,862.39 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
