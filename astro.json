@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Jun/2022 @ 15:00:04 PDT",
+    "last_update": "28/Jun/2022 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2206/Mercury_BepiColombo_960.jpg",
     "title": "Mercury from Passing BepiColombo (28/Jun/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -901,6 +901,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hkyr",
+        "location": "http://maps.google.com/maps?q=7.2183,123.5343",
+        "name": "M 4.6 - 28 km SSE of Malim, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkyr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hkss",
         "location": "http://maps.google.com/maps?q=7.1797,-80.0823",
         "name": "M 4.6 - 35 km SE of Cañas, Panama",
@@ -955,6 +973,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hkz2",
+        "location": "http://maps.google.com/maps?q=-6.5124,148.3646",
+        "name": "M 4.9 - 57 km E of Finschhafen, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkz2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hktz",
         "location": "http://maps.google.com/maps?q=-18.3269,-71.032",
         "name": "M 4.9 - 71 km SW of Las Yaras, Peru",
@@ -965,24 +1001,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hktz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000hkq2",
-        "location": "http://maps.google.com/maps?q=22.1444,120.2082",
-        "name": "M 5.0 - 43 km SW of Donggang, Taiwan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkq2"
       },
       {
         "category": [
@@ -1100,7 +1118,7 @@
           }
         ],
         "eid": "EONET_6089",
-        "location": "https://www.google.com/maps/dir/11.5,-89.4/11.7,-89.4/11.9,-89.1/12.4,-89.3/12.8,-89.8/12.9,-90.1/13.1,-90.2/13.1,-90.9/12.9,-91.9/12.7,-93.1/12.4,-93.6/12,-93.9/11.7,-94.4/11.9,-95.8/11.8,-96.9/11.6,-98/11.6,-98.9/12.3,-100.8/12.8,-101.4/13.2,-102.5/13.6,-103.4/13.6,-103.9/13.9,-104.1/15.1,-104.7/15.8,-105.6/16.2,-106.4/16.6,-107.2/16.9,-108.1/17,-108.8/17,-108.7/17.6,-109.3/17.9,-109.8/18.3,-110.4/18.5,-111.2/18.9,-112.2/19.1,-112.7/19,-113.3/19.4,-113.8/19.8,-114.6/20.2,-115.5/20.6,-116.4/20.7,-117.5/21.1,-118.3/21.6,-119.1/22.1,-120/@11.5,-89.4,3z",
+        "location": "https://www.google.com/maps/dir/11.5,-89.4/11.7,-89.4/11.9,-89.1/12.4,-89.3/12.8,-89.8/12.9,-90.1/13.1,-90.2/13.1,-90.9/12.9,-91.9/12.7,-93.1/12.4,-93.6/12,-93.9/11.7,-94.4/11.9,-95.8/11.8,-96.9/11.6,-98/11.6,-98.9/12.3,-100.8/12.8,-101.4/13.2,-102.5/13.6,-103.4/13.6,-103.9/13.9,-104.1/15.1,-104.7/15.8,-105.6/16.2,-106.4/16.6,-107.2/16.9,-108.1/17,-108.8/17,-108.7/17.6,-109.3/17.9,-109.8/18.3,-110.4/18.5,-111.2/18.9,-112.2/19.1,-112.7/19,-113.3/19.4,-113.8/19.8,-114.6/20.2,-115.5/20.6,-116.4/20.7,-117.5/21.1,-118.3/21.6,-119.1/22.1,-120/22.4,-120.9/@11.5,-89.4,3z",
         "name": "Tropical Storm Celia",
         "source": [
           {
@@ -1137,11 +1155,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6077"
       }
     ],
-    "last_update": "28/Jun/2022 @ 15:00:07 PDT",
+    "last_update": "28/Jun/2022 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.5124,148.3646\"><b>M 4.9 - 57 km E of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkz2\">USGS</a>",
+          -6.5124,
+          148.3646
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=7.2183,123.5343\"><b>M 4.6 - 28 km SSE of Malim, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkyr\">USGS</a>",
+          7.2183,
+          123.5343
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=13.7871,-94.5141\"><b>M 4.3 - 234 km SW of La Esperanza (El Zapotal), Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkyj\">USGS</a>",
           13.7871,
@@ -1221,11 +1249,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.4872,-72.618\"><b>M 4.3 - 32 km ENE of Chichas, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkql\">USGS</a>",
           -15.4872,
           -72.618
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=22.1444,120.2082\"><b>M 5.0 - 43 km SW of Donggang, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hkq2\">USGS</a>",
-          22.1444,
-          120.2082
         ]
       ],
       "Floods": [],
@@ -4683,6 +4706,11 @@
           "<a href=\"http://maps.google.com/maps?q=22.1,-120\"><b>Tropical Storm Celia</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000889&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0322.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/CELIA.shtml\">NOAA_NHC</a>",
           22.1,
           -120
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.4,-120.9\"><b>Tropical Storm Celia</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000889&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0322.tcw\">JTWC</a>, <a href=\"https://www.nhc.noaa.gov/archive/2022/CELIA.shtml\">NOAA_NHC</a>",
+          22.4,
+          -120.9
         ]
       ],
       "Snow": [],
@@ -4763,13 +4791,13 @@
         ]
       ]
     },
-    "title": "61 events (28/Jun/2022 PDT)"
+    "title": "62 events (28/Jun/2022 PDT)"
   },
-  "last_update": "28/Jun/2022 @ 15:00:53 PDT",
-  "last_update_epoch": 1656453653.189642,
+  "last_update": "28/Jun/2022 @ 16:00:37 PDT",
+  "last_update_epoch": 1656457237.622019,
   "neo": {
     "date": "28/Jun/2022 PDT",
-    "last_update": "28/Jun/2022 @ 15:00:08 PDT",
+    "last_update": "28/Jun/2022 @ 16:00:08 PDT",
     "objects": [
       {
         "cat": "28/Jun/2022 @ 05:59:00 ",
@@ -4887,7 +4915,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Jun/2022 @ 15:00:08 PDT",
+    "last_update": "28/Jun/2022 @ 16:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6617,7 +6645,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Jun/2022 @ 15:00:20 PDT",
+    "last_update": "28/Jun/2022 @ 16:00:14 PDT",
     "launches": {
       "future": [
         {
@@ -6626,7 +6654,7 @@
           "launch": "29/Jun/2022 @ 14:04:00 PDT",
           "name": "SES-22",
           "upcoming": true,
-          "url": null
+          "url": "https://youtu.be/ZjUvXWg2_fE"
         },
         {
           "description": null,
@@ -18320,12 +18348,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "192,711,919.85 miles",
+      "earth_distance": "192,696,668.97 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "160,745,420.10 miles",
+      "mars_distance": "160,751,094.56 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,868.26 mph",
+      "speed": "3,868.39 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
