@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Jul/2022 @ 01:00:04 PDT",
+    "last_update": "03/Jul/2022 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/Phobos_MRO_960.jpg",
     "title": "Phobos: Doomed Moon of Mars (03/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -919,24 +919,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hzcs",
-        "location": "http://maps.google.com/maps?q=-18.1173,-172.4002",
-        "name": "M 4.8 - 177 km ENE of Neiafu, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzcs"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000hzgp",
         "location": "http://maps.google.com/maps?q=4.4889,96.3827",
         "name": "M 4.8 - 47 km NE of Meulaboh, Indonesia",
@@ -1221,7 +1203,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6096"
       }
     ],
-    "last_update": "03/Jul/2022 @ 01:00:06 PDT",
+    "last_update": "03/Jul/2022 @ 02:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1315,11 +1297,6 @@
           "<a href=\"http://maps.google.com/maps?q=26.8408,54.961\"><b>M 4.4 - 32 km NNE of Bandar-e Lengeh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzd2\">USGS</a>",
           26.8408,
           54.961
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.1173,-172.4002\"><b>M 4.8 - 177 km ENE of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzcs\">USGS</a>",
-          -18.1173,
-          -172.4002
         ]
       ],
       "Floods": [],
@@ -4937,13 +4914,13 @@
         ]
       ]
     },
-    "title": "65 events (03/Jul/2022 PDT)"
+    "title": "64 events (03/Jul/2022 PDT)"
   },
-  "last_update": "03/Jul/2022 @ 01:00:41 PDT",
-  "last_update_epoch": 1656835241.53901,
+  "last_update": "03/Jul/2022 @ 02:00:35 PDT",
+  "last_update_epoch": 1656838835.695819,
   "neo": {
     "date": "03/Jul/2022 PDT",
-    "last_update": "03/Jul/2022 @ 01:00:10 PDT",
+    "last_update": "03/Jul/2022 @ 02:00:09 PDT",
     "objects": [
       {
         "cat": "03/Jul/2022 @ 11:44:00 ",
@@ -5133,7 +5110,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Jul/2022 @ 01:00:10 PDT",
+    "last_update": "03/Jul/2022 @ 02:00:10 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6863,7 +6840,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Jul/2022 @ 01:00:18 PDT",
+    "last_update": "03/Jul/2022 @ 02:00:16 PDT",
     "launches": {
       "future": [
         {
@@ -18566,12 +18543,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "191,136,233.99 miles",
+      "earth_distance": "191,121,777.67 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "161,435,740.78 miles",
+      "mars_distance": "161,443,108.54 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,884.87 mph",
+      "speed": "3,885.04 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
