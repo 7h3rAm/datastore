@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Jul/2022 @ 22:00:03 PDT",
+    "last_update": "02/Jul/2022 @ 23:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/Phobos_MRO_960.jpg",
     "title": "Phobos: Doomed Moon of Mars (03/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -865,24 +865,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hzc3",
-        "location": "http://maps.google.com/maps?q=26.884,55.2203",
-        "name": "M 4.6 - 49 km NE of Bandar-e Lengeh, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzc3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000hzh0",
         "location": "http://maps.google.com/maps?q=-21.6985,-68.7609",
         "name": "M 4.6 - 85 km NNE of Calama, Chile",
@@ -1239,7 +1221,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6096"
       }
     ],
-    "last_update": "02/Jul/2022 @ 22:00:05 PDT",
+    "last_update": "02/Jul/2022 @ 23:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1338,11 +1320,6 @@
           "<a href=\"http://maps.google.com/maps?q=-18.1173,-172.4002\"><b>M 4.8 - 177 km ENE of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzcs\">USGS</a>",
           -18.1173,
           -172.4002
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=26.884,55.2203\"><b>M 4.6 - 49 km NE of Bandar-e Lengeh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzc3\">USGS</a>",
-          26.884,
-          55.2203
         ]
       ],
       "Floods": [],
@@ -4960,13 +4937,13 @@
         ]
       ]
     },
-    "title": "66 events (02/Jul/2022 PDT)"
+    "title": "65 events (02/Jul/2022 PDT)"
   },
-  "last_update": "02/Jul/2022 @ 22:00:34 PDT",
-  "last_update_epoch": 1656824434.863624,
+  "last_update": "02/Jul/2022 @ 23:00:07 PDT",
+  "last_update_epoch": 1656828007.291918,
   "neo": {
     "date": "03/Jul/2022 PDT",
-    "last_update": "02/Jul/2022 @ 22:00:09 PDT",
+    "last_update": "02/Jul/2022 @ 23:00:07 PDT",
     "objects": [
       {
         "cat": "03/Jul/2022 @ 11:44:00 ",
@@ -5156,7 +5133,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Jul/2022 @ 22:00:09 PDT",
+    "last_update": "02/Jul/2022 @ 23:00:07 PDT",
     "people": [
       {
         "name": "Bob Hines",
