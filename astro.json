@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Jul/2022 @ 09:00:03 PDT",
+    "last_update": "04/Jul/2022 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/StrawberryMoonRise_Busilacchi_1080.jpg",
     "title": "Strawberry Supermoon Over Devil's Saddle (04/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -757,24 +757,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000hzk6",
-        "location": "http://maps.google.com/maps?q=-30.4637,-72.1056",
-        "name": "M 4.2 - 88 km W of Ovalle, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzk6"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000hznl",
         "location": "http://maps.google.com/maps?q=26.7634,55.2555",
         "name": "M 4.3 - 43 km ENE of Bandar-e Lengeh, Iran",
@@ -829,6 +811,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000hzsh",
+        "location": "http://maps.google.com/maps?q=9.8756,94.1557",
+        "name": "M 4.5 - 250 km SE of Port Blair, India",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzsh"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000hzkx",
         "location": "http://maps.google.com/maps?q=-21.5685,-68.4762",
         "name": "M 4.6 - 108 km NNE of Calama, Chile",
@@ -875,24 +875,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzs2"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000hzkc",
-        "location": "http://maps.google.com/maps?q=-45.7807,37.4255",
-        "name": "M 4.6 - Prince Edward Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzkc"
       },
       {
         "category": [
@@ -1266,7 +1248,7 @@
           }
         ],
         "eid": "EONET_6099",
-        "location": "https://www.google.com/maps/dir/20.4,131.2/21,131.2/22.2,131.2/23,130.8/24.5,130.3/25.8,129.5/26.8,128.3/27.4,127.5/27.8,127.2/28.2,126.9/28.6,126.5/29.2,126.8/30,127.5/30.8,127.8/@20.4,131.2,3z",
+        "location": "https://www.google.com/maps/dir/20.4,131.2/21,131.2/22.2,131.2/23,130.8/24.5,130.3/25.8,129.5/26.8,128.3/27.4,127.5/27.8,127.2/28.2,126.9/28.6,126.5/29.2,126.8/30,127.5/30.8,127.8/31.5,128.5/@20.4,131.2,3z",
         "name": "Tropical Storm Aere",
         "source": [
           {
@@ -1325,7 +1307,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6096"
       }
     ],
-    "last_update": "04/Jul/2022 @ 09:00:06 PDT",
+    "last_update": "04/Jul/2022 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1334,6 +1316,11 @@
           "<a href=\"http://maps.google.com/maps?q=-44.2135,168.3554\"><b>M 4.6 - 83 km NW of Wanaka, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzs2\">USGS</a>",
           -44.2135,
           168.3554
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=9.8756,94.1557\"><b>M 4.5 - 250 km SE of Port Blair, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzsh\">USGS</a>",
+          9.8756,
+          94.1557
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=13.4071,-90.0533\"><b>M 4.2 - 31 km SW of Acajutla, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzr5\">USGS</a>",
@@ -1444,16 +1431,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.4296,127.7959\"><b>M 4.8 - 149 km NE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzkl\">USGS</a>",
           -7.4296,
           127.7959
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-45.7807,37.4255\"><b>M 4.6 - Prince Edward Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzkc\">USGS</a>",
-          -45.7807,
-          37.4255
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-30.4637,-72.1056\"><b>M 4.2 - 88 km W of Ovalle, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000hzk6\">USGS</a>",
-          -30.4637,
-          -72.1056
         ]
       ],
       "Floods": [],
@@ -4758,6 +4735,11 @@
           127.8
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=31.5,128.5\"><b>Tropical Storm Aere</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000892&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0522.tcw\">JTWC</a>",
+          31.5,
+          128.5
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=15.6,115.2\"><b>Typhoon Chaba</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.gdacs.org/Cyclones/report.aspx?eventid=1000891&amp;eventtype=TC\">GDACS</a>, <a href=\"https://www.metoc.navy.mil/jtwc/products/wp0422.tcw\">JTWC</a>",
           15.6,
           115.2
@@ -4891,10 +4873,10 @@
         ]
       ]
     },
-    "title": "71 events (04/Jul/2022 PDT)"
+    "title": "70 events (04/Jul/2022 PDT)"
   },
-  "last_update": "04/Jul/2022 @ 09:00:44 PDT",
-  "last_update_epoch": 1656950444.320151,
+  "last_update": "04/Jul/2022 @ 10:00:05 PDT",
+  "last_update_epoch": 1656954005.786051,
   "neo": {
     "date": "04/Jul/2022 PDT",
     "last_update": "04/Jul/2022 @ 09:00:07 PDT",
