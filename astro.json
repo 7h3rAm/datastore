@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Jul/2022 @ 20:00:04 PDT",
+    "last_update": "07/Jul/2022 @ 21:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/NGC_6914_1024.jpg",
     "title": "The NGC 6914 Complex (07/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -927,6 +927,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i0rj",
+        "location": "http://maps.google.com/maps?q=18.6269,145.6848",
+        "name": "M 4.5 - Pagan region, Northern Mariana Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i0rj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i0m6",
         "location": "http://maps.google.com/maps?q=5.3635,-82.6303",
         "name": "M 4.6 - 296 km SW of Arenas, Panama",
@@ -973,6 +991,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i0q6"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000i0ru",
+        "location": "http://maps.google.com/maps?q=-5.1887,151.9054",
+        "name": "M 5.2 - 101 km SSW of Kokopo, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i0ru"
       },
       {
         "category": [
@@ -1145,11 +1181,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6101"
       }
     ],
-    "last_update": "07/Jul/2022 @ 20:00:06 PDT",
+    "last_update": "07/Jul/2022 @ 21:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.1887,151.9054\"><b>M 5.2 - 101 km SSW of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i0ru\">USGS</a>",
+          -5.1887,
+          151.9054
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.6269,145.6848\"><b>M 4.5 - Pagan region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i0rj\">USGS</a>",
+          18.6269,
+          145.6848
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=70.8135,-6.2121\"><b>M 4.5 - 92 km E of Olonkinbyen, Svalbard and Jan Mayen</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i0r1\">USGS</a>",
           70.8135,
@@ -4336,13 +4382,13 @@
         ]
       ]
     },
-    "title": "61 events (07/Jul/2022 PDT)"
+    "title": "63 events (07/Jul/2022 PDT)"
   },
-  "last_update": "07/Jul/2022 @ 20:00:55 PDT",
-  "last_update_epoch": 1657249255.973673,
+  "last_update": "07/Jul/2022 @ 21:00:10 PDT",
+  "last_update_epoch": 1657252810.553364,
   "neo": {
     "date": "08/Jul/2022 PDT",
-    "last_update": "07/Jul/2022 @ 20:00:08 PDT",
+    "last_update": "07/Jul/2022 @ 21:00:10 PDT",
     "objects": [
       {
         "cat": "08/Jul/2022 @ 12:03:00 ",
@@ -4487,7 +4533,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Jul/2022 @ 20:00:09 PDT",
+    "last_update": "07/Jul/2022 @ 21:00:10 PDT",
     "people": [
       {
         "name": "Bob Hines",
