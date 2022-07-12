@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "12/Jul/2022 @ 08:00:15 PDT",
+    "last_update": "12/Jul/2022 @ 09:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/NoctilucentParis_Kulik_1080.jpg",
     "title": "Noctilucent Clouds over Paris (12/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -733,6 +733,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i1sz",
+        "location": "http://maps.google.com/maps?q=-17.995,-178.2693",
+        "name": "M 4.2 - 255 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1sz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i1le",
         "location": "http://maps.google.com/maps?q=37.6933,141.2369",
         "name": "M 4.2 - 31 km NE of Namie, Japan",
@@ -986,8 +1004,8 @@
           }
         ],
         "eid": "us6000i1q3",
-        "location": "http://maps.google.com/maps?q=-15.0492,-172.7112",
-        "name": "M 5.7 - 145 km SSW of Gataivai, Samoa",
+        "location": "http://maps.google.com/maps?q=-14.8797,-173.015",
+        "name": "M 5.7 - 139 km SSW of Gataivai, Samoa",
         "source": [
           {
             "sid": "USGS",
@@ -1159,7 +1177,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6083"
       }
     ],
-    "last_update": "12/Jul/2022 @ 08:00:20 PDT",
+    "last_update": "12/Jul/2022 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1168,6 +1186,11 @@
           "<a href=\"http://maps.google.com/maps?q=28.0552,-107.4794\"><b>M 4.6 - 15 km NE of San Juanito, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1t1\">USGS</a>",
           28.0552,
           -107.4794
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.995,-178.2693\"><b>M 4.2 - 255 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1sz\">USGS</a>",
+          -17.995,
+          -178.2693
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-5.0241,152.9351\"><b>M 4.9 - 105 km SE of Kokopo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1su\">USGS</a>",
@@ -1215,9 +1238,9 @@
           24.6299
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.0492,-172.7112\"><b>M 5.7 - 145 km SSW of Gataivai, Samoa</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1q3\">USGS</a>",
-          -15.0492,
-          -172.7112
+          "<a href=\"http://maps.google.com/maps?q=-14.8797,-173.015\"><b>M 5.7 - 139 km SSW of Gataivai, Samoa</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1q3\">USGS</a>",
+          -14.8797,
+          -173.015
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-15.2171,-172.908\"><b>M 5.8 - 125 km NE of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i1pn\">USGS</a>",
@@ -4370,13 +4393,13 @@
         ]
       ]
     },
-    "title": "62 events (12/Jul/2022 PDT)"
+    "title": "63 events (12/Jul/2022 PDT)"
   },
-  "last_update": "12/Jul/2022 @ 08:01:56 PDT",
-  "last_update_epoch": 1657638116.028609,
+  "last_update": "12/Jul/2022 @ 09:00:53 PDT",
+  "last_update_epoch": 1657641653.430886,
   "neo": {
     "date": "12/Jul/2022 PDT",
-    "last_update": "12/Jul/2022 @ 08:00:23 PDT",
+    "last_update": "12/Jul/2022 @ 09:00:09 PDT",
     "objects": [
       {
         "cat": "12/Jul/2022 @ 12:01:00 ",
@@ -4503,7 +4526,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "12/Jul/2022 @ 08:00:24 PDT",
+    "last_update": "12/Jul/2022 @ 09:00:09 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6233,7 +6256,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "12/Jul/2022 @ 08:00:48 PDT",
+    "last_update": "12/Jul/2022 @ 09:00:17 PDT",
     "launches": {
       "future": [
         {
@@ -17936,12 +17959,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "188,124,317.67 miles",
+      "earth_distance": "188,111,838.16 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "163,474,168.48 miles",
+      "mars_distance": "163,485,090.53 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,933.92 mph",
+      "speed": "3,934.18 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
