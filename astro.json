@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Jul/2022 @ 08:00:09 PDT",
+    "last_update": "14/Jul/2022 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/STScI-WebbSouthernRing.jpg",
     "title": "Webb's Southern Ring Nebula (14/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -823,24 +823,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i24i",
-        "location": "http://maps.google.com/maps?q=1.5707,127.3147",
-        "name": "M 4.5 - 79 km WSW of Tobelo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i24i"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i293",
         "location": "http://maps.google.com/maps?q=16.3052,145.683",
         "name": "M 4.6 - 121 km N of Saipan, Northern Mariana Islands",
@@ -851,6 +833,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i293"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000i2dy",
+        "location": "http://maps.google.com/maps?q=2.9905,127.1375",
+        "name": "M 4.6 - Molucca Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2dy"
       },
       {
         "category": [
@@ -959,24 +959,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2d7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i237",
-        "location": "http://maps.google.com/maps?q=-15.3969,-173.1744",
-        "name": "M 5.0 - 90 km NE of Hihifo, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i237"
       },
       {
         "category": [
@@ -1123,11 +1105,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6105"
       }
     ],
-    "last_update": "14/Jul/2022 @ 08:00:11 PDT",
+    "last_update": "14/Jul/2022 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=2.9905,127.1375\"><b>M 4.6 - Molucca Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2dy\">USGS</a>",
+          2.9905,
+          127.1375
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=3.1243,127.2185\"><b>M 5.0 - 177 km NNW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i2d7\">USGS</a>",
           3.1243,
@@ -1197,16 +1184,6 @@
           "<a href=\"http://maps.google.com/maps?q=-16.8458,-71.5939\"><b>M 5.1 - 32 km NNE of Cocachacra, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i24m\">USGS</a>",
           -16.8458,
           -71.5939
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=1.5707,127.3147\"><b>M 4.5 - 79 km WSW of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i24i\">USGS</a>",
-          1.5707,
-          127.3147
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.3969,-173.1744\"><b>M 5.0 - 90 km NE of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i237\">USGS</a>",
-          -15.3969,
-          -173.1744
         ]
       ],
       "Floods": [],
@@ -4414,13 +4391,13 @@
         ]
       ]
     },
-    "title": "60 events (14/Jul/2022 PDT)"
+    "title": "59 events (14/Jul/2022 PDT)"
   },
-  "last_update": "14/Jul/2022 @ 08:00:41 PDT",
-  "last_update_epoch": 1657810841.319365,
+  "last_update": "14/Jul/2022 @ 09:00:36 PDT",
+  "last_update_epoch": 1657814436.580114,
   "neo": {
     "date": "14/Jul/2022 PDT",
-    "last_update": "14/Jul/2022 @ 08:00:14 PDT",
+    "last_update": "14/Jul/2022 @ 09:00:08 PDT",
     "objects": [
       {
         "cat": "14/Jul/2022 @ 04:25:00 ",
@@ -4547,7 +4524,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Jul/2022 @ 08:00:14 PDT",
+    "last_update": "14/Jul/2022 @ 09:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6277,7 +6254,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Jul/2022 @ 08:00:21 PDT",
+    "last_update": "14/Jul/2022 @ 09:00:14 PDT",
     "launches": {
       "future": [
         {
@@ -17980,12 +17957,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "187,536,363.50 miles",
+      "earth_distance": "187,524,356.65 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "164,016,194.18 miles",
+      "mars_distance": "164,027,871.34 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,946.96 mph",
+      "speed": "3,947.25 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
