@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Jul/2022 @ 02:00:03 PDT",
+    "last_update": "17/Jul/2022 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/EuropaJupiter_Voyager_960.jpg",
     "title": "Europa and Jupiter from Voyager 1 (17/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -851,6 +851,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i30f",
+        "location": "http://maps.google.com/maps?q=21.5555,95.9703",
+        "name": "M 4.3 - 17 km WSW of Kyaukse, Myanmar",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30f"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i35w",
         "location": "http://maps.google.com/maps?q=-20.7031,-178.6136",
         "name": "M 4.3 - Fiji region",
@@ -861,24 +879,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i35w"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i30f",
-        "location": "http://maps.google.com/maps?q=21.5555,95.9703",
-        "name": "M 4.3 - Myanmar",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30f"
       },
       {
         "category": [
@@ -977,24 +977,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i306",
-        "location": "http://maps.google.com/maps?q=17.1336,147.4473",
-        "name": "M 4.7 - 279 km NE of Saipan, Northern Mariana Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i306"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i31w",
         "location": "http://maps.google.com/maps?q=-7.9928,107.8748",
         "name": "M 4.7 - 75 km SSW of Singaparna, Indonesia",
@@ -1031,6 +1013,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i37b",
+        "location": "http://maps.google.com/maps?q=-27.006,26.7956",
+        "name": "M 4.8 - 12 km ESE of Orkney, South Africa",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37b"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i30w",
         "location": "http://maps.google.com/maps?q=34.4933,69.7088",
         "name": "M 4.8 - 35 km N of Ḩukūmatī Azrah, Afghanistan",
@@ -1041,24 +1041,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30w"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i30c",
-        "location": "http://maps.google.com/maps?q=-22.4503,-114.0764",
-        "name": "M 4.8 - Easter Island region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30c"
       },
       {
         "category": [
@@ -1139,16 +1121,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i30d",
-        "location": "http://maps.google.com/maps?q=-28.8429,-176.131",
-        "name": "M 5.1 - Kermadec Islands region",
+        "eid": "us6000i37a",
+        "location": "http://maps.google.com/maps?q=-9.2402,110.8157",
+        "name": "M 5.1 - 151 km SSE of Pundong, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30d"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37a"
       },
       {
         "category": [
@@ -1331,11 +1313,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6118"
       }
     ],
-    "last_update": "17/Jul/2022 @ 02:00:05 PDT",
+    "last_update": "17/Jul/2022 @ 03:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-27.006,26.7956\"><b>M 4.8 - 12 km ESE of Orkney, South Africa</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37b\">USGS</a>",
+          -27.006,
+          26.7956
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-9.2402,110.8157\"><b>M 5.1 - 151 km SSE of Pundong, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37a\">USGS</a>",
+          -9.2402,
+          110.8157
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=39.2258,20.8842\"><b>M 4.2 - 2 km N of Filippiáda, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i36d\">USGS</a>",
           39.2258,
@@ -1462,24 +1454,9 @@
           -114.2206
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=21.5555,95.9703\"><b>M 4.3 - Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30f\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=21.5555,95.9703\"><b>M 4.3 - 17 km WSW of Kyaukse, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30f\">USGS</a>",
           21.5555,
           95.9703
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.8429,-176.131\"><b>M 5.1 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30d\">USGS</a>",
-          -28.8429,
-          -176.131
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.4503,-114.0764\"><b>M 4.8 - Easter Island region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i30c\">USGS</a>",
-          -22.4503,
-          -114.0764
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.1336,147.4473\"><b>M 4.7 - 279 km NE of Saipan, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i306\">USGS</a>",
-          17.1336,
-          147.4473
         ]
       ],
       "Floods": [],
@@ -4597,13 +4574,13 @@
         ]
       ]
     },
-    "title": "72 events (17/Jul/2022 PDT)"
+    "title": "71 events (17/Jul/2022 PDT)"
   },
-  "last_update": "17/Jul/2022 @ 02:00:36 PDT",
-  "last_update_epoch": 1658048436.331495,
+  "last_update": "17/Jul/2022 @ 03:00:07 PDT",
+  "last_update_epoch": 1658052007.067638,
   "neo": {
     "date": "17/Jul/2022 PDT",
-    "last_update": "17/Jul/2022 @ 02:00:06 PDT",
+    "last_update": "17/Jul/2022 @ 03:00:07 PDT",
     "objects": [
       {
         "cat": "17/Jul/2022 @ 16:39:00 ",
