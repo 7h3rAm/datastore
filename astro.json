@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Jul/2022 @ 10:00:04 PDT",
+    "last_update": "17/Jul/2022 @ 11:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/EuropaJupiter_Voyager_960.jpg",
     "title": "Europa and Jupiter from Voyager 1 (17/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -743,6 +743,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i37z",
+        "location": "http://maps.google.com/maps?q=39.2626,27.7301",
+        "name": "M 4.1 - 13 km NE of Soma, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37z"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i35t",
         "location": "http://maps.google.com/maps?q=-20.1384,-177.6392",
         "name": "M 4.1 - 276 km WNW of Haveluloto, Tonga",
@@ -771,24 +789,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i35z"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i37z",
-        "location": "http://maps.google.com/maps?q=39.2626,27.7301",
-        "name": "M 4.1 - Western Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37z"
       },
       {
         "category": [
@@ -923,24 +923,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i37v",
-        "location": "http://maps.google.com/maps?q=12.3232,120.7494",
-        "name": "M 4.4 - 27 km WSW of Adela, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37v"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i32w",
         "location": "http://maps.google.com/maps?q=24.1778,94.4872",
         "name": "M 4.4 - 59 km N of Mawlaik, Myanmar",
@@ -951,6 +933,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i32w"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000i37v",
+        "location": "http://maps.google.com/maps?q=12.3232,120.7494",
+        "name": "M 4.4 - Mindoro, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37v"
       },
       {
         "category": [
@@ -987,6 +987,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i34q"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000i39x",
+        "location": "http://maps.google.com/maps?q=33.1442,141.928",
+        "name": "M 4.6 - 267 km SSE of Katsuura, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i39x"
       },
       {
         "category": [
@@ -1259,11 +1277,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6118"
       }
     ],
-    "last_update": "17/Jul/2022 @ 10:00:06 PDT",
+    "last_update": "17/Jul/2022 @ 11:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.1442,141.928\"><b>M 4.6 - 267 km SSE of Katsuura, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i39x\">USGS</a>",
+          33.1442,
+          141.928
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-0.0447,123.0735\"><b>M 5.2 - 64 km S of Gorontalo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i38n\">USGS</a>",
           -0.0447,
@@ -1275,12 +1298,12 @@
           -57.4949
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=39.2626,27.7301\"><b>M 4.1 - Western Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37z\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=39.2626,27.7301\"><b>M 4.1 - 13 km NE of Soma, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37z\">USGS</a>",
           39.2626,
           27.7301
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.3232,120.7494\"><b>M 4.4 - 27 km WSW of Adela, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37v\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.3232,120.7494\"><b>M 4.4 - Mindoro, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i37v\">USGS</a>",
           12.3232,
           120.7494
         ],
@@ -4505,13 +4528,13 @@
         ]
       ]
     },
-    "title": "68 events (17/Jul/2022 PDT)"
+    "title": "69 events (17/Jul/2022 PDT)"
   },
-  "last_update": "17/Jul/2022 @ 10:00:36 PDT",
-  "last_update_epoch": 1658077236.387336,
+  "last_update": "17/Jul/2022 @ 11:00:33 PDT",
+  "last_update_epoch": 1658080833.354987,
   "neo": {
     "date": "17/Jul/2022 PDT",
-    "last_update": "17/Jul/2022 @ 10:00:07 PDT",
+    "last_update": "17/Jul/2022 @ 11:00:06 PDT",
     "objects": [
       {
         "cat": "17/Jul/2022 @ 16:39:00 ",
@@ -4629,7 +4652,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Jul/2022 @ 10:00:08 PDT",
+    "last_update": "17/Jul/2022 @ 11:00:06 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6359,7 +6382,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Jul/2022 @ 10:00:15 PDT",
+    "last_update": "17/Jul/2022 @ 11:00:12 PDT",
     "launches": {
       "future": [
         {
@@ -18062,12 +18085,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "186,674,986.52 miles",
+      "earth_distance": "186,663,725.88 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "164,922,444.73 miles",
+      "mars_distance": "164,935,273.59 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,968.77 mph",
+      "speed": "3,969.08 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
