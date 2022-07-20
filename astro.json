@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Jul/2022 @ 02:00:04 PDT",
+    "last_update": "20/Jul/2022 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/JupiterRing_WebbSchmidt_1080.jpg",
     "title": "Jupiter and Ring in Infrared from Webb (20/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -711,24 +711,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i3lz",
-        "location": "http://maps.google.com/maps?q=19.8562,-109.4352",
-        "name": "M 4.2 - Revilla Gigedo Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i3lz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i3mh",
         "location": "http://maps.google.com/maps?q=41.0752,51.8929",
         "name": "M 4.3 - 147 km NW of Türkmenbaşy, Turkmenistan",
@@ -927,9 +909,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000hs1j",
+        "location": "http://maps.google.com/maps?q=-0.1828,122.8019",
+        "name": "M 4.7 - 84 km SSW of Gorontalo, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hs1j"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000hs1v",
         "location": "http://maps.google.com/maps?q=-2.0023,-78.4277",
-        "name": "M 4.7 - 44 km SSE of Riobamba, Ecuador",
+        "name": "M 4.7 - Ecuador",
         "source": [
           {
             "sid": "USGS",
@@ -945,16 +945,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000hs1j",
-        "location": "http://maps.google.com/maps?q=-0.1828,122.8019",
-        "name": "M 4.7 - 84 km SSW of Gorontalo, Indonesia",
+        "eid": "us7000hs2d",
+        "location": "http://maps.google.com/maps?q=35.4524,25.3932",
+        "name": "M 4.8 - 14 km N of Limín Khersonísou, Greece",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hs1j"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hs2d"
       },
       {
         "category": [
@@ -1281,13 +1281,18 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6118"
       }
     ],
-    "last_update": "20/Jul/2022 @ 02:00:06 PDT",
+    "last_update": "20/Jul/2022 @ 03:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.0023,-78.4277\"><b>M 4.7 - 44 km SSE of Riobamba, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hs1v\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=35.4524,25.3932\"><b>M 4.8 - 14 km N of Limín Khersonísou, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hs2d\">USGS</a>",
+          35.4524,
+          25.3932
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-2.0023,-78.4277\"><b>M 4.7 - Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hs1v\">USGS</a>",
           -2.0023,
           -78.4277
         ],
@@ -1400,11 +1405,6 @@
           "<a href=\"http://maps.google.com/maps?q=-23.9971,-66.7893\"><b>M 4.3 - 53 km WNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i3m2\">USGS</a>",
           -23.9971,
           -66.7893
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=19.8562,-109.4352\"><b>M 4.2 - Revilla Gigedo Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i3lz\">USGS</a>",
-          19.8562,
-          -109.4352
         ]
       ],
       "Floods": [],
@@ -4614,11 +4614,11 @@
     },
     "title": "69 events (20/Jul/2022 PDT)"
   },
-  "last_update": "20/Jul/2022 @ 02:00:47 PDT",
-  "last_update_epoch": 1658307647.033138,
+  "last_update": "20/Jul/2022 @ 03:00:39 PDT",
+  "last_update_epoch": 1658311239.70612,
   "neo": {
     "date": "20/Jul/2022 PDT",
-    "last_update": "20/Jul/2022 @ 02:00:08 PDT",
+    "last_update": "20/Jul/2022 @ 03:00:08 PDT",
     "objects": [
       {
         "cat": "20/Jul/2022 @ 03:28:00 ",
@@ -4772,7 +4772,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Jul/2022 @ 02:00:08 PDT",
+    "last_update": "20/Jul/2022 @ 03:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6502,7 +6502,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Jul/2022 @ 02:00:15 PDT",
+    "last_update": "20/Jul/2022 @ 03:00:15 PDT",
     "launches": {
       "future": [
         {
@@ -18205,12 +18205,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "185,974,971.20 miles",
+      "earth_distance": "185,964,368.51 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "165,774,474.73 miles",
+      "mars_distance": "165,788,284.54 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "3,989.28 mph",
+      "speed": "3,989.61 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
