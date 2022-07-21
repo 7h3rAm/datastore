@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Jul/2022 @ 03:00:04 PDT",
+    "last_update": "21/Jul/2022 @ 04:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/C2017k2cumuloM10v4_1024.jpg",
     "title": "Messier 10 and Comet (21/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -4381,8 +4381,8 @@
     },
     "title": "58 events (21/Jul/2022 PDT)"
   },
-  "last_update": "21/Jul/2022 @ 03:00:04 PDT",
-  "last_update_epoch": 1658397604.375371,
+  "last_update": "21/Jul/2022 @ 04:00:04 PDT",
+  "last_update_epoch": 1658401204.659068,
   "neo": {
     "date": "21/Jul/2022 PDT",
     "last_update": "21/Jul/2022 @ 02:00:09 PDT",
