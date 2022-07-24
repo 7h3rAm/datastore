@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Jul/2022 @ 22:00:05 PDT",
+    "last_update": "23/Jul/2022 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/SaturnIR_CassiniKakitsev_960.jpg",
     "title": "Saturn in Infrared from Cassini (24/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -573,24 +573,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "pr2022204003",
-        "location": "http://maps.google.com/maps?q=19.5296,-63.7608",
-        "name": "M 4.1 - 163 km NNW of The Valley, Anguilla",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2022204003"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "pr2022204005",
         "location": "http://maps.google.com/maps?q=18.5903,-67.6106",
         "name": "M 4.1 - 47 km NW of Rincón, Puerto Rico",
@@ -1071,7 +1053,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6118"
       }
     ],
-    "last_update": "23/Jul/2022 @ 22:00:07 PDT",
+    "last_update": "23/Jul/2022 @ 23:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1155,11 +1137,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.6189,122.3943\"><b>M 5.4 - 112 km N of Maumere, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000hswf\">USGS</a>",
           -7.6189,
           122.3943
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=19.5296,-63.7608\"><b>M 4.1 - 163 km NNW of The Valley, Anguilla</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2022204003\">USGS</a>",
-          19.5296,
-          -63.7608
         ]
       ],
       "Floods": [],
@@ -4032,13 +4009,13 @@
         ]
       ]
     },
-    "title": "58 events (23/Jul/2022 PDT)"
+    "title": "57 events (23/Jul/2022 PDT)"
   },
-  "last_update": "23/Jul/2022 @ 22:00:36 PDT",
-  "last_update_epoch": 1658638836.748171,
+  "last_update": "23/Jul/2022 @ 23:00:06 PDT",
+  "last_update_epoch": 1658642406.80103,
   "neo": {
     "date": "24/Jul/2022 PDT",
-    "last_update": "23/Jul/2022 @ 22:00:08 PDT",
+    "last_update": "23/Jul/2022 @ 23:00:06 PDT",
     "objects": [
       {
         "cat": "24/Jul/2022 @ 22:16:00 ",
