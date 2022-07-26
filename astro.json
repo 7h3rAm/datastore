@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Jul/2022 @ 12:00:03 PDT",
+    "last_update": "26/Jul/2022 @ 13:00:02 PDT",
     "source": "https://www.youtube.com/embed/ts0Ek3nLHew?rel=0",
     "title": "Comet NEOWISE Rising over the Adriatic Sea (26/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -611,7 +611,7 @@
         ],
         "eid": "us7000htiv",
         "location": "http://maps.google.com/maps?q=21.0611,99.8857",
-        "name": "M 4.1 - Myanmar",
+        "name": "M 4.1 - 63 km S of Kēng Tung, Myanmar",
         "source": [
           {
             "sid": "USGS",
@@ -637,24 +637,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000htgq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000htil",
-        "location": "http://maps.google.com/maps?q=21.0839,99.9109",
-        "name": "M 4.2 - 60 km S of Kēng Tung, Myanmar",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000htil"
       },
       {
         "category": [
@@ -691,6 +673,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000htj2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000htil",
+        "location": "http://maps.google.com/maps?q=21.0839,99.9109",
+        "name": "M 4.2 - Myanmar",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000htil"
       },
       {
         "category": [
@@ -1089,7 +1089,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6129"
       }
     ],
-    "last_update": "26/Jul/2022 @ 12:00:05 PDT",
+    "last_update": "26/Jul/2022 @ 13:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1110,12 +1110,12 @@
           -67.2506
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=21.0611,99.8857\"><b>M 4.1 - Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000htiv\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=21.0611,99.8857\"><b>M 4.1 - 63 km S of Kēng Tung, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000htiv\">USGS</a>",
           21.0611,
           99.8857
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=21.0839,99.9109\"><b>M 4.2 - 60 km S of Kēng Tung, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000htil\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=21.0839,99.9109\"><b>M 4.2 - Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000htil\">USGS</a>",
           21.0839,
           99.9109
         ],
@@ -4057,11 +4057,11 @@
     },
     "title": "59 events (26/Jul/2022 PDT)"
   },
-  "last_update": "26/Jul/2022 @ 12:00:38 PDT",
-  "last_update_epoch": 1658862038.740876,
+  "last_update": "26/Jul/2022 @ 13:00:35 PDT",
+  "last_update_epoch": 1658865635.030951,
   "neo": {
     "date": "26/Jul/2022 PDT",
-    "last_update": "26/Jul/2022 @ 12:00:06 PDT",
+    "last_update": "26/Jul/2022 @ 13:00:05 PDT",
     "objects": [
       {
         "cat": "26/Jul/2022 @ 20:32:00 ",
@@ -4251,7 +4251,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Jul/2022 @ 12:00:06 PDT",
+    "last_update": "26/Jul/2022 @ 13:00:05 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6013,7 +6013,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "26/Jul/2022 @ 12:00:13 PDT",
+    "last_update": "26/Jul/2022 @ 13:00:11 PDT",
     "launches": {
       "future": [
         {
@@ -17733,12 +17733,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "184,466,087.21 miles",
+      "earth_distance": "184,457,116.74 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "168,077,538.16 miles",
+      "mars_distance": "168,093,633.55 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,044.70 mph",
+      "speed": "4,045.09 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
