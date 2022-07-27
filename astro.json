@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Jul/2022 @ 15:00:03 PDT",
+    "last_update": "27/Jul/2022 @ 16:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/CrepuscularMoonrise_Merzyakov_960.jpg",
     "title": "Crepuscular Moon Rays over Denmark (27/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -551,6 +551,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i5yb",
+        "location": "http://maps.google.com/maps?q=-24.0747,-66.8327",
+        "name": "M 4.1 - 54 km WNW of San Antonio de los Cobres, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i5yb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i5vt",
         "location": "http://maps.google.com/maps?q=51.2727,157.1148",
         "name": "M 4.2 - 49 km ESE of Ozernovskiy, Russia",
@@ -677,24 +695,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i5qg",
-        "location": "http://maps.google.com/maps?q=-20.9098,-178.7872",
-        "name": "M 4.7 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i5qg"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i5tk",
         "location": "http://maps.google.com/maps?q=-23.5328,-179.715",
         "name": "M 4.7 - south of the Fiji Islands",
@@ -785,24 +785,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i60g",
-        "location": "http://maps.google.com/maps?q=17.5095,120.9362",
-        "name": "M 5.0 - 20 km ENE of Bantay, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i60g"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i5r2",
         "location": "http://maps.google.com/maps?q=-6.9556,156.0554",
         "name": "M 5.0 - 94 km SSE of Kieta, Papua New Guinea",
@@ -813,6 +795,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i5r2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000i60g",
+        "location": "http://maps.google.com/maps?q=17.5095,120.9362",
+        "name": "M 5.0 - Luzon, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i60g"
       },
       {
         "category": [
@@ -1229,13 +1229,13 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6129"
       }
     ],
-    "last_update": "27/Jul/2022 @ 15:00:06 PDT",
+    "last_update": "27/Jul/2022 @ 16:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=17.5095,120.9362\"><b>M 5.0 - 20 km ENE of Bantay, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i60g\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=17.5095,120.9362\"><b>M 5.0 - Luzon, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i60g\">USGS</a>",
           17.5095,
           120.9362
         ],
@@ -1258,6 +1258,11 @@
           "<a href=\"http://maps.google.com/maps?q=-26.938,-176.4164\"><b>M 5.5 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i5yp\">USGS</a>",
           -26.938,
           -176.4164
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.0747,-66.8327\"><b>M 4.1 - 54 km WNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i5yb\">USGS</a>",
+          -24.0747,
+          -66.8327
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-23.5327,-179.6879\"><b>M 5.7 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i5y9\">USGS</a>",
@@ -1343,11 +1348,6 @@
           "<a href=\"http://maps.google.com/maps?q=-6.9556,156.0554\"><b>M 5.0 - 94 km SSE of Kieta, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i5r2\">USGS</a>",
           -6.9556,
           156.0554
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-20.9098,-178.7872\"><b>M 4.7 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i5qg\">USGS</a>",
-          -20.9098,
-          -178.7872
         ]
       ],
       "Floods": [],
@@ -4121,11 +4121,11 @@
     },
     "title": "67 events (27/Jul/2022 PDT)"
   },
-  "last_update": "27/Jul/2022 @ 15:00:59 PDT",
-  "last_update_epoch": 1658959259.715364,
+  "last_update": "27/Jul/2022 @ 16:00:56 PDT",
+  "last_update_epoch": 1658962856.318388,
   "neo": {
     "date": "27/Jul/2022 PDT",
-    "last_update": "27/Jul/2022 @ 15:00:09 PDT",
+    "last_update": "27/Jul/2022 @ 16:00:09 PDT",
     "objects": [
       {
         "cat": "27/Jul/2022 @ 21:01:00 ",
@@ -4279,7 +4279,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Jul/2022 @ 15:00:10 PDT",
+    "last_update": "27/Jul/2022 @ 16:00:10 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6041,7 +6041,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Jul/2022 @ 15:00:17 PDT",
+    "last_update": "27/Jul/2022 @ 16:00:16 PDT",
     "launches": {
       "future": [
         {
@@ -17761,12 +17761,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "184,227,699.74 miles",
+      "earth_distance": "184,219,023.17 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "168,517,164.18 miles",
+      "mars_distance": "168,533,647.33 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,055.28 mph",
+      "speed": "4,055.67 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
