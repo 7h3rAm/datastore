@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Jul/2022 @ 13:00:05 PDT",
+    "last_update": "28/Jul/2022 @ 14:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/AncientTreeNCP_Dai1024.jpg",
     "title": "North Celestial Tree (28/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -623,6 +623,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i68e",
+        "location": "http://maps.google.com/maps?q=16.0735,120.343",
+        "name": "M 4.3 - 3 km NNE of Dagupan, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i68e"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i648",
         "location": "http://maps.google.com/maps?q=-21.4302,-70.1862",
         "name": "M 4.3 - 73 km N of Tocopilla, Chile",
@@ -767,24 +785,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i60g",
-        "location": "http://maps.google.com/maps?q=17.5095,120.9362",
-        "name": "M 5.0 - 20 km ENE of Bantay, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i60g"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i64e",
         "location": "http://maps.google.com/maps?q=12.4114,-87.6919",
         "name": "M 5.2 - 45 km SW of Jiquilillo, Nicaragua",
@@ -795,6 +795,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i64e"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000i69v",
+        "location": "http://maps.google.com/maps?q=32.4823,142.4706",
+        "name": "M 5.4 - Izu Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i69v"
       },
       {
         "category": [
@@ -1139,15 +1157,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6129"
       }
     ],
-    "last_update": "28/Jul/2022 @ 13:00:09 PDT",
+    "last_update": "28/Jul/2022 @ 14:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=32.4823,142.4706\"><b>M 5.4 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i69v\">USGS</a>",
+          32.4823,
+          142.4706
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-7.0325,146.7438\"><b>M 5.8 - 22 km NNE of Bulolo, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i693\">USGS</a>",
           -7.0325,
           146.7438
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=16.0735,120.343\"><b>M 4.3 - 3 km NNE of Dagupan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i68e\">USGS</a>",
+          16.0735,
+          120.343
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=31.674159,-104.3835939\"><b>M 4.0 - 55 km S of Whites City, New Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/tx2022orir\">USGS</a>",
@@ -1218,11 +1246,6 @@
           "<a href=\"http://maps.google.com/maps?q=41.1571,46.5538\"><b>M 4.1 - 28 km NNE of Qırmızı Samux, Azerbaijan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i61s\">USGS</a>",
           41.1571,
           46.5538
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.5095,120.9362\"><b>M 5.0 - 20 km ENE of Bantay, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i60g\">USGS</a>",
-          17.5095,
-          120.9362
         ]
       ],
       "Floods": [],
@@ -4060,13 +4083,13 @@
         ]
       ]
     },
-    "title": "62 events (28/Jul/2022 PDT)"
+    "title": "63 events (28/Jul/2022 PDT)"
   },
-  "last_update": "28/Jul/2022 @ 13:00:46 PDT",
-  "last_update_epoch": 1659038446.932725,
+  "last_update": "28/Jul/2022 @ 14:00:49 PDT",
+  "last_update_epoch": 1659042049.695741,
   "neo": {
     "date": "28/Jul/2022 PDT",
-    "last_update": "28/Jul/2022 @ 13:00:12 PDT",
+    "last_update": "28/Jul/2022 @ 14:00:07 PDT",
     "objects": [
       {
         "cat": "28/Jul/2022 @ 03:59:00 ",
@@ -4229,7 +4252,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Jul/2022 @ 13:00:12 PDT",
+    "last_update": "28/Jul/2022 @ 14:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -5991,7 +6014,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Jul/2022 @ 13:00:20 PDT",
+    "last_update": "28/Jul/2022 @ 14:00:14 PDT",
     "launches": {
       "future": [
         {
@@ -17711,12 +17734,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "184,039,345.55 miles",
+      "earth_distance": "184,030,910.25 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "168,883,082.56 miles",
+      "mars_distance": "168,899,878.44 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,064.08 mph",
+      "speed": "4,064.49 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
