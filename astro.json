@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Jul/2022 @ 06:00:04 PDT",
+    "last_update": "30/Jul/2022 @ 07:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/AS11JK44-6633-34_1100px.jpg",
     "title": "The Eagle Rises (30/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -569,6 +569,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i6sa",
+        "location": "http://maps.google.com/maps?q=-36.8751,-72.9542",
+        "name": "M 4.0 - 8 km NE of Chiguayante, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6sa"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i6ps",
         "location": "http://maps.google.com/maps?q=42.5336,141.746",
         "name": "M 4.1 - 16 km SE of Tomakomai, Japan",
@@ -615,24 +633,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6n1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i6gd",
-        "location": "http://maps.google.com/maps?q=13.6066,-88.5413",
-        "name": "M 4.3 - 11 km N of Berlín, El Salvador",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gd"
       },
       {
         "category": [
@@ -713,24 +713,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i6gf",
-        "location": "http://maps.google.com/maps?q=38.435,22.0387",
-        "name": "M 4.4 - 15 km NNE of Kamárai, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gf"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i6kp",
         "location": "http://maps.google.com/maps?q=-15.3323,-72.0291",
         "name": "M 4.4 - 28 km NNW of Tapay, Peru",
@@ -803,24 +785,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i6gb",
-        "location": "http://maps.google.com/maps?q=-21.9502,-67.3692",
-        "name": "M 4.5 - 136 km NE of San Pedro de Atacama, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i6qm",
         "location": "http://maps.google.com/maps?q=-6.2058,128.6039",
         "name": "M 4.5 - 281 km S of Ambon, Indonesia",
@@ -885,24 +849,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6lj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i6ht",
-        "location": "http://maps.google.com/maps?q=17.8427,120.5794",
-        "name": "M 4.6 - Luzon, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6ht"
       },
       {
         "category": [
@@ -1083,24 +1029,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6l8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i6g9",
-        "location": "http://maps.google.com/maps?q=50.3955,90.6227",
-        "name": "M 5.6 - 13 km E of Mugur-Aksy, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6g9"
       },
       {
         "category": [
@@ -1409,11 +1337,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6129"
       }
     ],
-    "last_update": "30/Jul/2022 @ 06:00:06 PDT",
+    "last_update": "30/Jul/2022 @ 07:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-36.8751,-72.9542\"><b>M 4.0 - 8 km NE of Chiguayante, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6sa\">USGS</a>",
+          -36.8751,
+          -72.9542
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-0.1513,124.2411\"><b>M 4.6 - 151 km ESE of Gorontalo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6qx\">USGS</a>",
           -0.1513,
@@ -1543,31 +1476,6 @@
           "<a href=\"http://maps.google.com/maps?q=27.8062,142.9447\"><b>M 5.1 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6i4\">USGS</a>",
           27.8062,
           142.9447
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.435,22.0387\"><b>M 4.4 - 15 km NNE of Kamárai, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gf\">USGS</a>",
-          38.435,
-          22.0387
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.6066,-88.5413\"><b>M 4.3 - 11 km N of Berlín, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gd\">USGS</a>",
-          13.6066,
-          -88.5413
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.8427,120.5794\"><b>M 4.6 - Luzon, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6ht\">USGS</a>",
-          17.8427,
-          120.5794
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.9502,-67.3692\"><b>M 4.5 - 136 km NE of San Pedro de Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gb\">USGS</a>",
-          -21.9502,
-          -67.3692
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=50.3955,90.6227\"><b>M 5.6 - 13 km E of Mugur-Aksy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6g9\">USGS</a>",
-          50.3955,
-          90.6227
         ]
       ],
       "Floods": [],
@@ -4475,13 +4383,13 @@
         ]
       ]
     },
-    "title": "77 events (30/Jul/2022 PDT)"
+    "title": "73 events (30/Jul/2022 PDT)"
   },
-  "last_update": "30/Jul/2022 @ 06:00:36 PDT",
-  "last_update_epoch": 1659186036.84574,
+  "last_update": "30/Jul/2022 @ 07:00:40 PDT",
+  "last_update_epoch": 1659189640.14042,
   "neo": {
     "date": "30/Jul/2022 PDT",
-    "last_update": "30/Jul/2022 @ 06:00:08 PDT",
+    "last_update": "30/Jul/2022 @ 07:00:09 PDT",
     "objects": [
       {
         "cat": "30/Jul/2022 @ 17:09:00 ",
@@ -4617,7 +4525,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Jul/2022 @ 06:00:08 PDT",
+    "last_update": "30/Jul/2022 @ 07:00:09 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6379,7 +6287,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Jul/2022 @ 06:00:15 PDT",
+    "last_update": "30/Jul/2022 @ 07:00:15 PDT",
     "launches": {
       "future": [
         {
@@ -18099,12 +18007,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "183,702,560.77 miles",
+      "earth_distance": "183,694,579.60 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "169,583,244.67 miles",
+      "mars_distance": "169,600,615.26 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,080.93 mph",
+      "speed": "4,081.35 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
