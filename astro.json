@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Jul/2022 @ 03:00:03 PDT",
+    "last_update": "30/Jul/2022 @ 04:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2207/AS11JK44-6633-34_1100px.jpg",
     "title": "The Eagle Rises (30/Jul/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -144,7 +144,7 @@
           }
         ],
         "eid": "EONET_6136",
-        "location": "https://www.google.com/maps/dir/11.5,-102/11.6,-103/11.7,-103.8/11.9,-104.6/12.3,-105.4/12.4,-106.3/12.6,-107.5/12.8,-108.5/13,-109.6/12.9,-110.6/13,-111.3/13.3,-111.8/14.1,-112.6/14.5,-113.3/14.8,-114.4/@11.5,-102,3z",
+        "location": "https://www.google.com/maps/dir/11.5,-102/11.6,-103/11.7,-103.8/11.9,-104.6/12.3,-105.4/12.4,-106.3/12.6,-107.5/12.8,-108.5/13,-109.6/12.9,-110.6/13,-111.3/13.3,-111.8/14.1,-112.6/14.5,-113.3/14.8,-114.4/15.6,-115/@11.5,-102,3z",
         "name": "Hurricane Frank",
         "source": [
           {
@@ -713,6 +713,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i6gf",
+        "location": "http://maps.google.com/maps?q=38.435,22.0387",
+        "name": "M 4.4 - 15 km NNE of Kamárai, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gf"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i6kp",
         "location": "http://maps.google.com/maps?q=-15.3323,-72.0291",
         "name": "M 4.4 - 28 km NNW of Tapay, Peru",
@@ -741,24 +759,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6pt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i6gf",
-        "location": "http://maps.google.com/maps?q=38.435,22.0387",
-        "name": "M 4.4 - Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gf"
       },
       {
         "category": [
@@ -857,24 +857,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i6ht",
-        "location": "http://maps.google.com/maps?q=17.8427,120.5794",
-        "name": "M 4.6 - 12 km SE of Mabusag, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6ht"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i6qx",
         "location": "http://maps.google.com/maps?q=-0.1513,124.2411",
         "name": "M 4.6 - 151 km ESE of Gorontalo, Indonesia",
@@ -929,16 +911,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i6fm",
-        "location": "http://maps.google.com/maps?q=21.0592,99.8902",
-        "name": "M 4.7 - 63 km S of Kēng Tung, Myanmar",
+        "eid": "us6000i6ht",
+        "location": "http://maps.google.com/maps?q=17.8427,120.5794",
+        "name": "M 4.6 - Luzon, Philippines",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6fm"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6ht"
       },
       {
         "category": [
@@ -1029,24 +1011,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6pj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i6fq",
-        "location": "http://maps.google.com/maps?q=-59.4647,-26.2175",
-        "name": "M 4.9 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6fq"
       },
       {
         "category": [
@@ -1362,7 +1326,7 @@
           }
         ],
         "eid": "EONET_6137",
-        "location": "https://www.google.com/maps/dir/16.4,-115.3/16.3,-116.2/15.9,-117.1/15.9,-118.3/15.7,-119.5/15.6,-120.3/15.4,-121.2/15.2,-122.6/14.8,-123.6/14.6,-124.7/@16.4,-115.3,3z",
+        "location": "https://www.google.com/maps/dir/16.4,-115.3/16.3,-116.2/15.9,-117.1/15.9,-118.3/15.7,-119.5/15.6,-120.3/15.4,-121.2/15.2,-122.6/14.8,-123.6/14.6,-124.7/14.3,-125.5/@16.4,-115.3,3z",
         "name": "Tropical Storm Georgette",
         "source": [
           {
@@ -1463,7 +1427,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6129"
       }
     ],
-    "last_update": "30/Jul/2022 @ 03:00:05 PDT",
+    "last_update": "30/Jul/2022 @ 04:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1599,7 +1563,7 @@
           142.9447
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=38.435,22.0387\"><b>M 4.4 - Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=38.435,22.0387\"><b>M 4.4 - 15 km NNE of Kamárai, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6gf\">USGS</a>",
           38.435,
           22.0387
         ],
@@ -1609,7 +1573,7 @@
           -88.5413
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=17.8427,120.5794\"><b>M 4.6 - 12 km SE of Mabusag, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6ht\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=17.8427,120.5794\"><b>M 4.6 - Luzon, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6ht\">USGS</a>",
           17.8427,
           120.5794
         ],
@@ -1627,16 +1591,6 @@
           "<a href=\"http://maps.google.com/maps?q=-8.2049,115.5161\"><b>M 4.5 - 28 km NNW of Bedugul, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6g0\">USGS</a>",
           -8.2049,
           115.5161
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-59.4647,-26.2175\"><b>M 4.9 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6fq\">USGS</a>",
-          -59.4647,
-          -26.2175
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=21.0592,99.8902\"><b>M 4.7 - 63 km S of Kēng Tung, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i6fm\">USGS</a>",
-          21.0592,
-          99.8902
         ]
       ],
       "Floods": [],
@@ -4331,6 +4285,11 @@
           -124.7
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=14.3,-125.5\"><b>Tropical Storm Georgette</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0822.tcw\">JTWC</a>",
+          14.3,
+          -125.5
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=11.5,-102\"><b>Hurricane Frank</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0722.tcw\">JTWC</a>",
           11.5,
           -102
@@ -4404,6 +4363,11 @@
           "<a href=\"http://maps.google.com/maps?q=14.8,-114.4\"><b>Hurricane Frank</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0722.tcw\">JTWC</a>",
           14.8,
           -114.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.6,-115\"><b>Hurricane Frank</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/ep0722.tcw\">JTWC</a>",
+          15.6,
+          -115
         ]
       ],
       "Snow": [],
@@ -4534,13 +4498,13 @@
         ]
       ]
     },
-    "title": "80 events (30/Jul/2022 PDT)"
+    "title": "78 events (30/Jul/2022 PDT)"
   },
-  "last_update": "30/Jul/2022 @ 03:00:36 PDT",
-  "last_update_epoch": 1659175236.242105,
+  "last_update": "30/Jul/2022 @ 04:00:39 PDT",
+  "last_update_epoch": 1659178839.032466,
   "neo": {
     "date": "30/Jul/2022 PDT",
-    "last_update": "30/Jul/2022 @ 03:00:08 PDT",
+    "last_update": "30/Jul/2022 @ 04:00:08 PDT",
     "objects": [
       {
         "cat": "30/Jul/2022 @ 17:09:00 ",
@@ -4676,7 +4640,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Jul/2022 @ 03:00:08 PDT",
+    "last_update": "30/Jul/2022 @ 04:00:08 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6438,7 +6402,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Jul/2022 @ 03:00:15 PDT",
+    "last_update": "30/Jul/2022 @ 04:00:13 PDT",
     "launches": {
       "future": [
         {
@@ -18158,12 +18122,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "183,726,571.16 miles",
+      "earth_distance": "183,718,556.56 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "169,531,216.25 miles",
+      "mars_distance": "169,548,545.16 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,079.68 mph",
+      "speed": "4,080.10 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
