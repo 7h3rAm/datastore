@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Aug/2022 @ 16:00:03 PDT",
+    "last_update": "01/Aug/2022 @ 17:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2208/MysticCarina_HubbleSerrano_960.jpg",
     "title": "Mountains of Dust in the Carina Nebula (01/Aug/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -623,6 +623,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000i7bc",
+        "location": "http://maps.google.com/maps?q=-22.2479,-68.6243",
+        "name": "M 4.1 - 38 km NE of Calama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7bc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000i73e",
         "location": "http://maps.google.com/maps?q=63.9683,-22.3592",
         "name": "M 4.2 - 1 km SE of Vogar, Iceland",
@@ -867,6 +885,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7aa"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000i7bi",
+        "location": "http://maps.google.com/maps?q=63.9999,-22.1285",
+        "name": "M 4.8 - 11 km SW of Hafnarfjörður, Iceland",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7bi"
       },
       {
         "category": [
@@ -1283,11 +1319,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6129"
       }
     ],
-    "last_update": "01/Aug/2022 @ 16:00:06 PDT",
+    "last_update": "01/Aug/2022 @ 17:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=63.9999,-22.1285\"><b>M 4.8 - 11 km SW of Hafnarfjörður, Iceland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7bi\">USGS</a>",
+          63.9999,
+          -22.1285
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.2479,-68.6243\"><b>M 4.1 - 38 km NE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7bc\">USGS</a>",
+          -22.2479,
+          -68.6243
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.5994,128.7359\"><b>M 4.4 - 117 km SSE of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7ay\">USGS</a>",
           -4.5994,
@@ -4714,52 +4760,61 @@
         ]
       ]
     },
-    "title": "70 events (01/Aug/2022 PDT)"
+    "title": "72 events (01/Aug/2022 PDT)"
   },
-  "last_update": "01/Aug/2022 @ 16:00:40 PDT",
-  "last_update_epoch": 1659394840.283167,
+  "last_update": "01/Aug/2022 @ 17:00:34 PDT",
+  "last_update_epoch": 1659398434.645261,
   "neo": {
-    "date": "01/Aug/2022 PDT",
-    "last_update": "01/Aug/2022 @ 16:00:08 PDT",
+    "date": "02/Aug/2022 PDT",
+    "last_update": "01/Aug/2022 @ 17:00:07 PDT",
     "objects": [
       {
-        "cat": "01/Aug/2022 @ 16:51:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "13,653,314.12 miles",
+        "cat": "02/Aug/2022 @ 06:37:00 ",
+        "diameter": "0.06-0.13 miles",
+        "distance": "36,194,180.63 miles",
         "hazardous": false,
-        "name": "Asteroid (2013 PS13)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3645382",
-        "velocity": "48,230.52 mph"
+        "name": "Asteroid (2004 BT58)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3174187",
+        "velocity": "38,641.59 mph"
       },
       {
-        "cat": "01/Aug/2022 @ 21:28:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "30,668,453.85 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 EA2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3838930",
-        "velocity": "21,716.06 mph"
-      },
-      {
-        "cat": "01/Aug/2022 @ 21:30:00 ",
-        "diameter": "0.08-0.17 miles",
-        "distance": "15,872,366.16 miles",
-        "hazardous": true,
-        "name": "Asteroid (2019 QG)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843572",
-        "velocity": "15,774.09 mph"
-      },
-      {
-        "cat": "01/Aug/2022 @ 16:58:00 ",
+        "cat": "02/Aug/2022 @ 17:08:00 ",
         "diameter": "0.01-0.02 miles",
-        "distance": "3,122,149.57 miles",
+        "distance": "26,466,750.82 miles",
         "hazardous": false,
-        "name": "Asteroid (2020 PP1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54050999",
-        "velocity": "8,310.47 mph"
+        "name": "Asteroid (2011 AH5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3555072",
+        "velocity": "39,249.72 mph"
+      },
+      {
+        "cat": "02/Aug/2022 @ 19:32:00 ",
+        "diameter": "0.04-0.09 miles",
+        "distance": "18,233,626.04 miles",
+        "hazardous": false,
+        "name": "Asteroid (2017 VS12)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3789222",
+        "velocity": "20,236.01 mph"
+      },
+      {
+        "cat": "02/Aug/2022 @ 18:02:00 ",
+        "diameter": "0.00-0.00 miles",
+        "distance": "8,115,353.75 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 CC7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54117577",
+        "velocity": "11,469.79 mph"
+      },
+      {
+        "cat": "02/Aug/2022 @ 22:32:00 ",
+        "diameter": "0.07-0.15 miles",
+        "distance": "33,864,179.09 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 GP16)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54137811",
+        "velocity": "24,576.92 mph"
       }
     ],
-    "title": "4 objects making close approach (01/Aug/2022 PDT)"
+    "title": "5 objects making close approach (02/Aug/2022 PDT)"
   },
   "satview": {
     "date": "01/Aug/2022 PDT",
@@ -4829,7 +4884,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Aug/2022 @ 16:00:08 PDT",
+    "last_update": "01/Aug/2022 @ 17:00:07 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6591,7 +6646,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Aug/2022 @ 16:00:17 PDT",
+    "last_update": "01/Aug/2022 @ 17:00:13 PDT",
     "launches": {
       "future": [
         {
@@ -18311,12 +18366,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "183,258,196.48 miles",
+      "earth_distance": "183,250,868.06 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "170,613,477.22 miles",
+      "mars_distance": "170,631,641.73 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,105.72 mph",
+      "speed": "4,106.16 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
