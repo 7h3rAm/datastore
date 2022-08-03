@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Aug/2022 @ 06:00:04 PDT",
+    "last_update": "03/Aug/2022 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2208/CatsHalo_Falls_960.jpg",
     "title": "Halo of the Cat's Eye (03/Aug/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -803,24 +803,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i7g8",
-        "location": "http://maps.google.com/maps?q=32.5833,69.0648",
-        "name": "M 4.3 - 57 km WNW of Wana, Pakistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7g8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i7km",
         "location": "http://maps.google.com/maps?q=23.9263,122.4724",
         "name": "M 4.3 - 80 km SW of Yonakuni, Japan",
@@ -849,24 +831,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7p6"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000i7g1",
-        "location": "http://maps.google.com/maps?q=-7.0983,107.5458",
-        "name": "M 4.5 - 7 km SW of Banjaran, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7g1"
       },
       {
         "category": [
@@ -1265,7 +1229,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6129"
       }
     ],
-    "last_update": "03/Aug/2022 @ 06:00:06 PDT",
+    "last_update": "03/Aug/2022 @ 07:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1369,16 +1333,6 @@
           "<a href=\"http://maps.google.com/maps?q=64.3171,-17.6253\"><b>M 4.1 - 117 km W of Höfn, Iceland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7hi\">USGS</a>",
           64.3171,
           -17.6253
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=32.5833,69.0648\"><b>M 4.3 - 57 km WNW of Wana, Pakistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7g8\">USGS</a>",
-          32.5833,
-          69.0648
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.0983,107.5458\"><b>M 4.5 - 7 km SW of Banjaran, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7g1\">USGS</a>",
-          -7.0983,
-          107.5458
         ]
       ],
       "Floods": [],
@@ -4741,13 +4695,13 @@
         ]
       ]
     },
-    "title": "69 events (03/Aug/2022 PDT)"
+    "title": "67 events (03/Aug/2022 PDT)"
   },
-  "last_update": "03/Aug/2022 @ 06:03:51 PDT",
-  "last_update_epoch": 1659531831.738361,
+  "last_update": "03/Aug/2022 @ 07:00:07 PDT",
+  "last_update_epoch": 1659535207.056816,
   "neo": {
     "date": "03/Aug/2022 PDT",
-    "last_update": "03/Aug/2022 @ 06:00:10 PDT",
+    "last_update": "03/Aug/2022 @ 07:00:07 PDT",
     "objects": [
       {
         "cat": "03/Aug/2022 @ 12:59:00 ",
