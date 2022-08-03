@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Aug/2022 @ 22:00:06 PDT",
+    "last_update": "02/Aug/2022 @ 23:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2208/CatsHalo_Falls_960.jpg",
     "title": "Halo of the Cat's Eye (03/Aug/2022 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -875,24 +875,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000i7d8",
-        "location": "http://maps.google.com/maps?q=6.7917,123.8396",
-        "name": "M 5.5 - 19 km W of Gadung, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7d8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000i7k8",
         "location": "http://maps.google.com/maps?q=-18.1158,-178.2021",
         "name": "M 5.6 - 262 km E of Levuka, Fiji",
@@ -1175,7 +1157,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6129"
       }
     ],
-    "last_update": "02/Aug/2022 @ 22:00:08 PDT",
+    "last_update": "02/Aug/2022 @ 23:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1259,11 +1241,6 @@
           "<a href=\"http://maps.google.com/maps?q=1.7076,99.5372\"><b>M 4.5 - 44 km SSW of Bandar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7ev\">USGS</a>",
           1.7076,
           99.5372
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=6.7917,123.8396\"><b>M 5.5 - 19 km W of Gadung, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000i7d8\">USGS</a>",
-          6.7917,
-          123.8396
         ]
       ],
       "Floods": [],
@@ -4621,13 +4598,13 @@
         ]
       ]
     },
-    "title": "64 events (02/Aug/2022 PDT)"
+    "title": "63 events (02/Aug/2022 PDT)"
   },
-  "last_update": "02/Aug/2022 @ 22:01:04 PDT",
-  "last_update_epoch": 1659502864.825248,
+  "last_update": "02/Aug/2022 @ 23:00:32 PDT",
+  "last_update_epoch": 1659506432.468536,
   "neo": {
     "date": "03/Aug/2022 PDT",
-    "last_update": "02/Aug/2022 @ 22:00:09 PDT",
+    "last_update": "02/Aug/2022 @ 23:00:06 PDT",
     "objects": [
       {
         "cat": "03/Aug/2022 @ 12:59:00 ",
@@ -4736,7 +4713,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Aug/2022 @ 22:00:10 PDT",
+    "last_update": "02/Aug/2022 @ 23:00:06 PDT",
     "people": [
       {
         "name": "Bob Hines",
@@ -6498,7 +6475,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Aug/2022 @ 22:00:25 PDT",
+    "last_update": "02/Aug/2022 @ 23:00:12 PDT",
     "launches": {
       "future": [
         {
@@ -18218,12 +18195,12 @@
     "roadster": {
       "date": "06/Feb/2018 @ 12:45:00 PST",
       "description": "Elon Musk's Tesla Roadster is an electric sports car that served as the dummy payload for the February 2018 Falcon Heavy test flight and is now an artificial satellite of the Sun. Starman, a mannequin dressed in a spacesuit, occupies the driver's seat. The car and rocket are products of Tesla and SpaceX. This 2008-model Roadster was previously used by Musk for commuting, and is the only consumer car sent into space.",
-      "earth_distance": "183,043,302.73 miles",
+      "earth_distance": "183,036,316.88 miles",
       "launch_mass": "2,976.00 lbs",
-      "mars_distance": "171,164,248.39 miles",
+      "mars_distance": "171,182,814.25 miles",
       "name": "Elon Musk's Tesla Roadster",
       "orbit": "Heliocentric",
-      "speed": "4,118.98 mph",
+      "speed": "4,119.43 mph",
       "url": "https://youtu.be/wbSwFU6tY1c"
     },
     "rockets": [
