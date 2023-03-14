@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 12:00:04 PDT",
+    "last_update": "14/Mar/2023 @ 14:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg",
     "title": "W5: The Soul Nebula (14/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -547,24 +547,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjll",
-        "location": "http://maps.google.com/maps?q=-17.663,-70.384",
-        "name": "M 5.1 - 18 km NE of Sama Grande, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjll"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjnk",
         "location": "http://maps.google.com/maps?q=-28.1708,-67.5856",
         "name": "M 5.2 - 12 km S of Tinogasta, Argentina",
@@ -593,6 +575,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jjwt",
+        "location": "http://maps.google.com/maps?q=-38.3181,-75.2727",
+        "name": "M 5.5 - 162 km WSW of Lebu, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjwt"
       },
       {
         "category": [
@@ -657,11 +657,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 12:00:06 PDT",
+    "last_update": "14/Mar/2023 @ 14:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-38.3181,-75.2727\"><b>M 5.5 - 162 km WSW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjwt\">USGS</a>",
+          -38.3181,
+          -75.2727
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - 101 km SW of Kýthira, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
           35.5478,
@@ -726,11 +731,6 @@
           "<a href=\"http://maps.google.com/maps?q=-11.9936,166.0362\"><b>M 5.0 - 142 km S of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjn7\">USGS</a>",
           -11.9936,
           166.0362
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.663,-70.384\"><b>M 5.1 - 18 km NE of Sama Grande, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjll\">USGS</a>",
-          -17.663,
-          -70.384
         ]
       ],
       "Floods": [],
@@ -3549,11 +3549,11 @@
     },
     "title": "35 events (14/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 12:00:31 PDT",
-  "last_update_epoch": 1678820431.534618,
+  "last_update": "14/Mar/2023 @ 14:00:31 PDT",
+  "last_update_epoch": 1678827631.838105,
   "neo": {
     "date": "14/Mar/2023 PDT",
-    "last_update": "14/Mar/2023 @ 12:00:06 PDT",
+    "last_update": "14/Mar/2023 @ 14:00:06 PDT",
     "objects": [
       {
         "cat": "14/Mar/2023 @ 09:24:00 ",
@@ -3635,7 +3635,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Mar/2023 @ 12:00:06 PDT",
+    "last_update": "14/Mar/2023 @ 14:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5421,7 +5421,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Mar/2023 @ 12:00:11 PDT",
+    "last_update": "14/Mar/2023 @ 14:00:10 PDT",
     "launches": {
       "future": [
         {
