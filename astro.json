@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 15:00:03 PDT",
+    "last_update": "14/Mar/2023 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg",
     "title": "W5: The Soul Nebula (14/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,24 +385,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjne",
-        "location": "http://maps.google.com/maps?q=-7.3885,128.3031",
-        "name": "M 4.2 - 190 km NE of Lospalos, Timor Leste",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjne"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjqs",
         "location": "http://maps.google.com/maps?q=0.6236,125.2337",
         "name": "M 4.2 - 83 km SSE of Tondano, Indonesia",
@@ -511,27 +493,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjnk",
-        "location": "http://maps.google.com/maps?q=-28.1708,-67.5856",
-        "name": "M 5.2 - Catamarca-La Rioja region, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjnk"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjve",
         "location": "http://maps.google.com/maps?q=35.5478,22.1475",
-        "name": "M 5.4 - 101 km SW of Kýthira, Greece",
+        "name": "M 5.4 - central Mediterranean Sea",
         "source": [
           {
             "sid": "USGS",
@@ -621,7 +585,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "14/Mar/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -632,7 +596,7 @@
           -75.2851
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - 101 km SW of Kýthira, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - central Mediterranean Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
           35.5478,
           22.1475
         ],
@@ -675,16 +639,6 @@
           "<a href=\"http://maps.google.com/maps?q=-5.4058,146.8537\"><b>M 6.3 - eastern New Guinea region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjp7\">USGS</a>",
           -5.4058,
           146.8537
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.1708,-67.5856\"><b>M 5.2 - Catamarca-La Rioja region, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjnk\">USGS</a>",
-          -28.1708,
-          -67.5856
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.3885,128.3031\"><b>M 4.2 - 190 km NE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjne\">USGS</a>",
-          -7.3885,
-          128.3031
         ]
       ],
       "Floods": [],
@@ -3501,13 +3455,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "33 events (14/Mar/2023 PDT)"
+    "title": "31 events (14/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 15:00:30 PDT",
-  "last_update_epoch": 1678831230.359458,
+  "last_update": "14/Mar/2023 @ 16:00:38 PDT",
+  "last_update_epoch": 1678834838.520049,
   "neo": {
     "date": "14/Mar/2023 PDT",
-    "last_update": "14/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "14/Mar/2023 @ 16:00:05 PDT",
     "objects": [
       {
         "cat": "14/Mar/2023 @ 09:24:00 ",
@@ -3589,7 +3543,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "14/Mar/2023 @ 16:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5375,7 +5329,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Mar/2023 @ 15:00:10 PDT",
+    "last_update": "14/Mar/2023 @ 16:00:10 PDT",
     "launches": {
       "future": [
         {
