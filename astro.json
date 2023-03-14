@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 11:00:03 PDT",
+    "last_update": "14/Mar/2023 @ 12:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg",
     "title": "W5: The Soul Nebula (14/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -457,24 +457,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjld",
-        "location": "http://maps.google.com/maps?q=17.7912,-106.0095",
-        "name": "M 4.5 - off the coast of Jalisco, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjld"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjrw",
         "location": "http://maps.google.com/maps?q=38.0742,36.9299",
         "name": "M 4.6 - 19 km S of Afşin, Turkey",
@@ -675,7 +657,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 11:00:05 PDT",
+    "last_update": "14/Mar/2023 @ 12:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -749,11 +731,6 @@
           "<a href=\"http://maps.google.com/maps?q=-17.663,-70.384\"><b>M 5.1 - 18 km NE of Sama Grande, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjll\">USGS</a>",
           -17.663,
           -70.384
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.7912,-106.0095\"><b>M 4.5 - off the coast of Jalisco, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjld\">USGS</a>",
-          17.7912,
-          -106.0095
         ]
       ],
       "Floods": [],
@@ -3570,13 +3547,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (14/Mar/2023 PDT)"
+    "title": "35 events (14/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 11:00:31 PDT",
-  "last_update_epoch": 1678816831.108866,
+  "last_update": "14/Mar/2023 @ 12:00:31 PDT",
+  "last_update_epoch": 1678820431.534618,
   "neo": {
     "date": "14/Mar/2023 PDT",
-    "last_update": "14/Mar/2023 @ 11:00:05 PDT",
+    "last_update": "14/Mar/2023 @ 12:00:06 PDT",
     "objects": [
       {
         "cat": "14/Mar/2023 @ 09:24:00 ",
@@ -3658,7 +3635,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Mar/2023 @ 11:00:06 PDT",
+    "last_update": "14/Mar/2023 @ 12:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5444,7 +5421,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Mar/2023 @ 11:00:11 PDT",
+    "last_update": "14/Mar/2023 @ 12:00:11 PDT",
     "launches": {
       "future": [
         {
