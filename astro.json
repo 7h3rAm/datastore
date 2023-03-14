@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 14:00:03 PDT",
+    "last_update": "14/Mar/2023 @ 15:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg",
     "title": "W5: The Soul Nebula (14/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -387,7 +387,7 @@
         ],
         "eid": "us7000jjne",
         "location": "http://maps.google.com/maps?q=-7.3885,128.3031",
-        "name": "M 4.2 - Kepulauan Barat Daya, Indonesia",
+        "name": "M 4.2 - 190 km NE of Lospalos, Timor Leste",
         "source": [
           {
             "sid": "USGS",
@@ -405,7 +405,7 @@
         ],
         "eid": "us7000jjqs",
         "location": "http://maps.google.com/maps?q=0.6236,125.2337",
-        "name": "M 4.2 - Molucca Sea",
+        "name": "M 4.2 - 83 km SSE of Tondano, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -457,27 +457,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjrw",
-        "location": "http://maps.google.com/maps?q=38.0742,36.9299",
-        "name": "M 4.6 - 19 km S of Afşin, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjrw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjv5",
         "location": "http://maps.google.com/maps?q=37.8097,37.3889",
-        "name": "M 4.6 - Central Turkey",
+        "name": "M 4.6 - 11 km NE of Çağlayancerit, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -493,34 +475,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjn9",
-        "location": "http://maps.google.com/maps?q=20.8149,121.6338",
-        "name": "M 4.7 - 53 km NW of Basco, Philippines",
+        "eid": "us7000jjrw",
+        "location": "http://maps.google.com/maps?q=38.0742,36.9299",
+        "name": "M 4.6 - 19 km S of Afşin, Turkey",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjn9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jjn7",
-        "location": "http://maps.google.com/maps?q=-11.9936,166.0362",
-        "name": "M 5.0 - 142 km S of Lata, Solomon Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjn7"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjrw"
       },
       {
         "category": [
@@ -549,7 +513,7 @@
         ],
         "eid": "us7000jjnk",
         "location": "http://maps.google.com/maps?q=-28.1708,-67.5856",
-        "name": "M 5.2 - 12 km S of Tinogasta, Argentina",
+        "name": "M 5.2 - Catamarca-La Rioja region, Argentina",
         "source": [
           {
             "sid": "USGS",
@@ -584,8 +548,8 @@
           }
         ],
         "eid": "us7000jjwt",
-        "location": "http://maps.google.com/maps?q=-38.3181,-75.2727",
-        "name": "M 5.5 - 162 km WSW of Lebu, Chile",
+        "location": "http://maps.google.com/maps?q=-38.4214,-75.2851",
+        "name": "M 5.5 - 169 km WSW of Lebu, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -621,7 +585,7 @@
         ],
         "eid": "us7000jjp7",
         "location": "http://maps.google.com/maps?q=-5.4058,146.8537",
-        "name": "M 6.3 - 119 km E of Madang, Papua New Guinea",
+        "name": "M 6.3 - eastern New Guinea region, Papua New Guinea",
         "source": [
           {
             "sid": "USGS",
@@ -657,15 +621,15 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 14:00:05 PDT",
+    "last_update": "14/Mar/2023 @ 15:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-38.3181,-75.2727\"><b>M 5.5 - 162 km WSW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjwt\">USGS</a>",
-          -38.3181,
-          -75.2727
+          "<a href=\"http://maps.google.com/maps?q=-38.4214,-75.2851\"><b>M 5.5 - 169 km WSW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjwt\">USGS</a>",
+          -38.4214,
+          -75.2851
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - 101 km SW of Kýthira, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
@@ -673,7 +637,7 @@
           22.1475
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.8097,37.3889\"><b>M 4.6 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjv5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.8097,37.3889\"><b>M 4.6 - 11 km NE of Çağlayancerit, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjv5\">USGS</a>",
           37.8097,
           37.3889
         ],
@@ -703,34 +667,24 @@
           -141.8297
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=0.6236,125.2337\"><b>M 4.2 - Molucca Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=0.6236,125.2337\"><b>M 4.2 - 83 km SSE of Tondano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs\">USGS</a>",
           0.6236,
           125.2337
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-5.4058,146.8537\"><b>M 6.3 - 119 km E of Madang, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjp7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-5.4058,146.8537\"><b>M 6.3 - eastern New Guinea region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjp7\">USGS</a>",
           -5.4058,
           146.8537
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-28.1708,-67.5856\"><b>M 5.2 - 12 km S of Tinogasta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjnk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-28.1708,-67.5856\"><b>M 5.2 - Catamarca-La Rioja region, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjnk\">USGS</a>",
           -28.1708,
           -67.5856
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-7.3885,128.3031\"><b>M 4.2 - Kepulauan Barat Daya, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjne\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-7.3885,128.3031\"><b>M 4.2 - 190 km NE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjne\">USGS</a>",
           -7.3885,
           128.3031
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=20.8149,121.6338\"><b>M 4.7 - 53 km NW of Basco, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjn9\">USGS</a>",
-          20.8149,
-          121.6338
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-11.9936,166.0362\"><b>M 5.0 - 142 km S of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjn7\">USGS</a>",
-          -11.9936,
-          166.0362
         ]
       ],
       "Floods": [],
@@ -3547,13 +3501,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "35 events (14/Mar/2023 PDT)"
+    "title": "33 events (14/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 14:00:31 PDT",
-  "last_update_epoch": 1678827631.838105,
+  "last_update": "14/Mar/2023 @ 15:00:30 PDT",
+  "last_update_epoch": 1678831230.359458,
   "neo": {
     "date": "14/Mar/2023 PDT",
-    "last_update": "14/Mar/2023 @ 14:00:06 PDT",
+    "last_update": "14/Mar/2023 @ 15:00:05 PDT",
     "objects": [
       {
         "cat": "14/Mar/2023 @ 09:24:00 ",
@@ -3635,7 +3589,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Mar/2023 @ 14:00:06 PDT",
+    "last_update": "14/Mar/2023 @ 15:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5421,7 +5375,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Mar/2023 @ 14:00:10 PDT",
+    "last_update": "14/Mar/2023 @ 15:00:10 PDT",
     "launches": {
       "future": [
         {
