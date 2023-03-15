@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 04:00:03 PDT",
+    "last_update": "15/Mar/2023 @ 05:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -639,7 +639,7 @@
         ],
         "eid": "us7000jjve",
         "location": "http://maps.google.com/maps?q=35.5478,22.1475",
-        "name": "M 5.4 - central Mediterranean Sea",
+        "name": "M 5.4 - 101 km SW of Kýthira, Greece",
         "source": [
           {
             "sid": "USGS",
@@ -693,7 +693,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 04:00:04 PDT",
+    "last_update": "15/Mar/2023 @ 05:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -769,7 +769,7 @@
           -75.2851
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - central Mediterranean Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - 101 km SW of Kýthira, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
           35.5478,
           22.1475
         ],
@@ -3595,8 +3595,8 @@
     },
     "title": "37 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 04:00:04 PDT",
-  "last_update_epoch": 1678878004.773301,
+  "last_update": "15/Mar/2023 @ 05:00:05 PDT",
+  "last_update_epoch": 1678881605.08067,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
