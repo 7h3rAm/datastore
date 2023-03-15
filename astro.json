@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 14:00:03 PDT",
+    "last_update": "15/Mar/2023 @ 15:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,24 +385,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjxs",
-        "location": "http://maps.google.com/maps?q=35.4716,140.1696",
-        "name": "M 4.1 - 9 km ESE of Ichihara, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jk0j",
         "location": "http://maps.google.com/maps?q=34.6115,32.4795",
         "name": "M 4.2 - 15 km S of Koloni, Cyprus",
@@ -449,24 +431,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jjxe",
-        "location": "http://maps.google.com/maps?q=36.0339,139.7724",
-        "name": "M 4.3 - 4 km E of Sugito, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxe"
       },
       {
         "category": [
@@ -638,8 +602,8 @@
           }
         ],
         "eid": "us7000jjzm",
-        "location": "http://maps.google.com/maps?q=35.0534,81.3945",
-        "name": "M 4.7 - 263 km SSE of Hotan, China",
+        "location": "http://maps.google.com/maps?q=34.9812,81.3674",
+        "name": "M 4.7 - 268 km SSE of Hotan, China",
         "source": [
           {
             "sid": "USGS",
@@ -705,6 +669,24 @@
       {
         "category": [
           {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jk9p",
+        "location": "http://maps.google.com/maps?q=4.6784,126.9147",
+        "name": "M 5.3 - 179 km ESE of Sarangani, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9p"
+      },
+      {
+        "category": [
+          {
             "emoji": "🌀",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
           }
@@ -729,11 +711,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 14:00:05 PDT",
+    "last_update": "15/Mar/2023 @ 15:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=4.6784,126.9147\"><b>M 5.3 - 179 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9p\">USGS</a>",
+          4.6784,
+          126.9147
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-2.4043,139.4197\"><b>M 4.5 - 136 km W of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7v\">USGS</a>",
           -2.4043,
@@ -795,9 +782,9 @@
           -29.1581
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.0534,81.3945\"><b>M 4.7 - 263 km SSE of Hotan, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzm\">USGS</a>",
-          35.0534,
-          81.3945
+          "<a href=\"http://maps.google.com/maps?q=34.9812,81.3674\"><b>M 4.7 - 268 km SSE of Hotan, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzm\">USGS</a>",
+          34.9812,
+          81.3674
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-19.432,-173.3925\"><b>M 4.6 - 106 km SE of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjz7\">USGS</a>",
@@ -813,16 +800,6 @@
           "<a href=\"http://maps.google.com/maps?q=-29.7863,-179.1141\"><b>M 4.6 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjyt\">USGS</a>",
           -29.7863,
           -179.1141
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - 9 km ESE of Ichihara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
-          35.4716,
-          140.1696
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.0339,139.7724\"><b>M 4.3 - 4 km E of Sugito, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxe\">USGS</a>",
-          36.0339,
-          139.7724
         ]
       ],
       "Floods": [],
@@ -3639,10 +3616,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (15/Mar/2023 PDT)"
+    "title": "38 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 14:00:05 PDT",
-  "last_update_epoch": 1678914005.125678,
+  "last_update": "15/Mar/2023 @ 15:00:05 PDT",
+  "last_update_epoch": 1678917605.778944,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
