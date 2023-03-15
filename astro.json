@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 10:00:03 PDT",
+    "last_update": "15/Mar/2023 @ 11:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -711,7 +711,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 10:00:05 PDT",
+    "last_update": "15/Mar/2023 @ 11:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3618,8 +3618,8 @@
     },
     "title": "38 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 10:00:05 PDT",
-  "last_update_epoch": 1678899605.028906,
+  "last_update": "15/Mar/2023 @ 11:00:05 PDT",
+  "last_update_epoch": 1678903205.561702,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
