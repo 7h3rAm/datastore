@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 03:00:03 PDT",
+    "last_update": "15/Mar/2023 @ 04:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -387,7 +387,7 @@
         ],
         "eid": "us7000jjxs",
         "location": "http://maps.google.com/maps?q=35.4716,140.1696",
-        "name": "M 4.1 - near the east coast of Honshu, Japan",
+        "name": "M 4.1 - 9 km ESE of Ichihara, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -423,7 +423,7 @@
         ],
         "eid": "pr2023074000",
         "location": "http://maps.google.com/maps?q=17.9291,-66.9568",
-        "name": "M 4.2 - 6 km SW of Guánica, Puerto Rico",
+        "name": "M 4.2 - Puerto Rico region",
         "source": [
           {
             "sid": "USGS",
@@ -457,6 +457,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jk30",
+        "location": "http://maps.google.com/maps?q=33.8244,81.923",
+        "name": "M 4.4 - western Xizang",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk30"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jk0l",
         "location": "http://maps.google.com/maps?q=18.5519,-106.8189",
         "name": "M 4.5 - 212 km SW of José María Morelos, Mexico",
@@ -475,16 +493,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjsw",
-        "location": "http://maps.google.com/maps?q=2.2973,128.0355",
-        "name": "M 4.5 - 62 km N of Tobelo, Indonesia",
+        "eid": "us7000jk2b",
+        "location": "http://maps.google.com/maps?q=-18.0171,-174.3111",
+        "name": "M 4.5 - 78 km NNW of Neiafu, Tonga",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjsw"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk2b"
       },
       {
         "category": [
@@ -495,7 +513,7 @@
         ],
         "eid": "us7000jjv5",
         "location": "http://maps.google.com/maps?q=37.8097,37.3889",
-        "name": "M 4.6 - Central Turkey",
+        "name": "M 4.6 - 11 km NE of Çağlayancerit, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -601,24 +619,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjsn",
-        "location": "http://maps.google.com/maps?q=51.7449,159.5407",
-        "name": "M 5.0 - 153 km SSE of Vilyuchinsk, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjsn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jk00",
         "location": "http://maps.google.com/maps?q=0.9003,-29.1581",
         "name": "M 5.0 - central Mid-Atlantic Ridge",
@@ -639,7 +639,7 @@
         ],
         "eid": "us7000jjve",
         "location": "http://maps.google.com/maps?q=35.5478,22.1475",
-        "name": "M 5.4 - 101 km SW of Kýthira, Greece",
+        "name": "M 5.4 - central Mediterranean Sea",
         "source": [
           {
             "sid": "USGS",
@@ -693,13 +693,23 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 03:00:05 PDT",
+    "last_update": "15/Mar/2023 @ 04:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=17.9291,-66.9568\"><b>M 4.2 - 6 km SW of Guánica, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=33.8244,81.923\"><b>M 4.4 - western Xizang</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk30\">USGS</a>",
+          33.8244,
+          81.923
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.0171,-174.3111\"><b>M 4.5 - 78 km NNW of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk2b\">USGS</a>",
+          -18.0171,
+          -174.3111
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=17.9291,-66.9568\"><b>M 4.2 - Puerto Rico region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000\">USGS</a>",
           17.9291,
           -66.9568
         ],
@@ -744,7 +754,7 @@
           -179.1141
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - 9 km ESE of Ichihara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
           35.4716,
           140.1696
         ],
@@ -759,24 +769,14 @@
           -75.2851
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - 101 km SW of Kýthira, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - central Mediterranean Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
           35.5478,
           22.1475
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.8097,37.3889\"><b>M 4.6 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjv5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.8097,37.3889\"><b>M 4.6 - 11 km NE of Çağlayancerit, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjv5\">USGS</a>",
           37.8097,
           37.3889
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=2.2973,128.0355\"><b>M 4.5 - 62 km N of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjsw\">USGS</a>",
-          2.2973,
-          128.0355
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=51.7449,159.5407\"><b>M 5.0 - 153 km SSE of Vilyuchinsk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjsn\">USGS</a>",
-          51.7449,
-          159.5407
         ]
       ],
       "Floods": [],
@@ -3595,8 +3595,8 @@
     },
     "title": "37 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 03:00:05 PDT",
-  "last_update_epoch": 1678874405.451861,
+  "last_update": "15/Mar/2023 @ 04:00:04 PDT",
+  "last_update_epoch": 1678878004.773301,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
