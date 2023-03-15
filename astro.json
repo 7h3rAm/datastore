@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 15:00:03 PDT",
+    "last_update": "15/Mar/2023 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,6 +385,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jjzy",
+        "location": "http://maps.google.com/maps?q=37.1397,36.3882",
+        "name": "M 4.2 - 14 km W of Hasanbeyli, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzy"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jk0j",
         "location": "http://maps.google.com/maps?q=34.6115,32.4795",
         "name": "M 4.2 - 15 km S of Koloni, Cyprus",
@@ -423,7 +441,7 @@
         ],
         "eid": "pr2023074000",
         "location": "http://maps.google.com/maps?q=17.9291,-66.9568",
-        "name": "M 4.2 - Puerto Rico region",
+        "name": "M 4.2 - 6 km SW of Guánica, Puerto Rico",
         "source": [
           {
             "sid": "USGS",
@@ -431,6 +449,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jjzz",
+        "location": "http://maps.google.com/maps?q=37.7886,101.4197",
+        "name": "M 4.2 - northern Qinghai, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jk9s",
+        "location": "http://maps.google.com/maps?q=-24.3628,-70.8538",
+        "name": "M 4.4 - 91 km SSW of Antofagasta, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9s"
       },
       {
         "category": [
@@ -493,6 +547,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jk7d",
+        "location": "http://maps.google.com/maps?q=-17.8061,-178.6461",
+        "name": "M 4.5 - 217 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jk2b",
         "location": "http://maps.google.com/maps?q=-18.0171,-174.3111",
         "name": "M 4.5 - 78 km NNW of Neiafu, Tonga",
@@ -511,24 +583,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jk7d",
-        "location": "http://maps.google.com/maps?q=-17.8061,-178.6461",
-        "name": "M 4.5 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjz7",
         "location": "http://maps.google.com/maps?q=-19.432,-173.3925",
         "name": "M 4.6 - 106 km SE of Neiafu, Tonga",
@@ -539,6 +593,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjz7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jka7",
+        "location": "http://maps.google.com/maps?q=3.9198,-76.0786",
+        "name": "M 4.6 - 18 km ESE of San Pedro, Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7"
       },
       {
         "category": [
@@ -656,7 +728,7 @@
           }
         ],
         "eid": "us7000jk00",
-        "location": "http://maps.google.com/maps?q=0.9003,-29.1581",
+        "location": "http://maps.google.com/maps?q=0.8617,-29.2283",
         "name": "M 5.0 - central Mid-Atlantic Ridge",
         "source": [
           {
@@ -711,11 +783,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "15/Mar/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=3.9198,-76.0786\"><b>M 4.6 - 18 km ESE of San Pedro, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7\">USGS</a>",
+          3.9198,
+          -76.0786
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.3628,-70.8538\"><b>M 4.4 - 91 km SSW of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9s\">USGS</a>",
+          -24.3628,
+          -70.8538
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=4.6784,126.9147\"><b>M 5.3 - 179 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9p\">USGS</a>",
           4.6784,
@@ -732,7 +814,7 @@
           161.5944
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - 217 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
           -17.8061,
           -178.6461
         ],
@@ -757,7 +839,7 @@
           -174.3111
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=17.9291,-66.9568\"><b>M 4.2 - Puerto Rico region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=17.9291,-66.9568\"><b>M 4.2 - 6 km SW of Guánica, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000\">USGS</a>",
           17.9291,
           -66.9568
         ],
@@ -777,9 +859,19 @@
           32.4795
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=0.9003,-29.1581\"><b>M 5.0 - central Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk00\">USGS</a>",
-          0.9003,
-          -29.1581
+          "<a href=\"http://maps.google.com/maps?q=0.8617,-29.2283\"><b>M 5.0 - central Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk00\">USGS</a>",
+          0.8617,
+          -29.2283
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.7886,101.4197\"><b>M 4.2 - northern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzz\">USGS</a>",
+          37.7886,
+          101.4197
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.1397,36.3882\"><b>M 4.2 - 14 km W of Hasanbeyli, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzy\">USGS</a>",
+          37.1397,
+          36.3882
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=34.9812,81.3674\"><b>M 4.7 - 268 km SSE of Hotan, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzm\">USGS</a>",
@@ -3616,10 +3708,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "38 events (15/Mar/2023 PDT)"
+    "title": "42 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 15:00:05 PDT",
-  "last_update_epoch": 1678917605.778944,
+  "last_update": "15/Mar/2023 @ 16:00:05 PDT",
+  "last_update_epoch": 1678921205.098243,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
