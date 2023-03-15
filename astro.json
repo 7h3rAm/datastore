@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 09:00:04 PDT",
+    "last_update": "15/Mar/2023 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -673,24 +673,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjve",
-        "location": "http://maps.google.com/maps?q=35.5478,22.1475",
-        "name": "M 5.4 - 101 km SW of Kýthira, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjwt",
         "location": "http://maps.google.com/maps?q=-38.4214,-75.2851",
         "name": "M 5.5 - 169 km WSW of Lebu, Chile",
@@ -729,7 +711,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 09:00:08 PDT",
+    "last_update": "15/Mar/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -818,11 +800,6 @@
           "<a href=\"http://maps.google.com/maps?q=-38.4214,-75.2851\"><b>M 5.5 - 169 km WSW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjwt\">USGS</a>",
           -38.4214,
           -75.2851
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - 101 km SW of Kýthira, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
-          35.5478,
-          22.1475
         ]
       ],
       "Floods": [],
@@ -3639,10 +3616,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (15/Mar/2023 PDT)"
+    "title": "38 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 09:00:08 PDT",
-  "last_update_epoch": 1678896008.425906,
+  "last_update": "15/Mar/2023 @ 10:00:05 PDT",
+  "last_update_epoch": 1678899605.028906,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
