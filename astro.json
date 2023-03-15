@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 16:00:03 PDT",
+    "last_update": "14/Mar/2023 @ 17:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg",
     "title": "W5: The Soul Nebula (14/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,6 +385,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jjxs",
+        "location": "http://maps.google.com/maps?q=35.4716,140.1696",
+        "name": "M 4.1 - 9 km ESE of Ichihara, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jjqs",
         "location": "http://maps.google.com/maps?q=0.6236,125.2337",
         "name": "M 4.2 - 83 km SSE of Tondano, Indonesia",
@@ -395,6 +413,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jjqf",
+        "location": "http://maps.google.com/maps?q=38.1096,38.5448",
+        "name": "M 4.3 - 10 km NW of Sincik, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqf"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jjxe",
+        "location": "http://maps.google.com/maps?q=36.0339,139.7724",
+        "name": "M 4.3 - 4 km E of Sugito, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxe"
       },
       {
         "category": [
@@ -431,6 +485,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjsw"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jjqm",
+        "location": "http://maps.google.com/maps?q=14.338,-93.2086",
+        "name": "M 4.5 - 94 km WSW of Puerto Madero, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqm"
       },
       {
         "category": [
@@ -585,11 +657,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 16:00:05 PDT",
+    "last_update": "14/Mar/2023 @ 17:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - 9 km ESE of Ichihara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
+          35.4716,
+          140.1696
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.0339,139.7724\"><b>M 4.3 - 4 km E of Sugito, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxe\">USGS</a>",
+          36.0339,
+          139.7724
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-38.4214,-75.2851\"><b>M 5.5 - 169 km WSW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjwt\">USGS</a>",
           -38.4214,
@@ -634,6 +716,16 @@
           "<a href=\"http://maps.google.com/maps?q=0.6236,125.2337\"><b>M 4.2 - 83 km SSE of Tondano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs\">USGS</a>",
           0.6236,
           125.2337
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=14.338,-93.2086\"><b>M 4.5 - 94 km WSW of Puerto Madero, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqm\">USGS</a>",
+          14.338,
+          -93.2086
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.1096,38.5448\"><b>M 4.3 - 10 km NW of Sincik, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqf\">USGS</a>",
+          38.1096,
+          38.5448
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-5.4058,146.8537\"><b>M 6.3 - eastern New Guinea region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjp7\">USGS</a>",
@@ -3455,10 +3547,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "31 events (14/Mar/2023 PDT)"
+    "title": "35 events (14/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 16:00:38 PDT",
-  "last_update_epoch": 1678834838.520049,
+  "last_update": "14/Mar/2023 @ 17:00:06 PDT",
+  "last_update_epoch": 1678838406.67646,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
