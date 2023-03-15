@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 17:00:04 PDT",
+    "last_update": "14/Mar/2023 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg",
     "title": "W5: The Soul Nebula (14/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -403,24 +403,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjqs",
-        "location": "http://maps.google.com/maps?q=0.6236,125.2337",
-        "name": "M 4.2 - 83 km SSE of Tondano, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjqf",
         "location": "http://maps.google.com/maps?q=38.1096,38.5448",
         "name": "M 4.3 - 10 km NW of Sincik, Turkey",
@@ -449,6 +431,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxe"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jjqs",
+        "location": "http://maps.google.com/maps?q=0.6589,125.2366",
+        "name": "M 4.4 - 80 km SSE of Tondano, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs"
       },
       {
         "category": [
@@ -547,6 +547,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jjyt",
+        "location": "http://maps.google.com/maps?q=-29.7863,-179.1141",
+        "name": "M 4.6 - Kermadec Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjyt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jjz2",
+        "location": "http://maps.google.com/maps?q=-13.1717,167.0458",
+        "name": "M 4.9 - 95 km NW of Sola, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjz2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jjsn",
         "location": "http://maps.google.com/maps?q=51.7449,159.5407",
         "name": "M 5.0 - 153 km SSE of Vilyuchinsk, Russia",
@@ -615,24 +651,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jjp7",
-        "location": "http://maps.google.com/maps?q=-5.4058,146.8537",
-        "name": "M 6.3 - eastern New Guinea region, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjp7"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌀",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
           }
@@ -657,11 +675,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 17:00:06 PDT",
+    "last_update": "14/Mar/2023 @ 18:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-13.1717,167.0458\"><b>M 4.9 - 95 km NW of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjz2\">USGS</a>",
+          -13.1717,
+          167.0458
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-29.7863,-179.1141\"><b>M 4.6 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjyt\">USGS</a>",
+          -29.7863,
+          -179.1141
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - 9 km ESE of Ichihara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
           35.4716,
@@ -713,9 +741,9 @@
           -141.8297
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=0.6236,125.2337\"><b>M 4.2 - 83 km SSE of Tondano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs\">USGS</a>",
-          0.6236,
-          125.2337
+          "<a href=\"http://maps.google.com/maps?q=0.6589,125.2366\"><b>M 4.4 - 80 km SSE of Tondano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs\">USGS</a>",
+          0.6589,
+          125.2366
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=14.338,-93.2086\"><b>M 4.5 - 94 km WSW of Puerto Madero, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqm\">USGS</a>",
@@ -726,11 +754,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.1096,38.5448\"><b>M 4.3 - 10 km NW of Sincik, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqf\">USGS</a>",
           38.1096,
           38.5448
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-5.4058,146.8537\"><b>M 6.3 - eastern New Guinea region, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjp7\">USGS</a>",
-          -5.4058,
-          146.8537
         ]
       ],
       "Floods": [],
@@ -3547,10 +3570,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "35 events (14/Mar/2023 PDT)"
+    "title": "36 events (14/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 17:00:06 PDT",
-  "last_update_epoch": 1678838406.67646,
+  "last_update": "14/Mar/2023 @ 18:00:06 PDT",
+  "last_update_epoch": 1678842006.080082,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
