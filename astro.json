@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 23:00:03 PDT",
+    "last_update": "15/Mar/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "14/Mar/2023 PDT",
+    "date": "15/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -421,6 +421,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jk0l",
+        "location": "http://maps.google.com/maps?q=18.5519,-106.8189",
+        "name": "M 4.5 - 212 km SW of José María Morelos, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk0l"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jjsw",
         "location": "http://maps.google.com/maps?q=2.2973,128.0355",
         "name": "M 4.5 - 62 km N of Tobelo, Indonesia",
@@ -431,24 +449,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjsw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jjrw",
-        "location": "http://maps.google.com/maps?q=38.0742,36.9299",
-        "name": "M 4.6 - 19 km S of Afşin, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjrw"
       },
       {
         "category": [
@@ -639,11 +639,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "15/Mar/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.5519,-106.8189\"><b>M 4.5 - 212 km SW of José María Morelos, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk0l\">USGS</a>",
+          18.5519,
+          -106.8189
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=0.9003,-29.1581\"><b>M 5.0 - central Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk00\">USGS</a>",
           0.9003,
@@ -703,11 +708,6 @@
           "<a href=\"http://maps.google.com/maps?q=51.7449,159.5407\"><b>M 5.0 - 153 km SSE of Vilyuchinsk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjsn\">USGS</a>",
           51.7449,
           159.5407
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.0742,36.9299\"><b>M 4.6 - 19 km S of Afşin, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjrw\">USGS</a>",
-          38.0742,
-          36.9299
         ]
       ],
       "Floods": [],
@@ -3524,10 +3524,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "34 events (14/Mar/2023 PDT)"
+    "title": "34 events (15/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 23:00:05 PDT",
-  "last_update_epoch": 1678860005.085112,
+  "last_update": "15/Mar/2023 @ 00:00:05 PDT",
+  "last_update_epoch": 1678863605.060923,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
