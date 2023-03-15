@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 11:00:03 PDT",
+    "last_update": "15/Mar/2023 @ 12:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -387,7 +387,7 @@
         ],
         "eid": "us7000jjxs",
         "location": "http://maps.google.com/maps?q=35.4716,140.1696",
-        "name": "M 4.1 - near the east coast of Honshu, Japan",
+        "name": "M 4.1 - 9 km ESE of Ichihara, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -441,7 +441,7 @@
         ],
         "eid": "pr2023074000",
         "location": "http://maps.google.com/maps?q=17.9291,-66.9568",
-        "name": "M 4.2 - 6 km SW of Guánica, Puerto Rico",
+        "name": "M 4.2 - Puerto Rico region",
         "source": [
           {
             "sid": "USGS",
@@ -711,7 +711,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 11:00:05 PDT",
+    "last_update": "15/Mar/2023 @ 12:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -737,7 +737,7 @@
           -174.3111
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=17.9291,-66.9568\"><b>M 4.2 - 6 km SW of Guánica, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=17.9291,-66.9568\"><b>M 4.2 - Puerto Rico region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000\">USGS</a>",
           17.9291,
           -66.9568
         ],
@@ -782,7 +782,7 @@
           -179.1141
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - 9 km ESE of Ichihara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
           35.4716,
           140.1696
         ],
@@ -3618,8 +3618,8 @@
     },
     "title": "38 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 11:00:05 PDT",
-  "last_update_epoch": 1678903205.561702,
+  "last_update": "15/Mar/2023 @ 12:00:05 PDT",
+  "last_update_epoch": 1678906805.313596,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
