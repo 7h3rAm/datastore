@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 21:00:03 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg",
-    "title": "W5: The Soul Nebula (14/Mar/2023 PDT)",
+    "last_update": "14/Mar/2023 @ 22:00:03 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
+    "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -421,24 +421,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjr6",
-        "location": "http://maps.google.com/maps?q=-15.1687,-75.8206",
-        "name": "M 4.3 - 73 km WNW of San Juan, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjr6"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jjrd",
         "location": "http://maps.google.com/maps?q=6.7938,-73.0147",
         "name": "M 4.5 - 6 km NW of Cepitá, Colombia",
@@ -621,7 +603,7 @@
         ],
         "eid": "us7000jjve",
         "location": "http://maps.google.com/maps?q=35.5478,22.1475",
-        "name": "M 5.4 - 101 km SW of Kýthira, Greece",
+        "name": "M 5.4 - central Mediterranean Sea",
         "source": [
           {
             "sid": "USGS",
@@ -651,24 +633,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jju1",
-        "location": "http://maps.google.com/maps?q=-56.6034,-141.75",
-        "name": "M 5.5 - Pacific-Antarctic Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jju1"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌀",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
           }
@@ -693,7 +657,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 21:00:05 PDT",
+    "last_update": "14/Mar/2023 @ 22:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -739,7 +703,7 @@
           -75.2851
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - 101 km SW of Kýthira, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=35.5478,22.1475\"><b>M 5.4 - central Mediterranean Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjve\">USGS</a>",
           35.5478,
           22.1475
         ],
@@ -767,16 +731,6 @@
           "<a href=\"http://maps.google.com/maps?q=6.7938,-73.0147\"><b>M 4.5 - 6 km NW of Cepitá, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjrd\">USGS</a>",
           6.7938,
           -73.0147
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.1687,-75.8206\"><b>M 4.3 - 73 km WNW of San Juan, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjr6\">USGS</a>",
-          -15.1687,
-          -75.8206
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-56.6034,-141.75\"><b>M 5.5 - Pacific-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jju1\">USGS</a>",
-          -56.6034,
-          -141.75
         ]
       ],
       "Floods": [],
@@ -3593,10 +3547,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (14/Mar/2023 PDT)"
+    "title": "35 events (14/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 21:00:05 PDT",
-  "last_update_epoch": 1678852805.398617,
+  "last_update": "14/Mar/2023 @ 22:00:05 PDT",
+  "last_update_epoch": 1678856405.487854,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
