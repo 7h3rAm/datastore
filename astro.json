@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "14/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "14/Mar/2023 @ 20:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg",
     "title": "W5: The Soul Nebula (14/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -387,7 +387,7 @@
         ],
         "eid": "us7000jjxs",
         "location": "http://maps.google.com/maps?q=35.4716,140.1696",
-        "name": "M 4.1 - near the east coast of Honshu, Japan",
+        "name": "M 4.1 - 9 km ESE of Ichihara, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -395,24 +395,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jjqf",
-        "location": "http://maps.google.com/maps?q=38.1096,38.5448",
-        "name": "M 4.3 - 10 km NW of Sincik, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqf"
       },
       {
         "category": [
@@ -493,16 +475,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjqm",
-        "location": "http://maps.google.com/maps?q=14.338,-93.2086",
-        "name": "M 4.5 - near the coast of Chiapas, Mexico",
+        "eid": "us7000jjv5",
+        "location": "http://maps.google.com/maps?q=37.8097,37.3889",
+        "name": "M 4.6 - 11 km NE of Çağlayancerit, Turkey",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqm"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjv5"
       },
       {
         "category": [
@@ -521,24 +503,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjrw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jjv5",
-        "location": "http://maps.google.com/maps?q=37.8097,37.3889",
-        "name": "M 4.6 - Central Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjv5"
       },
       {
         "category": [
@@ -575,6 +539,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjz7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jjzm",
+        "location": "http://maps.google.com/maps?q=35.0534,81.3945",
+        "name": "M 4.7 - 263 km SSE of Hotan, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzm"
       },
       {
         "category": [
@@ -656,7 +638,7 @@
           }
         ],
         "eid": "us7000jju1",
-        "location": "http://maps.google.com/maps?q=-56.6497,-141.8297",
+        "location": "http://maps.google.com/maps?q=-56.6034,-141.75",
         "name": "M 5.5 - Pacific-Antarctic Ridge",
         "source": [
           {
@@ -693,11 +675,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "14/Mar/2023 @ 19:00:04 PDT",
+    "last_update": "14/Mar/2023 @ 20:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.0534,81.3945\"><b>M 4.7 - 263 km SSE of Hotan, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzm\">USGS</a>",
+          35.0534,
+          81.3945
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-19.4117,-173.3523\"><b>M 4.6 - Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjz7\">USGS</a>",
           -19.4117,
@@ -714,7 +701,7 @@
           -179.1141
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=35.4716,140.1696\"><b>M 4.1 - 9 km ESE of Ichihara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjxs\">USGS</a>",
           35.4716,
           140.1696
         ],
@@ -734,7 +721,7 @@
           22.1475
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.8097,37.3889\"><b>M 4.6 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjv5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.8097,37.3889\"><b>M 4.6 - 11 km NE of Çağlayancerit, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjv5\">USGS</a>",
           37.8097,
           37.3889
         ],
@@ -759,24 +746,14 @@
           -73.0147
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-56.6497,-141.8297\"><b>M 5.5 - Pacific-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jju1\">USGS</a>",
-          -56.6497,
-          -141.8297
+          "<a href=\"http://maps.google.com/maps?q=-56.6034,-141.75\"><b>M 5.5 - Pacific-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jju1\">USGS</a>",
+          -56.6034,
+          -141.75
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=0.6589,125.2366\"><b>M 4.4 - 80 km SSE of Tondano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqs\">USGS</a>",
           0.6589,
           125.2366
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.338,-93.2086\"><b>M 4.5 - near the coast of Chiapas, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqm\">USGS</a>",
-          14.338,
-          -93.2086
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.1096,38.5448\"><b>M 4.3 - 10 km NW of Sincik, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjqf\">USGS</a>",
-          38.1096,
-          38.5448
         ]
       ],
       "Floods": [],
@@ -3593,10 +3570,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (14/Mar/2023 PDT)"
+    "title": "36 events (14/Mar/2023 PDT)"
   },
-  "last_update": "14/Mar/2023 @ 19:00:04 PDT",
-  "last_update_epoch": 1678845604.992215,
+  "last_update": "14/Mar/2023 @ 20:00:05 PDT",
+  "last_update_epoch": 1678849205.937675,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
