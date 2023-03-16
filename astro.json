@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 22:00:04 PDT",
+    "last_update": "15/Mar/2023 @ 23:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg",
     "title": "Millions of Stars in Omega Centauri (16/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,6 +385,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jk4l",
+        "location": "http://maps.google.com/maps?q=3.1508,123.3339",
+        "name": "M 4.0 - Celebes Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jk0j",
         "location": "http://maps.google.com/maps?q=34.6115,32.4795",
         "name": "M 4.2 - 15 km S of Koloni, Cyprus",
@@ -655,9 +673,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkcu",
+        "location": "http://maps.google.com/maps?q=-10.6,113.3077",
+        "name": "M 5.2 - 256 km S of Kencong, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkcu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jk9p",
-        "location": "http://maps.google.com/maps?q=4.6784,126.9147",
-        "name": "M 5.3 - 179 km ESE of Sarangani, Philippines",
+        "location": "http://maps.google.com/maps?q=4.7176,126.9296",
+        "name": "M 5.4 - 179 km ESE of Sarangani, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -711,11 +747,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 22:00:06 PDT",
+    "last_update": "15/Mar/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-10.6,113.3077\"><b>M 5.2 - 256 km S of Kencong, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkcu\">USGS</a>",
+          -10.6,
+          113.3077
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=15.5476,120.1327\"><b>M 4.7 - 19 km ENE of San Lorenzo, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkch\">USGS</a>",
           15.5476,
@@ -742,9 +783,9 @@
           -70.8538
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=4.6784,126.9147\"><b>M 5.3 - 179 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9p\">USGS</a>",
-          4.6784,
-          126.9147
+          "<a href=\"http://maps.google.com/maps?q=4.7176,126.9296\"><b>M 5.4 - 179 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9p\">USGS</a>",
+          4.7176,
+          126.9296
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-2.4043,139.4197\"><b>M 4.5 - 136 km W of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7v\">USGS</a>",
@@ -760,6 +801,11 @@
           "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
           -17.8061,
           -178.6461
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=3.1508,123.3339\"><b>M 4.0 - Celebes Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l\">USGS</a>",
+          3.1508,
+          123.3339
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-17.5174,-178.5632\"><b>M 4.6 - 232 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk3x\">USGS</a>",
@@ -3616,10 +3662,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "38 events (15/Mar/2023 PDT)"
+    "title": "40 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 22:00:06 PDT",
-  "last_update_epoch": 1678942806.468766,
+  "last_update": "15/Mar/2023 @ 23:00:05 PDT",
+  "last_update_epoch": 1678946405.799239,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
