@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Mar/2023 @ 03:00:03 PDT",
+    "last_update": "16/Mar/2023 @ 04:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg",
     "title": "Millions of Stars in Omega Centauri (16/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -387,7 +387,7 @@
         ],
         "eid": "us7000jk4l",
         "location": "http://maps.google.com/maps?q=3.1508,123.3339",
-        "name": "M 4.0 - Celebes Sea",
+        "name": "M 4.0 - 249 km NW of Manado, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -403,9 +403,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkdu",
+        "location": "http://maps.google.com/maps?q=-11.5482,117.4096",
+        "name": "M 4.3 - south of Sumbawa, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jk9s",
         "location": "http://maps.google.com/maps?q=-24.3628,-70.8538",
-        "name": "M 4.4 - near the coast of Antofagasta, Chile",
+        "name": "M 4.4 - 91 km SSW of Antofagasta, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -441,7 +459,7 @@
         ],
         "eid": "us7000jk7d",
         "location": "http://maps.google.com/maps?q=-17.8061,-178.6461",
-        "name": "M 4.5 - Fiji region",
+        "name": "M 4.5 - 217 km E of Levuka, Fiji",
         "source": [
           {
             "sid": "USGS",
@@ -475,6 +493,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jka7",
+        "location": "http://maps.google.com/maps?q=3.9198,-76.0786",
+        "name": "M 4.6 - 18 km ESE of San Pedro, Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jk3x",
         "location": "http://maps.google.com/maps?q=-17.5174,-178.5632",
         "name": "M 4.6 - 232 km ENE of Levuka, Fiji",
@@ -485,24 +521,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk3x"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jka7",
-        "location": "http://maps.google.com/maps?q=3.9198,-76.0786",
-        "name": "M 4.6 - Colombia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7"
       },
       {
         "category": [
@@ -657,11 +675,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "16/Mar/2023 @ 03:00:05 PDT",
+    "last_update": "16/Mar/2023 @ 04:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-11.5482,117.4096\"><b>M 4.3 - south of Sumbawa, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdu\">USGS</a>",
+          -11.5482,
+          117.4096
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-18.7966,168.3046\"><b>M 4.6 - 117 km S of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdv\">USGS</a>",
           -18.7966,
@@ -693,12 +716,12 @@
           -176.1116
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.9198,-76.0786\"><b>M 4.6 - Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.9198,-76.0786\"><b>M 4.6 - 18 km ESE of San Pedro, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7\">USGS</a>",
           3.9198,
           -76.0786
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.3628,-70.8538\"><b>M 4.4 - near the coast of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9s\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.3628,-70.8538\"><b>M 4.4 - 91 km SSW of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9s\">USGS</a>",
           -24.3628,
           -70.8538
         ],
@@ -718,12 +741,12 @@
           161.5944
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - 217 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
           -17.8061,
           -178.6461
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.1508,123.3339\"><b>M 4.0 - Celebes Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.1508,123.3339\"><b>M 4.0 - 249 km NW of Manado, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l\">USGS</a>",
           3.1508,
           123.3339
         ],
@@ -3547,32 +3570,167 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "35 events (16/Mar/2023 PDT)"
+    "title": "36 events (16/Mar/2023 PDT)"
   },
-  "last_update": "16/Mar/2023 @ 03:00:05 PDT",
-  "last_update_epoch": 1678960805.722604,
+  "last_update": "16/Mar/2023 @ 04:00:33 PDT",
+  "last_update_epoch": 1678964433.565272,
   "neo": {
-    "date": "14/Mar/2023 PDT",
-    "last_update": "14/Mar/2023 @ 16:00:05 PDT",
+    "date": "16/Mar/2023 PDT",
+    "last_update": "16/Mar/2023 @ 04:00:07 PDT",
     "objects": [
       {
-        "cat": "14/Mar/2023 @ 09:24:00 ",
-        "diameter": "0.36-0.81 miles",
-        "distance": "16,669,714.94 miles",
+        "cat": "16/Mar/2023 @ 12:58:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "7,514,380.63 miles",
         "hazardous": false,
-        "name": "Asteroid (2000 LK)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3092265",
-        "velocity": "74,277.80 mph"
+        "name": "Asteroid (2008 TP26)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3430492",
+        "velocity": "26,234.70 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 15:24:00 ",
+        "diameter": "0.11-0.25 miles",
+        "distance": "37,950,185.81 miles",
+        "hazardous": false,
+        "name": "Asteroid (2009 MW)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3463371",
+        "velocity": "18,343.52 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 09:51:00 ",
+        "diameter": "0.07-0.15 miles",
+        "distance": "31,073,341.45 miles",
+        "hazardous": false,
+        "name": "Asteroid (2010 BK2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3486442",
+        "velocity": "23,771.63 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 02:04:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "5,827,370.86 miles",
+        "hazardous": false,
+        "name": "Asteroid (2014 FS32)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3666539",
+        "velocity": "20,606.46 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 09:39:00 ",
+        "diameter": "0.10-0.23 miles",
+        "distance": "38,058,553.02 miles",
+        "hazardous": false,
+        "name": "Asteroid (2015 TT178)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3730326",
+        "velocity": "74,096.84 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 14:56:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "19,494,500.35 miles",
+        "hazardous": false,
+        "name": "Asteroid (2016 UY56)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3762171",
+        "velocity": "21,630.09 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 17:12:00 ",
+        "diameter": "0.06-0.13 miles",
+        "distance": "27,821,341.95 miles",
+        "hazardous": false,
+        "name": "Asteroid (2017 FL128)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3773653",
+        "velocity": "41,195.73 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 22:50:00 ",
+        "diameter": "0.10-0.21 miles",
+        "distance": "37,142,792.94 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 GJ20)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3841196",
+        "velocity": "30,656.63 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 07:54:00 ",
+        "diameter": "0.01-0.01 miles",
+        "distance": "22,289,010.97 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 CD)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54109177",
+        "velocity": "38,685.04 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 11:29:00 ",
+        "diameter": "0.05-0.12 miles",
+        "distance": "46,153,381.27 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 EV2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54131210",
+        "velocity": "26,429.42 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 01:35:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "27,211,109.99 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 JE1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54143420",
+        "velocity": "16,393.64 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 21:32:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "28,649,045.30 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 DK1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54248341",
+        "velocity": "25,717.05 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 16:01:00 ",
+        "diameter": "0.00-0.01 miles",
+        "distance": "42,998,653.57 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 DY1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54248453",
+        "velocity": "62,873.19 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 18:24:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "9,370,719.78 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 FK1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54265625",
+        "velocity": "25,887.70 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 02:03:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "33,695,657.34 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 UV20)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54322710",
+        "velocity": "8,330.67 mph"
+      },
+      {
+        "cat": "16/Mar/2023 @ 02:57:00 ",
+        "diameter": "0.08-0.18 miles",
+        "distance": "21,854,079.32 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 DB2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54342552",
+        "velocity": "17,648.98 mph"
       }
     ],
-    "title": "1 objects making close approach (14/Mar/2023 PDT)"
+    "title": "16 objects making close approach (16/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "14/Mar/2023 PDT",
+    "date": "16/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 13/Mar/2023 @ 04:38:41 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/03/13/jpg/epic_1b_20230313114330.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 14/Mar/2023 @ 15:08:15 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/03/14/jpg/epic_1b_20230314221304.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -3635,7 +3793,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "14/Mar/2023 @ 16:00:05 PDT",
+    "last_update": "16/Mar/2023 @ 04:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -3688,7 +3846,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (14/Mar/2023 PDT)"
+    "title": "10 people in space (16/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5421,7 +5579,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "14/Mar/2023 @ 16:00:10 PDT",
+    "last_update": "16/Mar/2023 @ 04:00:13 PDT",
     "launches": {
       "future": [
         {
