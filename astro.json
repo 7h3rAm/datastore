@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 20:00:03 PDT",
+    "last_update": "15/Mar/2023 @ 21:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg",
     "title": "Jupiter and Venus Converge over Germany (15/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,24 +385,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjzy",
-        "location": "http://maps.google.com/maps?q=37.1397,36.3882",
-        "name": "M 4.2 - 14 km W of Hasanbeyli, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzy"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jk0j",
         "location": "http://maps.google.com/maps?q=34.6115,32.4795",
         "name": "M 4.2 - 15 km S of Koloni, Cyprus",
@@ -457,24 +439,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jjzz",
-        "location": "http://maps.google.com/maps?q=37.7886,101.4197",
-        "name": "M 4.2 - northern Qinghai, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jk9s",
         "location": "http://maps.google.com/maps?q=-24.3628,-70.8538",
         "name": "M 4.4 - 91 km SSW of Antofagasta, Chile",
@@ -503,6 +467,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk30"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jk7v",
+        "location": "http://maps.google.com/maps?q=-2.4043,139.4197",
+        "name": "M 4.5 - 136 km W of Abepura, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7v"
       },
       {
         "category": [
@@ -557,24 +539,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk2b"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jk7v",
-        "location": "http://maps.google.com/maps?q=-2.4043,139.4197",
-        "name": "M 4.5 - near the north coast of Papua, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7v"
       },
       {
         "category": [
@@ -673,24 +637,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jk00",
-        "location": "http://maps.google.com/maps?q=0.8617,-29.2283",
-        "name": "M 5.0 - central Mid-Atlantic Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk00"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jk9p",
         "location": "http://maps.google.com/maps?q=4.6784,126.9147",
         "name": "M 5.3 - 179 km ESE of Sarangani, Philippines",
@@ -747,7 +693,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 20:00:05 PDT",
+    "last_update": "15/Mar/2023 @ 21:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -778,7 +724,7 @@
           126.9147
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.4043,139.4197\"><b>M 4.5 - near the north coast of Papua, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7v\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-2.4043,139.4197\"><b>M 4.5 - 136 km W of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7v\">USGS</a>",
           -2.4043,
           139.4197
         ],
@@ -831,21 +777,6 @@
           "<a href=\"http://maps.google.com/maps?q=34.6115,32.4795\"><b>M 4.2 - 15 km S of Koloni, Cyprus</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk0j\">USGS</a>",
           34.6115,
           32.4795
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=0.8617,-29.2283\"><b>M 5.0 - central Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk00\">USGS</a>",
-          0.8617,
-          -29.2283
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.7886,101.4197\"><b>M 4.2 - northern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzz\">USGS</a>",
-          37.7886,
-          101.4197
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.1397,36.3882\"><b>M 4.2 - 14 km W of Hasanbeyli, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jjzy\">USGS</a>",
-          37.1397,
-          36.3882
         ]
       ],
       "Floods": [],
@@ -3662,10 +3593,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "40 events (15/Mar/2023 PDT)"
+    "title": "37 events (15/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 20:00:05 PDT",
-  "last_update_epoch": 1678935605.614108,
+  "last_update": "15/Mar/2023 @ 21:00:06 PDT",
+  "last_update_epoch": 1678939206.037059,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
