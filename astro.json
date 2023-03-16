@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Mar/2023 @ 06:00:03 PDT",
+    "last_update": "16/Mar/2023 @ 07:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg",
     "title": "Millions of Stars in Omega Centauri (16/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -387,7 +387,7 @@
         ],
         "eid": "us7000jk4l",
         "location": "http://maps.google.com/maps?q=3.1508,123.3339",
-        "name": "M 4.0 - Celebes Sea",
+        "name": "M 4.0 - 249 km NW of Manado, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -423,7 +423,7 @@
         ],
         "eid": "us7000jk9s",
         "location": "http://maps.google.com/maps?q=-24.3628,-70.8538",
-        "name": "M 4.4 - near the coast of Antofagasta, Chile",
+        "name": "M 4.4 - 91 km SSW of Antofagasta, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -459,7 +459,7 @@
         ],
         "eid": "us7000jk7d",
         "location": "http://maps.google.com/maps?q=-17.8061,-178.6461",
-        "name": "M 4.5 - Fiji region",
+        "name": "M 4.5 - 217 km E of Levuka, Fiji",
         "source": [
           {
             "sid": "USGS",
@@ -495,7 +495,7 @@
         ],
         "eid": "us7000jka7",
         "location": "http://maps.google.com/maps?q=3.9198,-76.0786",
-        "name": "M 4.6 - Colombia",
+        "name": "M 4.6 - 18 km ESE of San Pedro, Colombia",
         "source": [
           {
             "sid": "USGS",
@@ -529,6 +529,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkeu",
+        "location": "http://maps.google.com/maps?q=-30.4739,-176.6693",
+        "name": "M 4.7 - Kermadec Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkdn",
         "location": "http://maps.google.com/maps?q=-15.803,-172.614",
         "name": "M 4.8 - 127 km E of Hihifo, Tonga",
@@ -547,24 +565,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkeb",
-        "location": "http://maps.google.com/maps?q=40.7392,31.5128",
-        "name": "M 4.8 - 7 km W of Bolu, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jk7j",
         "location": "http://maps.google.com/maps?q=-9.7503,161.5944",
         "name": "M 4.8 - 85 km NNW of Kirakira, Solomon Islands",
@@ -575,6 +575,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7j"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jkeb",
+        "location": "http://maps.google.com/maps?q=40.7392,31.5128",
+        "name": "M 4.8 - Western Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb"
       },
       {
         "category": [
@@ -693,18 +711,23 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "16/Mar/2023 @ 06:00:05 PDT",
+    "last_update": "16/Mar/2023 @ 07:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-30.4739,-176.6693\"><b>M 4.7 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeu\">USGS</a>",
+          -30.4739,
+          -176.6693
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.4857,45.0727\"><b>M 5.2 - Northwestern Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkel\">USGS</a>",
           38.4857,
           45.0727
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.7392,31.5128\"><b>M 4.8 - 7 km W of Bolu, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.7392,31.5128\"><b>M 4.8 - Western Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb\">USGS</a>",
           40.7392,
           31.5128
         ],
@@ -744,12 +767,12 @@
           -176.1116
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.9198,-76.0786\"><b>M 4.6 - Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.9198,-76.0786\"><b>M 4.6 - 18 km ESE of San Pedro, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7\">USGS</a>",
           3.9198,
           -76.0786
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.3628,-70.8538\"><b>M 4.4 - near the coast of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9s\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.3628,-70.8538\"><b>M 4.4 - 91 km SSW of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9s\">USGS</a>",
           -24.3628,
           -70.8538
         ],
@@ -769,12 +792,12 @@
           161.5944
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - 217 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
           -17.8061,
           -178.6461
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.1508,123.3339\"><b>M 4.0 - Celebes Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.1508,123.3339\"><b>M 4.0 - 249 km NW of Manado, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l\">USGS</a>",
           3.1508,
           123.3339
         ]
@@ -3593,13 +3616,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (16/Mar/2023 PDT)"
+    "title": "38 events (16/Mar/2023 PDT)"
   },
-  "last_update": "16/Mar/2023 @ 06:00:32 PDT",
-  "last_update_epoch": 1678971632.655378,
+  "last_update": "16/Mar/2023 @ 07:00:34 PDT",
+  "last_update_epoch": 1678975234.621434,
   "neo": {
     "date": "16/Mar/2023 PDT",
-    "last_update": "16/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "16/Mar/2023 @ 07:00:07 PDT",
     "objects": [
       {
         "cat": "16/Mar/2023 @ 12:58:00 ",
@@ -3816,7 +3839,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Mar/2023 @ 06:00:07 PDT",
+    "last_update": "16/Mar/2023 @ 07:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5602,7 +5625,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Mar/2023 @ 06:00:12 PDT",
+    "last_update": "16/Mar/2023 @ 07:00:12 PDT",
     "launches": {
       "future": [
         {
