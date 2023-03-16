@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Mar/2023 @ 10:00:03 PDT",
+    "last_update": "16/Mar/2023 @ 11:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg",
     "title": "Millions of Stars in Omega Centauri (16/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -637,6 +637,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkgi",
+        "location": "http://maps.google.com/maps?q=11.3587,138.7494",
+        "name": "M 5.0 - 215 km NNE of Colonia, Micronesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkgi"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkfd",
         "location": "http://maps.google.com/maps?q=56.095,-116.6227",
         "name": "M 5.0 - 44 km ESE of Peace River, Canada",
@@ -765,11 +783,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "16/Mar/2023 @ 10:00:05 PDT",
+    "last_update": "16/Mar/2023 @ 11:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=11.3587,138.7494\"><b>M 5.0 - 215 km NNE of Colonia, Micronesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkgi\">USGS</a>",
+          11.3587,
+          138.7494
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=56.095,-116.6227\"><b>M 5.0 - 44 km ESE of Peace River, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkfd\">USGS</a>",
           56.095,
@@ -3685,13 +3708,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (16/Mar/2023 PDT)"
+    "title": "42 events (16/Mar/2023 PDT)"
   },
-  "last_update": "16/Mar/2023 @ 10:00:33 PDT",
-  "last_update_epoch": 1678986033.84645,
+  "last_update": "16/Mar/2023 @ 11:00:32 PDT",
+  "last_update_epoch": 1678989632.164124,
   "neo": {
     "date": "16/Mar/2023 PDT",
-    "last_update": "16/Mar/2023 @ 10:00:06 PDT",
+    "last_update": "16/Mar/2023 @ 11:00:06 PDT",
     "objects": [
       {
         "cat": "16/Mar/2023 @ 12:58:00 ",
@@ -3908,7 +3931,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Mar/2023 @ 10:00:06 PDT",
+    "last_update": "16/Mar/2023 @ 11:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5694,7 +5717,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Mar/2023 @ 10:00:11 PDT",
+    "last_update": "16/Mar/2023 @ 11:00:11 PDT",
     "launches": {
       "future": [
         {
