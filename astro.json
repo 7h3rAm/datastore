@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "15/Mar/2023 @ 23:00:04 PDT",
+    "last_update": "16/Mar/2023 @ 00:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg",
     "title": "Millions of Stars in Omega Centauri (16/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "15/Mar/2023 PDT",
+    "date": "16/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -387,7 +387,7 @@
         ],
         "eid": "us7000jk4l",
         "location": "http://maps.google.com/maps?q=3.1508,123.3339",
-        "name": "M 4.0 - Celebes Sea",
+        "name": "M 4.0 - 249 km NW of Manado, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -395,24 +395,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jk0j",
-        "location": "http://maps.google.com/maps?q=34.6115,32.4795",
-        "name": "M 4.2 - 15 km S of Koloni, Cyprus",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk0j"
       },
       {
         "category": [
@@ -441,7 +423,7 @@
         ],
         "eid": "pr2023074000",
         "location": "http://maps.google.com/maps?q=17.9291,-66.9568",
-        "name": "M 4.2 - Puerto Rico region",
+        "name": "M 4.2 - 6 km SW of Guánica, Puerto Rico",
         "source": [
           {
             "sid": "USGS",
@@ -459,7 +441,7 @@
         ],
         "eid": "us7000jk9s",
         "location": "http://maps.google.com/maps?q=-24.3628,-70.8538",
-        "name": "M 4.4 - near the coast of Antofagasta, Chile",
+        "name": "M 4.4 - 91 km SSW of Antofagasta, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -511,16 +493,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jk0l",
-        "location": "http://maps.google.com/maps?q=18.5519,-106.8189",
-        "name": "M 4.5 - 212 km SW of José María Morelos, Mexico",
+        "eid": "us7000jk7d",
+        "location": "http://maps.google.com/maps?q=-17.8061,-178.6461",
+        "name": "M 4.5 - 217 km E of Levuka, Fiji",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk0l"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d"
       },
       {
         "category": [
@@ -547,16 +529,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jk7d",
-        "location": "http://maps.google.com/maps?q=-17.8061,-178.6461",
-        "name": "M 4.5 - Fiji region",
+        "eid": "us7000jka7",
+        "location": "http://maps.google.com/maps?q=3.9198,-76.0786",
+        "name": "M 4.6 - 18 km ESE of San Pedro, Colombia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7"
       },
       {
         "category": [
@@ -575,24 +557,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk3x"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jka7",
-        "location": "http://maps.google.com/maps?q=3.9198,-76.0786",
-        "name": "M 4.6 - Colombia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7"
       },
       {
         "category": [
@@ -747,7 +711,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "15/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "16/Mar/2023 @ 00:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -773,12 +737,12 @@
           -176.1116
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.9198,-76.0786\"><b>M 4.6 - Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.9198,-76.0786\"><b>M 4.6 - 18 km ESE of San Pedro, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jka7\">USGS</a>",
           3.9198,
           -76.0786
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.3628,-70.8538\"><b>M 4.4 - near the coast of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9s\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.3628,-70.8538\"><b>M 4.4 - 91 km SSW of Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk9s\">USGS</a>",
           -24.3628,
           -70.8538
         ],
@@ -798,12 +762,12 @@
           161.5944
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.8061,-178.6461\"><b>M 4.5 - 217 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk7d\">USGS</a>",
           -17.8061,
           -178.6461
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=3.1508,123.3339\"><b>M 4.0 - Celebes Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=3.1508,123.3339\"><b>M 4.0 - 249 km NW of Manado, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk4l\">USGS</a>",
           3.1508,
           123.3339
         ],
@@ -828,7 +792,7 @@
           -174.3111
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=17.9291,-66.9568\"><b>M 4.2 - Puerto Rico region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=17.9291,-66.9568\"><b>M 4.2 - 6 km SW of Guánica, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023074000\">USGS</a>",
           17.9291,
           -66.9568
         ],
@@ -836,16 +800,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.0743,-173.4213\"><b>M 4.7 - 105 km NNE of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk0w\">USGS</a>",
           -15.0743,
           -173.4213
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.5519,-106.8189\"><b>M 4.5 - 212 km SW of José María Morelos, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk0l\">USGS</a>",
-          18.5519,
-          -106.8189
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.6115,32.4795\"><b>M 4.2 - 15 km S of Koloni, Cyprus</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jk0j\">USGS</a>",
-          34.6115,
-          32.4795
         ]
       ],
       "Floods": [],
@@ -3662,10 +3616,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "40 events (15/Mar/2023 PDT)"
+    "title": "38 events (16/Mar/2023 PDT)"
   },
-  "last_update": "15/Mar/2023 @ 23:00:05 PDT",
-  "last_update_epoch": 1678946405.799239,
+  "last_update": "16/Mar/2023 @ 00:00:06 PDT",
+  "last_update_epoch": 1678950006.012681,
   "neo": {
     "date": "14/Mar/2023 PDT",
     "last_update": "14/Mar/2023 @ 16:00:05 PDT",
