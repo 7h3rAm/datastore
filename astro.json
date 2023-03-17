@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Mar/2023 @ 11:00:03 PDT",
+    "last_update": "17/Mar/2023 @ 12:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
     "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -709,24 +709,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkjc",
-        "location": "http://maps.google.com/maps?q=35.2373,46.0014",
-        "name": "M 5.1 - 6 km NNE of Ḩalabja, Iraq",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkjc"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkvz",
         "location": "http://maps.google.com/maps?q=-38.0709,176.6406",
         "name": "M 5.3 - North Island of New Zealand",
@@ -757,7 +739,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "17/Mar/2023 @ 11:00:05 PDT",
+    "last_update": "17/Mar/2023 @ 12:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -856,11 +838,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.3108,34.3864\"><b>M 4.3 - 27 km SE of Kızkalesi, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkk9\">USGS</a>",
           36.3108,
           34.3864
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.2373,46.0014\"><b>M 5.1 - 6 km NNE of Ḩalabja, Iraq</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkjc\">USGS</a>",
-          35.2373,
-          46.0014
         ]
       ],
       "Floods": [],
@@ -3001,13 +2978,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (17/Mar/2023 PDT)"
+    "title": "40 events (17/Mar/2023 PDT)"
   },
-  "last_update": "17/Mar/2023 @ 11:00:32 PDT",
-  "last_update_epoch": 1679076032.666572,
+  "last_update": "17/Mar/2023 @ 12:00:38 PDT",
+  "last_update_epoch": 1679079638.11012,
   "neo": {
     "date": "17/Mar/2023 PDT",
-    "last_update": "17/Mar/2023 @ 11:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 12:00:06 PDT",
     "objects": [
       {
         "cat": "17/Mar/2023 @ 11:40:00 ",
@@ -3206,7 +3183,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Mar/2023 @ 11:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 12:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4992,7 +4969,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Mar/2023 @ 11:00:10 PDT",
+    "last_update": "17/Mar/2023 @ 12:00:13 PDT",
     "launches": {
       "future": [
         {
