@@ -225,10 +225,10 @@
         "balance": 280862,
         "lasttx": {
           "block": null,
-          "epoch": 1678970178,
-          "epochhuman": "16/Mar/2023 @ 05:36:18 PDT",
-          "hash": "d2853806fe19dace3bac9f7b2ee97d1c6f8411c6ea70be1013db98dac92f1c21",
-          "summary": 4886
+          "epoch": 1678205268,
+          "epochhuman": "07/Mar/2023 @ 08:07:48 PST",
+          "hash": "3f09af2cf7c9b5828cc6747e5d402c5c796a9b73c0e3a5187afea69815096026",
+          "summary": 1235
         },
         "received": 431552231,
         "sent": 431271369,
@@ -797,8 +797,8 @@
         "balance": 821644,
         "lasttx": {
           "block": 781053,
-          "epoch": 1678967900,
-          "epochhuman": "16/Mar/2023 @ 04:58:20 PDT",
+          "epoch": 1678967901,
+          "epochhuman": "16/Mar/2023 @ 04:58:21 PDT",
           "hash": "67376ff18865ab7432ea70dfd7bf4564a44622e8b671360c8529b8bff65a5527",
           "summary": 5000
         },
@@ -1091,8 +1091,8 @@
         "balance": 96637849,
         "lasttx": {
           "block": 771056,
-          "epoch": 1673232168,
-          "epochhuman": "08/Jan/2023 @ 18:42:48 PST",
+          "epoch": 1673232158,
+          "epochhuman": "08/Jan/2023 @ 18:42:38 PST",
           "hash": "6af21028c571123efc6d94b0798b5bb6f967649a99e25edb85fde3e54c6d18e6",
           "summary": 57840
         },
@@ -1351,8 +1351,8 @@
         "balance": 7259690664,
         "lasttx": {
           "block": null,
-          "epoch": 1678450688,
-          "epochhuman": "10/Mar/2023 @ 04:18:08 PST",
+          "epoch": 1678450689,
+          "epochhuman": "10/Mar/2023 @ 04:18:09 PST",
           "hash": "7e8c18259be46917da34f6ed2d0a49fcc05e6045903d9041841a6b384d4acb5a",
           "summary": 558
         },
@@ -3445,8 +3445,8 @@
         "balance": 25655559596,
         "lasttx": {
           "block": 780815,
-          "epoch": 1678820795,
-          "epochhuman": "14/Mar/2023 @ 12:06:35 PDT",
+          "epoch": 1678820810,
+          "epochhuman": "14/Mar/2023 @ 12:06:50 PDT",
           "hash": "5f9a83210c54e5e1317c400a261f694516559315002abaf3e8f25eb2e3b258fa",
           "summary": 399248
         },
@@ -4017,8 +4017,8 @@
         "balance": 649865,
         "lasttx": {
           "block": 779972,
-          "epoch": 1678340286,
-          "epochhuman": "08/Mar/2023 @ 21:38:06 PST",
+          "epoch": 1678340284,
+          "epochhuman": "08/Mar/2023 @ 21:38:04 PST",
           "hash": "0531637b1482d4687283bf1a9875d810e2d8a24a9454c3d07f50224836a89bd1",
           "summary": 64159
         },
@@ -5660,24 +5660,24 @@
         "addrstats": [
           {
             "address": "1J3pt9koWJZTo2jarg98RL89iJqff9Kobp",
-            "balance": 1491553,
+            "balance": 0,
             "received": 6900705093,
-            "sent": 6899213540,
-            "txcount": 608
+            "sent": 6900705093,
+            "txcount": 609
           }
         ],
-        "balance": 1491553,
+        "balance": 0,
         "lasttx": {
-          "block": 769405,
-          "epoch": 1672320013,
-          "epochhuman": "29/Dec/2022 @ 05:20:13 PST",
-          "hash": "dce7ef0131ffc0c051b2aeb894a6ed574e26d57f96ee57298dfab7a45f4ed47f",
-          "summary": 645138
+          "block": 781086,
+          "epoch": 1678990817,
+          "epochhuman": "16/Mar/2023 @ 11:20:17 PDT",
+          "hash": "d36ba24b0b0b92ab5db687dd49d454f5b0e04e0ada869168f65bf8a649837495",
+          "summary": -1491553
         },
         "received": 6900705093,
-        "sent": 6899213540,
-        "sparkid": "▁▅▂▃█",
-        "txcount": 608
+        "sent": 6900705093,
+        "sparkid": "▂█▃▃▁",
+        "txcount": 609
       },
       "Osiris-sps.org": {
         "addresses": [
@@ -6423,8 +6423,8 @@
         "balance": 58388,
         "lasttx": {
           "block": null,
-          "epoch": 1678406468,
-          "epochhuman": "09/Mar/2023 @ 16:01:08 PST",
+          "epoch": 1678406470,
+          "epochhuman": "09/Mar/2023 @ 16:01:10 PST",
           "hash": "60a8da02d0ab4dc710a9d044a28e524908afa54ba6a1ac66b9f0626ecc0f81b8",
           "summary": 51983
         },
@@ -6795,8 +6795,8 @@
         "balance": 25596484,
         "lasttx": {
           "block": 780062,
-          "epoch": 1678397724,
-          "epochhuman": "09/Mar/2023 @ 13:35:24 PST",
+          "epoch": 1678397722,
+          "epochhuman": "09/Mar/2023 @ 13:35:22 PST",
           "hash": "4cccd0e8b93f1df5442d2bc9588f8f8df4d504abb3ce0077752e2eb4fb81cce4",
           "summary": 10000
         },
@@ -7297,8 +7297,8 @@
         "balance": 239701,
         "lasttx": {
           "block": 780829,
-          "epoch": 1678827812,
-          "epochhuman": "14/Mar/2023 @ 14:03:32 PDT",
+          "epoch": 1678827807,
+          "epochhuman": "14/Mar/2023 @ 14:03:27 PDT",
           "hash": "db8e46ed9ea6f27fae588cdb6c55c821031120681d876393a9c10de3b9d8e5ea",
           "summary": 25473
         },
@@ -8019,8 +8019,8 @@
         "balance": 2938498,
         "lasttx": {
           "block": 780171,
-          "epoch": 1678471212,
-          "epochhuman": "10/Mar/2023 @ 10:00:12 PST",
+          "epoch": 1678471216,
+          "epochhuman": "10/Mar/2023 @ 10:00:16 PST",
           "hash": "156936e607e13d53d3578c322ffb77e071073e234fb30bcb3dfc863f5cc8b5be",
           "summary": 865457
         },
@@ -21497,7 +21497,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "16/Mar/2023 @ 05:36:18 PDT",
+                  "lastactivity": "07/Mar/2023 @ 08:07:48 PST",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "AllPrivateKeys.com",
                   "size": 20,
@@ -21860,7 +21860,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "09/Mar/2023 @ 16:01:08 PST",
+                  "lastactivity": "09/Mar/2023 @ 16:01:10 PST",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "Samourai",
                   "size": 20,
@@ -21904,7 +21904,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "08/Mar/2023 @ 21:38:06 PST",
+                  "lastactivity": "08/Mar/2023 @ 21:38:04 PST",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "Have I Been Pwned",
                   "size": 20,
@@ -22212,7 +22212,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "10/Mar/2023 @ 04:18:08 PST",
+                  "lastactivity": "10/Mar/2023 @ 04:18:09 PST",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "BitcoinGenesis",
                   "size": 20,
@@ -22289,7 +22289,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "16/Mar/2023 @ 04:58:20 PDT",
+                  "lastactivity": "16/Mar/2023 @ 04:58:21 PDT",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "Bisq",
                   "size": 20,
@@ -22474,13 +22474,13 @@
                 {
                   "children": [],
                   "edgecolor": "#dddddd",
-                  "fillcolor": "#d7ecc9",
+                  "fillcolor": "#dedede",
                   "inlabel": "",
-                  "lastactivity": "29/Dec/2022 @ 05:20:13 PST",
+                  "lastactivity": "16/Mar/2023 @ 11:20:17 PDT",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "OpenStreetMap",
                   "size": 20,
-                  "tooltip": "₿69.00705093/₿68.99213540/₿0.01491553"
+                  "tooltip": "₿69.00705093/₿69.00705093/₿0.00000000"
                 },
                 {
                   "children": [],
@@ -22817,7 +22817,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "14/Mar/2023 @ 14:03:32 PDT",
+                  "lastactivity": "14/Mar/2023 @ 14:03:27 PDT",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "The Water Project",
                   "size": 20,
@@ -23015,7 +23015,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "09/Mar/2023 @ 13:35:24 PST",
+                  "lastactivity": "09/Mar/2023 @ 13:35:22 PST",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "TAILS",
                   "size": 20,
@@ -23367,7 +23367,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "14/Mar/2023 @ 12:06:35 PDT",
+                  "lastactivity": "14/Mar/2023 @ 12:06:50 PDT",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "Freedomain Radio",
                   "size": 20,
@@ -23400,7 +23400,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "08/Jan/2023 @ 18:42:48 PST",
+                  "lastactivity": "08/Jan/2023 @ 18:42:38 PST",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "Bitcoin Foundation",
                   "size": 20,
@@ -23422,7 +23422,7 @@
                   "edgecolor": "#dddddd",
                   "fillcolor": "#d7ecc9",
                   "inlabel": "",
-                  "lastactivity": "10/Mar/2023 @ 10:00:12 PST",
+                  "lastactivity": "10/Mar/2023 @ 10:00:16 PST",
                   "nodecolor": "#f6f6f6",
                   "outlabel": "WikiLeaks",
                   "size": 20,
@@ -24940,23 +24940,23 @@
       "tooltip": ""
     }
   },
-  "last_update": "16/Mar/2023 @ 08:21:04 PDT",
-  "last_update_epoch": 1678980064.882276,
+  "last_update": "17/Mar/2023 @ 08:21:56 PDT",
+  "last_update_epoch": 1679066516.82702,
   "nodes": [],
   "nodessummary": {},
   "stats": {
     "count_address": 1514,
-    "count_balance": 13845022505780,
+    "count_balance": 13845021014227,
     "count_received": 1292595270426316,
-    "count_sent": 1278750247920536,
-    "count_txs": 463271,
+    "count_sent": 1278750249412089,
+    "count_txs": 463272,
     "count_wallet": 534,
     "donation": {
       "count_address": 385,
-      "count_balance": 52670676027,
+      "count_balance": 52669184474,
       "count_received": 28140104990055,
-      "count_sent": 28087434314028,
-      "count_txs": 246449,
+      "count_sent": 28087435805581,
+      "count_txs": 246450,
       "count_wallet": 361
     },
     "popular": {
