@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Mar/2023 @ 01:00:03 PDT",
+    "last_update": "17/Mar/2023 @ 02:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
     "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -457,34 +457,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkdu",
-        "location": "http://maps.google.com/maps?q=-11.5482,117.4096",
-        "name": "M 4.3 - south of Sumbawa, Indonesia",
+        "eid": "us7000jkrv",
+        "location": "http://maps.google.com/maps?q=43.6578,-128.1969",
+        "name": "M 4.3 - off the coast of Oregon",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkr1",
-        "location": "http://maps.google.com/maps?q=-17.384,-178.8742",
-        "name": "M 4.4 - 206 km ENE of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkrv"
       },
       {
         "category": [
@@ -495,7 +477,7 @@
         ],
         "eid": "pr2023076000",
         "location": "http://maps.google.com/maps?q=19.2768,-67.8263",
-        "name": "M 4.4 - Mona Passage",
+        "name": "M 4.4 - 98 km NE of Punta Cana, Dominican Republic",
         "source": [
           {
             "sid": "USGS",
@@ -503,6 +485,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jkr1",
+        "location": "http://maps.google.com/maps?q=-17.384,-178.8742",
+        "name": "M 4.4 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1"
       },
       {
         "category": [
@@ -547,27 +547,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkdv",
-        "location": "http://maps.google.com/maps?q=-18.7966,168.3046",
-        "name": "M 4.6 - 117 km S of Port-Vila, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkf1",
         "location": "http://maps.google.com/maps?q=5.3547,-77.565",
-        "name": "M 4.6 - near the west coast of Colombia",
+        "name": "M 4.6 - 49 km NNW of Pizarro, Colombia",
         "source": [
           {
             "sid": "USGS",
@@ -603,7 +585,7 @@
         ],
         "eid": "us7000jkf9",
         "location": "http://maps.google.com/maps?q=56.1128,-116.6129",
-        "name": "M 4.8 - Alberta, Canada",
+        "name": "M 4.8 - 44 km ESE of Peace River, Canada",
         "source": [
           {
             "sid": "USGS",
@@ -621,7 +603,7 @@
         ],
         "eid": "us7000jkeb",
         "location": "http://maps.google.com/maps?q=40.7392,31.5128",
-        "name": "M 4.8 - Western Turkey",
+        "name": "M 4.8 - 7 km W of Bolu, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -765,13 +747,18 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "17/Mar/2023 @ 01:00:05 PDT",
+    "last_update": "17/Mar/2023 @ 02:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.384,-178.8742\"><b>M 4.4 - 206 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=43.6578,-128.1969\"><b>M 4.3 - off the coast of Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkrv\">USGS</a>",
+          43.6578,
+          -128.1969
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.384,-178.8742\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1\">USGS</a>",
           -17.384,
           -178.8742
         ],
@@ -786,7 +773,7 @@
           -169.9892
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=19.2768,-67.8263\"><b>M 4.4 - Mona Passage</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=19.2768,-67.8263\"><b>M 4.4 - 98 km NE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000\">USGS</a>",
           19.2768,
           -67.8263
         ],
@@ -831,12 +818,12 @@
           127.3533
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=56.1128,-116.6129\"><b>M 4.8 - Alberta, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=56.1128,-116.6129\"><b>M 4.8 - 44 km ESE of Peace River, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf9\">USGS</a>",
           56.1128,
           -116.6129
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=5.3547,-77.565\"><b>M 4.6 - near the west coast of Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf1\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=5.3547,-77.565\"><b>M 4.6 - 49 km NNW of Pizarro, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf1\">USGS</a>",
           5.3547,
           -77.565
         ],
@@ -851,19 +838,9 @@
           45.0727
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.7392,31.5128\"><b>M 4.8 - Western Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.7392,31.5128\"><b>M 4.8 - 7 km W of Bolu, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb\">USGS</a>",
           40.7392,
           31.5128
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-11.5482,117.4096\"><b>M 4.3 - south of Sumbawa, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdu\">USGS</a>",
-          -11.5482,
-          117.4096
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.7966,168.3046\"><b>M 4.6 - 117 km S of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdv\">USGS</a>",
-          -18.7966,
-          168.3046
         ]
       ],
       "Floods": [],
@@ -3685,13 +3662,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (17/Mar/2023 PDT)"
+    "title": "40 events (17/Mar/2023 PDT)"
   },
-  "last_update": "17/Mar/2023 @ 01:00:38 PDT",
-  "last_update_epoch": 1679040038.281175,
+  "last_update": "17/Mar/2023 @ 02:00:46 PDT",
+  "last_update_epoch": 1679043646.726249,
   "neo": {
     "date": "17/Mar/2023 PDT",
-    "last_update": "17/Mar/2023 @ 01:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 02:00:06 PDT",
     "objects": [
       {
         "cat": "17/Mar/2023 @ 11:40:00 ",
@@ -3890,7 +3867,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Mar/2023 @ 01:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 02:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5676,7 +5653,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Mar/2023 @ 01:00:11 PDT",
+    "last_update": "17/Mar/2023 @ 02:00:19 PDT",
     "launches": {
       "future": [
         {
