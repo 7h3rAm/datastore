@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Mar/2023 @ 08:00:03 PDT",
+    "last_update": "17/Mar/2023 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
     "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -493,27 +493,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkr1",
-        "location": "http://maps.google.com/maps?q=-17.384,-178.8742",
-        "name": "M 4.4 - 206 km ENE of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "pr2023076000",
         "location": "http://maps.google.com/maps?q=19.2768,-67.8263",
-        "name": "M 4.4 - Mona Passage",
+        "name": "M 4.4 - 98 km NE of Punta Cana, Dominican Republic",
         "source": [
           {
             "sid": "USGS",
@@ -529,16 +511,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkql",
-        "location": "http://maps.google.com/maps?q=4.941,125.4914",
-        "name": "M 4.5 - 51 km S of Sarangani, Philippines",
+        "eid": "us7000jkr1",
+        "location": "http://maps.google.com/maps?q=-17.384,-178.8742",
+        "name": "M 4.4 - Fiji region",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkql"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1"
       },
       {
         "category": [
@@ -565,6 +547,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkql",
+        "location": "http://maps.google.com/maps?q=4.941,125.4914",
+        "name": "M 4.5 - Pulau-Pulau Sangihe, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkql"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "ak0233hxssds",
+        "location": "http://maps.google.com/maps?q=59.2624,-144.9381",
+        "name": "M 4.6 - 149 km SSE of Cordova, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0233hxssds"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkip",
         "location": "http://maps.google.com/maps?q=1.7939,126.3028",
         "name": "M 4.6 - 151 km ENE of Laikit, Laikit II (Dimembe), Indonesia",
@@ -575,6 +593,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkip"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jkus",
+        "location": "http://maps.google.com/maps?q=-38.0795,176.6167",
+        "name": "M 4.8 - 7 km WNW of Kawerau, New Zealand",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkus"
       },
       {
         "category": [
@@ -611,6 +647,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jku9",
+        "location": "http://maps.google.com/maps?q=14.4992,119.946",
+        "name": "M 4.9 - 39 km WSW of Sabang, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9"
       },
       {
         "category": [
@@ -673,24 +727,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jktb",
-        "location": "http://maps.google.com/maps?q=30.7834,96.0546",
-        "name": "M 5.1 - 114 km WSW of Qamdo, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkjc",
         "location": "http://maps.google.com/maps?q=35.2373,46.0014",
         "name": "M 5.1 - 6 km NNE of Ḩalabja, Iraq",
@@ -701,6 +737,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkjc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jktb",
+        "location": "http://maps.google.com/maps?q=30.7834,96.0546",
+        "name": "M 5.1 - Eastern Xizang",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktb"
       },
       {
         "category": [
@@ -721,11 +775,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "17/Mar/2023 @ 08:00:28 PDT",
+    "last_update": "17/Mar/2023 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-38.0795,176.6167\"><b>M 4.8 - 7 km WNW of Kawerau, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkus\">USGS</a>",
+          -38.0795,
+          176.6167
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=59.2624,-144.9381\"><b>M 4.6 - 149 km SSE of Cordova, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0233hxssds\">USGS</a>",
+          59.2624,
+          -144.9381
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=14.4992,119.946\"><b>M 4.9 - 39 km WSW of Sabang, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9\">USGS</a>",
+          14.4992,
+          119.946
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=18.4724,120.3667\"><b>M 4.9 - 22 km W of Davila, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku5\">USGS</a>",
           18.4724,
@@ -742,7 +811,7 @@
           147.4907
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=30.7834,96.0546\"><b>M 5.1 - 114 km WSW of Qamdo, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktb\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=30.7834,96.0546\"><b>M 5.1 - Eastern Xizang</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktb\">USGS</a>",
           30.7834,
           96.0546
         ],
@@ -757,12 +826,12 @@
           -128.1969
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.384,-178.8742\"><b>M 4.4 - 206 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.384,-178.8742\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1\">USGS</a>",
           -17.384,
           -178.8742
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=4.941,125.4914\"><b>M 4.5 - 51 km S of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkql\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=4.941,125.4914\"><b>M 4.5 - Pulau-Pulau Sangihe, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkql\">USGS</a>",
           4.941,
           125.4914
         ],
@@ -772,7 +841,7 @@
           -169.9892
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=19.2768,-67.8263\"><b>M 4.4 - Mona Passage</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=19.2768,-67.8263\"><b>M 4.4 - 98 km NE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000\">USGS</a>",
           19.2768,
           -67.8263
         ],
@@ -2955,13 +3024,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (17/Mar/2023 PDT)"
+    "title": "42 events (17/Mar/2023 PDT)"
   },
-  "last_update": "17/Mar/2023 @ 08:01:03 PDT",
-  "last_update_epoch": 1679065263.39792,
+  "last_update": "17/Mar/2023 @ 09:00:41 PDT",
+  "last_update_epoch": 1679068841.030045,
   "neo": {
     "date": "17/Mar/2023 PDT",
-    "last_update": "17/Mar/2023 @ 08:00:36 PDT",
+    "last_update": "17/Mar/2023 @ 09:00:07 PDT",
     "objects": [
       {
         "cat": "17/Mar/2023 @ 11:40:00 ",
@@ -3160,7 +3229,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Mar/2023 @ 08:00:37 PDT",
+    "last_update": "17/Mar/2023 @ 09:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4946,7 +5015,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Mar/2023 @ 08:00:43 PDT",
+    "last_update": "17/Mar/2023 @ 09:00:13 PDT",
     "launches": {
       "future": [
         {
