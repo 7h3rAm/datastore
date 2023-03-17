@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Mar/2023 @ 22:00:03 PDT",
+    "last_update": "16/Mar/2023 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
     "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -477,7 +477,7 @@
         ],
         "eid": "pr2023076000",
         "location": "http://maps.google.com/maps?q=19.2768,-67.8263",
-        "name": "M 4.4 - 98 km NE of Punta Cana, Dominican Republic",
+        "name": "M 4.4 - Mona Passage",
         "source": [
           {
             "sid": "USGS",
@@ -709,24 +709,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkcu",
-        "location": "http://maps.google.com/maps?q=-10.6,113.3077",
-        "name": "M 5.2 - 256 km S of Kencong, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkcu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkel",
         "location": "http://maps.google.com/maps?q=38.4857,45.0727",
         "name": "M 5.2 - Northwestern Iran",
@@ -783,7 +765,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "16/Mar/2023 @ 22:00:05 PDT",
+    "last_update": "16/Mar/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -799,7 +781,7 @@
           -169.9892
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=19.2768,-67.8263\"><b>M 4.4 - 98 km NE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=19.2768,-67.8263\"><b>M 4.4 - Mona Passage</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000\">USGS</a>",
           19.2768,
           -67.8263
         ],
@@ -882,11 +864,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.803,-172.614\"><b>M 4.8 - 127 km E of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdn\">USGS</a>",
           -15.803,
           -172.614
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-10.6,113.3077\"><b>M 5.2 - 256 km S of Kencong, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkcu\">USGS</a>",
-          -10.6,
-          113.3077
         ]
       ],
       "Floods": [],
@@ -3708,13 +3685,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "42 events (16/Mar/2023 PDT)"
+    "title": "41 events (16/Mar/2023 PDT)"
   },
-  "last_update": "16/Mar/2023 @ 22:00:39 PDT",
-  "last_update_epoch": 1679029239.443718,
+  "last_update": "16/Mar/2023 @ 23:00:38 PDT",
+  "last_update_epoch": 1679032838.403801,
   "neo": {
     "date": "17/Mar/2023 PDT",
-    "last_update": "16/Mar/2023 @ 22:00:06 PDT",
+    "last_update": "16/Mar/2023 @ 23:00:06 PDT",
     "objects": [
       {
         "cat": "17/Mar/2023 @ 11:40:00 ",
@@ -3913,7 +3890,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Mar/2023 @ 22:00:06 PDT",
+    "last_update": "16/Mar/2023 @ 23:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5699,7 +5676,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Mar/2023 @ 22:00:11 PDT",
+    "last_update": "16/Mar/2023 @ 23:00:12 PDT",
     "launches": {
       "future": [
         {
