@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Mar/2023 @ 06:00:03 PDT",
+    "last_update": "17/Mar/2023 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
     "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -439,6 +439,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkk9",
+        "location": "http://maps.google.com/maps?q=36.3108,34.3864",
+        "name": "M 4.3 - 27 km SE of Kızkalesi, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkk9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkp9",
         "location": "http://maps.google.com/maps?q=38.0328,36.5559",
         "name": "M 4.3 - 5 km ENE of Göksun, Turkey",
@@ -565,6 +583,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkip",
+        "location": "http://maps.google.com/maps?q=1.7939,126.3028",
+        "name": "M 4.6 - 151 km ENE of Laikit, Laikit II (Dimembe), Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkip"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkf1",
         "location": "http://maps.google.com/maps?q=5.3547,-77.565",
         "name": "M 4.6 - near the west coast of Colombia",
@@ -611,6 +647,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkil"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jku5",
+        "location": "http://maps.google.com/maps?q=18.4724,120.3667",
+        "name": "M 4.9 - 22 km W of Davila, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku5"
       },
       {
         "category": [
@@ -739,11 +793,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "17/Mar/2023 @ 06:00:05 PDT",
+    "last_update": "17/Mar/2023 @ 07:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.4724,120.3667\"><b>M 4.9 - 22 km W of Davila, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku5\">USGS</a>",
+          18.4724,
+          120.3667
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-9.2641,109.6526\"><b>M 5.0 - 160 km SSW of Srandakan, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktt\">USGS</a>",
           -9.2641,
@@ -805,9 +864,19 @@
           -90.2058
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=36.3108,34.3864\"><b>M 4.3 - 27 km SE of Kızkalesi, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkk9\">USGS</a>",
+          36.3108,
+          34.3864
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=35.2373,46.0014\"><b>M 5.1 - 6 km NNE of Ḩalabja, Iraq</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkjc\">USGS</a>",
           35.2373,
           46.0014
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=1.7939,126.3028\"><b>M 4.6 - 151 km ENE of Laikit, Laikit II (Dimembe), Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkip\">USGS</a>",
+          1.7939,
+          126.3028
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-23.7448,-179.5309\"><b>M 4.8 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkil\">USGS</a>",
@@ -2978,13 +3047,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "40 events (17/Mar/2023 PDT)"
+    "title": "43 events (17/Mar/2023 PDT)"
   },
-  "last_update": "17/Mar/2023 @ 06:00:34 PDT",
-  "last_update_epoch": 1679058034.543478,
+  "last_update": "17/Mar/2023 @ 07:00:39 PDT",
+  "last_update_epoch": 1679061639.81063,
   "neo": {
     "date": "17/Mar/2023 PDT",
-    "last_update": "17/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 07:00:06 PDT",
     "objects": [
       {
         "cat": "17/Mar/2023 @ 11:40:00 ",
@@ -3183,7 +3252,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 07:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4969,7 +5038,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Mar/2023 @ 06:00:11 PDT",
+    "last_update": "17/Mar/2023 @ 07:00:15 PDT",
     "launches": {
       "future": [
         {
