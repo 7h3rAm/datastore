@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Mar/2023 @ 18:00:04 PDT",
+    "last_update": "16/Mar/2023 @ 19:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg",
     "title": "Millions of Stars in Omega Centauri (16/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,6 +385,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkp7",
+        "location": "http://maps.google.com/maps?q=13.0328,-90.2058",
+        "name": "M 4.2 - 74 km SSW of Acajutla, El Salvador",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkfc",
         "location": "http://maps.google.com/maps?q=1.8181,127.3533",
         "name": "M 4.3 - 73 km W of Tobelo, Indonesia",
@@ -441,7 +459,7 @@
         ],
         "eid": "us7000jkf1",
         "location": "http://maps.google.com/maps?q=5.3547,-77.565",
-        "name": "M 4.6 - near the west coast of Colombia",
+        "name": "M 4.6 - 49 km NNW of Pizarro, Colombia",
         "source": [
           {
             "sid": "USGS",
@@ -513,7 +531,7 @@
         ],
         "eid": "us7000jkf9",
         "location": "http://maps.google.com/maps?q=56.1128,-116.6129",
-        "name": "M 4.8 - Alberta, Canada",
+        "name": "M 4.8 - 44 km ESE of Peace River, Canada",
         "source": [
           {
             "sid": "USGS",
@@ -531,7 +549,7 @@
         ],
         "eid": "us7000jkeb",
         "location": "http://maps.google.com/maps?q=40.7392,31.5128",
-        "name": "M 4.8 - Western Turkey",
+        "name": "M 4.8 - 7 km W of Bolu, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -637,24 +655,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkbr",
-        "location": "http://maps.google.com/maps?q=-30.1631,-176.4208",
-        "name": "M 5.2 - Kermadec Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkbr"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkel",
         "location": "http://maps.google.com/maps?q=38.4857,45.0727",
         "name": "M 5.2 - Northwestern Iran",
@@ -711,11 +711,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "16/Mar/2023 @ 18:00:05 PDT",
+    "last_update": "16/Mar/2023 @ 19:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=13.0328,-90.2058\"><b>M 4.2 - 74 km SSW of Acajutla, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp7\">USGS</a>",
+          13.0328,
+          -90.2058
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.2373,46.0014\"><b>M 5.1 - 6 km NNE of Ḩalabja, Iraq</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkjc\">USGS</a>",
           35.2373,
@@ -742,12 +747,12 @@
           127.3533
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=56.1128,-116.6129\"><b>M 4.8 - Alberta, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=56.1128,-116.6129\"><b>M 4.8 - 44 km ESE of Peace River, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf9\">USGS</a>",
           56.1128,
           -116.6129
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=5.3547,-77.565\"><b>M 4.6 - near the west coast of Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf1\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=5.3547,-77.565\"><b>M 4.6 - 49 km NNW of Pizarro, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf1\">USGS</a>",
           5.3547,
           -77.565
         ],
@@ -762,7 +767,7 @@
           45.0727
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.7392,31.5128\"><b>M 4.8 - Western Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.7392,31.5128\"><b>M 4.8 - 7 km W of Bolu, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb\">USGS</a>",
           40.7392,
           31.5128
         ],
@@ -790,11 +795,6 @@
           "<a href=\"http://maps.google.com/maps?q=15.532,120.1099\"><b>M 4.8 - 16 km ENE of San Lorenzo, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkch\">USGS</a>",
           15.532,
           120.1099
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-30.1631,-176.4208\"><b>M 5.2 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkbr\">USGS</a>",
-          -30.1631,
-          -176.4208
         ]
       ],
       "Floods": [],
@@ -3618,11 +3618,11 @@
     },
     "title": "38 events (16/Mar/2023 PDT)"
   },
-  "last_update": "16/Mar/2023 @ 18:00:40 PDT",
-  "last_update_epoch": 1679014840.176615,
+  "last_update": "16/Mar/2023 @ 19:00:44 PDT",
+  "last_update_epoch": 1679018444.00893,
   "neo": {
     "date": "17/Mar/2023 PDT",
-    "last_update": "16/Mar/2023 @ 18:00:06 PDT",
+    "last_update": "16/Mar/2023 @ 19:00:07 PDT",
     "objects": [
       {
         "cat": "17/Mar/2023 @ 11:40:00 ",
@@ -3821,7 +3821,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Mar/2023 @ 18:00:07 PDT",
+    "last_update": "16/Mar/2023 @ 19:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5607,7 +5607,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Mar/2023 @ 18:00:11 PDT",
+    "last_update": "16/Mar/2023 @ 19:00:13 PDT",
     "launches": {
       "future": [
         {
