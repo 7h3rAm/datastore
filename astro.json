@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Mar/2023 @ 21:00:04 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg",
-    "title": "Millions of Stars in Omega Centauri (16/Mar/2023 PDT)",
+    "last_update": "16/Mar/2023 @ 22:00:03 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
+    "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -403,6 +403,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkqe",
+        "location": "http://maps.google.com/maps?q=52.5639,-169.9892",
+        "name": "M 4.2 - 86 km WSW of Nikolski, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkqe"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkp9",
         "location": "http://maps.google.com/maps?q=38.0328,36.5559",
         "name": "M 4.3 - 5 km ENE of Göksun, Turkey",
@@ -457,6 +475,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "pr2023076000",
+        "location": "http://maps.google.com/maps?q=19.2768,-67.8263",
+        "name": "M 4.4 - 98 km NE of Punta Cana, Dominican Republic",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jkql",
+        "location": "http://maps.google.com/maps?q=4.941,125.4914",
+        "name": "M 4.5 - 51 km S of Sarangani, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkql"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkph",
         "location": "http://maps.google.com/maps?q=38.5468,73.1539",
         "name": "M 4.5 - 82 km WNW of Murghob, Tajikistan",
@@ -467,24 +521,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkph"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkq8",
-        "location": "http://maps.google.com/maps?q=19.0803,-67.685",
-        "name": "M 4.5 - 89 km NW of San Antonio, Puerto Rico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkq8"
       },
       {
         "category": [
@@ -557,24 +593,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkdn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkch",
-        "location": "http://maps.google.com/maps?q=15.532,120.1099",
-        "name": "M 4.8 - 16 km ENE of San Lorenzo, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkch"
       },
       {
         "category": [
@@ -765,15 +783,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "16/Mar/2023 @ 21:00:06 PDT",
+    "last_update": "16/Mar/2023 @ 22:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=19.0803,-67.685\"><b>M 4.5 - 89 km NW of San Antonio, Puerto Rico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkq8\">USGS</a>",
-          19.0803,
-          -67.685
+          "<a href=\"http://maps.google.com/maps?q=4.941,125.4914\"><b>M 4.5 - 51 km S of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkql\">USGS</a>",
+          4.941,
+          125.4914
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=52.5639,-169.9892\"><b>M 4.2 - 86 km WSW of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkqe\">USGS</a>",
+          52.5639,
+          -169.9892
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=19.2768,-67.8263\"><b>M 4.4 - 98 km NE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000\">USGS</a>",
+          19.2768,
+          -67.8263
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.5468,73.1539\"><b>M 4.5 - 82 km WNW of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkph\">USGS</a>",
@@ -859,11 +887,6 @@
           "<a href=\"http://maps.google.com/maps?q=-10.6,113.3077\"><b>M 5.2 - 256 km S of Kencong, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkcu\">USGS</a>",
           -10.6,
           113.3077
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=15.532,120.1099\"><b>M 4.8 - 16 km ENE of San Lorenzo, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkch\">USGS</a>",
-          15.532,
-          120.1099
         ]
       ],
       "Floods": [],
@@ -3685,13 +3708,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (16/Mar/2023 PDT)"
+    "title": "42 events (16/Mar/2023 PDT)"
   },
-  "last_update": "16/Mar/2023 @ 21:00:38 PDT",
-  "last_update_epoch": 1679025638.774276,
+  "last_update": "16/Mar/2023 @ 22:00:39 PDT",
+  "last_update_epoch": 1679029239.443718,
   "neo": {
     "date": "17/Mar/2023 PDT",
-    "last_update": "16/Mar/2023 @ 21:00:07 PDT",
+    "last_update": "16/Mar/2023 @ 22:00:06 PDT",
     "objects": [
       {
         "cat": "17/Mar/2023 @ 11:40:00 ",
@@ -3890,7 +3913,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Mar/2023 @ 21:00:07 PDT",
+    "last_update": "16/Mar/2023 @ 22:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5676,7 +5699,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Mar/2023 @ 21:00:12 PDT",
+    "last_update": "16/Mar/2023 @ 22:00:11 PDT",
     "launches": {
       "future": [
         {
