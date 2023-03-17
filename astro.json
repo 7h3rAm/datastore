@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "16/Mar/2023 @ 19:00:04 PDT",
+    "last_update": "16/Mar/2023 @ 20:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg",
     "title": "Millions of Stars in Omega Centauri (16/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -403,6 +403,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkp9",
+        "location": "http://maps.google.com/maps?q=38.0328,36.5559",
+        "name": "M 4.3 - 5 km ENE of Göksun, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkfc",
         "location": "http://maps.google.com/maps?q=1.8181,127.3533",
         "name": "M 4.3 - 73 km W of Tobelo, Indonesia",
@@ -439,6 +457,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkph",
+        "location": "http://maps.google.com/maps?q=38.5468,73.1539",
+        "name": "M 4.5 - 82 km WNW of Murghob, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkph"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkdv",
         "location": "http://maps.google.com/maps?q=-18.7966,168.3046",
         "name": "M 4.6 - 117 km S of Port-Vila, Vanuatu",
@@ -459,7 +495,7 @@
         ],
         "eid": "us7000jkf1",
         "location": "http://maps.google.com/maps?q=5.3547,-77.565",
-        "name": "M 4.6 - 49 km NNW of Pizarro, Colombia",
+        "name": "M 4.6 - near the west coast of Colombia",
         "source": [
           {
             "sid": "USGS",
@@ -531,7 +567,7 @@
         ],
         "eid": "us7000jkf9",
         "location": "http://maps.google.com/maps?q=56.1128,-116.6129",
-        "name": "M 4.8 - 44 km ESE of Peace River, Canada",
+        "name": "M 4.8 - Alberta, Canada",
         "source": [
           {
             "sid": "USGS",
@@ -549,7 +585,7 @@
         ],
         "eid": "us7000jkeb",
         "location": "http://maps.google.com/maps?q=40.7392,31.5128",
-        "name": "M 4.8 - 7 km W of Bolu, Turkey",
+        "name": "M 4.8 - Western Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -711,11 +747,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6321"
       }
     ],
-    "last_update": "16/Mar/2023 @ 19:00:06 PDT",
+    "last_update": "16/Mar/2023 @ 20:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.5468,73.1539\"><b>M 4.5 - 82 km WNW of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkph\">USGS</a>",
+          38.5468,
+          73.1539
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.0328,36.5559\"><b>M 4.3 - 5 km ENE of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp9\">USGS</a>",
+          38.0328,
+          36.5559
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=13.0328,-90.2058\"><b>M 4.2 - 74 km SSW of Acajutla, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp7\">USGS</a>",
           13.0328,
@@ -747,12 +793,12 @@
           127.3533
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=56.1128,-116.6129\"><b>M 4.8 - 44 km ESE of Peace River, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=56.1128,-116.6129\"><b>M 4.8 - Alberta, Canada</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf9\">USGS</a>",
           56.1128,
           -116.6129
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=5.3547,-77.565\"><b>M 4.6 - 49 km NNW of Pizarro, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf1\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=5.3547,-77.565\"><b>M 4.6 - near the west coast of Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkf1\">USGS</a>",
           5.3547,
           -77.565
         ],
@@ -767,7 +813,7 @@
           45.0727
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.7392,31.5128\"><b>M 4.8 - 7 km W of Bolu, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.7392,31.5128\"><b>M 4.8 - Western Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkeb\">USGS</a>",
           40.7392,
           31.5128
         ],
@@ -3616,13 +3662,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "38 events (16/Mar/2023 PDT)"
+    "title": "40 events (16/Mar/2023 PDT)"
   },
-  "last_update": "16/Mar/2023 @ 19:00:44 PDT",
-  "last_update_epoch": 1679018444.00893,
+  "last_update": "16/Mar/2023 @ 20:00:41 PDT",
+  "last_update_epoch": 1679022041.067117,
   "neo": {
     "date": "17/Mar/2023 PDT",
-    "last_update": "16/Mar/2023 @ 19:00:07 PDT",
+    "last_update": "16/Mar/2023 @ 20:00:07 PDT",
     "objects": [
       {
         "cat": "17/Mar/2023 @ 11:40:00 ",
@@ -3821,7 +3867,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "16/Mar/2023 @ 19:00:07 PDT",
+    "last_update": "16/Mar/2023 @ 20:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5607,7 +5653,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "16/Mar/2023 @ 19:00:13 PDT",
+    "last_update": "16/Mar/2023 @ 20:00:12 PDT",
     "launches": {
       "future": [
         {
