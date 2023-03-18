@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 08:00:15 PDT",
+    "last_update": "18/Mar/2023 @ 09:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -547,6 +547,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl2z",
+        "location": "http://maps.google.com/maps?q=47.1626,153.3164",
+        "name": "M 4.4 - Kuril Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl2z"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jl0w",
         "location": "http://maps.google.com/maps?q=22.2244,-108.6706",
         "name": "M 4.5 - 138 km SE of La Playa, Mexico",
@@ -593,24 +611,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "ak0233hxssds",
-        "location": "http://maps.google.com/maps?q=59.2624,-144.9381",
-        "name": "M 4.6 - 149 km SSE of Cordova, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0233hxssds"
       },
       {
         "category": [
@@ -763,24 +763,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkus",
-        "location": "http://maps.google.com/maps?q=-38.0795,176.6167",
-        "name": "M 4.8 - 7 km WNW of Kawerau, New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkus"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl26",
         "location": "http://maps.google.com/maps?q=-7.0637,155.625",
         "name": "M 4.8 - 84 km S of Panguna, Papua New Guinea",
@@ -849,24 +831,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkvz",
-        "location": "http://maps.google.com/maps?q=-38.0709,176.6406",
-        "name": "M 5.3 - North Island of New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkvz"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -883,11 +847,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 08:00:35 PDT",
+    "last_update": "18/Mar/2023 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=47.1626,153.3164\"><b>M 4.4 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl2z\">USGS</a>",
+          47.1626,
+          153.3164
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=22.3873,-108.2477\"><b>M 4.2 - 164 km ESE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl23\">USGS</a>",
           22.3873,
@@ -1002,21 +971,6 @@
           "<a href=\"http://maps.google.com/maps?q=5.9278,126.9379\"><b>M 5.0 - 96 km ESE of Pondaguitan, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkwd\">USGS</a>",
           5.9278,
           126.9379
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-38.0709,176.6406\"><b>M 5.3 - North Island of New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkvz\">USGS</a>",
-          -38.0709,
-          176.6406
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-38.0795,176.6167\"><b>M 4.8 - 7 km WNW of Kawerau, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkus\">USGS</a>",
-          -38.0795,
-          176.6167
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=59.2624,-144.9381\"><b>M 4.6 - 149 km SSE of Cordova, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0233hxssds\">USGS</a>",
-          59.2624,
-          -144.9381
         ]
       ],
       "Floods": [],
@@ -3297,13 +3251,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (18/Mar/2023 PDT)"
+    "title": "46 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 08:03:45 PDT",
-  "last_update_epoch": 1679151825.028327,
+  "last_update": "18/Mar/2023 @ 09:00:35 PDT",
+  "last_update_epoch": 1679155235.211974,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 08:00:36 PDT",
+    "last_update": "18/Mar/2023 @ 09:00:07 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3475,7 +3429,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 08:00:36 PDT",
+    "last_update": "18/Mar/2023 @ 09:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5261,7 +5215,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 08:00:43 PDT",
+    "last_update": "18/Mar/2023 @ 09:00:13 PDT",
     "launches": {
       "future": [
         {
