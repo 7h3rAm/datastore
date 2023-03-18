@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 00:00:05 PDT",
+    "last_update": "18/Mar/2023 @ 01:00:09 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -403,6 +403,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl1b",
+        "location": "http://maps.google.com/maps?q=27.2426,55.0512",
+        "name": "M 4.2 - 77 km NNE of Bandar-e Lengeh, Iran",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1b"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jkub",
+        "location": "http://maps.google.com/maps?q=-7.3408,129.1932",
+        "name": "M 4.2 - Kepulauan Babar, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkub"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jks0",
         "location": "http://maps.google.com/maps?q=-9.7024,-74.7478",
         "name": "M 4.3 - 26 km ESE of Yuyapichis, Peru",
@@ -431,6 +467,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jku7",
+        "location": "http://maps.google.com/maps?q=37.7784,21.2823",
+        "name": "M 4.3 - 4 km SSW of Savália, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku7"
       },
       {
         "category": [
@@ -673,6 +727,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl1c",
+        "location": "http://maps.google.com/maps?q=-19.7823,-66.9232",
+        "name": "M 4.7 - 57 km N of Colchani, Bolivia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1c"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jl1j",
+        "location": "http://maps.google.com/maps?q=2.3406,128.8997",
+        "name": "M 4.7 - Halmahera, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkyc",
         "location": "http://maps.google.com/maps?q=-38.1072,176.6233",
         "name": "M 4.7 - North Island of New Zealand",
@@ -883,11 +973,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 00:00:07 PDT",
+    "last_update": "18/Mar/2023 @ 01:00:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=2.3406,128.8997\"><b>M 4.7 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j\">USGS</a>",
+          2.3406,
+          128.8997
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-19.7823,-66.9232\"><b>M 4.7 - 57 km N of Colchani, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1c\">USGS</a>",
+          -19.7823,
+          -66.9232
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=27.2426,55.0512\"><b>M 4.2 - 77 km NNE of Bandar-e Lengeh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1b\">USGS</a>",
+          27.2426,
+          55.0512
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=37.9741,36.4482\"><b>M 4.4 - 6 km SW of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0z\">USGS</a>",
           37.9741,
@@ -989,9 +1094,19 @@
           -144.9381
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-7.3408,129.1932\"><b>M 4.2 - Kepulauan Babar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkub\">USGS</a>",
+          -7.3408,
+          129.1932
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=14.4992,119.946\"><b>M 4.9 - Luzon, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9\">USGS</a>",
           14.4992,
           119.946
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.7784,21.2823\"><b>M 4.3 - 4 km SSW of Savália, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku7\">USGS</a>",
+          37.7784,
+          21.2823
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=18.4724,120.3667\"><b>M 4.9 - 22 km W of Davila, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku5\">USGS</a>",
@@ -3162,13 +3277,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (18/Mar/2023 PDT)"
+    "title": "53 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 00:00:35 PDT",
-  "last_update_epoch": 1679122835.605643,
+  "last_update": "18/Mar/2023 @ 01:00:44 PDT",
+  "last_update_epoch": 1679126444.048715,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 00:00:08 PDT",
+    "last_update": "18/Mar/2023 @ 01:00:14 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3340,7 +3455,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 00:00:08 PDT",
+    "last_update": "18/Mar/2023 @ 01:00:15 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5126,7 +5241,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 00:00:13 PDT",
+    "last_update": "18/Mar/2023 @ 01:00:21 PDT",
     "launches": {
       "future": [
         {
