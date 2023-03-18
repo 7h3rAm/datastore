@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 12:00:04 PDT",
+    "last_update": "18/Mar/2023 @ 13:00:14 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -655,24 +655,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkyh",
-        "location": "http://maps.google.com/maps?q=-0.256,-80.6624",
-        "name": "M 4.5 - 46 km NW of Bahía de Caráquez, Ecuador",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkzi",
         "location": "http://maps.google.com/maps?q=-22.953,167.719",
         "name": "M 4.6 - 39 km SE of Vao, New Caledonia",
@@ -727,24 +709,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jky8",
-        "location": "http://maps.google.com/maps?q=5.9818,125.8004",
-        "name": "M 4.7 - 13 km E of Mangili, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jky8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl1c",
         "location": "http://maps.google.com/maps?q=-19.7823,-66.9232",
         "name": "M 4.7 - 57 km N of Colchani, Bolivia",
@@ -773,24 +737,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkyc",
-        "location": "http://maps.google.com/maps?q=-38.1072,176.6233",
-        "name": "M 4.7 - North Island of New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyc"
       },
       {
         "category": [
@@ -908,8 +854,8 @@
           }
         ],
         "eid": "us7000jl3s",
-        "location": "http://maps.google.com/maps?q=-2.8273,-79.8628",
-        "name": "M 6.8 - 10 km NNW of Baláo, Ecuador",
+        "location": "http://maps.google.com/maps?q=-2.8367,-79.8436",
+        "name": "M 6.8 - near the coast of Ecuador",
         "source": [
           {
             "sid": "USGS",
@@ -937,15 +883,15 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 12:00:06 PDT",
+    "last_update": "18/Mar/2023 @ 13:00:18 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.8273,-79.8628\"><b>M 6.8 - 10 km NNW of Baláo, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
-          -2.8273,
-          -79.8628
+          "<a href=\"http://maps.google.com/maps?q=-2.8367,-79.8436\"><b>M 6.8 - near the coast of Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
+          -2.8367,
+          -79.8436
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=30.0028,142.0299\"><b>M 4.8 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3l\">USGS</a>",
@@ -1071,21 +1017,6 @@
           "<a href=\"http://maps.google.com/maps?q=-23.3535,-177.0585\"><b>M 4.6 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyf\">USGS</a>",
           -23.3535,
           -177.0585
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-38.1072,176.6233\"><b>M 4.7 - North Island of New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyc\">USGS</a>",
-          -38.1072,
-          176.6233
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=5.9818,125.8004\"><b>M 4.7 - 13 km E of Mangili, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jky8\">USGS</a>",
-          5.9818,
-          125.8004
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-0.256,-80.6624\"><b>M 4.5 - 46 km NW of Bahía de Caráquez, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyh\">USGS</a>",
-          -0.256,
-          -80.6624
         ]
       ],
       "Floods": [],
@@ -3366,13 +3297,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "51 events (18/Mar/2023 PDT)"
+    "title": "48 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 12:00:38 PDT",
-  "last_update_epoch": 1679166038.952095,
+  "last_update": "18/Mar/2023 @ 13:01:00 PDT",
+  "last_update_epoch": 1679169660.218346,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 12:00:08 PDT",
+    "last_update": "18/Mar/2023 @ 13:00:21 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3447,13 +3378,22 @@
         "velocity": "11,487.79 mph"
       },
       {
-        "cat": "18/Mar/2023 @ 17:34:00 ",
+        "cat": "18/Mar/2023 @ 13:02:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "9,169,374.08 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 EC1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54347917",
+        "velocity": "51,578.06 mph"
+      },
+      {
+        "cat": "18/Mar/2023 @ 17:26:00 ",
         "diameter": "0.01-0.02 miles",
-        "distance": "3,873,351.80 miles",
+        "distance": "3,871,421.93 miles",
         "hazardous": false,
         "name": "Asteroid (2023 EZ)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54347914",
-        "velocity": "14,778.06 mph"
+        "velocity": "14,761.83 mph"
       },
       {
         "cat": "18/Mar/2023 @ 16:59:00 ",
@@ -3467,14 +3407,14 @@
       {
         "cat": "18/Mar/2023 @ 14:54:00 ",
         "diameter": "0.13-0.30 miles",
-        "distance": "10,442,740.96 miles",
+        "distance": "10,442,738.44 miles",
         "hazardous": false,
         "name": "Asteroid 619492 (2004 KZ14)",
         "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2619492",
         "velocity": "13,842.83 mph"
       }
     ],
-    "title": "11 objects making close approach (18/Mar/2023 PDT)"
+    "title": "12 objects making close approach (18/Mar/2023 PDT)"
   },
   "satview": {
     "date": "18/Mar/2023 PDT",
@@ -3544,7 +3484,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 12:00:09 PDT",
+    "last_update": "18/Mar/2023 @ 13:00:21 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5330,7 +5270,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 12:00:16 PDT",
+    "last_update": "18/Mar/2023 @ 13:00:27 PDT",
     "launches": {
       "future": [
         {
