@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Mar/2023 @ 20:00:03 PDT",
+    "last_update": "17/Mar/2023 @ 21:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
     "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,24 +385,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkqe",
-        "location": "http://maps.google.com/maps?q=52.5639,-169.9892",
-        "name": "M 4.2 - 86 km WSW of Nikolski, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkqe"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkzz",
         "location": "http://maps.google.com/maps?q=22.1532,-108.7318",
         "name": "M 4.2 - Off the coast of Baja California Sur, Mexico",
@@ -457,24 +439,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "pr2023076000",
-        "location": "http://maps.google.com/maps?q=19.2768,-67.8263",
-        "name": "M 4.4 - 98 km NE of Punta Cana, Dominican Republic",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkze",
         "location": "http://maps.google.com/maps?q=28.431,139.7851",
         "name": "M 4.4 - Bonin Islands, Japan region",
@@ -521,24 +485,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkql",
-        "location": "http://maps.google.com/maps?q=4.941,125.4914",
-        "name": "M 4.5 - 51 km S of Sarangani, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkql"
       },
       {
         "category": [
@@ -865,7 +811,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "17/Mar/2023 @ 20:00:05 PDT",
+    "last_update": "17/Mar/2023 @ 21:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -984,21 +930,6 @@
           "<a href=\"http://maps.google.com/maps?q=-17.384,-178.8742\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1\">USGS</a>",
           -17.384,
           -178.8742
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=4.941,125.4914\"><b>M 4.5 - 51 km S of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkql\">USGS</a>",
-          4.941,
-          125.4914
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=52.5639,-169.9892\"><b>M 4.2 - 86 km WSW of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkqe\">USGS</a>",
-          52.5639,
-          -169.9892
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=19.2768,-67.8263\"><b>M 4.4 - 98 km NE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023076000\">USGS</a>",
-          19.2768,
-          -67.8263
         ]
       ],
       "Floods": [],
@@ -3139,13 +3070,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (17/Mar/2023 PDT)"
+    "title": "44 events (17/Mar/2023 PDT)"
   },
-  "last_update": "17/Mar/2023 @ 20:00:31 PDT",
-  "last_update_epoch": 1679108431.825993,
+  "last_update": "17/Mar/2023 @ 21:00:31 PDT",
+  "last_update_epoch": 1679112031.845258,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "17/Mar/2023 @ 20:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 21:00:06 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3317,7 +3248,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Mar/2023 @ 20:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 21:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5103,7 +5034,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Mar/2023 @ 20:00:11 PDT",
+    "last_update": "17/Mar/2023 @ 21:00:11 PDT",
     "launches": {
       "future": [
         {
