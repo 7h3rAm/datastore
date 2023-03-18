@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 06:00:04 PDT",
+    "last_update": "18/Mar/2023 @ 07:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -493,24 +493,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jku7",
-        "location": "http://maps.google.com/maps?q=37.7784,21.2823",
-        "name": "M 4.3 - 4 km SSW of Savália, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl0l",
         "location": "http://maps.google.com/maps?q=-10.2488,-73.6824",
         "name": "M 4.4 - 120 km NE of Puerto Ocopa, Peru",
@@ -817,24 +799,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jku5",
-        "location": "http://maps.google.com/maps?q=18.4724,120.3667",
-        "name": "M 4.9 - 22 km W of Davila, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkzj",
         "location": "http://maps.google.com/maps?q=36.5161,69.8417",
         "name": "M 4.9 - Hindu Kush region, Afghanistan",
@@ -845,24 +809,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jku9",
-        "location": "http://maps.google.com/maps?q=14.4992,119.946",
-        "name": "M 4.9 - Luzon, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9"
       },
       {
         "category": [
@@ -937,7 +883,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "18/Mar/2023 @ 07:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1076,21 +1022,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.3408,129.1932\"><b>M 4.2 - Kepulauan Babar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkub\">USGS</a>",
           -7.3408,
           129.1932
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.4992,119.946\"><b>M 4.9 - Luzon, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9\">USGS</a>",
-          14.4992,
-          119.946
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.7784,21.2823\"><b>M 4.3 - 4 km SSW of Savália, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku7\">USGS</a>",
-          37.7784,
-          21.2823
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=18.4724,120.3667\"><b>M 4.9 - 22 km W of Davila, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku5\">USGS</a>",
-          18.4724,
-          120.3667
         ]
       ],
       "Floods": [],
@@ -3231,13 +3162,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "51 events (18/Mar/2023 PDT)"
+    "title": "48 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 06:00:33 PDT",
-  "last_update_epoch": 1679144433.341772,
+  "last_update": "18/Mar/2023 @ 07:00:38 PDT",
+  "last_update_epoch": 1679148038.679351,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 06:00:07 PDT",
+    "last_update": "18/Mar/2023 @ 07:00:07 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3409,7 +3340,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 06:00:07 PDT",
+    "last_update": "18/Mar/2023 @ 07:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5195,7 +5126,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 06:00:12 PDT",
+    "last_update": "18/Mar/2023 @ 07:00:13 PDT",
     "launches": {
       "future": [
         {
