@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 14:00:07 PDT",
+    "last_update": "18/Mar/2023 @ 15:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -403,6 +403,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkzz",
+        "location": "http://maps.google.com/maps?q=22.1532,-108.7318",
+        "name": "M 4.2 - 139 km SE of La Playa, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jl23",
         "location": "http://maps.google.com/maps?q=22.3873,-108.2477",
         "name": "M 4.2 - 164 km ESE of La Playa, Mexico",
@@ -449,24 +467,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3p"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkzz",
-        "location": "http://maps.google.com/maps?q=22.1532,-108.7318",
-        "name": "M 4.2 - Off the coast of Baja California Sur, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz"
       },
       {
         "category": [
@@ -619,6 +619,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl0w",
+        "location": "http://maps.google.com/maps?q=22.2244,-108.6706",
+        "name": "M 4.5 - 138 km SE of La Playa, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkzm",
         "location": "http://maps.google.com/maps?q=-22.3589,-177.5499",
         "name": "M 4.5 - 276 km WSW of Haveluloto, Tonga",
@@ -629,24 +647,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jl0w",
-        "location": "http://maps.google.com/maps?q=22.2244,-108.6706",
-        "name": "M 4.5 - off the coast of Baja California Sur, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w"
       },
       {
         "category": [
@@ -673,6 +673,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl58",
+        "location": "http://maps.google.com/maps?q=-23.1182,-68.9075",
+        "name": "M 4.6 - 73 km S of Calama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl58"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jl0d",
+        "location": "http://maps.google.com/maps?q=-19.265,-179.1251",
+        "name": "M 4.6 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0d"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jl02",
         "location": "http://maps.google.com/maps?q=-21.1669,168.7912",
         "name": "M 4.7 - 103 km ENE of Tadine, New Caledonia",
@@ -691,24 +727,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl1j",
-        "location": "http://maps.google.com/maps?q=2.3406,128.8997",
-        "name": "M 4.7 - 119 km NE of Tobelo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl1c",
         "location": "http://maps.google.com/maps?q=-19.7823,-66.9232",
         "name": "M 4.7 - 57 km N of Colchani, Bolivia",
@@ -719,6 +737,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1c"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jl1j",
+        "location": "http://maps.google.com/maps?q=2.3406,128.8997",
+        "name": "M 4.7 - Halmahera, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j"
       },
       {
         "category": [
@@ -837,7 +873,7 @@
         ],
         "eid": "us7000jl3s",
         "location": "http://maps.google.com/maps?q=-2.8367,-79.8436",
-        "name": "M 6.8 - 8 km NNW of Baláo, Ecuador",
+        "name": "M 6.8 - near the coast of Ecuador",
         "source": [
           {
             "sid": "USGS",
@@ -865,13 +901,18 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 14:00:11 PDT",
+    "last_update": "18/Mar/2023 @ 15:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.8367,-79.8436\"><b>M 6.8 - 8 km NNW of Baláo, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-23.1182,-68.9075\"><b>M 4.6 - 73 km S of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl58\">USGS</a>",
+          -23.1182,
+          -68.9075
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-2.8367,-79.8436\"><b>M 6.8 - near the coast of Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
           -2.8367,
           -79.8436
         ],
@@ -926,7 +967,7 @@
           36.3781
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=2.3406,128.8997\"><b>M 4.7 - 119 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=2.3406,128.8997\"><b>M 4.7 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j\">USGS</a>",
           2.3406,
           128.8997
         ],
@@ -946,7 +987,7 @@
           36.4482
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=22.2244,-108.6706\"><b>M 4.5 - off the coast of Baja California Sur, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=22.2244,-108.6706\"><b>M 4.5 - 138 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w\">USGS</a>",
           22.2244,
           -108.6706
         ],
@@ -961,12 +1002,17 @@
           -73.6824
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-19.265,-179.1251\"><b>M 4.6 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0d\">USGS</a>",
+          -19.265,
+          -179.1251
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-21.1669,168.7912\"><b>M 4.7 - 103 km ENE of Tadine, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl02\">USGS</a>",
           -21.1669,
           168.7912
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=22.1532,-108.7318\"><b>M 4.2 - Off the coast of Baja California Sur, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=22.1532,-108.7318\"><b>M 4.2 - 139 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz\">USGS</a>",
           22.1532,
           -108.7318
         ],
@@ -3274,13 +3320,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (18/Mar/2023 PDT)"
+    "title": "49 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 14:00:57 PDT",
-  "last_update_epoch": 1679173257.051228,
+  "last_update": "18/Mar/2023 @ 15:00:53 PDT",
+  "last_update_epoch": 1679176853.812434,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 14:00:13 PDT",
+    "last_update": "18/Mar/2023 @ 15:00:07 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3461,7 +3507,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 14:00:13 PDT",
+    "last_update": "18/Mar/2023 @ 15:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5247,7 +5293,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 14:00:19 PDT",
+    "last_update": "18/Mar/2023 @ 15:00:13 PDT",
     "launches": {
       "future": [
         {
