@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Mar/2023 @ 18:00:04 PDT",
+    "last_update": "17/Mar/2023 @ 19:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
     "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,16 +385,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkp7",
-        "location": "http://maps.google.com/maps?q=13.0328,-90.2058",
-        "name": "M 4.2 - 74 km SSW of Acajutla, El Salvador",
+        "eid": "us7000jkzz",
+        "location": "http://maps.google.com/maps?q=22.1532,-108.7318",
+        "name": "M 4.2 - 139 km SE of La Playa, Mexico",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp7"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz"
       },
       {
         "category": [
@@ -431,24 +431,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jks0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkp9",
-        "location": "http://maps.google.com/maps?q=38.0328,36.5559",
-        "name": "M 4.3 - 5 km ENE of Göksun, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp9"
       },
       {
         "category": [
@@ -647,6 +629,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyf"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jl02",
+        "location": "http://maps.google.com/maps?q=-21.1669,168.7912",
+        "name": "M 4.7 - 103 km ENE of Tadine, New Caledonia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl02"
       },
       {
         "category": [
@@ -883,11 +883,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "17/Mar/2023 @ 18:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.1669,168.7912\"><b>M 4.7 - 103 km ENE of Tadine, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl02\">USGS</a>",
+          -21.1669,
+          168.7912
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=22.1532,-108.7318\"><b>M 4.2 - 139 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz\">USGS</a>",
+          22.1532,
+          -108.7318
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-22.3589,-177.5499\"><b>M 4.5 - 276 km WSW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzm\">USGS</a>",
           -22.3589,
@@ -1012,16 +1022,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.5468,73.1539\"><b>M 4.5 - 82 km WNW of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkph\">USGS</a>",
           38.5468,
           73.1539
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.0328,36.5559\"><b>M 4.3 - 5 km ENE of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp9\">USGS</a>",
-          38.0328,
-          36.5559
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.0328,-90.2058\"><b>M 4.2 - 74 km SSW of Acajutla, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkp7\">USGS</a>",
-          13.0328,
-          -90.2058
         ]
       ],
       "Floods": [],
@@ -3164,11 +3164,11 @@
     },
     "title": "48 events (17/Mar/2023 PDT)"
   },
-  "last_update": "17/Mar/2023 @ 18:00:34 PDT",
-  "last_update_epoch": 1679101234.749355,
+  "last_update": "17/Mar/2023 @ 19:00:40 PDT",
+  "last_update_epoch": 1679104840.014985,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "17/Mar/2023 @ 18:00:07 PDT",
+    "last_update": "17/Mar/2023 @ 19:00:06 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3340,7 +3340,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Mar/2023 @ 18:00:07 PDT",
+    "last_update": "17/Mar/2023 @ 19:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5126,7 +5126,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Mar/2023 @ 18:00:12 PDT",
+    "last_update": "17/Mar/2023 @ 19:00:16 PDT",
     "launches": {
       "future": [
         {
