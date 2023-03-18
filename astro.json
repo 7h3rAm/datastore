@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Mar/2023 @ 17:00:04 PDT",
+    "last_update": "17/Mar/2023 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/medusaNeb1024.jpg",
     "title": "The Medusa Nebula (17/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -529,6 +529,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkzm",
+        "location": "http://maps.google.com/maps?q=-22.3589,-177.5499",
+        "name": "M 4.5 - 276 km WSW of Haveluloto, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkyh",
         "location": "http://maps.google.com/maps?q=-0.256,-80.6624",
         "name": "M 4.5 - 46 km NW of Bahía de Caráquez, Ecuador",
@@ -593,6 +611,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0233hxssds"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jkzi",
+        "location": "http://maps.google.com/maps?q=-22.953,167.719",
+        "name": "M 4.6 - 39 km SE of Vao, New Caledonia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzi"
       },
       {
         "category": [
@@ -727,6 +763,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkzj",
+        "location": "http://maps.google.com/maps?q=36.5161,69.8417",
+        "name": "M 4.9 - Hindu Kush region, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jku9",
         "location": "http://maps.google.com/maps?q=14.4992,119.946",
         "name": "M 4.9 - Luzon, Philippines",
@@ -829,11 +883,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "17/Mar/2023 @ 17:00:05 PDT",
+    "last_update": "17/Mar/2023 @ 18:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.3589,-177.5499\"><b>M 4.5 - 276 km WSW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzm\">USGS</a>",
+          -22.3589,
+          -177.5499
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.5161,69.8417\"><b>M 4.9 - Hindu Kush region, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzj\">USGS</a>",
+          36.5161,
+          69.8417
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.953,167.719\"><b>M 4.6 - 39 km SE of Vao, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzi\">USGS</a>",
+          -22.953,
+          167.719
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=28.431,139.7851\"><b>M 4.4 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkze\">USGS</a>",
           28.431,
@@ -3093,13 +3162,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (17/Mar/2023 PDT)"
+    "title": "48 events (17/Mar/2023 PDT)"
   },
-  "last_update": "17/Mar/2023 @ 17:00:32 PDT",
-  "last_update_epoch": 1679097632.540176,
+  "last_update": "17/Mar/2023 @ 18:00:34 PDT",
+  "last_update_epoch": 1679101234.749355,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "17/Mar/2023 @ 17:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 18:00:07 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3271,7 +3340,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Mar/2023 @ 17:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 18:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5057,7 +5126,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Mar/2023 @ 17:00:11 PDT",
+    "last_update": "17/Mar/2023 @ 18:00:12 PDT",
     "launches": {
       "future": [
         {
