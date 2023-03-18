@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 03:00:05 PDT",
+    "last_update": "18/Mar/2023 @ 04:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,16 +385,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkzz",
-        "location": "http://maps.google.com/maps?q=22.1532,-108.7318",
-        "name": "M 4.2 - 139 km SE of La Playa, Mexico",
+        "eid": "us7000jl23",
+        "location": "http://maps.google.com/maps?q=22.3873,-108.2477",
+        "name": "M 4.2 - 164 km ESE of La Playa, Mexico",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl23"
       },
       {
         "category": [
@@ -439,6 +439,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jkzz",
+        "location": "http://maps.google.com/maps?q=22.1532,-108.7318",
+        "name": "M 4.2 - Off the coast of Baja California Sur, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jl20",
+        "location": "http://maps.google.com/maps?q=37.8271,36.3781",
+        "name": "M 4.3 - 23 km SSW of Göksun, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl20"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jkzt",
         "location": "http://maps.google.com/maps?q=-43.7444,172.926",
         "name": "M 4.3 - 33 km SE of Christchurch, New Zealand",
@@ -459,7 +495,7 @@
         ],
         "eid": "us7000jku7",
         "location": "http://maps.google.com/maps?q=37.7784,21.2823",
-        "name": "M 4.3 - 4 km SSW of Savália, Greece",
+        "name": "M 4.3 - southern Greece",
         "source": [
           {
             "sid": "USGS",
@@ -529,24 +565,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl0w",
-        "location": "http://maps.google.com/maps?q=22.2244,-108.6706",
-        "name": "M 4.5 - 138 km SE of La Playa, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkzm",
         "location": "http://maps.google.com/maps?q=-22.3589,-177.5499",
         "name": "M 4.5 - 276 km WSW of Haveluloto, Tonga",
@@ -567,7 +585,7 @@
         ],
         "eid": "us7000jkyh",
         "location": "http://maps.google.com/maps?q=-0.256,-80.6624",
-        "name": "M 4.5 - 46 km NW of Bahía de Caráquez, Ecuador",
+        "name": "M 4.5 - near the coast of Ecuador",
         "source": [
           {
             "sid": "USGS",
@@ -575,6 +593,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyh"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jl0w",
+        "location": "http://maps.google.com/maps?q=22.2244,-108.6706",
+        "name": "M 4.5 - off the coast of Baja California Sur, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w"
       },
       {
         "category": [
@@ -655,6 +691,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl1j",
+        "location": "http://maps.google.com/maps?q=2.3406,128.8997",
+        "name": "M 4.7 - 119 km NE of Tobelo, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jky8",
         "location": "http://maps.google.com/maps?q=5.9818,125.8004",
         "name": "M 4.7 - 13 km E of Mangili, Philippines",
@@ -709,27 +763,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl1j",
-        "location": "http://maps.google.com/maps?q=2.3406,128.8997",
-        "name": "M 4.7 - Halmahera, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkyc",
         "location": "http://maps.google.com/maps?q=-38.1072,176.6233",
-        "name": "M 4.7 - North Island of New Zealand",
+        "name": "M 4.7 - 6 km W of Kawerau, New Zealand",
         "source": [
           {
             "sid": "USGS",
@@ -763,6 +799,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl26",
+        "location": "http://maps.google.com/maps?q=-7.0637,155.625",
+        "name": "M 4.8 - 84 km S of Panguna, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl26"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jku5",
         "location": "http://maps.google.com/maps?q=18.4724,120.3667",
         "name": "M 4.9 - 22 km W of Davila, Philippines",
@@ -781,16 +835,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jktc",
-        "location": "http://maps.google.com/maps?q=-6.1026,147.4907",
-        "name": "M 4.9 - 63 km NW of Finschhafen, Papua New Guinea",
+        "eid": "us7000jku9",
+        "location": "http://maps.google.com/maps?q=14.4992,119.946",
+        "name": "M 4.9 - 39 km WSW of Sabang, Philippines",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktc"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9"
       },
       {
         "category": [
@@ -809,24 +863,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jku9",
-        "location": "http://maps.google.com/maps?q=14.4992,119.946",
-        "name": "M 4.9 - Luzon, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9"
       },
       {
         "category": [
@@ -889,27 +925,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jktb",
-        "location": "http://maps.google.com/maps?q=30.7834,96.0546",
-        "name": "M 5.1 - 114 km WSW of Qamdo, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkvz",
         "location": "http://maps.google.com/maps?q=-38.0709,176.6406",
-        "name": "M 5.3 - North Island of New Zealand",
+        "name": "M 5.3 - 6 km WNW of Kawerau, New Zealand",
         "source": [
           {
             "sid": "USGS",
@@ -937,13 +955,28 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 03:00:07 PDT",
+    "last_update": "18/Mar/2023 @ 04:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=2.3406,128.8997\"><b>M 4.7 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=22.3873,-108.2477\"><b>M 4.2 - 164 km ESE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl23\">USGS</a>",
+          22.3873,
+          -108.2477
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-7.0637,155.625\"><b>M 4.8 - 84 km S of Panguna, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl26\">USGS</a>",
+          -7.0637,
+          155.625
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.8271,36.3781\"><b>M 4.3 - 23 km SSW of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl20\">USGS</a>",
+          37.8271,
+          36.3781
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=2.3406,128.8997\"><b>M 4.7 - 119 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j\">USGS</a>",
           2.3406,
           128.8997
         ],
@@ -963,7 +996,7 @@
           36.4482
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=22.2244,-108.6706\"><b>M 4.5 - 138 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=22.2244,-108.6706\"><b>M 4.5 - off the coast of Baja California Sur, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w\">USGS</a>",
           22.2244,
           -108.6706
         ],
@@ -983,7 +1016,7 @@
           168.7912
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=22.1532,-108.7318\"><b>M 4.2 - 139 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=22.1532,-108.7318\"><b>M 4.2 - Off the coast of Baja California Sur, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz\">USGS</a>",
           22.1532,
           -108.7318
         ],
@@ -1018,7 +1051,7 @@
           -177.0585
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-38.1072,176.6233\"><b>M 4.7 - North Island of New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyc\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-38.1072,176.6233\"><b>M 4.7 - 6 km W of Kawerau, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyc\">USGS</a>",
           -38.1072,
           176.6233
         ],
@@ -1028,7 +1061,7 @@
           125.8004
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-0.256,-80.6624\"><b>M 4.5 - 46 km NW of Bahía de Caráquez, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyh\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-0.256,-80.6624\"><b>M 4.5 - near the coast of Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkyh\">USGS</a>",
           -0.256,
           -80.6624
         ],
@@ -1043,7 +1076,7 @@
           126.9379
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-38.0709,176.6406\"><b>M 5.3 - North Island of New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkvz\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-38.0709,176.6406\"><b>M 5.3 - 6 km WNW of Kawerau, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkvz\">USGS</a>",
           -38.0709,
           176.6406
         ],
@@ -1063,12 +1096,12 @@
           129.1932
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=14.4992,119.946\"><b>M 4.9 - Luzon, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=14.4992,119.946\"><b>M 4.9 - 39 km WSW of Sabang, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku9\">USGS</a>",
           14.4992,
           119.946
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.7784,21.2823\"><b>M 4.3 - 4 km SSW of Savália, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku7\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.7784,21.2823\"><b>M 4.3 - southern Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku7\">USGS</a>",
           37.7784,
           21.2823
         ],
@@ -1081,16 +1114,6 @@
           "<a href=\"http://maps.google.com/maps?q=-9.2641,109.6526\"><b>M 5.0 - 160 km SSW of Srandakan, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktt\">USGS</a>",
           -9.2641,
           109.6526
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-6.1026,147.4907\"><b>M 4.9 - 63 km NW of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktc\">USGS</a>",
-          -6.1026,
-          147.4907
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=30.7834,96.0546\"><b>M 5.1 - 114 km WSW of Qamdo, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktb\">USGS</a>",
-          30.7834,
-          96.0546
         ]
       ],
       "Floods": [],
@@ -3231,13 +3254,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "51 events (18/Mar/2023 PDT)"
+    "title": "52 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 03:00:38 PDT",
-  "last_update_epoch": 1679133638.779021,
+  "last_update": "18/Mar/2023 @ 04:00:41 PDT",
+  "last_update_epoch": 1679137241.534965,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 03:00:07 PDT",
+    "last_update": "18/Mar/2023 @ 04:00:07 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3409,7 +3432,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 03:00:07 PDT",
+    "last_update": "18/Mar/2023 @ 04:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5195,7 +5218,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 03:00:14 PDT",
+    "last_update": "18/Mar/2023 @ 04:00:17 PDT",
     "launches": {
       "future": [
         {
