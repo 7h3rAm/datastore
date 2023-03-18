@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "17/Mar/2023 @ 22:00:06 PDT",
+    "last_update": "17/Mar/2023 @ 23:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -475,16 +475,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkr1",
-        "location": "http://maps.google.com/maps?q=-17.384,-178.8742",
-        "name": "M 4.4 - 206 km ENE of Levuka, Fiji",
+        "eid": "us7000jl0z",
+        "location": "http://maps.google.com/maps?q=37.9741,36.4482",
+        "name": "M 4.4 - 6 km SW of Göksun, Turkey",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0z"
       },
       {
         "category": [
@@ -883,11 +883,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "17/Mar/2023 @ 22:00:08 PDT",
+    "last_update": "17/Mar/2023 @ 23:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.9741,36.4482\"><b>M 4.4 - 6 km SW of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0z\">USGS</a>",
+          37.9741,
+          36.4482
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=22.2244,-108.6706\"><b>M 4.5 - 138 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w\">USGS</a>",
           22.2244,
@@ -1017,11 +1022,6 @@
           "<a href=\"http://maps.google.com/maps?q=43.6578,-128.1969\"><b>M 4.3 - off the coast of Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkrv\">USGS</a>",
           43.6578,
           -128.1969
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.384,-178.8742\"><b>M 4.4 - 206 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkr1\">USGS</a>",
-          -17.384,
-          -178.8742
         ]
       ],
       "Floods": [],
@@ -3164,11 +3164,11 @@
     },
     "title": "48 events (17/Mar/2023 PDT)"
   },
-  "last_update": "17/Mar/2023 @ 22:00:37 PDT",
-  "last_update_epoch": 1679115637.253322,
+  "last_update": "17/Mar/2023 @ 23:00:40 PDT",
+  "last_update_epoch": 1679119240.361032,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "17/Mar/2023 @ 22:00:08 PDT",
+    "last_update": "17/Mar/2023 @ 23:00:07 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3340,7 +3340,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "17/Mar/2023 @ 22:00:08 PDT",
+    "last_update": "17/Mar/2023 @ 23:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5126,7 +5126,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "17/Mar/2023 @ 22:00:15 PDT",
+    "last_update": "17/Mar/2023 @ 23:00:13 PDT",
     "launches": {
       "future": [
         {
