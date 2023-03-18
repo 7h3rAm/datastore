@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 01:00:09 PDT",
+    "last_update": "18/Mar/2023 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -439,24 +439,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jks0",
-        "location": "http://maps.google.com/maps?q=-9.7024,-74.7478",
-        "name": "M 4.3 - 26 km ESE of Yuyapichis, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jks0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jkzt",
         "location": "http://maps.google.com/maps?q=-43.7444,172.926",
         "name": "M 4.3 - 33 km SE of Christchurch, New Zealand",
@@ -485,24 +467,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jku7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkrv",
-        "location": "http://maps.google.com/maps?q=43.6578,-128.1969",
-        "name": "M 4.3 - off the coast of Oregon",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkrv"
       },
       {
         "category": [
@@ -973,7 +937,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 01:00:13 PDT",
+    "last_update": "18/Mar/2023 @ 02:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1127,16 +1091,6 @@
           "<a href=\"http://maps.google.com/maps?q=30.7834,96.0546\"><b>M 5.1 - 114 km WSW of Qamdo, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jktb\">USGS</a>",
           30.7834,
           96.0546
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-9.7024,-74.7478\"><b>M 4.3 - 26 km ESE of Yuyapichis, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jks0\">USGS</a>",
-          -9.7024,
-          -74.7478
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=43.6578,-128.1969\"><b>M 4.3 - off the coast of Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkrv\">USGS</a>",
-          43.6578,
-          -128.1969
         ]
       ],
       "Floods": [],
@@ -3277,13 +3231,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "53 events (18/Mar/2023 PDT)"
+    "title": "51 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 01:00:44 PDT",
-  "last_update_epoch": 1679126444.048715,
+  "last_update": "18/Mar/2023 @ 02:00:30 PDT",
+  "last_update_epoch": 1679130030.928176,
   "neo": {
     "date": "18/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 01:00:14 PDT",
+    "last_update": "18/Mar/2023 @ 02:00:07 PDT",
     "objects": [
       {
         "cat": "18/Mar/2023 @ 19:35:00 ",
@@ -3455,7 +3409,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 01:00:15 PDT",
+    "last_update": "18/Mar/2023 @ 02:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5241,7 +5195,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 01:00:21 PDT",
+    "last_update": "18/Mar/2023 @ 02:00:12 PDT",
     "launches": {
       "future": [
         {
