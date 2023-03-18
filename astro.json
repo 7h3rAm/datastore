@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 10:00:04 PDT",
+    "last_update": "18/Mar/2023 @ 11:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -3299,8 +3299,8 @@
     },
     "title": "48 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 10:00:35 PDT",
-  "last_update_epoch": 1679158835.246502,
+  "last_update": "18/Mar/2023 @ 11:00:04 PDT",
+  "last_update_epoch": 1679162404.405503,
   "neo": {
     "date": "18/Mar/2023 PDT",
     "last_update": "18/Mar/2023 @ 10:00:07 PDT",
