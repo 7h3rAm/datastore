@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 23:00:03 PDT",
+    "last_update": "19/Mar/2023 @ 00:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg",
     "title": "Equinox at the Pyramid of the Feathered Serpent (19/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "18/Mar/2023 PDT",
+    "date": "19/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -385,6 +385,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl75",
+        "location": "http://maps.google.com/maps?q=38.5045,73.3438",
+        "name": "M 4.1 - 65 km NW of Murghob, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl75"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jl6s",
         "location": "http://maps.google.com/maps?q=21.9828,-108.8152",
         "name": "M 4.2 - 148 km SE of La Playa, Mexico",
@@ -413,24 +431,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl23"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jl1b",
-        "location": "http://maps.google.com/maps?q=27.2426,55.0512",
-        "name": "M 4.2 - 77 km NNE of Bandar-e Lengeh, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1b"
       },
       {
         "category": [
@@ -547,16 +547,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl6i",
-        "location": "http://maps.google.com/maps?q=-3.3525,146.7397",
-        "name": "M 4.7 - 157 km SSW of Lorengau, Papua New Guinea",
+        "eid": "us7000jl1j",
+        "location": "http://maps.google.com/maps?q=2.3406,128.8997",
+        "name": "M 4.7 - 119 km NE of Tobelo, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j"
       },
       {
         "category": [
@@ -583,34 +583,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl1c",
-        "location": "http://maps.google.com/maps?q=-19.7823,-66.9232",
-        "name": "M 4.7 - 57 km N of Colchani, Bolivia",
+        "eid": "us7000jl6i",
+        "location": "http://maps.google.com/maps?q=-3.3525,146.7397",
+        "name": "M 4.7 - Bismarck Sea",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1c"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jl1j",
-        "location": "http://maps.google.com/maps?q=2.3406,128.8997",
-        "name": "M 4.7 - Halmahera, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i"
       },
       {
         "category": [
@@ -747,7 +729,7 @@
         ],
         "eid": "us7000jl3s",
         "location": "http://maps.google.com/maps?q=-2.8367,-79.8436",
-        "name": "M 6.8 - near the coast of Ecuador",
+        "name": "M 6.8 - 8 km NNW of Baláo, Ecuador",
         "source": [
           {
             "sid": "USGS",
@@ -775,11 +757,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 23:00:04 PDT",
+    "last_update": "19/Mar/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.5045,73.3438\"><b>M 4.1 - 65 km NW of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl75\">USGS</a>",
+          38.5045,
+          73.3438
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=21.9828,-108.8152\"><b>M 4.2 - 148 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6s\">USGS</a>",
           21.9828,
@@ -791,7 +778,7 @@
           146.5067
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.3525,146.7397\"><b>M 4.7 - 157 km SSW of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-3.3525,146.7397\"><b>M 4.7 - Bismarck Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i\">USGS</a>",
           -3.3525,
           146.7397
         ],
@@ -816,7 +803,7 @@
           -68.9075
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.8367,-79.8436\"><b>M 6.8 - near the coast of Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-2.8367,-79.8436\"><b>M 6.8 - 8 km NNW of Baláo, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
           -2.8367,
           -79.8436
         ],
@@ -876,19 +863,9 @@
           127.2819
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=2.3406,128.8997\"><b>M 4.7 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=2.3406,128.8997\"><b>M 4.7 - 119 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1j\">USGS</a>",
           2.3406,
           128.8997
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-19.7823,-66.9232\"><b>M 4.7 - 57 km N of Colchani, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1c\">USGS</a>",
-          -19.7823,
-          -66.9232
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.2426,55.0512\"><b>M 4.2 - 77 km NNE of Bandar-e Lengeh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl1b\">USGS</a>",
-          27.2426,
-          55.0512
         ]
       ],
       "Floods": [],
@@ -2974,13 +2951,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "42 events (18/Mar/2023 PDT)"
+    "title": "41 events (19/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 23:00:37 PDT",
-  "last_update_epoch": 1679205637.059117,
+  "last_update": "19/Mar/2023 @ 00:00:39 PDT",
+  "last_update_epoch": 1679209239.269371,
   "neo": {
     "date": "19/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 23:00:09 PDT",
+    "last_update": "19/Mar/2023 @ 00:00:10 PDT",
     "objects": [
       {
         "cat": "19/Mar/2023 @ 11:03:00 ",
@@ -3166,7 +3143,7 @@
     "title": "20 objects making close approach (19/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "18/Mar/2023 PDT",
+    "date": "19/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 14/Mar/2023 @ 15:08:15 PDT.",
@@ -3233,7 +3210,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 23:00:09 PDT",
+    "last_update": "19/Mar/2023 @ 00:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -3286,7 +3263,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (18/Mar/2023 PDT)"
+    "title": "10 people in space (19/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5019,7 +4996,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 23:00:15 PDT",
+    "last_update": "19/Mar/2023 @ 00:00:15 PDT",
     "launches": {
       "future": [
         {
