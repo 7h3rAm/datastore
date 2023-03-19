@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Mar/2023 @ 06:00:03 PDT",
+    "last_update": "19/Mar/2023 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg",
     "title": "Equinox at the Pyramid of the Feathered Serpent (19/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -457,6 +457,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl95",
+        "location": "http://maps.google.com/maps?q=38.0476,36.5123",
+        "name": "M 4.3 - central Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jl3e",
         "location": "http://maps.google.com/maps?q=22.2289,-108.5305",
         "name": "M 4.4 - 149 km SE of La Playa, Mexico",
@@ -721,11 +739,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "19/Mar/2023 @ 06:00:05 PDT",
+    "last_update": "19/Mar/2023 @ 07:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.0476,36.5123\"><b>M 4.3 - central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95\">USGS</a>",
+          38.0476,
+          36.5123
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=72.9273,6.6231\"><b>M 4.1 - Norwegian Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl8m\">USGS</a>",
           72.9273,
@@ -2905,13 +2928,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (19/Mar/2023 PDT)"
+    "title": "40 events (19/Mar/2023 PDT)"
   },
-  "last_update": "19/Mar/2023 @ 06:00:38 PDT",
-  "last_update_epoch": 1679230838.301141,
+  "last_update": "19/Mar/2023 @ 07:00:57 PDT",
+  "last_update_epoch": 1679234457.81935,
   "neo": {
     "date": "19/Mar/2023 PDT",
-    "last_update": "19/Mar/2023 @ 06:00:09 PDT",
+    "last_update": "19/Mar/2023 @ 07:00:09 PDT",
     "objects": [
       {
         "cat": "19/Mar/2023 @ 11:03:00 ",
@@ -3164,7 +3187,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Mar/2023 @ 06:00:10 PDT",
+    "last_update": "19/Mar/2023 @ 07:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4950,7 +4973,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Mar/2023 @ 06:00:15 PDT",
+    "last_update": "19/Mar/2023 @ 07:00:14 PDT",
     "launches": {
       "future": [
         {
