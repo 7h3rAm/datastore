@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Mar/2023 @ 15:00:03 PDT",
+    "last_update": "19/Mar/2023 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg",
     "title": "Equinox at the Pyramid of the Feathered Serpent (19/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -441,7 +441,7 @@
         ],
         "eid": "us7000jl95",
         "location": "http://maps.google.com/maps?q=38.0476,36.5123",
-        "name": "M 4.3 - 3 km NNE of Göksun, Turkey",
+        "name": "M 4.3 - Central Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -459,7 +459,7 @@
         ],
         "eid": "us7000jlb5",
         "location": "http://maps.google.com/maps?q=47.0314,150.4768",
-        "name": "M 4.4 - 283 km NE of Kuril’sk, Russia",
+        "name": "M 4.4 - Kuril Islands",
         "source": [
           {
             "sid": "USGS",
@@ -583,6 +583,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlc5",
+        "location": "http://maps.google.com/maps?q=-2.8054,128.1633",
+        "name": "M 4.8 - Ceram Sea, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlc5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jl69",
         "location": "http://maps.google.com/maps?q=2.3236,128.8497",
         "name": "M 4.9 - 114 km NE of Tobelo, Indonesia",
@@ -621,7 +639,7 @@
         ],
         "eid": "us7000jlbf",
         "location": "http://maps.google.com/maps?q=-3.8233,101.8043",
-        "name": "M 4.9 - southern Sumatra, Indonesia",
+        "name": "M 4.9 - 51 km W of Bengkulu, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -667,18 +685,23 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "19/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "19/Mar/2023 @ 16:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.8233,101.8043\"><b>M 4.9 - southern Sumatra, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlbf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-2.8054,128.1633\"><b>M 4.8 - Ceram Sea, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlc5\">USGS</a>",
+          -2.8054,
+          128.1633
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-3.8233,101.8043\"><b>M 4.9 - 51 km W of Bengkulu, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlbf\">USGS</a>",
           -3.8233,
           101.8043
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=47.0314,150.4768\"><b>M 4.4 - 283 km NE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=47.0314,150.4768\"><b>M 4.4 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb5\">USGS</a>",
           47.0314,
           150.4768
         ],
@@ -698,7 +721,7 @@
           -86.4849
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=38.0476,36.5123\"><b>M 4.3 - 3 km NNE of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=38.0476,36.5123\"><b>M 4.3 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95\">USGS</a>",
           38.0476,
           36.5123
         ],
@@ -2836,13 +2859,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (19/Mar/2023 PDT)"
+    "title": "37 events (19/Mar/2023 PDT)"
   },
-  "last_update": "19/Mar/2023 @ 15:00:37 PDT",
-  "last_update_epoch": 1679263237.475798,
+  "last_update": "19/Mar/2023 @ 16:00:36 PDT",
+  "last_update_epoch": 1679266836.587803,
   "neo": {
     "date": "19/Mar/2023 PDT",
-    "last_update": "19/Mar/2023 @ 15:00:10 PDT",
+    "last_update": "19/Mar/2023 @ 16:00:09 PDT",
     "objects": [
       {
         "cat": "19/Mar/2023 @ 11:03:00 ",
@@ -3095,7 +3118,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Mar/2023 @ 15:00:10 PDT",
+    "last_update": "19/Mar/2023 @ 16:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4881,7 +4904,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Mar/2023 @ 15:00:15 PDT",
+    "last_update": "19/Mar/2023 @ 16:00:15 PDT",
     "launches": {
       "future": [
         {
