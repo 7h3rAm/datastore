@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Mar/2023 @ 10:00:04 PDT",
+    "last_update": "19/Mar/2023 @ 11:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg",
     "title": "Equinox at the Pyramid of the Feathered Serpent (19/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -439,24 +439,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl3p",
-        "location": "http://maps.google.com/maps?q=52.2135,172.6814",
-        "name": "M 4.2 - 78 km SSW of Attu Station, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3p"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl95",
         "location": "http://maps.google.com/maps?q=38.0476,36.5123",
         "name": "M 4.3 - 3 km NNE of Göksun, Turkey",
@@ -467,6 +449,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jlb0",
+        "location": "http://maps.google.com/maps?q=38.0041,73.2209",
+        "name": "M 4.5 - 67 km WSW of Murghob, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb0"
       },
       {
         "category": [
@@ -565,24 +565,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl3l",
-        "location": "http://maps.google.com/maps?q=30.0028,142.0299",
-        "name": "M 4.8 - Izu Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3l"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl69",
         "location": "http://maps.google.com/maps?q=2.3236,128.8497",
         "name": "M 4.9 - 114 km NE of Tobelo, Indonesia",
@@ -633,24 +615,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jl3s",
-        "location": "http://maps.google.com/maps?q=-2.8367,-79.8436",
-        "name": "M 6.8 - near the coast of Ecuador",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -667,11 +631,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "19/Mar/2023 @ 10:00:05 PDT",
+    "last_update": "19/Mar/2023 @ 11:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.0041,73.2209\"><b>M 4.5 - 67 km WSW of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb0\">USGS</a>",
+          38.0041,
+          73.2209
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=59.6095,-151.907\"><b>M 5.4 - 19 km SSW of Anchor Point, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0233l8vwxa\">USGS</a>",
           59.6095,
@@ -736,21 +705,6 @@
           "<a href=\"http://maps.google.com/maps?q=-23.1182,-68.9075\"><b>M 4.6 - 73 km S of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl58\">USGS</a>",
           -23.1182,
           -68.9075
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-2.8367,-79.8436\"><b>M 6.8 - near the coast of Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
-          -2.8367,
-          -79.8436
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=30.0028,142.0299\"><b>M 4.8 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3l\">USGS</a>",
-          30.0028,
-          142.0299
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=52.2135,172.6814\"><b>M 4.2 - 78 km SSW of Attu Station, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3p\">USGS</a>",
-          52.2135,
-          172.6814
         ]
       ],
       "Floods": [],
@@ -2836,13 +2790,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (19/Mar/2023 PDT)"
+    "title": "34 events (19/Mar/2023 PDT)"
   },
-  "last_update": "19/Mar/2023 @ 10:00:35 PDT",
-  "last_update_epoch": 1679245235.042657,
+  "last_update": "19/Mar/2023 @ 11:01:01 PDT",
+  "last_update_epoch": 1679248861.576106,
   "neo": {
     "date": "19/Mar/2023 PDT",
-    "last_update": "19/Mar/2023 @ 10:00:06 PDT",
+    "last_update": "19/Mar/2023 @ 11:00:10 PDT",
     "objects": [
       {
         "cat": "19/Mar/2023 @ 11:03:00 ",
@@ -3095,7 +3049,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Mar/2023 @ 10:00:06 PDT",
+    "last_update": "19/Mar/2023 @ 11:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4881,7 +4835,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Mar/2023 @ 10:00:11 PDT",
+    "last_update": "19/Mar/2023 @ 11:00:16 PDT",
     "launches": {
       "future": [
         {
