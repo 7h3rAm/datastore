@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "18/Mar/2023 @ 17:00:05 PDT",
+    "last_update": "18/Mar/2023 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png",
     "title": "Wolf-Rayet 124 (18/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -493,24 +493,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkzt",
-        "location": "http://maps.google.com/maps?q=-43.7444,172.926",
-        "name": "M 4.3 - 33 km SE of Christchurch, New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl0l",
         "location": "http://maps.google.com/maps?q=-10.2488,-73.6824",
         "name": "M 4.4 - 120 km NE of Puerto Ocopa, Peru",
@@ -611,24 +593,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl0w"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jkzm",
-        "location": "http://maps.google.com/maps?q=-22.3589,-177.5499",
-        "name": "M 4.5 - 276 km WSW of Haveluloto, Tonga",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzm"
       },
       {
         "category": [
@@ -799,24 +763,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jkzj",
-        "location": "http://maps.google.com/maps?q=36.5161,69.8417",
-        "name": "M 4.9 - Hindu Kush region, Afghanistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl36",
         "location": "http://maps.google.com/maps?q=-33.333,-68.4423",
         "name": "M 5.0 - 28 km S of San Martín, Argentina",
@@ -883,7 +829,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "18/Mar/2023 @ 17:00:06 PDT",
+    "last_update": "18/Mar/2023 @ 18:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1002,21 +948,6 @@
           "<a href=\"http://maps.google.com/maps?q=22.1532,-108.7318\"><b>M 4.2 - 139 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzz\">USGS</a>",
           22.1532,
           -108.7318
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-43.7444,172.926\"><b>M 4.3 - 33 km SE of Christchurch, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzt\">USGS</a>",
-          -43.7444,
-          172.926
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.3589,-177.5499\"><b>M 4.5 - 276 km WSW of Haveluloto, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzm\">USGS</a>",
-          -22.3589,
-          -177.5499
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.5161,69.8417\"><b>M 4.9 - Hindu Kush region, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jkzj\">USGS</a>",
-          36.5161,
-          69.8417
         ]
       ],
       "Floods": [],
@@ -3297,13 +3228,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (18/Mar/2023 PDT)"
+    "title": "45 events (18/Mar/2023 PDT)"
   },
-  "last_update": "18/Mar/2023 @ 17:00:37 PDT",
-  "last_update_epoch": 1679184037.471608,
+  "last_update": "18/Mar/2023 @ 18:00:56 PDT",
+  "last_update_epoch": 1679187656.424263,
   "neo": {
     "date": "19/Mar/2023 PDT",
-    "last_update": "18/Mar/2023 @ 17:00:11 PDT",
+    "last_update": "18/Mar/2023 @ 18:00:06 PDT",
     "objects": [
       {
         "cat": "19/Mar/2023 @ 11:03:00 ",
@@ -3556,7 +3487,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "18/Mar/2023 @ 17:00:11 PDT",
+    "last_update": "18/Mar/2023 @ 18:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5342,7 +5273,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "18/Mar/2023 @ 17:00:17 PDT",
+    "last_update": "18/Mar/2023 @ 18:00:11 PDT",
     "launches": {
       "future": [
         {
