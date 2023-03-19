@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Mar/2023 @ 08:00:03 PDT",
+    "last_update": "19/Mar/2023 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg",
     "title": "Equinox at the Pyramid of the Feathered Serpent (19/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -459,7 +459,7 @@
         ],
         "eid": "us7000jl95",
         "location": "http://maps.google.com/maps?q=38.0476,36.5123",
-        "name": "M 4.3 - 3 km NNE of Göksun, Turkey",
+        "name": "M 4.3 - central Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -485,24 +485,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3e"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jl38",
-        "location": "http://maps.google.com/maps?q=29.9218,141.7433",
-        "name": "M 4.4 - Izu Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl38"
       },
       {
         "category": [
@@ -547,6 +529,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jl6i",
+        "location": "http://maps.google.com/maps?q=-3.3525,146.7397",
+        "name": "M 4.7 - 157 km SSW of Lorengau, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jl6k",
         "location": "http://maps.google.com/maps?q=-3.4672,146.5067",
         "name": "M 4.7 - 179 km SSW of Lorengau, Papua New Guinea",
@@ -557,24 +557,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6k"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jl6i",
-        "location": "http://maps.google.com/maps?q=-3.3525,146.7397",
-        "name": "M 4.7 - Bismarck Sea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i"
       },
       {
         "category": [
@@ -673,16 +655,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl36",
-        "location": "http://maps.google.com/maps?q=-33.333,-68.4423",
-        "name": "M 5.0 - 28 km S of San Martín, Argentina",
+        "eid": "ak0233l8vwxa",
+        "location": "http://maps.google.com/maps?q=59.6095,-151.907",
+        "name": "M 5.4 - 19 km SSW of Anchor Point, Alaska",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl36"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0233l8vwxa"
       },
       {
         "category": [
@@ -693,7 +675,7 @@
         ],
         "eid": "us7000jl3s",
         "location": "http://maps.google.com/maps?q=-2.8367,-79.8436",
-        "name": "M 6.8 - 8 km NNW of Baláo, Ecuador",
+        "name": "M 6.8 - near the coast of Ecuador",
         "source": [
           {
             "sid": "USGS",
@@ -721,13 +703,18 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "19/Mar/2023 @ 08:00:09 PDT",
+    "last_update": "19/Mar/2023 @ 09:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=38.0476,36.5123\"><b>M 4.3 - 3 km NNE of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=59.6095,-151.907\"><b>M 5.4 - 19 km SSW of Anchor Point, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ak0233l8vwxa\">USGS</a>",
+          59.6095,
+          -151.907
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.0476,36.5123\"><b>M 4.3 - central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95\">USGS</a>",
           38.0476,
           36.5123
         ],
@@ -762,7 +749,7 @@
           146.5067
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.3525,146.7397\"><b>M 4.7 - Bismarck Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-3.3525,146.7397\"><b>M 4.7 - 157 km SSW of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i\">USGS</a>",
           -3.3525,
           146.7397
         ],
@@ -787,7 +774,7 @@
           -68.9075
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.8367,-79.8436\"><b>M 6.8 - 8 km NNW of Baláo, Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-2.8367,-79.8436\"><b>M 6.8 - near the coast of Ecuador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3s\">USGS</a>",
           -2.8367,
           -79.8436
         ],
@@ -810,16 +797,6 @@
           "<a href=\"http://maps.google.com/maps?q=2.3196,128.7848\"><b>M 4.9 - 108 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl3d\">USGS</a>",
           2.3196,
           128.7848
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.9218,141.7433\"><b>M 4.4 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl38\">USGS</a>",
-          29.9218,
-          141.7433
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-33.333,-68.4423\"><b>M 5.0 - 28 km S of San Martín, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl36\">USGS</a>",
-          -33.333,
-          -68.4423
         ]
       ],
       "Floods": [],
@@ -2905,13 +2882,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (19/Mar/2023 PDT)"
+    "title": "38 events (19/Mar/2023 PDT)"
   },
-  "last_update": "19/Mar/2023 @ 08:01:04 PDT",
-  "last_update_epoch": 1679238064.457157,
+  "last_update": "19/Mar/2023 @ 09:00:53 PDT",
+  "last_update_epoch": 1679241653.003305,
   "neo": {
     "date": "19/Mar/2023 PDT",
-    "last_update": "19/Mar/2023 @ 08:00:14 PDT",
+    "last_update": "19/Mar/2023 @ 09:00:05 PDT",
     "objects": [
       {
         "cat": "19/Mar/2023 @ 11:03:00 ",
@@ -3164,7 +3141,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Mar/2023 @ 08:00:14 PDT",
+    "last_update": "19/Mar/2023 @ 09:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4950,7 +4927,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Mar/2023 @ 08:00:19 PDT",
+    "last_update": "19/Mar/2023 @ 09:00:10 PDT",
     "launches": {
       "future": [
         {
