@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Mar/2023 @ 05:00:03 PDT",
+    "last_update": "20/Mar/2023 @ 06:00:03 PDT",
     "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
     "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -403,24 +403,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl95",
-        "location": "http://maps.google.com/maps?q=38.0476,36.5123",
-        "name": "M 4.3 - Central Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jldd",
         "location": "http://maps.google.com/maps?q=10.8318,-86.4619",
         "name": "M 4.4 - 79 km SW of San Juan del Sur, Nicaragua",
@@ -485,6 +467,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl9c"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jleh",
+        "location": "http://maps.google.com/maps?q=36.0816,142.316",
+        "name": "M 4.6 - 139 km ENE of Hasaki, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jleh"
       },
       {
         "category": [
@@ -583,6 +583,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlef",
+        "location": "http://maps.google.com/maps?q=-56.0832,-27.8543",
+        "name": "M 5.1 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlef"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "ak0233l8vwxa",
         "location": "http://maps.google.com/maps?q=59.6095,-151.907",
         "name": "M 5.4 - 19 km SSW of Anchor Point, Alaska",
@@ -613,11 +631,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "20/Mar/2023 @ 05:00:04 PDT",
+    "last_update": "20/Mar/2023 @ 06:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.0816,142.316\"><b>M 4.6 - 139 km ENE of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jleh\">USGS</a>",
+          36.0816,
+          142.316
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-56.0832,-27.8543\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlef\">USGS</a>",
+          -56.0832,
+          -27.8543
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=10.8318,-86.4619\"><b>M 4.4 - 79 km SW of San Juan del Sur, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jldd\">USGS</a>",
           10.8318,
@@ -677,11 +705,6 @@
           "<a href=\"http://maps.google.com/maps?q=10.7736,-86.4849\"><b>M 4.5 - off the coast of Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl9c\">USGS</a>",
           10.7736,
           -86.4849
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.0476,36.5123\"><b>M 4.3 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95\">USGS</a>",
-          38.0476,
-          36.5123
         ]
       ],
       "Floods": [],
@@ -2767,13 +2790,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "33 events (20/Mar/2023 PDT)"
+    "title": "34 events (20/Mar/2023 PDT)"
   },
-  "last_update": "20/Mar/2023 @ 05:00:40 PDT",
-  "last_update_epoch": 1679313640.848563,
+  "last_update": "20/Mar/2023 @ 06:00:56 PDT",
+  "last_update_epoch": 1679317256.850318,
   "neo": {
     "date": "20/Mar/2023 PDT",
-    "last_update": "20/Mar/2023 @ 05:00:09 PDT",
+    "last_update": "20/Mar/2023 @ 06:00:09 PDT",
     "objects": [
       {
         "cat": "20/Mar/2023 @ 12:09:00 ",
@@ -3035,7 +3058,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Mar/2023 @ 05:00:09 PDT",
+    "last_update": "20/Mar/2023 @ 06:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4821,7 +4844,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Mar/2023 @ 05:00:14 PDT",
+    "last_update": "20/Mar/2023 @ 06:00:14 PDT",
     "launches": {
       "future": [
         {
