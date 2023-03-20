@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Mar/2023 @ 15:00:03 PDT",
+    "last_update": "20/Mar/2023 @ 16:00:03 PDT",
     "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
     "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -583,24 +583,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlc5",
-        "location": "http://maps.google.com/maps?q=-2.8054,128.1633",
-        "name": "M 4.8 - 98 km N of Ambon, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlc5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jlf8",
         "location": "http://maps.google.com/maps?q=45.0762,23.0866",
         "name": "M 4.9 - 3 km WSW of Arcani, Romania",
@@ -638,7 +620,7 @@
           }
         ],
         "eid": "us7000jlca",
-        "location": "http://maps.google.com/maps?q=63.4022,158.2287",
+        "location": "http://maps.google.com/maps?q=63.3986,158.2407",
         "name": "M 5.0 - 158 km NE of Omsukchan, Russia",
         "source": [
           {
@@ -685,7 +667,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "20/Mar/2023 @ 15:00:04 PDT",
+    "last_update": "20/Mar/2023 @ 16:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -766,14 +748,9 @@
           55.1082
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=63.4022,158.2287\"><b>M 5.0 - 158 km NE of Omsukchan, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlca\">USGS</a>",
-          63.4022,
-          158.2287
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-2.8054,128.1633\"><b>M 4.8 - 98 km N of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlc5\">USGS</a>",
-          -2.8054,
-          128.1633
+          "<a href=\"http://maps.google.com/maps?q=63.3986,158.2407\"><b>M 5.0 - 158 km NE of Omsukchan, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlca\">USGS</a>",
+          63.3986,
+          158.2407
         ]
       ],
       "Floods": [],
@@ -2859,13 +2836,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (20/Mar/2023 PDT)"
+    "title": "36 events (20/Mar/2023 PDT)"
   },
-  "last_update": "20/Mar/2023 @ 15:00:31 PDT",
-  "last_update_epoch": 1679349631.305116,
+  "last_update": "20/Mar/2023 @ 16:00:35 PDT",
+  "last_update_epoch": 1679353235.935809,
   "neo": {
     "date": "20/Mar/2023 PDT",
-    "last_update": "20/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "20/Mar/2023 @ 16:00:09 PDT",
     "objects": [
       {
         "cat": "20/Mar/2023 @ 12:09:00 ",
@@ -3127,7 +3104,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "20/Mar/2023 @ 16:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4913,7 +4890,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Mar/2023 @ 15:00:10 PDT",
+    "last_update": "20/Mar/2023 @ 16:00:14 PDT",
     "launches": {
       "future": [
         {
