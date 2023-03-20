@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Mar/2023 @ 21:00:37 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg",
-    "title": "Equinox at the Pyramid of the Feathered Serpent (19/Mar/2023 PDT)",
+    "last_update": "19/Mar/2023 @ 22:00:02 PDT",
+    "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
+    "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -421,24 +421,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl6s",
-        "location": "http://maps.google.com/maps?q=21.9828,-108.8152",
-        "name": "M 4.2 - 148 km SE of La Playa, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6s"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jl8l",
         "location": "http://maps.google.com/maps?q=-17.2184,-179.1066",
         "name": "M 4.2 - 184 km ESE of Labasa, Fiji",
@@ -649,7 +631,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "19/Mar/2023 @ 21:00:38 PDT",
+    "last_update": "19/Mar/2023 @ 22:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -723,11 +705,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.5045,73.3438\"><b>M 4.1 - 65 km NW of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl75\">USGS</a>",
           38.5045,
           73.3438
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=21.9828,-108.8152\"><b>M 4.2 - 148 km SE of La Playa, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6s\">USGS</a>",
-          21.9828,
-          -108.8152
         ]
       ],
       "Floods": [],
@@ -2813,13 +2790,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "35 events (19/Mar/2023 PDT)"
+    "title": "34 events (19/Mar/2023 PDT)"
   },
-  "last_update": "19/Mar/2023 @ 21:01:27 PDT",
-  "last_update_epoch": 1679284887.261672,
+  "last_update": "19/Mar/2023 @ 22:00:33 PDT",
+  "last_update_epoch": 1679288433.394828,
   "neo": {
     "date": "20/Mar/2023 PDT",
-    "last_update": "19/Mar/2023 @ 21:00:43 PDT",
+    "last_update": "19/Mar/2023 @ 22:00:09 PDT",
     "objects": [
       {
         "cat": "20/Mar/2023 @ 12:09:00 ",
@@ -3081,7 +3058,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Mar/2023 @ 21:00:43 PDT",
+    "last_update": "19/Mar/2023 @ 22:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4867,7 +4844,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Mar/2023 @ 21:00:50 PDT",
+    "last_update": "19/Mar/2023 @ 22:00:14 PDT",
     "launches": {
       "future": [
         {
