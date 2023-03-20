@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Mar/2023 @ 23:00:03 PDT",
+    "last_update": "20/Mar/2023 @ 00:00:03 PDT",
     "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
     "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "19/Mar/2023 PDT",
+    "date": "20/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -367,24 +367,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl75",
-        "location": "http://maps.google.com/maps?q=38.5045,73.3438",
-        "name": "M 4.1 - 65 km NW of Murghob, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl75"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jlcm",
         "location": "http://maps.google.com/maps?q=27.2567,55.1082",
         "name": "M 4.1 - 80 km NNE of Bandar-e Lengeh, Iran",
@@ -431,6 +413,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl8l"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jld7",
+        "location": "http://maps.google.com/maps?q=-15.2541,-177.3645",
+        "name": "M 4.3 - 131 km SE of Alo, Wallis and Futuna",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jld7"
       },
       {
         "category": [
@@ -631,11 +631,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "19/Mar/2023 @ 23:00:04 PDT",
+    "last_update": "20/Mar/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.2541,-177.3645\"><b>M 4.3 - 131 km SE of Alo, Wallis and Futuna</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jld7\">USGS</a>",
+          -15.2541,
+          -177.3645
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=35.4406,140.8939\"><b>M 4.6 - 32 km S of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcr\">USGS</a>",
           35.4406,
@@ -700,11 +705,6 @@
           "<a href=\"http://maps.google.com/maps?q=10.6019,-86.3444\"><b>M 4.5 - 76 km W of Sardinal, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl8b\">USGS</a>",
           10.6019,
           -86.3444
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.5045,73.3438\"><b>M 4.1 - 65 km NW of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl75\">USGS</a>",
-          38.5045,
-          73.3438
         ]
       ],
       "Floods": [],
@@ -2790,13 +2790,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "34 events (19/Mar/2023 PDT)"
+    "title": "34 events (20/Mar/2023 PDT)"
   },
-  "last_update": "19/Mar/2023 @ 23:00:34 PDT",
-  "last_update_epoch": 1679292034.25533,
+  "last_update": "20/Mar/2023 @ 00:00:35 PDT",
+  "last_update_epoch": 1679295635.056517,
   "neo": {
     "date": "20/Mar/2023 PDT",
-    "last_update": "19/Mar/2023 @ 23:00:09 PDT",
+    "last_update": "20/Mar/2023 @ 00:00:09 PDT",
     "objects": [
       {
         "cat": "20/Mar/2023 @ 12:09:00 ",
@@ -2991,7 +2991,7 @@
     "title": "21 objects making close approach (20/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "19/Mar/2023 PDT",
+    "date": "20/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 14/Mar/2023 @ 15:08:15 PDT.",
@@ -3058,7 +3058,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Mar/2023 @ 23:00:09 PDT",
+    "last_update": "20/Mar/2023 @ 00:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -3111,7 +3111,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (19/Mar/2023 PDT)"
+    "title": "10 people in space (20/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -4844,7 +4844,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Mar/2023 @ 23:00:14 PDT",
+    "last_update": "20/Mar/2023 @ 00:00:15 PDT",
     "launches": {
       "future": [
         {
