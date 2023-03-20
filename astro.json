@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Mar/2023 @ 09:00:03 PDT",
+    "last_update": "20/Mar/2023 @ 10:00:03 PDT",
     "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
     "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -367,6 +367,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlfv",
+        "location": "http://maps.google.com/maps?q=37.3556,36.7384",
+        "name": "M 4.1 - 20 km N of Nurdağı, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlfv"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jlfw",
+        "location": "http://maps.google.com/maps?q=-38.0211,176.6987",
+        "name": "M 4.1 - 8 km N of Kawerau, New Zealand",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlfw"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlcm",
         "location": "http://maps.google.com/maps?q=27.2567,55.1082",
         "name": "M 4.1 - 80 km NNE of Bandar-e Lengeh, Iran",
@@ -631,11 +667,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "20/Mar/2023 @ 09:00:04 PDT",
+    "last_update": "20/Mar/2023 @ 10:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-38.0211,176.6987\"><b>M 4.1 - 8 km N of Kawerau, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlfw\">USGS</a>",
+          -38.0211,
+          176.6987
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.3556,36.7384\"><b>M 4.1 - 20 km N of Nurdağı, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlfv\">USGS</a>",
+          37.3556,
+          36.7384
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=45.0762,23.0866\"><b>M 4.9 - 3 km WSW of Arcani, Romania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf8\">USGS</a>",
           45.0762,
@@ -2790,13 +2836,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "34 events (20/Mar/2023 PDT)"
+    "title": "36 events (20/Mar/2023 PDT)"
   },
-  "last_update": "20/Mar/2023 @ 09:00:32 PDT",
-  "last_update_epoch": 1679328032.034497,
+  "last_update": "20/Mar/2023 @ 10:00:35 PDT",
+  "last_update_epoch": 1679331635.606307,
   "neo": {
     "date": "20/Mar/2023 PDT",
-    "last_update": "20/Mar/2023 @ 09:00:05 PDT",
+    "last_update": "20/Mar/2023 @ 10:00:09 PDT",
     "objects": [
       {
         "cat": "20/Mar/2023 @ 12:09:00 ",
@@ -3058,7 +3104,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Mar/2023 @ 09:00:05 PDT",
+    "last_update": "20/Mar/2023 @ 10:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4844,7 +4890,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Mar/2023 @ 09:00:11 PDT",
+    "last_update": "20/Mar/2023 @ 10:00:14 PDT",
     "launches": {
       "future": [
         {
