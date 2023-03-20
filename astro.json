@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "19/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "19/Mar/2023 @ 20:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg",
     "title": "Equinox at the Pyramid of the Feathered Serpent (19/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,6 +385,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlcm",
+        "location": "http://maps.google.com/maps?q=27.2567,55.1082",
+        "name": "M 4.1 - 80 km NNE of Bandar-e Lengeh, Iran",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jl8m",
         "location": "http://maps.google.com/maps?q=72.9273,6.6231",
         "name": "M 4.1 - Norwegian Sea",
@@ -441,7 +459,7 @@
         ],
         "eid": "us7000jl95",
         "location": "http://maps.google.com/maps?q=38.0476,36.5123",
-        "name": "M 4.3 - 3 km NNE of Göksun, Turkey",
+        "name": "M 4.3 - Central Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -459,7 +477,7 @@
         ],
         "eid": "us7000jlb5",
         "location": "http://maps.google.com/maps?q=47.0314,150.4768",
-        "name": "M 4.4 - 283 km NE of Kuril’sk, Russia",
+        "name": "M 4.4 - Kuril Islands",
         "source": [
           {
             "sid": "USGS",
@@ -529,16 +547,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl6i",
-        "location": "http://maps.google.com/maps?q=-3.3525,146.7397",
-        "name": "M 4.7 - 157 km SSW of Lorengau, Papua New Guinea",
+        "eid": "us7000jlcr",
+        "location": "http://maps.google.com/maps?q=35.4406,140.8939",
+        "name": "M 4.6 - 32 km S of Hasaki, Japan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcr"
       },
       {
         "category": [
@@ -567,7 +585,7 @@
         ],
         "eid": "us7000jlc5",
         "location": "http://maps.google.com/maps?q=-2.8054,128.1633",
-        "name": "M 4.8 - 98 km N of Ambon, Indonesia",
+        "name": "M 4.8 - Ceram Sea, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -583,27 +601,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jl6g",
-        "location": "http://maps.google.com/maps?q=-3.4046,146.6817",
-        "name": "M 4.9 - 165 km SSW of Lorengau, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6g"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jlbf",
         "location": "http://maps.google.com/maps?q=-3.8233,101.8043",
-        "name": "M 4.9 - southern Sumatra, Indonesia",
+        "name": "M 4.9 - 51 km W of Bengkulu, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -667,28 +667,38 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "19/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "19/Mar/2023 @ 20:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.4406,140.8939\"><b>M 4.6 - 32 km S of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcr\">USGS</a>",
+          35.4406,
+          140.8939
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=27.2567,55.1082\"><b>M 4.1 - 80 km NNE of Bandar-e Lengeh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcm\">USGS</a>",
+          27.2567,
+          55.1082
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=63.4022,158.2287\"><b>M 5.0 - 158 km NE of Omsukchan, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlca\">USGS</a>",
           63.4022,
           158.2287
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.8054,128.1633\"><b>M 4.8 - 98 km N of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlc5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-2.8054,128.1633\"><b>M 4.8 - Ceram Sea, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlc5\">USGS</a>",
           -2.8054,
           128.1633
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.8233,101.8043\"><b>M 4.9 - southern Sumatra, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlbf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-3.8233,101.8043\"><b>M 4.9 - 51 km W of Bengkulu, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlbf\">USGS</a>",
           -3.8233,
           101.8043
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=47.0314,150.4768\"><b>M 4.4 - 283 km NE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=47.0314,150.4768\"><b>M 4.4 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb5\">USGS</a>",
           47.0314,
           150.4768
         ],
@@ -708,7 +718,7 @@
           -86.4849
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=38.0476,36.5123\"><b>M 4.3 - 3 km NNE of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=38.0476,36.5123\"><b>M 4.3 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl95\">USGS</a>",
           38.0476,
           36.5123
         ],
@@ -741,16 +751,6 @@
           "<a href=\"http://maps.google.com/maps?q=-3.4672,146.5067\"><b>M 4.7 - 179 km SSW of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6k\">USGS</a>",
           -3.4672,
           146.5067
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.3525,146.7397\"><b>M 4.7 - 157 km SSW of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6i\">USGS</a>",
-          -3.3525,
-          146.7397
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.4046,146.6817\"><b>M 4.9 - 165 km SSW of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jl6g\">USGS</a>",
-          -3.4046,
-          146.6817
         ]
       ],
       "Floods": [],
@@ -2838,11 +2838,11 @@
     },
     "title": "36 events (19/Mar/2023 PDT)"
   },
-  "last_update": "19/Mar/2023 @ 19:00:41 PDT",
-  "last_update_epoch": 1679277641.378092,
+  "last_update": "19/Mar/2023 @ 20:00:36 PDT",
+  "last_update_epoch": 1679281236.825518,
   "neo": {
     "date": "20/Mar/2023 PDT",
-    "last_update": "19/Mar/2023 @ 19:00:10 PDT",
+    "last_update": "19/Mar/2023 @ 20:00:06 PDT",
     "objects": [
       {
         "cat": "20/Mar/2023 @ 12:09:00 ",
@@ -3104,7 +3104,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "19/Mar/2023 @ 19:00:10 PDT",
+    "last_update": "19/Mar/2023 @ 20:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4890,7 +4890,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "19/Mar/2023 @ 19:00:15 PDT",
+    "last_update": "19/Mar/2023 @ 20:00:11 PDT",
     "launches": {
       "future": [
         {
