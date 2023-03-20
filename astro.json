@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Mar/2023 @ 10:00:03 PDT",
+    "last_update": "20/Mar/2023 @ 11:00:03 PDT",
     "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
     "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -441,7 +441,7 @@
         ],
         "eid": "us7000jlf6",
         "location": "http://maps.google.com/maps?q=-18.2976,-70.4684",
-        "name": "M 4.3 - near the coast of Tarapaca, Chile",
+        "name": "M 4.3 - 26 km NW of Arica, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -449,24 +449,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf6"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jlb5",
-        "location": "http://maps.google.com/maps?q=47.0314,150.4768",
-        "name": "M 4.4 - 283 km NE of Kuril’sk, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb5"
       },
       {
         "category": [
@@ -493,16 +475,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlb0",
-        "location": "http://maps.google.com/maps?q=38.0041,73.2209",
-        "name": "M 4.5 - 67 km WSW of Murghob, Tajikistan",
+        "eid": "us7000jlb5",
+        "location": "http://maps.google.com/maps?q=47.0314,150.4768",
+        "name": "M 4.4 - Kuril Islands",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb0"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb5"
       },
       {
         "category": [
@@ -549,7 +531,7 @@
         ],
         "eid": "us7000jlc5",
         "location": "http://maps.google.com/maps?q=-2.8054,128.1633",
-        "name": "M 4.8 - 98 km N of Ambon, Indonesia",
+        "name": "M 4.8 - Ceram Sea, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -583,6 +565,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlbf",
+        "location": "http://maps.google.com/maps?q=-3.8233,101.8043",
+        "name": "M 4.9 - 51 km W of Bengkulu, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlbf"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlde",
         "location": "http://maps.google.com/maps?q=29.8863,142.4074",
         "name": "M 4.9 - Izu Islands, Japan region",
@@ -593,24 +593,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlde"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jlbf",
-        "location": "http://maps.google.com/maps?q=-3.8233,101.8043",
-        "name": "M 4.9 - southern Sumatra, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlbf"
       },
       {
         "category": [
@@ -667,7 +649,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "20/Mar/2023 @ 10:00:04 PDT",
+    "last_update": "20/Mar/2023 @ 11:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -688,7 +670,7 @@
           23.0866
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.2976,-70.4684\"><b>M 4.3 - near the coast of Tarapaca, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf6\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-18.2976,-70.4684\"><b>M 4.3 - 26 km NW of Arica, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf6\">USGS</a>",
           -18.2976,
           -70.4684
         ],
@@ -733,24 +715,19 @@
           158.2287
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.8054,128.1633\"><b>M 4.8 - 98 km N of Ambon, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlc5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-2.8054,128.1633\"><b>M 4.8 - Ceram Sea, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlc5\">USGS</a>",
           -2.8054,
           128.1633
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.8233,101.8043\"><b>M 4.9 - southern Sumatra, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlbf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-3.8233,101.8043\"><b>M 4.9 - 51 km W of Bengkulu, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlbf\">USGS</a>",
           -3.8233,
           101.8043
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=47.0314,150.4768\"><b>M 4.4 - 283 km NE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=47.0314,150.4768\"><b>M 4.4 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb5\">USGS</a>",
           47.0314,
           150.4768
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.0041,73.2209\"><b>M 4.5 - 67 km WSW of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlb0\">USGS</a>",
-          38.0041,
-          73.2209
         ]
       ],
       "Floods": [],
@@ -2836,13 +2813,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (20/Mar/2023 PDT)"
+    "title": "35 events (20/Mar/2023 PDT)"
   },
-  "last_update": "20/Mar/2023 @ 10:00:35 PDT",
-  "last_update_epoch": 1679331635.606307,
+  "last_update": "20/Mar/2023 @ 11:00:38 PDT",
+  "last_update_epoch": 1679335238.003341,
   "neo": {
     "date": "20/Mar/2023 PDT",
-    "last_update": "20/Mar/2023 @ 10:00:09 PDT",
+    "last_update": "20/Mar/2023 @ 11:00:09 PDT",
     "objects": [
       {
         "cat": "20/Mar/2023 @ 12:09:00 ",
@@ -3104,7 +3081,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Mar/2023 @ 10:00:09 PDT",
+    "last_update": "20/Mar/2023 @ 11:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4890,7 +4867,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Mar/2023 @ 10:00:14 PDT",
+    "last_update": "20/Mar/2023 @ 11:00:16 PDT",
     "launches": {
       "future": [
         {
