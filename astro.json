@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Mar/2023 @ 23:00:03 PDT",
+    "last_update": "21/Mar/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg",
     "title": "Dark Nebulae and Star Formation in Taurus (21/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "20/Mar/2023 PDT",
+    "date": "21/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -703,7 +703,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "20/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "21/Mar/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2882,13 +2882,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "38 events (20/Mar/2023 PDT)"
+    "title": "38 events (21/Mar/2023 PDT)"
   },
-  "last_update": "20/Mar/2023 @ 23:00:36 PDT",
-  "last_update_epoch": 1679378436.726234,
+  "last_update": "21/Mar/2023 @ 00:00:37 PDT",
+  "last_update_epoch": 1679382037.404891,
   "neo": {
     "date": "21/Mar/2023 PDT",
-    "last_update": "20/Mar/2023 @ 23:00:10 PDT",
+    "last_update": "21/Mar/2023 @ 00:00:09 PDT",
     "objects": [
       {
         "cat": "21/Mar/2023 @ 20:17:00 ",
@@ -3047,7 +3047,7 @@
     "title": "17 objects making close approach (21/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "20/Mar/2023 PDT",
+    "date": "21/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 19/Mar/2023 @ 15:36:17 PDT.",
@@ -3114,7 +3114,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Mar/2023 @ 23:00:10 PDT",
+    "last_update": "21/Mar/2023 @ 00:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -3167,7 +3167,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (20/Mar/2023 PDT)"
+    "title": "10 people in space (21/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -4900,7 +4900,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Mar/2023 @ 23:00:16 PDT",
+    "last_update": "21/Mar/2023 @ 00:00:15 PDT",
     "launches": {
       "future": [
         {
