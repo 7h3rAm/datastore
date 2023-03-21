@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Mar/2023 @ 17:00:03 PDT",
+    "last_update": "20/Mar/2023 @ 18:00:03 PDT",
     "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
     "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -529,6 +529,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jljx",
+        "location": "http://maps.google.com/maps?q=38.9974,21.131",
+        "name": "M 4.5 - Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jleh",
         "location": "http://maps.google.com/maps?q=36.0816,142.316",
         "name": "M 4.6 - 139 km ENE of Hasaki, Japan",
@@ -667,11 +685,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "20/Mar/2023 @ 17:00:05 PDT",
+    "last_update": "20/Mar/2023 @ 18:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.9974,21.131\"><b>M 4.5 - Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljx\">USGS</a>",
+          38.9974,
+          21.131
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=53.8246,-169.727\"><b>M 4.9 - 114 km NNW of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljn\">USGS</a>",
           53.8246,
@@ -2836,13 +2859,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (20/Mar/2023 PDT)"
+    "title": "37 events (20/Mar/2023 PDT)"
   },
-  "last_update": "20/Mar/2023 @ 17:00:35 PDT",
-  "last_update_epoch": 1679356835.482029,
+  "last_update": "20/Mar/2023 @ 18:00:39 PDT",
+  "last_update_epoch": 1679360439.98418,
   "neo": {
     "date": "21/Mar/2023 PDT",
-    "last_update": "20/Mar/2023 @ 17:00:09 PDT",
+    "last_update": "20/Mar/2023 @ 18:00:10 PDT",
     "objects": [
       {
         "cat": "21/Mar/2023 @ 20:17:00 ",
@@ -3068,7 +3091,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Mar/2023 @ 17:00:10 PDT",
+    "last_update": "20/Mar/2023 @ 18:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4854,7 +4877,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Mar/2023 @ 17:00:15 PDT",
+    "last_update": "20/Mar/2023 @ 18:00:15 PDT",
     "launches": {
       "future": [
         {
