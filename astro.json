@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Mar/2023 @ 18:00:03 PDT",
+    "last_update": "20/Mar/2023 @ 19:00:03 PDT",
     "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
     "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -403,24 +403,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlcm",
-        "location": "http://maps.google.com/maps?q=27.2567,55.1082",
-        "name": "M 4.1 - 80 km NNE of Bandar-e Lengeh, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jld7",
         "location": "http://maps.google.com/maps?q=-15.2541,-177.3645",
         "name": "M 4.3 - 131 km SE of Alo, Wallis and Futuna",
@@ -441,7 +423,7 @@
         ],
         "eid": "us7000jlf6",
         "location": "http://maps.google.com/maps?q=-18.2976,-70.4684",
-        "name": "M 4.3 - 26 km NW of Arica, Chile",
+        "name": "M 4.3 - near the coast of Tarapaca, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -531,7 +513,7 @@
         ],
         "eid": "us7000jljx",
         "location": "http://maps.google.com/maps?q=38.9974,21.131",
-        "name": "M 4.5 - Greece",
+        "name": "M 4.5 - 5 km SSE of Menídi, Greece",
         "source": [
           {
             "sid": "USGS",
@@ -557,24 +539,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jleh"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jlcr",
-        "location": "http://maps.google.com/maps?q=35.4406,140.8939",
-        "name": "M 4.6 - 32 km S of Hasaki, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcr"
       },
       {
         "category": [
@@ -685,13 +649,13 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "20/Mar/2023 @ 18:00:05 PDT",
+    "last_update": "20/Mar/2023 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=38.9974,21.131\"><b>M 4.5 - Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljx\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=38.9974,21.131\"><b>M 4.5 - 5 km SSE of Menídi, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljx\">USGS</a>",
           38.9974,
           21.131
         ],
@@ -736,7 +700,7 @@
           23.0866
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.2976,-70.4684\"><b>M 4.3 - 26 km NW of Arica, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf6\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-18.2976,-70.4684\"><b>M 4.3 - near the coast of Tarapaca, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf6\">USGS</a>",
           -18.2976,
           -70.4684
         ],
@@ -764,16 +728,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.2541,-177.3645\"><b>M 4.3 - 131 km SE of Alo, Wallis and Futuna</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jld7\">USGS</a>",
           -15.2541,
           -177.3645
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.4406,140.8939\"><b>M 4.6 - 32 km S of Hasaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcr\">USGS</a>",
-          35.4406,
-          140.8939
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.2567,55.1082\"><b>M 4.1 - 80 km NNE of Bandar-e Lengeh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlcm\">USGS</a>",
-          27.2567,
-          55.1082
         ]
       ],
       "Floods": [],
@@ -2859,13 +2813,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (20/Mar/2023 PDT)"
+    "title": "35 events (20/Mar/2023 PDT)"
   },
-  "last_update": "20/Mar/2023 @ 18:00:39 PDT",
-  "last_update_epoch": 1679360439.98418,
+  "last_update": "20/Mar/2023 @ 19:00:41 PDT",
+  "last_update_epoch": 1679364041.636094,
   "neo": {
     "date": "21/Mar/2023 PDT",
-    "last_update": "20/Mar/2023 @ 18:00:10 PDT",
+    "last_update": "20/Mar/2023 @ 19:00:10 PDT",
     "objects": [
       {
         "cat": "21/Mar/2023 @ 20:17:00 ",
@@ -3091,7 +3045,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Mar/2023 @ 18:00:10 PDT",
+    "last_update": "20/Mar/2023 @ 19:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4877,7 +4831,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Mar/2023 @ 18:00:15 PDT",
+    "last_update": "20/Mar/2023 @ 19:00:17 PDT",
     "launches": {
       "future": [
         {
