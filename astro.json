@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "20/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "20/Mar/2023 @ 20:00:02 PDT",
     "source": "https://www.youtube.com/embed/wfzz8FUD4TM?rel=0",
     "title": "M1: The Expanding Crab Nebula (20/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -423,7 +423,7 @@
         ],
         "eid": "us7000jlf6",
         "location": "http://maps.google.com/maps?q=-18.2976,-70.4684",
-        "name": "M 4.3 - near the coast of Tarapaca, Chile",
+        "name": "M 4.3 - 26 km NW of Arica, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -512,7 +512,7 @@
           }
         ],
         "eid": "us7000jljx",
-        "location": "http://maps.google.com/maps?q=38.9974,21.131",
+        "location": "http://maps.google.com/maps?q=38.9971,21.1376",
         "name": "M 4.5 - 5 km SSE of Menídi, Greece",
         "source": [
           {
@@ -566,8 +566,8 @@
           }
         ],
         "eid": "us7000jljn",
-        "location": "http://maps.google.com/maps?q=53.8246,-169.727",
-        "name": "M 4.9 - 114 km NNW of Nikolski, Alaska",
+        "location": "http://maps.google.com/maps?q=53.8329,-169.7303",
+        "name": "M 4.9 - 115 km NNW of Nikolski, Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -633,6 +633,42 @@
       {
         "category": [
           {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jlkc",
+        "location": "http://maps.google.com/maps?q=23.5176,121.3874",
+        "name": "M 5.2 - 55 km SSW of Hualien City, Taiwan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlkc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jlkb",
+        "location": "http://maps.google.com/maps?q=9.3599,-84.0943",
+        "name": "M 5.5 - Costa Rica",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlkb"
+      },
+      {
+        "category": [
+          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -649,20 +685,30 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "20/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "20/Mar/2023 @ 20:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=38.9974,21.131\"><b>M 4.5 - 5 km SSE of Menídi, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljx\">USGS</a>",
-          38.9974,
-          21.131
+          "<a href=\"http://maps.google.com/maps?q=23.5176,121.3874\"><b>M 5.2 - 55 km SSW of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlkc\">USGS</a>",
+          23.5176,
+          121.3874
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.8246,-169.727\"><b>M 4.9 - 114 km NNW of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljn\">USGS</a>",
-          53.8246,
-          -169.727
+          "<a href=\"http://maps.google.com/maps?q=9.3599,-84.0943\"><b>M 5.5 - Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlkb\">USGS</a>",
+          9.3599,
+          -84.0943
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.9971,21.1376\"><b>M 4.5 - 5 km SSE of Menídi, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljx\">USGS</a>",
+          38.9971,
+          21.1376
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=53.8329,-169.7303\"><b>M 4.9 - 115 km NNW of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljn\">USGS</a>",
+          53.8329,
+          -169.7303
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=42.3047,142.9109\"><b>M 4.4 - 44 km E of Shizunai-furukawachō, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlj4\">USGS</a>",
@@ -700,7 +746,7 @@
           23.0866
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.2976,-70.4684\"><b>M 4.3 - near the coast of Tarapaca, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf6\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-18.2976,-70.4684\"><b>M 4.3 - 26 km NW of Arica, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf6\">USGS</a>",
           -18.2976,
           -70.4684
         ],
@@ -2813,13 +2859,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "35 events (20/Mar/2023 PDT)"
+    "title": "37 events (20/Mar/2023 PDT)"
   },
-  "last_update": "20/Mar/2023 @ 19:00:41 PDT",
-  "last_update_epoch": 1679364041.636094,
+  "last_update": "20/Mar/2023 @ 20:00:39 PDT",
+  "last_update_epoch": 1679367639.535182,
   "neo": {
     "date": "21/Mar/2023 PDT",
-    "last_update": "20/Mar/2023 @ 19:00:10 PDT",
+    "last_update": "20/Mar/2023 @ 20:00:09 PDT",
     "objects": [
       {
         "cat": "21/Mar/2023 @ 20:17:00 ",
@@ -3045,7 +3091,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "20/Mar/2023 @ 19:00:10 PDT",
+    "last_update": "20/Mar/2023 @ 20:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4831,7 +4877,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "20/Mar/2023 @ 19:00:17 PDT",
+    "last_update": "20/Mar/2023 @ 20:00:14 PDT",
     "launches": {
       "future": [
         {
