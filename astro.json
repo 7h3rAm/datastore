@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Mar/2023 @ 07:00:04 PDT",
+    "last_update": "21/Mar/2023 @ 08:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg",
     "title": "Dark Nebulae and Star Formation in Taurus (21/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -459,7 +459,7 @@
         ],
         "eid": "us7000jllc",
         "location": "http://maps.google.com/maps?q=69.1154,-53.3743",
-        "name": "M 4.4 - 49 km NNW of Aasiaat, Greenland",
+        "name": "M 4.4 - western Greenland",
         "source": [
           {
             "sid": "USGS",
@@ -547,24 +547,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlm4",
-        "location": "http://maps.google.com/maps?q=-19.9384,170.0286",
-        "name": "M 4.7 - 89 km ESE of Isangel, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jll2",
         "location": "http://maps.google.com/maps?q=47.7348,153.4044",
         "name": "M 4.7 - Kuril Islands",
@@ -583,16 +565,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlf8",
-        "location": "http://maps.google.com/maps?q=45.0762,23.0866",
-        "name": "M 4.9 - 3 km WSW of Arcani, Romania",
+        "eid": "us7000jlm4",
+        "location": "http://maps.google.com/maps?q=-19.9384,170.0286",
+        "name": "M 4.7 - Vanuatu",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf8"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4"
       },
       {
         "category": [
@@ -603,7 +585,7 @@
         ],
         "eid": "us7000jljn",
         "location": "http://maps.google.com/maps?q=53.8329,-169.7303",
-        "name": "M 4.9 - Fox Islands, Aleutian Islands, Alaska",
+        "name": "M 4.9 - 115 km NNW of Nikolski, Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -621,7 +603,7 @@
         ],
         "eid": "us7000jlkc",
         "location": "http://maps.google.com/maps?q=23.5176,121.3874",
-        "name": "M 5.2 - Taiwan",
+        "name": "M 5.2 - 55 km SSW of Hualien City, Taiwan",
         "source": [
           {
             "sid": "USGS",
@@ -639,7 +621,7 @@
         ],
         "eid": "us7000jlkb",
         "location": "http://maps.google.com/maps?q=9.3599,-84.0943",
-        "name": "M 5.5 - 10 km SE of Quepos, Costa Rica",
+        "name": "M 5.5 - Costa Rica",
         "source": [
           {
             "sid": "USGS",
@@ -667,13 +649,13 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "21/Mar/2023 @ 07:00:05 PDT",
+    "last_update": "21/Mar/2023 @ 08:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - 89 km ESE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
           -19.9384,
           170.0286
         ],
@@ -683,7 +665,7 @@
           127.5578
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=69.1154,-53.3743\"><b>M 4.4 - 49 km NNW of Aasiaat, Greenland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=69.1154,-53.3743\"><b>M 4.4 - western Greenland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc\">USGS</a>",
           69.1154,
           -53.3743
         ],
@@ -693,12 +675,12 @@
           153.4044
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=23.5176,121.3874\"><b>M 5.2 - Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlkc\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=23.5176,121.3874\"><b>M 5.2 - 55 km SSW of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlkc\">USGS</a>",
           23.5176,
           121.3874
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=9.3599,-84.0943\"><b>M 5.5 - 10 km SE of Quepos, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlkb\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=9.3599,-84.0943\"><b>M 5.5 - Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlkb\">USGS</a>",
           9.3599,
           -84.0943
         ],
@@ -708,7 +690,7 @@
           21.1376
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.8329,-169.7303\"><b>M 4.9 - Fox Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljn\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.8329,-169.7303\"><b>M 4.9 - 115 km NNW of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljn\">USGS</a>",
           53.8329,
           -169.7303
         ],
@@ -746,11 +728,6 @@
           "<a href=\"http://maps.google.com/maps?q=37.3556,36.7384\"><b>M 4.1 - 20 km N of Nurdağı, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlfv\">USGS</a>",
           37.3556,
           36.7384
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=45.0762,23.0866\"><b>M 4.9 - 3 km WSW of Arcani, Romania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlf8\">USGS</a>",
-          45.0762,
-          23.0866
         ]
       ],
       "Floods": [],
@@ -2836,13 +2813,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (21/Mar/2023 PDT)"
+    "title": "35 events (21/Mar/2023 PDT)"
   },
-  "last_update": "21/Mar/2023 @ 07:00:31 PDT",
-  "last_update_epoch": 1679407231.294507,
+  "last_update": "21/Mar/2023 @ 08:00:39 PDT",
+  "last_update_epoch": 1679410839.235569,
   "neo": {
     "date": "21/Mar/2023 PDT",
-    "last_update": "21/Mar/2023 @ 07:00:06 PDT",
+    "last_update": "21/Mar/2023 @ 08:00:12 PDT",
     "objects": [
       {
         "cat": "21/Mar/2023 @ 20:17:00 ",
@@ -3068,7 +3045,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Mar/2023 @ 07:00:06 PDT",
+    "last_update": "21/Mar/2023 @ 08:00:12 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4854,7 +4831,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Mar/2023 @ 07:00:11 PDT",
+    "last_update": "21/Mar/2023 @ 08:00:17 PDT",
     "launches": {
       "future": [
         {
