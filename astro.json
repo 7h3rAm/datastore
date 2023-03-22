@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 01:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 02:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -531,7 +531,7 @@
         ],
         "eid": "us7000jlm4",
         "location": "http://maps.google.com/maps?q=-19.9384,170.0286",
-        "name": "M 4.7 - 89 km ESE of Isangel, Vanuatu",
+        "name": "M 4.7 - Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -549,7 +549,7 @@
         ],
         "eid": "us7000jlvr",
         "location": "http://maps.google.com/maps?q=6.6979,126.0848",
-        "name": "M 4.8 - Mindanao, Philippines",
+        "name": "M 4.8 - 0 km SSW of La Union, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -739,7 +739,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 01:00:05 PDT",
+    "last_update": "22/Mar/2023 @ 02:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -750,7 +750,7 @@
           143.0358
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.6979,126.0848\"><b>M 4.8 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvr\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.6979,126.0848\"><b>M 4.8 - 0 km SSW of La Union, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvr\">USGS</a>",
           6.6979,
           126.0848
         ],
@@ -835,7 +835,7 @@
           128.7876
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - 89 km ESE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
           -19.9384,
           170.0286
         ],
@@ -2930,71 +2930,53 @@
     },
     "title": "40 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 01:00:05 PDT",
-  "last_update_epoch": 1679472005.357962,
+  "last_update": "22/Mar/2023 @ 02:00:30 PDT",
+  "last_update_epoch": 1679475630.492529,
   "neo": {
-    "date": "21/Mar/2023 PDT",
-    "last_update": "21/Mar/2023 @ 12:00:06 PDT",
+    "date": "22/Mar/2023 PDT",
+    "last_update": "22/Mar/2023 @ 02:00:06 PDT",
     "objects": [
       {
-        "cat": "21/Mar/2023 @ 03:45:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "2,412,007.58 miles",
-        "hazardous": false,
-        "name": "Asteroid (2018 FE3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3802041",
-        "velocity": "12,181.56 mph"
-      },
-      {
-        "cat": "21/Mar/2023 @ 16:44:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "5,235,556.44 miles",
-        "hazardous": false,
-        "name": "Asteroid (2020 PD2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54051021",
-        "velocity": "19,505.50 mph"
-      },
-      {
-        "cat": "21/Mar/2023 @ 21:20:00 ",
-        "diameter": "0.03-0.06 miles",
-        "distance": "32,713,282.61 miles",
-        "hazardous": false,
-        "name": "Asteroid (2020 RS9)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54054459",
-        "velocity": "37,454.65 mph"
-      },
-      {
-        "cat": "21/Mar/2023 @ 01:26:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "44,951,928.14 miles",
-        "hazardous": false,
-        "name": "Asteroid (2022 EL5)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54254975",
-        "velocity": "40,693.07 mph"
-      },
-      {
-        "cat": "21/Mar/2023 @ 12:19:00 ",
+        "cat": "22/Mar/2023 @ 14:09:00 ",
         "diameter": "0.06-0.13 miles",
-        "distance": "33,302,526.94 miles",
+        "distance": "22,688,009.53 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 BK10)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54341465",
-        "velocity": "37,200.63 mph"
+        "name": "Asteroid (2010 FL48)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3513745",
+        "velocity": "34,123.72 mph"
       },
       {
-        "cat": "21/Mar/2023 @ 01:28:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "1,156,611.45 miles",
+        "cat": "22/Mar/2023 @ 07:10:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "16,447,611.89 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FV1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54350437",
-        "velocity": "30,827.23 mph"
+        "name": "Asteroid (2011 GK44)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3562320",
+        "velocity": "20,284.20 mph"
+      },
+      {
+        "cat": "22/Mar/2023 @ 07:01:00 ",
+        "diameter": "0.40-0.90 miles",
+        "distance": "14,241,628.04 miles",
+        "hazardous": false,
+        "name": "Asteroid 303248 (2004 QV16)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2303248",
+        "velocity": "53,264.75 mph"
+      },
+      {
+        "cat": "22/Mar/2023 @ 11:51:00 ",
+        "diameter": "0.08-0.17 miles",
+        "distance": "41,552,930.43 miles",
+        "hazardous": false,
+        "name": "Asteroid 481543 (2007 RN7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2481543",
+        "velocity": "16,729.92 mph"
       }
     ],
-    "title": "6 objects making close approach (21/Mar/2023 PDT)"
+    "title": "4 objects making close approach (22/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "21/Mar/2023 PDT",
+    "date": "22/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 20/Mar/2023 @ 15:26:55 PDT.",
@@ -3061,7 +3043,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "21/Mar/2023 @ 12:00:06 PDT",
+    "last_update": "22/Mar/2023 @ 02:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -3114,7 +3096,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (21/Mar/2023 PDT)"
+    "title": "10 people in space (22/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -4847,7 +4829,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "21/Mar/2023 @ 12:00:12 PDT",
+    "last_update": "22/Mar/2023 @ 02:00:11 PDT",
     "launches": {
       "future": [
         {
