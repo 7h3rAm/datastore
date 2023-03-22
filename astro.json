@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Mar/2023 @ 17:00:05 PDT",
+    "last_update": "21/Mar/2023 @ 18:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg",
     "title": "Dark Nebulae and Star Formation in Taurus (21/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -421,6 +421,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlka",
+        "location": "http://maps.google.com/maps?q=-24.3346,-69.7994",
+        "name": "M 4.3 - Antofagasta, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlka"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlll",
         "location": "http://maps.google.com/maps?q=-7.6531,127.5578",
         "name": "M 4.4 - 114 km NNE of Lospalos, Timor Leste",
@@ -493,27 +511,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jljx",
-        "location": "http://maps.google.com/maps?q=38.9971,21.1376",
-        "name": "M 4.5 - 5 km SSE of Menídi, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljx"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "nc73860415",
-        "location": "http://maps.google.com/maps?q=40.5423317,-124.3330002",
-        "name": "M 4.6 - 7km WSW of Ferndale, CA",
+        "location": "http://maps.google.com/maps?q=40.5415,-124.3725",
+        "name": "M 4.6 - 10km WSW of Ferndale, CA",
         "source": [
           {
             "sid": "USGS",
@@ -739,15 +739,15 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "21/Mar/2023 @ 17:00:06 PDT",
+    "last_update": "21/Mar/2023 @ 18:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=40.5423317,-124.3330002\"><b>M 4.6 - 7km WSW of Ferndale, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415\">USGS</a>",
-          40.5423317,
-          -124.3330002
+          "<a href=\"http://maps.google.com/maps?q=40.5415,-124.3725\"><b>M 4.6 - 10km WSW of Ferndale, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415\">USGS</a>",
+          40.5415,
+          -124.3725
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=29.629,104.7238\"><b>M 4.2 - 20 km SW of Chonglong, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jltn\">USGS</a>",
@@ -835,14 +835,14 @@
           -84.0943
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-24.3346,-69.7994\"><b>M 4.3 - Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlka\">USGS</a>",
+          -24.3346,
+          -69.7994
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-18.2046,-71.282\"><b>M 4.1 - 62 km S of Pacocha, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlk9\">USGS</a>",
           -18.2046,
           -71.282
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.9971,21.1376\"><b>M 4.5 - 5 km SSE of Menídi, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jljx\">USGS</a>",
-          38.9971,
-          21.1376
         ]
       ],
       "Floods": [],
@@ -2930,8 +2930,8 @@
     },
     "title": "40 events (21/Mar/2023 PDT)"
   },
-  "last_update": "21/Mar/2023 @ 17:00:06 PDT",
-  "last_update_epoch": 1679443206.918625,
+  "last_update": "21/Mar/2023 @ 18:00:05 PDT",
+  "last_update_epoch": 1679446805.187318,
   "neo": {
     "date": "21/Mar/2023 PDT",
     "last_update": "21/Mar/2023 @ 12:00:06 PDT",
