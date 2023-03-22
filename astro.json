@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 03:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 04:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -655,6 +655,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlww",
+        "location": "http://maps.google.com/maps?q=37.167,54.7079",
+        "name": "M 5.1 - Turkmenistan-Iran border region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlww"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlvb",
         "location": "http://maps.google.com/maps?q=-59.7811,-26.1729",
         "name": "M 5.3 - South Sandwich Islands region",
@@ -739,11 +757,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 03:00:04 PDT",
+    "last_update": "22/Mar/2023 @ 04:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.167,54.7079\"><b>M 5.1 - Turkmenistan-Iran border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlww\">USGS</a>",
+          37.167,
+          54.7079
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=40.2813,142.9317\"><b>M 4.3 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlwl\">USGS</a>",
           40.2813,
@@ -2928,13 +2951,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "40 events (22/Mar/2023 PDT)"
+    "title": "41 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 03:00:35 PDT",
-  "last_update_epoch": 1679479235.33696,
+  "last_update": "22/Mar/2023 @ 04:00:33 PDT",
+  "last_update_epoch": 1679482833.805336,
   "neo": {
     "date": "22/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 03:00:07 PDT",
+    "last_update": "22/Mar/2023 @ 04:00:08 PDT",
     "objects": [
       {
         "cat": "22/Mar/2023 @ 14:09:00 ",
@@ -3042,8 +3065,8 @@
     "date": "22/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 20/Mar/2023 @ 15:26:55 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/03/20/jpg/epic_1b_20230320223143.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 21/Mar/2023 @ 15:08:13 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/03/21/jpg/epic_1b_20230321221301.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -3106,7 +3129,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 03:00:07 PDT",
+    "last_update": "22/Mar/2023 @ 04:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4892,7 +4915,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 03:00:14 PDT",
+    "last_update": "22/Mar/2023 @ 04:00:13 PDT",
     "launches": {
       "future": [
         {
