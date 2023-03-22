@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 09:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -727,16 +727,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jln7",
-        "location": "http://maps.google.com/maps?q=36.5227,70.9787",
-        "name": "M 6.5 - 40 km SSE of Jurm, Afghanistan",
+        "eid": "us7000jlxu",
+        "location": "http://maps.google.com/maps?q=-23.4797,-66.5108",
+        "name": "M 6.5 - 84 km NNW of San Antonio de los Cobres, Argentina",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jln7"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxu"
       },
       {
         "category": [
@@ -757,11 +757,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 09:00:06 PDT",
+    "last_update": "22/Mar/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-23.4797,-66.5108\"><b>M 6.5 - 84 km NNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxu\">USGS</a>",
+          -23.4797,
+          -66.5108
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-23.5608,-66.5151\"><b>M 5.3 - Jujuy, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxp\">USGS</a>",
           -23.5608,
@@ -861,11 +866,6 @@
           "<a href=\"http://maps.google.com/maps?q=63.2146,158.4902\"><b>M 4.9 - 149 km NNW of Evensk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlp7\">USGS</a>",
           63.2146,
           158.4902
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.5227,70.9787\"><b>M 6.5 - 40 km SSE of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jln7\">USGS</a>",
-          36.5227,
-          70.9787
         ]
       ],
       "Floods": [],
@@ -2953,11 +2953,11 @@
     },
     "title": "41 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 09:00:40 PDT",
-  "last_update_epoch": 1679500840.334591,
+  "last_update": "22/Mar/2023 @ 10:00:33 PDT",
+  "last_update_epoch": 1679504433.15257,
   "neo": {
     "date": "22/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 09:00:09 PDT",
+    "last_update": "22/Mar/2023 @ 10:00:05 PDT",
     "objects": [
       {
         "cat": "22/Mar/2023 @ 14:09:00 ",
@@ -3129,7 +3129,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 09:00:09 PDT",
+    "last_update": "22/Mar/2023 @ 10:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4915,7 +4915,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 09:00:15 PDT",
+    "last_update": "22/Mar/2023 @ 10:00:10 PDT",
     "launches": {
       "future": [
         {
