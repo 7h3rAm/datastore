@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 08:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,6 +385,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlxj",
+        "location": "http://maps.google.com/maps?q=47.4002,6.8651",
+        "name": "M 4.2 - 2 km NE of Blamont, France",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jltn",
         "location": "http://maps.google.com/maps?q=29.629,104.7238",
         "name": "M 4.2 - 20 km SW of Chonglong, China",
@@ -395,24 +413,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jltn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jln1",
-        "location": "http://maps.google.com/maps?q=53.0839,172.3931",
-        "name": "M 4.3 - 59 km WNW of Attu Station, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jln1"
       },
       {
         "category": [
@@ -531,7 +531,7 @@
         ],
         "eid": "us7000jlvr",
         "location": "http://maps.google.com/maps?q=6.6979,126.0848",
-        "name": "M 4.8 - Mindanao, Philippines",
+        "name": "M 4.8 - 0 km SSW of La Union, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -621,7 +621,7 @@
         ],
         "eid": "us7000jlww",
         "location": "http://maps.google.com/maps?q=37.167,54.7079",
-        "name": "M 5.1 - 39 km NNE of Qarnābād, Iran",
+        "name": "M 5.1 - Turkmenistan-Iran border region",
         "source": [
           {
             "sid": "USGS",
@@ -629,6 +629,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlww"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jlxp",
+        "location": "http://maps.google.com/maps?q=-23.5608,-66.5151",
+        "name": "M 5.3 - Jujuy, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxp"
       },
       {
         "category": [
@@ -739,18 +757,28 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 08:00:08 PDT",
+    "last_update": "22/Mar/2023 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-23.5608,-66.5151\"><b>M 5.3 - Jujuy, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxp\">USGS</a>",
+          -23.5608,
+          -66.5151
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=47.4002,6.8651\"><b>M 4.2 - 2 km NE of Blamont, France</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxj\">USGS</a>",
+          47.4002,
+          6.8651
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-30.2645,-177.3161\"><b>M 5.5 - Kermadec Islands, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxe\">USGS</a>",
           -30.2645,
           -177.3161
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.167,54.7079\"><b>M 5.1 - 39 km NNE of Qarnābād, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlww\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.167,54.7079\"><b>M 5.1 - Turkmenistan-Iran border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlww\">USGS</a>",
           37.167,
           54.7079
         ],
@@ -765,7 +793,7 @@
           143.0358
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.6979,126.0848\"><b>M 4.8 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvr\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.6979,126.0848\"><b>M 4.8 - 0 km SSW of La Union, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvr\">USGS</a>",
           6.6979,
           126.0848
         ],
@@ -838,11 +866,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.5227,70.9787\"><b>M 6.5 - 40 km SSE of Jurm, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jln7\">USGS</a>",
           36.5227,
           70.9787
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=53.0839,172.3931\"><b>M 4.3 - 59 km WNW of Attu Station, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jln1\">USGS</a>",
-          53.0839,
-          172.3931
         ]
       ],
       "Floods": [],
@@ -2928,13 +2951,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "40 events (22/Mar/2023 PDT)"
+    "title": "41 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 08:00:41 PDT",
-  "last_update_epoch": 1679497241.237445,
+  "last_update": "22/Mar/2023 @ 09:00:40 PDT",
+  "last_update_epoch": 1679500840.334591,
   "neo": {
     "date": "22/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 08:00:12 PDT",
+    "last_update": "22/Mar/2023 @ 09:00:09 PDT",
     "objects": [
       {
         "cat": "22/Mar/2023 @ 14:09:00 ",
@@ -3106,7 +3129,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 08:00:12 PDT",
+    "last_update": "22/Mar/2023 @ 09:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4892,7 +4915,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 08:00:17 PDT",
+    "last_update": "22/Mar/2023 @ 09:00:15 PDT",
     "launches": {
       "future": [
         {
