@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 02:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -421,16 +421,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlll",
-        "location": "http://maps.google.com/maps?q=-7.6531,127.5578",
-        "name": "M 4.4 - 114 km NNE of Lospalos, Timor Leste",
+        "eid": "us7000jlwl",
+        "location": "http://maps.google.com/maps?q=40.2813,142.9317",
+        "name": "M 4.3 - near the east coast of Honshu, Japan",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlll"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlwl"
       },
       {
         "category": [
@@ -739,11 +739,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 02:00:05 PDT",
+    "last_update": "22/Mar/2023 @ 03:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=40.2813,142.9317\"><b>M 4.3 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlwl\">USGS</a>",
+          40.2813,
+          142.9317
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=40.3031,143.0358\"><b>M 5.6 - 118 km NE of Miyako, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlw8\">USGS</a>",
           40.3031,
@@ -838,11 +843,6 @@
           "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
           -19.9384,
           170.0286
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.6531,127.5578\"><b>M 4.4 - 114 km NNE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlll\">USGS</a>",
-          -7.6531,
-          127.5578
         ]
       ],
       "Floods": [],
@@ -2930,11 +2930,11 @@
     },
     "title": "40 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 02:00:30 PDT",
-  "last_update_epoch": 1679475630.492529,
+  "last_update": "22/Mar/2023 @ 03:00:35 PDT",
+  "last_update_epoch": 1679479235.33696,
   "neo": {
     "date": "22/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 02:00:06 PDT",
+    "last_update": "22/Mar/2023 @ 03:00:07 PDT",
     "objects": [
       {
         "cat": "22/Mar/2023 @ 14:09:00 ",
@@ -2955,6 +2955,69 @@
         "velocity": "20,284.20 mph"
       },
       {
+        "cat": "22/Mar/2023 @ 05:16:00 ",
+        "diameter": "0.01-0.01 miles",
+        "distance": "21,649,165.45 miles",
+        "hazardous": false,
+        "name": "Asteroid (2014 EL)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3663258",
+        "velocity": "20,131.62 mph"
+      },
+      {
+        "cat": "22/Mar/2023 @ 08:21:00 ",
+        "diameter": "0.06-0.13 miles",
+        "distance": "38,968,835.12 miles",
+        "hazardous": false,
+        "name": "Asteroid (2016 EP1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3745058",
+        "velocity": "53,985.65 mph"
+      },
+      {
+        "cat": "22/Mar/2023 @ 13:21:00 ",
+        "diameter": "0.11-0.25 miles",
+        "distance": "19,524,826.80 miles",
+        "hazardous": true,
+        "name": "Asteroid (2016 XO23)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3766033",
+        "velocity": "28,489.82 mph"
+      },
+      {
+        "cat": "22/Mar/2023 @ 23:37:00 ",
+        "diameter": "0.00-0.01 miles",
+        "distance": "13,946,709.29 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 TT4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54204652",
+        "velocity": "15,699.49 mph"
+      },
+      {
+        "cat": "22/Mar/2023 @ 22:58:00 ",
+        "diameter": "0.07-0.15 miles",
+        "distance": "18,185,396.58 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 PZ1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54295343",
+        "velocity": "23,134.54 mph"
+      },
+      {
+        "cat": "22/Mar/2023 @ 12:16:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "25,423,442.77 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 ST21)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54309258",
+        "velocity": "26,565.89 mph"
+      },
+      {
+        "cat": "22/Mar/2023 @ 12:43:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "3,182,982.62 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 FT)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54349272",
+        "velocity": "24,268.81 mph"
+      },
+      {
         "cat": "22/Mar/2023 @ 07:01:00 ",
         "diameter": "0.40-0.90 miles",
         "distance": "14,241,628.04 miles",
@@ -2973,7 +3036,7 @@
         "velocity": "16,729.92 mph"
       }
     ],
-    "title": "4 objects making close approach (22/Mar/2023 PDT)"
+    "title": "11 objects making close approach (22/Mar/2023 PDT)"
   },
   "satview": {
     "date": "22/Mar/2023 PDT",
@@ -3043,7 +3106,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 02:00:06 PDT",
+    "last_update": "22/Mar/2023 @ 03:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4829,7 +4892,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 02:00:11 PDT",
+    "last_update": "22/Mar/2023 @ 03:00:14 PDT",
     "launches": {
       "future": [
         {
