@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Mar/2023 @ 23:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 00:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "21/Mar/2023 PDT",
+    "date": "22/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -439,24 +439,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jllc",
-        "location": "http://maps.google.com/maps?q=69.1154,-53.3743",
-        "name": "M 4.4 - 49 km NNW of Aasiaat, Greenland",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jlt8",
         "location": "http://maps.google.com/maps?q=-6.4965,130.1801",
         "name": "M 4.4 - Banda Sea",
@@ -549,7 +531,7 @@
         ],
         "eid": "us7000jlm4",
         "location": "http://maps.google.com/maps?q=-19.9384,170.0286",
-        "name": "M 4.7 - 89 km ESE of Isangel, Vanuatu",
+        "name": "M 4.7 - Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -567,7 +549,7 @@
         ],
         "eid": "us7000jlvr",
         "location": "http://maps.google.com/maps?q=6.6979,126.0848",
-        "name": "M 4.8 - Mindanao, Philippines",
+        "name": "M 4.8 - 0 km SSW of La Union, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -739,13 +721,13 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "21/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "22/Mar/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=6.6979,126.0848\"><b>M 4.8 - Mindanao, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvr\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.6979,126.0848\"><b>M 4.8 - 0 km SSW of La Union, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvr\">USGS</a>",
           6.6979,
           126.0848
         ],
@@ -830,7 +812,7 @@
           128.7876
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - 89 km ESE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
           -19.9384,
           170.0286
         ],
@@ -838,11 +820,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.6531,127.5578\"><b>M 4.4 - 114 km NNE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlll\">USGS</a>",
           -7.6531,
           127.5578
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=69.1154,-53.3743\"><b>M 4.4 - 49 km NNW of Aasiaat, Greenland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc\">USGS</a>",
-          69.1154,
-          -53.3743
         ]
       ],
       "Floods": [],
@@ -2928,10 +2905,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "40 events (21/Mar/2023 PDT)"
+    "title": "39 events (22/Mar/2023 PDT)"
   },
-  "last_update": "21/Mar/2023 @ 23:00:05 PDT",
-  "last_update_epoch": 1679464805.339074,
+  "last_update": "22/Mar/2023 @ 00:00:05 PDT",
+  "last_update_epoch": 1679468405.889495,
   "neo": {
     "date": "21/Mar/2023 PDT",
     "last_update": "21/Mar/2023 @ 12:00:06 PDT",
