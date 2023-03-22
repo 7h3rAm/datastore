@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Mar/2023 @ 20:00:04 PDT",
+    "last_update": "21/Mar/2023 @ 21:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg",
     "title": "Dark Nebulae and Star Formation in Taurus (21/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -367,6 +367,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlvi",
+        "location": "http://maps.google.com/maps?q=33.3323,137.7834",
+        "name": "M 4.2 - 146 km SSW of Ōyama, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvi"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jltn",
         "location": "http://maps.google.com/maps?q=29.629,104.7238",
         "name": "M 4.2 - 20 km SW of Chonglong, China",
@@ -421,9 +439,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlt8",
+        "location": "http://maps.google.com/maps?q=-6.4965,130.1801",
+        "name": "M 4.4 - Banda Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlt8"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jllc",
         "location": "http://maps.google.com/maps?q=69.1154,-53.3743",
-        "name": "M 4.4 - 49 km NNW of Aasiaat, Greenland",
+        "name": "M 4.4 - western Greenland",
         "source": [
           {
             "sid": "USGS",
@@ -439,16 +475,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlt8",
-        "location": "http://maps.google.com/maps?q=-6.4965,130.1801",
-        "name": "M 4.4 - Banda Sea",
+        "eid": "nc73860415",
+        "location": "http://maps.google.com/maps?q=40.5415,-124.3725",
+        "name": "M 4.5 - 10km WSW of Ferndale, CA",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlt8"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415"
       },
       {
         "category": [
@@ -485,24 +521,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlsm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "nc73860415",
-        "location": "http://maps.google.com/maps?q=40.5415,-124.3725",
-        "name": "M 4.6 - 10km WSW of Ferndale, CA",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415"
       },
       {
         "category": [
@@ -549,7 +567,7 @@
         ],
         "eid": "us7000jlm4",
         "location": "http://maps.google.com/maps?q=-19.9384,170.0286",
-        "name": "M 4.7 - 89 km ESE of Isangel, Vanuatu",
+        "name": "M 4.7 - Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -721,11 +739,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "21/Mar/2023 @ 20:00:06 PDT",
+    "last_update": "21/Mar/2023 @ 21:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.3323,137.7834\"><b>M 4.2 - 146 km SSW of Ōyama, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvi\">USGS</a>",
+          33.3323,
+          137.7834
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-59.7811,-26.1729\"><b>M 5.3 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvb\">USGS</a>",
           -59.7811,
@@ -742,7 +765,7 @@
           130.4693
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.5415,-124.3725\"><b>M 4.6 - 10km WSW of Ferndale, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=40.5415,-124.3725\"><b>M 4.5 - 10km WSW of Ferndale, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415\">USGS</a>",
           40.5415,
           -124.3725
         ],
@@ -802,7 +825,7 @@
           128.7876
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - 89 km ESE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
           -19.9384,
           170.0286
         ],
@@ -812,7 +835,7 @@
           127.5578
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=69.1154,-53.3743\"><b>M 4.4 - 49 km NNW of Aasiaat, Greenland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=69.1154,-53.3743\"><b>M 4.4 - western Greenland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc\">USGS</a>",
           69.1154,
           -53.3743
         ],
@@ -2905,10 +2928,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (21/Mar/2023 PDT)"
+    "title": "40 events (21/Mar/2023 PDT)"
   },
-  "last_update": "21/Mar/2023 @ 20:00:06 PDT",
-  "last_update_epoch": 1679454006.054588,
+  "last_update": "21/Mar/2023 @ 21:00:04 PDT",
+  "last_update_epoch": 1679457604.969274,
   "neo": {
     "date": "21/Mar/2023 PDT",
     "last_update": "21/Mar/2023 @ 12:00:06 PDT",
