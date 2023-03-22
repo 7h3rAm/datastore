@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 14:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 15:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -403,24 +403,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jltn",
-        "location": "http://maps.google.com/maps?q=29.629,104.7238",
-        "name": "M 4.2 - 20 km SW of Chonglong, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jltn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jlxj",
         "location": "http://maps.google.com/maps?q=47.4002,6.8651",
         "name": "M 4.2 - France",
@@ -685,7 +667,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 14:00:05 PDT",
+    "last_update": "22/Mar/2023 @ 15:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -769,11 +751,6 @@
           "<a href=\"http://maps.google.com/maps?q=40.5415,-124.3725\"><b>M 4.5 - 10km WSW of Ferndale, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415\">USGS</a>",
           40.5415,
           -124.3725
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.629,104.7238\"><b>M 4.2 - 20 km SW of Chonglong, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jltn\">USGS</a>",
-          29.629,
-          104.7238
         ]
       ],
       "Floods": [],
@@ -2859,13 +2836,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (22/Mar/2023 PDT)"
+    "title": "36 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 14:00:30 PDT",
-  "last_update_epoch": 1679518830.987396,
+  "last_update": "22/Mar/2023 @ 15:00:32 PDT",
+  "last_update_epoch": 1679522432.776957,
   "neo": {
     "date": "22/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 14:00:05 PDT",
+    "last_update": "22/Mar/2023 @ 15:00:07 PDT",
     "objects": [
       {
         "cat": "22/Mar/2023 @ 14:09:00 ",
@@ -3037,7 +3014,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 14:00:06 PDT",
+    "last_update": "22/Mar/2023 @ 15:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4823,7 +4800,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 14:00:11 PDT",
+    "last_update": "22/Mar/2023 @ 15:00:12 PDT",
     "launches": {
       "future": [
         {
