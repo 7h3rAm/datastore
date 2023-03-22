@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 15:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -403,6 +403,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jm1h",
+        "location": "http://maps.google.com/maps?q=23.6607,121.3256",
+        "name": "M 4.2 - 45 km SW of Hualien City, Taiwan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm1h"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlxj",
         "location": "http://maps.google.com/maps?q=47.4002,6.8651",
         "name": "M 4.2 - France",
@@ -458,8 +476,8 @@
           }
         ],
         "eid": "us7000jlv8",
-        "location": "http://maps.google.com/maps?q=-3.4933,131.1985",
-        "name": "M 4.5 - 253 km E of Amahai, Indonesia",
+        "location": "http://maps.google.com/maps?q=-3.5341,131.2272",
+        "name": "M 4.5 - 257 km E of Amahai, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -476,8 +494,8 @@
           }
         ],
         "eid": "us7000jlv0",
-        "location": "http://maps.google.com/maps?q=29.2927,130.4693",
-        "name": "M 4.7 - 104 km S of Yudomari, Japan",
+        "location": "http://maps.google.com/maps?q=29.2963,130.4503",
+        "name": "M 4.6 - 104 km S of Yudomari, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -667,11 +685,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 15:00:04 PDT",
+    "last_update": "22/Mar/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.6607,121.3256\"><b>M 4.2 - 45 km SW of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm1h\">USGS</a>",
+          23.6607,
+          121.3256
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-8.8081,123.1543\"><b>M 5.1 - 105 km ESE of Maumere, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0w\">USGS</a>",
           -8.8081,
@@ -738,14 +761,14 @@
           -26.1729
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.4933,131.1985\"><b>M 4.5 - 253 km E of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv8\">USGS</a>",
-          -3.4933,
-          131.1985
+          "<a href=\"http://maps.google.com/maps?q=-3.5341,131.2272\"><b>M 4.5 - 257 km E of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv8\">USGS</a>",
+          -3.5341,
+          131.2272
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=29.2927,130.4693\"><b>M 4.7 - 104 km S of Yudomari, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv0\">USGS</a>",
-          29.2927,
-          130.4693
+          "<a href=\"http://maps.google.com/maps?q=29.2963,130.4503\"><b>M 4.6 - 104 km S of Yudomari, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv0\">USGS</a>",
+          29.2963,
+          130.4503
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=40.5415,-124.3725\"><b>M 4.5 - 10km WSW of Ferndale, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415\">USGS</a>",
@@ -2836,13 +2859,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (22/Mar/2023 PDT)"
+    "title": "37 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 15:00:32 PDT",
-  "last_update_epoch": 1679522432.776957,
+  "last_update": "22/Mar/2023 @ 16:00:35 PDT",
+  "last_update_epoch": 1679526035.053058,
   "neo": {
     "date": "22/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 15:00:07 PDT",
+    "last_update": "22/Mar/2023 @ 16:00:08 PDT",
     "objects": [
       {
         "cat": "22/Mar/2023 @ 14:09:00 ",
@@ -3014,7 +3037,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 15:00:07 PDT",
+    "last_update": "22/Mar/2023 @ 16:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4800,7 +4823,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 15:00:12 PDT",
+    "last_update": "22/Mar/2023 @ 16:00:13 PDT",
     "launches": {
       "future": [
         {
