@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 10:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 11:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -547,24 +547,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlp7",
-        "location": "http://maps.google.com/maps?q=63.2146,158.4902",
-        "name": "M 4.9 - 149 km NNW of Evensk, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlp7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jltc",
         "location": "http://maps.google.com/maps?q=28.6061,-43.6155",
         "name": "M 4.9 - northern Mid-Atlantic Ridge",
@@ -709,24 +691,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlpd",
-        "location": "http://maps.google.com/maps?q=-33.6103,-71.3517",
-        "name": "M 5.6 - 15 km NW of Melipilla, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlpd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jlxu",
         "location": "http://maps.google.com/maps?q=-23.4797,-66.5108",
         "name": "M 6.5 - 84 km NNW of San Antonio de los Cobres, Argentina",
@@ -757,7 +721,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 10:00:05 PDT",
+    "last_update": "22/Mar/2023 @ 11:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -856,16 +820,6 @@
           "<a href=\"http://maps.google.com/maps?q=-2.4976,140.7035\"><b>M 4.5 - 4 km NNW of Jayapura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlsm\">USGS</a>",
           -2.4976,
           140.7035
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-33.6103,-71.3517\"><b>M 5.6 - 15 km NW of Melipilla, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlpd\">USGS</a>",
-          -33.6103,
-          -71.3517
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=63.2146,158.4902\"><b>M 4.9 - 149 km NNW of Evensk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlp7\">USGS</a>",
-          63.2146,
-          158.4902
         ]
       ],
       "Floods": [],
@@ -2951,13 +2905,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (22/Mar/2023 PDT)"
+    "title": "39 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 10:00:33 PDT",
-  "last_update_epoch": 1679504433.15257,
+  "last_update": "22/Mar/2023 @ 11:00:34 PDT",
+  "last_update_epoch": 1679508034.093461,
   "neo": {
     "date": "22/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 10:00:05 PDT",
+    "last_update": "22/Mar/2023 @ 11:00:06 PDT",
     "objects": [
       {
         "cat": "22/Mar/2023 @ 14:09:00 ",
@@ -3129,7 +3083,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 10:00:06 PDT",
+    "last_update": "22/Mar/2023 @ 11:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4915,7 +4869,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 10:00:10 PDT",
+    "last_update": "22/Mar/2023 @ 11:00:11 PDT",
     "launches": {
       "future": [
         {
