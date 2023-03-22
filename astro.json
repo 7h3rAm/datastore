@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "21/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "21/Mar/2023 @ 20:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg",
     "title": "Dark Nebulae and Star Formation in Taurus (21/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -421,6 +421,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jllc",
+        "location": "http://maps.google.com/maps?q=69.1154,-53.3743",
+        "name": "M 4.4 - 49 km NNW of Aasiaat, Greenland",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlt8",
         "location": "http://maps.google.com/maps?q=-6.4965,130.1801",
         "name": "M 4.4 - Banda Sea",
@@ -439,16 +457,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jllc",
-        "location": "http://maps.google.com/maps?q=69.1154,-53.3743",
-        "name": "M 4.4 - western Greenland",
+        "eid": "us7000jlv8",
+        "location": "http://maps.google.com/maps?q=-3.4933,131.1985",
+        "name": "M 4.5 - 253 km E of Amahai, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv8"
       },
       {
         "category": [
@@ -494,8 +512,8 @@
           }
         ],
         "eid": "us7000jll2",
-        "location": "http://maps.google.com/maps?q=47.7348,153.4044",
-        "name": "M 4.7 - Kuril Islands",
+        "location": "http://maps.google.com/maps?q=47.7164,153.4165",
+        "name": "M 4.6 - Kuril Islands",
         "source": [
           {
             "sid": "USGS",
@@ -511,9 +529,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlv0",
+        "location": "http://maps.google.com/maps?q=29.2927,130.4693",
+        "name": "M 4.7 - 104 km S of Yudomari, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlm4",
         "location": "http://maps.google.com/maps?q=-19.9384,170.0286",
-        "name": "M 4.7 - Vanuatu",
+        "name": "M 4.7 - 89 km ESE of Isangel, Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -619,6 +655,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jlvb",
+        "location": "http://maps.google.com/maps?q=-59.7811,-26.1729",
+        "name": "M 5.3 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlpd",
         "location": "http://maps.google.com/maps?q=-33.6103,-71.3517",
         "name": "M 5.6 - 15 km NW of Melipilla, Chile",
@@ -667,11 +721,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "21/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "21/Mar/2023 @ 20:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-59.7811,-26.1729\"><b>M 5.3 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvb\">USGS</a>",
+          -59.7811,
+          -26.1729
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-3.4933,131.1985\"><b>M 4.5 - 253 km E of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv8\">USGS</a>",
+          -3.4933,
+          131.1985
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=29.2927,130.4693\"><b>M 4.7 - 104 km S of Yudomari, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv0\">USGS</a>",
+          29.2927,
+          130.4693
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=40.5415,-124.3725\"><b>M 4.6 - 10km WSW of Ferndale, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73860415\">USGS</a>",
           40.5415,
@@ -733,7 +802,7 @@
           128.7876
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-19.9384,170.0286\"><b>M 4.7 - 89 km ESE of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlm4\">USGS</a>",
           -19.9384,
           170.0286
         ],
@@ -743,14 +812,14 @@
           127.5578
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=69.1154,-53.3743\"><b>M 4.4 - western Greenland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=69.1154,-53.3743\"><b>M 4.4 - 49 km NNW of Aasiaat, Greenland</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jllc\">USGS</a>",
           69.1154,
           -53.3743
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=47.7348,153.4044\"><b>M 4.7 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jll2\">USGS</a>",
-          47.7348,
-          153.4044
+          "<a href=\"http://maps.google.com/maps?q=47.7164,153.4165\"><b>M 4.6 - Kuril Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jll2\">USGS</a>",
+          47.7164,
+          153.4165
         ]
       ],
       "Floods": [],
@@ -2836,10 +2905,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (21/Mar/2023 PDT)"
+    "title": "39 events (21/Mar/2023 PDT)"
   },
-  "last_update": "21/Mar/2023 @ 19:00:05 PDT",
-  "last_update_epoch": 1679450405.531602,
+  "last_update": "21/Mar/2023 @ 20:00:06 PDT",
+  "last_update_epoch": 1679454006.054588,
   "neo": {
     "date": "21/Mar/2023 PDT",
     "last_update": "21/Mar/2023 @ 12:00:06 PDT",
