@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 20:00:04 PDT",
+    "last_update": "22/Mar/2023 @ 21:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -369,7 +369,7 @@
         ],
         "eid": "us7000jm0j",
         "location": "http://maps.google.com/maps?q=38.102,38.0838",
-        "name": "M 4.1 - 15 km WNW of Çelikhan, Turkey",
+        "name": "M 4.1 - eastern Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -377,6 +377,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0j"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jlxj",
+        "location": "http://maps.google.com/maps?q=47.4002,6.8651",
+        "name": "M 4.2 - 2 km NE of Blamont, France",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxj"
       },
       {
         "category": [
@@ -395,42 +413,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm1h"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jlxj",
-        "location": "http://maps.google.com/maps?q=47.4002,6.8651",
-        "name": "M 4.2 - France",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jlvi",
-        "location": "http://maps.google.com/maps?q=33.2964,137.7095",
-        "name": "M 4.2 - near the south coast of Honshu, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvi"
       },
       {
         "category": [
@@ -475,6 +457,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jm3h",
+        "location": "http://maps.google.com/maps?q=40.3901,20.736",
+        "name": "M 4.4 - 7 km NE of Ersekë, Albania",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3h"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jm3d",
+        "location": "http://maps.google.com/maps?q=39.3481,69.708",
+        "name": "M 4.5 - 53 km NW of Novobod, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3d"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jlvr",
         "location": "http://maps.google.com/maps?q=6.7221,126.0963",
         "name": "M 4.8 - 0 km WNW of Talisay, Philippines",
@@ -485,6 +503,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jm2z",
+        "location": "http://maps.google.com/maps?q=40.4529,20.7007",
+        "name": "M 4.9 - 12 km N of Ersekë, Albania",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm2z"
       },
       {
         "category": [
@@ -531,7 +567,7 @@
         ],
         "eid": "us7000jlww",
         "location": "http://maps.google.com/maps?q=37.167,54.7079",
-        "name": "M 5.1 - 39 km NNE of Qarnābād, Iran",
+        "name": "M 5.1 - Turkmenistan-Iran border region",
         "source": [
           {
             "sid": "USGS",
@@ -539,6 +575,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlww"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jm3e",
+        "location": "http://maps.google.com/maps?q=-42.7973,-82.4791",
+        "name": "M 5.1 - West Chile Rise",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3e"
       },
       {
         "category": [
@@ -685,15 +739,35 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 20:00:06 PDT",
+    "last_update": "22/Mar/2023 @ 21:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=40.3901,20.736\"><b>M 4.4 - 7 km NE of Ersekë, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3h\">USGS</a>",
+          40.3901,
+          20.736
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-42.7973,-82.4791\"><b>M 5.1 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3e\">USGS</a>",
+          -42.7973,
+          -82.4791
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=39.3481,69.708\"><b>M 4.5 - 53 km NW of Novobod, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3d\">USGS</a>",
+          39.3481,
+          69.708
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=10.5305,-86.0928\"><b>M 4.4 - 48 km W of Sardinal, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm31\">USGS</a>",
           10.5305,
           -86.0928
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=40.4529,20.7007\"><b>M 4.9 - 12 km N of Ersekë, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm2z\">USGS</a>",
+          40.4529,
+          20.7007
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.4149,144.2648\"><b>M 5.7 - 44 km SSE of Angoram, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm28\">USGS</a>",
@@ -726,7 +800,7 @@
           69.9525
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=38.102,38.0838\"><b>M 4.1 - 15 km WNW of Çelikhan, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=38.102,38.0838\"><b>M 4.1 - eastern Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0j\">USGS</a>",
           38.102,
           38.0838
         ],
@@ -741,7 +815,7 @@
           -66.5151
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=47.4002,6.8651\"><b>M 4.2 - France</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxj\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=47.4002,6.8651\"><b>M 4.2 - 2 km NE of Blamont, France</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxj\">USGS</a>",
           47.4002,
           6.8651
         ],
@@ -751,7 +825,7 @@
           -177.3161
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.167,54.7079\"><b>M 5.1 - 39 km NNE of Qarnābād, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlww\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.167,54.7079\"><b>M 5.1 - Turkmenistan-Iran border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlww\">USGS</a>",
           37.167,
           54.7079
         ],
@@ -769,11 +843,6 @@
           "<a href=\"http://maps.google.com/maps?q=6.7221,126.0963\"><b>M 4.8 - 0 km WNW of Talisay, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvr\">USGS</a>",
           6.7221,
           126.0963
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=33.2964,137.7095\"><b>M 4.2 - near the south coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvi\">USGS</a>",
-          33.2964,
-          137.7095
         ]
       ],
       "Floods": [],
@@ -2859,13 +2928,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (22/Mar/2023 PDT)"
+    "title": "40 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 20:00:43 PDT",
-  "last_update_epoch": 1679540443.745993,
+  "last_update": "22/Mar/2023 @ 21:00:15 PDT",
+  "last_update_epoch": 1679544015.863382,
   "neo": {
     "date": "23/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 20:00:11 PDT",
+    "last_update": "22/Mar/2023 @ 21:00:10 PDT",
     "objects": [
       {
         "cat": "23/Mar/2023 @ 09:57:00 ",
@@ -3073,7 +3142,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 20:00:11 PDT",
+    "last_update": "22/Mar/2023 @ 21:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4859,7 +4928,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 20:00:17 PDT",
+    "last_update": "22/Mar/2023 @ 21:00:15 PDT",
     "launches": {
       "future": [
         {
