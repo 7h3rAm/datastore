@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 02:00:03 PDT",
+    "last_update": "23/Mar/2023 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg",
     "title": "Spiral Galaxy NGC 2841 (23/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -637,6 +637,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jm54",
+        "location": "http://maps.google.com/maps?q=38.0255,36.4149",
+        "name": "M 4.9 - Central Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm54"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jm0w",
         "location": "http://maps.google.com/maps?q=-8.8081,123.1543",
         "name": "M 5.1 - 105 km ESE of Maumere, Indonesia",
@@ -829,11 +847,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "23/Mar/2023 @ 02:00:04 PDT",
+    "last_update": "23/Mar/2023 @ 03:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.0255,36.4149\"><b>M 4.9 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm54\">USGS</a>",
+          38.0255,
+          36.4149
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-7.6266,127.8385\"><b>M 4.8 - 135 km NE of Lospalos, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4t\">USGS</a>",
           -7.6266,
@@ -3043,13 +3066,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (23/Mar/2023 PDT)"
+    "title": "46 events (23/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 02:00:31 PDT",
-  "last_update_epoch": 1679562031.709053,
+  "last_update": "23/Mar/2023 @ 03:00:31 PDT",
+  "last_update_epoch": 1679565631.177004,
   "neo": {
     "date": "23/Mar/2023 PDT",
-    "last_update": "23/Mar/2023 @ 02:00:05 PDT",
+    "last_update": "23/Mar/2023 @ 03:00:05 PDT",
     "objects": [
       {
         "cat": "23/Mar/2023 @ 09:57:00 ",
@@ -3257,7 +3280,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Mar/2023 @ 02:00:05 PDT",
+    "last_update": "23/Mar/2023 @ 03:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5043,7 +5066,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Mar/2023 @ 02:00:10 PDT",
+    "last_update": "23/Mar/2023 @ 03:00:10 PDT",
     "launches": {
       "future": [
         {
