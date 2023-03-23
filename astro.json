@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 09:00:03 PDT",
+    "last_update": "23/Mar/2023 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg",
     "title": "Spiral Galaxy NGC 2841 (23/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -2976,8 +2976,8 @@
     },
     "title": "42 events (23/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 09:00:39 PDT",
-  "last_update_epoch": 1679587239.60314,
+  "last_update": "23/Mar/2023 @ 10:00:03 PDT",
+  "last_update_epoch": 1679590803.822211,
   "neo": {
     "date": "23/Mar/2023 PDT",
     "last_update": "23/Mar/2023 @ 09:00:10 PDT",
