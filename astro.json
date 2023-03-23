@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 20:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -457,16 +457,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlv8",
-        "location": "http://maps.google.com/maps?q=-3.5341,131.2272",
-        "name": "M 4.5 - 257 km E of Amahai, Indonesia",
+        "eid": "us7000jm31",
+        "location": "http://maps.google.com/maps?q=10.5305,-86.0928",
+        "name": "M 4.4 - 48 km W of Sardinal, Costa Rica",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv8"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm31"
       },
       {
         "category": [
@@ -557,24 +557,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxp"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jlvb",
-        "location": "http://maps.google.com/maps?q=-59.5861,-26.3031",
-        "name": "M 5.3 - South Sandwich Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvb"
       },
       {
         "category": [
@@ -703,11 +685,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 19:00:04 PDT",
+    "last_update": "22/Mar/2023 @ 20:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=10.5305,-86.0928\"><b>M 4.4 - 48 km W of Sardinal, Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm31\">USGS</a>",
+          10.5305,
+          -86.0928
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.4149,144.2648\"><b>M 5.7 - 44 km SSE of Angoram, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm28\">USGS</a>",
           -4.4149,
@@ -787,16 +774,6 @@
           "<a href=\"http://maps.google.com/maps?q=33.2964,137.7095\"><b>M 4.2 - near the south coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvi\">USGS</a>",
           33.2964,
           137.7095
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-59.5861,-26.3031\"><b>M 5.3 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlvb\">USGS</a>",
-          -59.5861,
-          -26.3031
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.5341,131.2272\"><b>M 4.5 - 257 km E of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv8\">USGS</a>",
-          -3.5341,
-          131.2272
         ]
       ],
       "Floods": [],
@@ -2882,13 +2859,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "38 events (22/Mar/2023 PDT)"
+    "title": "37 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 19:00:37 PDT",
-  "last_update_epoch": 1679536837.650893,
+  "last_update": "22/Mar/2023 @ 20:00:43 PDT",
+  "last_update_epoch": 1679540443.745993,
   "neo": {
     "date": "23/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 19:00:09 PDT",
+    "last_update": "22/Mar/2023 @ 20:00:11 PDT",
     "objects": [
       {
         "cat": "23/Mar/2023 @ 09:57:00 ",
@@ -3096,7 +3073,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 19:00:09 PDT",
+    "last_update": "22/Mar/2023 @ 20:00:11 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4882,7 +4859,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 19:00:14 PDT",
+    "last_update": "22/Mar/2023 @ 20:00:17 PDT",
     "launches": {
       "future": [
         {
