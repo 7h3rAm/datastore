@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 10:00:03 PDT",
+    "last_update": "23/Mar/2023 @ 11:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg",
     "title": "Spiral Galaxy NGC 2841 (23/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -27,6 +27,24 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6331"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌋",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
+          }
+        ],
+        "eid": "EONET_6334",
+        "location": "https://www.google.com/maps/dir/1.488,127.63/@1.488,127.63,3z",
+        "name": "Ibu Volcano, Indonesia",
+        "source": [
+          {
+            "sid": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=268030"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6334"
       },
       {
         "category": [
@@ -423,7 +441,7 @@
         ],
         "eid": "us7000jm4e",
         "location": "http://maps.google.com/maps?q=-16.3388,-75.1132",
-        "name": "M 4.2 - Off the coast of southern Peru",
+        "name": "M 4.2 - off the coast of southern Peru",
         "source": [
           {
             "sid": "USGS",
@@ -723,24 +741,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jlxu",
-        "location": "http://maps.google.com/maps?q=-23.4797,-66.5108",
-        "name": "M 6.5 - 84 km NNW of San Antonio de los Cobres, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxu"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -775,7 +775,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "23/Mar/2023 @ 09:00:05 PDT",
+    "last_update": "23/Mar/2023 @ 11:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -796,7 +796,7 @@
           71.1837
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-16.3388,-75.1132\"><b>M 4.2 - Off the coast of southern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4e\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-16.3388,-75.1132\"><b>M 4.2 - off the coast of southern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4e\">USGS</a>",
           -16.3388,
           -75.1132
         ],
@@ -879,11 +879,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.102,38.0838\"><b>M 4.1 - eastern Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0j\">USGS</a>",
           38.102,
           38.0838
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-23.4797,-66.5108\"><b>M 6.5 - 84 km NNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxu\">USGS</a>",
-          -23.4797,
-          -66.5108
         ]
       ],
       "Floods": [],
@@ -2956,6 +2951,11 @@
       "Temperature Extremes": [],
       "Volcanoes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=1.488,127.63\"><b>Ibu Volcano, Indonesia</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=268030\">SIVolcano</a>",
+          1.488,
+          127.63
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=51.93,179.58\"><b>Semisopochnoi Volcano, Alaska</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=311060\">SIVolcano</a>",
           51.93,
           179.58
@@ -2976,11 +2976,11 @@
     },
     "title": "42 events (23/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 10:00:03 PDT",
-  "last_update_epoch": 1679590803.822211,
+  "last_update": "23/Mar/2023 @ 11:00:35 PDT",
+  "last_update_epoch": 1679594435.193487,
   "neo": {
     "date": "23/Mar/2023 PDT",
-    "last_update": "23/Mar/2023 @ 09:00:10 PDT",
+    "last_update": "23/Mar/2023 @ 11:00:09 PDT",
     "objects": [
       {
         "cat": "23/Mar/2023 @ 09:57:00 ",
@@ -3188,7 +3188,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Mar/2023 @ 09:00:10 PDT",
+    "last_update": "23/Mar/2023 @ 11:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4974,7 +4974,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Mar/2023 @ 09:00:15 PDT",
+    "last_update": "23/Mar/2023 @ 11:00:14 PDT",
     "launches": {
       "future": [
         {
