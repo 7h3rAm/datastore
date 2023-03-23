@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 13:00:04 PDT",
+    "last_update": "23/Mar/2023 @ 14:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg",
     "title": "Spiral Galaxy NGC 2841 (23/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -566,8 +566,8 @@
           }
         ],
         "eid": "us7000jm2z",
-        "location": "http://maps.google.com/maps?q=40.4529,20.7007",
-        "name": "M 4.9 - 12 km N of Ersekë, Albania",
+        "location": "http://maps.google.com/maps?q=40.4612,20.7119",
+        "name": "M 4.9 - 13 km NNE of Ersekë, Albania",
         "source": [
           {
             "sid": "USGS",
@@ -611,24 +611,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm54"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jm0w",
-        "location": "http://maps.google.com/maps?q=-8.8081,123.1543",
-        "name": "M 5.1 - 105 km ESE of Maumere, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0w"
       },
       {
         "category": [
@@ -705,24 +687,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jm0r",
-        "location": "http://maps.google.com/maps?q=39.4523,69.9525",
-        "name": "M 5.9 - 51 km NNW of Novobod, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0r"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -757,7 +721,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "23/Mar/2023 @ 13:00:07 PDT",
+    "last_update": "23/Mar/2023 @ 14:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -823,9 +787,9 @@
           -86.0928
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.4529,20.7007\"><b>M 4.9 - 12 km N of Ersekë, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm2z\">USGS</a>",
-          40.4529,
-          20.7007
+          "<a href=\"http://maps.google.com/maps?q=40.4612,20.7119\"><b>M 4.9 - 13 km NNE of Ersekë, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm2z\">USGS</a>",
+          40.4612,
+          20.7119
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.4149,144.2648\"><b>M 5.7 - 44 km SSE of Angoram, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm28\">USGS</a>",
@@ -846,16 +810,6 @@
           "<a href=\"http://maps.google.com/maps?q=23.6607,121.3256\"><b>M 4.2 - 45 km SW of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm1h\">USGS</a>",
           23.6607,
           121.3256
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-8.8081,123.1543\"><b>M 5.1 - 105 km ESE of Maumere, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0w\">USGS</a>",
-          -8.8081,
-          123.1543
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=39.4523,69.9525\"><b>M 5.9 - 51 km NNW of Novobod, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm0r\">USGS</a>",
-          39.4523,
-          69.9525
         ]
       ],
       "Floods": [],
@@ -2951,13 +2905,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (23/Mar/2023 PDT)"
+    "title": "39 events (23/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 13:00:50 PDT",
-  "last_update_epoch": 1679601650.311552,
+  "last_update": "23/Mar/2023 @ 14:00:43 PDT",
+  "last_update_epoch": 1679605243.284247,
   "neo": {
     "date": "23/Mar/2023 PDT",
-    "last_update": "23/Mar/2023 @ 13:00:12 PDT",
+    "last_update": "23/Mar/2023 @ 14:00:12 PDT",
     "objects": [
       {
         "cat": "23/Mar/2023 @ 09:57:00 ",
@@ -3165,7 +3119,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Mar/2023 @ 13:00:12 PDT",
+    "last_update": "23/Mar/2023 @ 14:00:12 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4951,7 +4905,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Mar/2023 @ 13:00:17 PDT",
+    "last_update": "23/Mar/2023 @ 14:00:18 PDT",
     "launches": {
       "future": [
         {
