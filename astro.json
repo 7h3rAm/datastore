@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "22/Mar/2023 @ 18:00:03 PDT",
+    "last_update": "22/Mar/2023 @ 19:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg",
     "title": "M31: The Andromeda Galaxy (22/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -475,24 +475,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlv0",
-        "location": "http://maps.google.com/maps?q=29.2963,130.4503",
-        "name": "M 4.6 - 104 km S of Yudomari, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jlvr",
         "location": "http://maps.google.com/maps?q=6.7221,126.0963",
         "name": "M 4.8 - 0 km WNW of Talisay, Philippines",
@@ -721,7 +703,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6332"
       }
     ],
-    "last_update": "22/Mar/2023 @ 18:00:05 PDT",
+    "last_update": "22/Mar/2023 @ 19:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -815,11 +797,6 @@
           "<a href=\"http://maps.google.com/maps?q=-3.5341,131.2272\"><b>M 4.5 - 257 km E of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv8\">USGS</a>",
           -3.5341,
           131.2272
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.2963,130.4503\"><b>M 4.6 - 104 km S of Yudomari, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlv0\">USGS</a>",
-          29.2963,
-          130.4503
         ]
       ],
       "Floods": [],
@@ -2905,13 +2882,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (22/Mar/2023 PDT)"
+    "title": "38 events (22/Mar/2023 PDT)"
   },
-  "last_update": "22/Mar/2023 @ 18:00:38 PDT",
-  "last_update_epoch": 1679533238.539121,
+  "last_update": "22/Mar/2023 @ 19:00:37 PDT",
+  "last_update_epoch": 1679536837.650893,
   "neo": {
     "date": "23/Mar/2023 PDT",
-    "last_update": "22/Mar/2023 @ 18:00:09 PDT",
+    "last_update": "22/Mar/2023 @ 19:00:09 PDT",
     "objects": [
       {
         "cat": "23/Mar/2023 @ 09:57:00 ",
@@ -3119,7 +3096,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "22/Mar/2023 @ 18:00:10 PDT",
+    "last_update": "22/Mar/2023 @ 19:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4905,7 +4882,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "22/Mar/2023 @ 18:00:15 PDT",
+    "last_update": "22/Mar/2023 @ 19:00:14 PDT",
     "launches": {
       "future": [
         {
