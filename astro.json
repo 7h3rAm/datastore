@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 08:00:03 PDT",
+    "last_update": "23/Mar/2023 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg",
     "title": "Spiral Galaxy NGC 2841 (23/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -673,24 +673,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jlxp",
-        "location": "http://maps.google.com/maps?q=-23.5608,-66.5151",
-        "name": "M 5.3 - Jujuy, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxp"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jm20",
         "location": "http://maps.google.com/maps?q=19.2526,121.1612",
         "name": "M 5.6 - 71 km N of Namuac, Philippines",
@@ -793,7 +775,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "23/Mar/2023 @ 08:00:09 PDT",
+    "last_update": "23/Mar/2023 @ 09:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -902,11 +884,6 @@
           "<a href=\"http://maps.google.com/maps?q=-23.4797,-66.5108\"><b>M 6.5 - 84 km NNW of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxu\">USGS</a>",
           -23.4797,
           -66.5108
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-23.5608,-66.5151\"><b>M 5.3 - Jujuy, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jlxp\">USGS</a>",
-          -23.5608,
-          -66.5151
         ]
       ],
       "Floods": [],
@@ -2997,13 +2974,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "43 events (23/Mar/2023 PDT)"
+    "title": "42 events (23/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 08:00:43 PDT",
-  "last_update_epoch": 1679583643.42634,
+  "last_update": "23/Mar/2023 @ 09:00:39 PDT",
+  "last_update_epoch": 1679587239.60314,
   "neo": {
     "date": "23/Mar/2023 PDT",
-    "last_update": "23/Mar/2023 @ 08:00:17 PDT",
+    "last_update": "23/Mar/2023 @ 09:00:10 PDT",
     "objects": [
       {
         "cat": "23/Mar/2023 @ 09:57:00 ",
@@ -3211,7 +3188,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Mar/2023 @ 08:00:17 PDT",
+    "last_update": "23/Mar/2023 @ 09:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4997,7 +4974,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Mar/2023 @ 08:00:22 PDT",
+    "last_update": "23/Mar/2023 @ 09:00:15 PDT",
     "launches": {
       "future": [
         {
