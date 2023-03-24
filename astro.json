@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 19:00:04 PDT",
+    "last_update": "23/Mar/2023 @ 20:01:17 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg",
     "title": "Spiral Galaxy NGC 2841 (23/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -385,27 +385,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jm39",
-        "location": "http://maps.google.com/maps?q=40.4066,20.6939",
-        "name": "M 4.0 - Greece-Albania border region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm39"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jm46",
         "location": "http://maps.google.com/maps?q=-34.0636,-70.2853",
-        "name": "M 4.1 - Chile-Argentina border region",
+        "name": "M 4.1 - 36 km ENE of Machalí, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -423,7 +405,7 @@
         ],
         "eid": "us7000jm4e",
         "location": "http://maps.google.com/maps?q=-16.3388,-75.1132",
-        "name": "M 4.2 - 100 km SW of Atiquipa, Peru",
+        "name": "M 4.2 - off the coast of southern Peru",
         "source": [
           {
             "sid": "USGS",
@@ -529,24 +511,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jm3d",
-        "location": "http://maps.google.com/maps?q=39.3485,69.7202",
-        "name": "M 4.6 - 52 km NW of Novobod, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3d"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jm8j",
         "location": "http://maps.google.com/maps?q=29.9884,141.8759",
         "name": "M 4.6 - Izu Islands, Japan region",
@@ -601,6 +565,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jmbe",
+        "location": "http://maps.google.com/maps?q=-6.9805,125.7025",
+        "name": "M 4.8 - 171 km N of Metinaro, Timor Leste",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmbe"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jm54",
         "location": "http://maps.google.com/maps?q=38.0255,36.4149",
         "name": "M 4.9 - Central Turkey",
@@ -619,27 +601,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jm3e",
-        "location": "http://maps.google.com/maps?q=-42.7554,-82.3794",
-        "name": "M 5.1 - West Chile Rise",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3e"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jm4b",
         "location": "http://maps.google.com/maps?q=-10.7091,164.6633",
-        "name": "M 5.2 - Santa Cruz Islands region",
+        "name": "M 5.2 - 124 km W of Lata, Solomon Islands",
         "source": [
           {
             "sid": "USGS",
@@ -685,11 +649,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "23/Mar/2023 @ 19:00:07 PDT",
+    "last_update": "23/Mar/2023 @ 20:01:20 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.9805,125.7025\"><b>M 4.8 - 171 km N of Metinaro, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmbe\">USGS</a>",
+          -6.9805,
+          125.7025
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=37.9518,36.3559\"><b>M 4.6 - 14 km WSW of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmay\">USGS</a>",
           37.9518,
@@ -721,12 +690,12 @@
           71.1837
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-16.3388,-75.1132\"><b>M 4.2 - 100 km SW of Atiquipa, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4e\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-16.3388,-75.1132\"><b>M 4.2 - off the coast of southern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4e\">USGS</a>",
           -16.3388,
           -75.1132
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-10.7091,164.6633\"><b>M 5.2 - Santa Cruz Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4b\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-10.7091,164.6633\"><b>M 5.2 - 124 km W of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4b\">USGS</a>",
           -10.7091,
           164.6633
         ],
@@ -736,7 +705,7 @@
           36.6267
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-34.0636,-70.2853\"><b>M 4.1 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm46\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-34.0636,-70.2853\"><b>M 4.1 - 36 km ENE of Machalí, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm46\">USGS</a>",
           -34.0636,
           -70.2853
         ],
@@ -749,21 +718,6 @@
           "<a href=\"http://maps.google.com/maps?q=40.416,20.627\"><b>M 4.4 - 9 km NNW of Ersekë, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3h\">USGS</a>",
           40.416,
           20.627
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-42.7554,-82.3794\"><b>M 5.1 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3e\">USGS</a>",
-          -42.7554,
-          -82.3794
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=39.3485,69.7202\"><b>M 4.6 - 52 km NW of Novobod, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3d\">USGS</a>",
-          39.3485,
-          69.7202
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=40.4066,20.6939\"><b>M 4.0 - Greece-Albania border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm39\">USGS</a>",
-          40.4066,
-          20.6939
         ]
       ],
       "Floods": [],
@@ -2859,13 +2813,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (23/Mar/2023 PDT)"
+    "title": "35 events (23/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 19:00:44 PDT",
-  "last_update_epoch": 1679623244.126678,
+  "last_update": "23/Mar/2023 @ 20:01:51 PDT",
+  "last_update_epoch": 1679626911.446404,
   "neo": {
     "date": "24/Mar/2023 PDT",
-    "last_update": "23/Mar/2023 @ 19:00:10 PDT",
+    "last_update": "23/Mar/2023 @ 20:01:23 PDT",
     "objects": [
       {
         "cat": "24/Mar/2023 @ 00:05:00 ",
@@ -3091,7 +3045,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Mar/2023 @ 19:00:11 PDT",
+    "last_update": "23/Mar/2023 @ 20:01:23 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4877,7 +4831,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Mar/2023 @ 19:00:16 PDT",
+    "last_update": "23/Mar/2023 @ 20:01:29 PDT",
     "launches": {
       "future": [
         {
