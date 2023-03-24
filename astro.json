@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Mar/2023 @ 11:00:03 PDT",
+    "last_update": "24/Mar/2023 @ 12:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg",
     "title": "Outbound Comet ZTF (24/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -529,24 +529,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jm8j",
-        "location": "http://maps.google.com/maps?q=29.9884,141.8759",
-        "name": "M 4.6 - Izu Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm8j"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmd7",
         "location": "http://maps.google.com/maps?q=-2.588,138.7956",
         "name": "M 4.7 - 204 km W of Abepura, Indonesia",
@@ -721,7 +703,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "24/Mar/2023 @ 11:00:05 PDT",
+    "last_update": "24/Mar/2023 @ 12:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -805,11 +787,6 @@
           "<a href=\"http://maps.google.com/maps?q=-36.7178,-70.4639\"><b>M 4.5 - 39 km NE of Las Ovejas, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm9s\">USGS</a>",
           -36.7178,
           -70.4639
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=29.9884,141.8759\"><b>M 4.6 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm8j\">USGS</a>",
-          29.9884,
-          141.8759
         ]
       ],
       "Floods": [],
@@ -2905,13 +2882,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (24/Mar/2023 PDT)"
+    "title": "38 events (24/Mar/2023 PDT)"
   },
-  "last_update": "24/Mar/2023 @ 11:00:36 PDT",
-  "last_update_epoch": 1679680836.233547,
+  "last_update": "24/Mar/2023 @ 12:00:32 PDT",
+  "last_update_epoch": 1679684432.946706,
   "neo": {
     "date": "24/Mar/2023 PDT",
-    "last_update": "24/Mar/2023 @ 11:00:09 PDT",
+    "last_update": "24/Mar/2023 @ 12:00:06 PDT",
     "objects": [
       {
         "cat": "24/Mar/2023 @ 00:05:00 ",
@@ -3137,7 +3114,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Mar/2023 @ 11:00:09 PDT",
+    "last_update": "24/Mar/2023 @ 12:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4923,7 +4900,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Mar/2023 @ 11:00:14 PDT",
+    "last_update": "24/Mar/2023 @ 12:00:11 PDT",
     "launches": {
       "future": [
         {
