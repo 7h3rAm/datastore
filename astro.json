@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 21:00:04 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg",
-    "title": "Spiral Galaxy NGC 2841 (23/Mar/2023 PDT)",
+    "last_update": "23/Mar/2023 @ 22:00:04 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg",
+    "title": "Outbound Comet ZTF (24/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -511,6 +511,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jmc9",
+        "location": "http://maps.google.com/maps?q=30.0053,141.8439",
+        "name": "M 4.7 - Izu Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmc9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jm4t",
         "location": "http://maps.google.com/maps?q=-7.6266,127.8385",
         "name": "M 4.8 - 135 km NE of Lospalos, Timor Leste",
@@ -565,6 +583,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jmc7",
+        "location": "http://maps.google.com/maps?q=29.964,141.8529",
+        "name": "M 5.0 - Izu Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmc7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jm4b",
         "location": "http://maps.google.com/maps?q=-10.7091,164.6633",
         "name": "M 5.2 - 124 km W of Lata, Solomon Islands",
@@ -575,6 +611,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4b"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jmc2",
+        "location": "http://maps.google.com/maps?q=29.9829,141.9136",
+        "name": "M 5.4 - Izu Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmc2"
       },
       {
         "category": [
@@ -631,11 +685,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "23/Mar/2023 @ 21:00:07 PDT",
+    "last_update": "23/Mar/2023 @ 22:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=29.964,141.8529\"><b>M 5.0 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmc7\">USGS</a>",
+          29.964,
+          141.8529
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=30.0053,141.8439\"><b>M 4.7 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmc9\">USGS</a>",
+          30.0053,
+          141.8439
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=29.9829,141.9136\"><b>M 5.4 - Izu Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmc2\">USGS</a>",
+          29.9829,
+          141.9136
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.462,44.8446\"><b>M 5.6 - 13 km SW of Khowy, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmbi\">USGS</a>",
           38.462,
@@ -2790,13 +2859,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "34 events (23/Mar/2023 PDT)"
+    "title": "37 events (23/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 21:00:36 PDT",
-  "last_update_epoch": 1679630436.351986,
+  "last_update": "23/Mar/2023 @ 22:00:42 PDT",
+  "last_update_epoch": 1679634042.222168,
   "neo": {
     "date": "24/Mar/2023 PDT",
-    "last_update": "23/Mar/2023 @ 21:00:08 PDT",
+    "last_update": "23/Mar/2023 @ 22:00:11 PDT",
     "objects": [
       {
         "cat": "24/Mar/2023 @ 00:05:00 ",
@@ -3022,7 +3091,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Mar/2023 @ 21:00:09 PDT",
+    "last_update": "23/Mar/2023 @ 22:00:11 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4808,7 +4877,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Mar/2023 @ 21:00:14 PDT",
+    "last_update": "23/Mar/2023 @ 22:00:18 PDT",
     "launches": {
       "future": [
         {
