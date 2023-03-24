@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 17:00:05 PDT",
+    "last_update": "23/Mar/2023 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg",
     "title": "Spiral Galaxy NGC 2841 (23/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -494,8 +494,8 @@
           }
         ],
         "eid": "us7000jm3h",
-        "location": "http://maps.google.com/maps?q=40.3901,20.736",
-        "name": "M 4.4 - 7 km NE of Ersekë, Albania",
+        "location": "http://maps.google.com/maps?q=40.416,20.627",
+        "name": "M 4.4 - 9 km NNW of Ersekë, Albania",
         "source": [
           {
             "sid": "USGS",
@@ -566,7 +566,7 @@
           }
         ],
         "eid": "us7000jm3l",
-        "location": "http://maps.google.com/maps?q=-42.5401,-82.6549",
+        "location": "http://maps.google.com/maps?q=-42.4953,-82.6052",
         "name": "M 4.7 - West Chile Rise",
         "source": [
           {
@@ -638,7 +638,7 @@
           }
         ],
         "eid": "us7000jm3e",
-        "location": "http://maps.google.com/maps?q=-42.7973,-82.4791",
+        "location": "http://maps.google.com/maps?q=-42.7554,-82.3794",
         "name": "M 5.1 - West Chile Rise",
         "source": [
           {
@@ -665,24 +665,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4b"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jm28",
-        "location": "http://maps.google.com/maps?q=-4.4149,144.2648",
-        "name": "M 5.7 - 44 km SSE of Angoram, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm28"
       },
       {
         "category": [
@@ -721,7 +703,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "23/Mar/2023 @ 17:00:07 PDT",
+    "last_update": "23/Mar/2023 @ 18:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -772,19 +754,19 @@
           -70.2853
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-42.5401,-82.6549\"><b>M 4.7 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3l\">USGS</a>",
-          -42.5401,
-          -82.6549
+          "<a href=\"http://maps.google.com/maps?q=-42.4953,-82.6052\"><b>M 4.7 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3l\">USGS</a>",
+          -42.4953,
+          -82.6052
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=40.3901,20.736\"><b>M 4.4 - 7 km NE of Ersekë, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3h\">USGS</a>",
-          40.3901,
-          20.736
+          "<a href=\"http://maps.google.com/maps?q=40.416,20.627\"><b>M 4.4 - 9 km NNW of Ersekë, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3h\">USGS</a>",
+          40.416,
+          20.627
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-42.7973,-82.4791\"><b>M 5.1 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3e\">USGS</a>",
-          -42.7973,
-          -82.4791
+          "<a href=\"http://maps.google.com/maps?q=-42.7554,-82.3794\"><b>M 5.1 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3e\">USGS</a>",
+          -42.7554,
+          -82.3794
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=39.3485,69.7202\"><b>M 4.6 - 52 km NW of Novobod, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm3d\">USGS</a>",
@@ -805,11 +787,6 @@
           "<a href=\"http://maps.google.com/maps?q=40.4612,20.7119\"><b>M 4.9 - 13 km NNE of Ersekë, Albania</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm2z\">USGS</a>",
           40.4612,
           20.7119
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-4.4149,144.2648\"><b>M 5.7 - 44 km SSE of Angoram, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm28\">USGS</a>",
-          -4.4149,
-          144.2648
         ]
       ],
       "Floods": [],
@@ -2905,13 +2882,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (23/Mar/2023 PDT)"
+    "title": "38 events (23/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 17:00:44 PDT",
-  "last_update_epoch": 1679616044.98252,
+  "last_update": "23/Mar/2023 @ 18:00:40 PDT",
+  "last_update_epoch": 1679619640.98149,
   "neo": {
     "date": "24/Mar/2023 PDT",
-    "last_update": "23/Mar/2023 @ 17:00:11 PDT",
+    "last_update": "23/Mar/2023 @ 18:00:10 PDT",
     "objects": [
       {
         "cat": "24/Mar/2023 @ 00:05:00 ",
@@ -3137,7 +3114,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Mar/2023 @ 17:00:11 PDT",
+    "last_update": "23/Mar/2023 @ 18:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4923,7 +4900,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Mar/2023 @ 17:00:17 PDT",
+    "last_update": "23/Mar/2023 @ 18:00:17 PDT",
     "launches": {
       "future": [
         {
