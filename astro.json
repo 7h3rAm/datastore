@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Mar/2023 @ 05:00:03 PDT",
+    "last_update": "24/Mar/2023 @ 06:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg",
     "title": "Outbound Comet ZTF (24/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -493,6 +493,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jmdy",
+        "location": "http://maps.google.com/maps?q=-10.8109,113.3166",
+        "name": "M 4.6 - 279 km S of Kencong, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmdy"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jm8j",
         "location": "http://maps.google.com/maps?q=29.9884,141.8759",
         "name": "M 4.6 - Izu Islands, Japan region",
@@ -529,24 +547,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmct",
-        "location": "http://maps.google.com/maps?q=36.4291,140.3217",
-        "name": "M 4.7 - 7 km NE of Kasama, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmc9",
         "location": "http://maps.google.com/maps?q=30.0053,141.8439",
         "name": "M 4.7 - Izu Islands, Japan region",
@@ -557,6 +557,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmc9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jmct",
+        "location": "http://maps.google.com/maps?q=36.4291,140.3217",
+        "name": "M 4.7 - near the east coast of Honshu, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct"
       },
       {
         "category": [
@@ -667,11 +685,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "24/Mar/2023 @ 05:00:05 PDT",
+    "last_update": "24/Mar/2023 @ 06:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-10.8109,113.3166\"><b>M 4.6 - 279 km S of Kencong, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmdy\">USGS</a>",
+          -10.8109,
+          113.3166
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-7.1076,125.9529\"><b>M 4.5 - 155 km N of Manatutu, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmdp\">USGS</a>",
           -7.1076,
@@ -683,7 +706,7 @@
           138.7956
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.4291,140.3217\"><b>M 4.7 - 7 km NE of Kasama, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.4291,140.3217\"><b>M 4.7 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct\">USGS</a>",
           36.4291,
           140.3217
         ],
@@ -2836,13 +2859,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (24/Mar/2023 PDT)"
+    "title": "37 events (24/Mar/2023 PDT)"
   },
-  "last_update": "24/Mar/2023 @ 05:00:37 PDT",
-  "last_update_epoch": 1679659237.781949,
+  "last_update": "24/Mar/2023 @ 06:00:36 PDT",
+  "last_update_epoch": 1679662836.598887,
   "neo": {
     "date": "24/Mar/2023 PDT",
-    "last_update": "24/Mar/2023 @ 05:00:08 PDT",
+    "last_update": "24/Mar/2023 @ 06:00:08 PDT",
     "objects": [
       {
         "cat": "24/Mar/2023 @ 00:05:00 ",
@@ -3068,7 +3091,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Mar/2023 @ 05:00:08 PDT",
+    "last_update": "24/Mar/2023 @ 06:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4854,7 +4877,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Mar/2023 @ 05:00:13 PDT",
+    "last_update": "24/Mar/2023 @ 06:00:13 PDT",
     "launches": {
       "future": [
         {
