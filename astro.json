@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Mar/2023 @ 15:00:03 PDT",
+    "last_update": "24/Mar/2023 @ 16:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg",
     "title": "Outbound Comet ZTF (24/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -685,7 +685,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "24/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "24/Mar/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -2861,11 +2861,11 @@
     },
     "title": "37 events (24/Mar/2023 PDT)"
   },
-  "last_update": "24/Mar/2023 @ 15:00:38 PDT",
-  "last_update_epoch": 1679695238.178306,
+  "last_update": "24/Mar/2023 @ 16:00:37 PDT",
+  "last_update_epoch": 1679698837.555114,
   "neo": {
     "date": "24/Mar/2023 PDT",
-    "last_update": "24/Mar/2023 @ 15:00:09 PDT",
+    "last_update": "24/Mar/2023 @ 16:00:08 PDT",
     "objects": [
       {
         "cat": "24/Mar/2023 @ 00:05:00 ",
@@ -3091,7 +3091,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Mar/2023 @ 15:00:09 PDT",
+    "last_update": "24/Mar/2023 @ 16:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4877,7 +4877,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Mar/2023 @ 15:00:14 PDT",
+    "last_update": "24/Mar/2023 @ 16:00:14 PDT",
     "launches": {
       "future": [
         {
