@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "23/Mar/2023 @ 23:00:04 PDT",
+    "last_update": "24/Mar/2023 @ 00:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg",
     "title": "Outbound Comet ZTF (24/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "23/Mar/2023 PDT",
+    "date": "24/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -385,24 +385,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jm4e",
-        "location": "http://maps.google.com/maps?q=-16.3388,-75.1132",
-        "name": "M 4.2 - 100 km SW of Atiquipa, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4e"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmc0",
         "location": "http://maps.google.com/maps?q=29.6008,81.8438",
         "name": "M 4.2 - 48 km NW of Jumla, Nepal",
@@ -667,7 +649,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "23/Mar/2023 @ 23:00:06 PDT",
+    "last_update": "24/Mar/2023 @ 00:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -736,11 +718,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.344,71.1837\"><b>M 4.3 - 48 km SW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4q\">USGS</a>",
           36.344,
           71.1837
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-16.3388,-75.1132\"><b>M 4.2 - 100 km SW of Atiquipa, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jm4e\">USGS</a>",
-          -16.3388,
-          -75.1132
         ]
       ],
       "Floods": [],
@@ -2836,13 +2813,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (23/Mar/2023 PDT)"
+    "title": "35 events (24/Mar/2023 PDT)"
   },
-  "last_update": "23/Mar/2023 @ 23:01:07 PDT",
-  "last_update_epoch": 1679637667.161339,
+  "last_update": "24/Mar/2023 @ 00:00:40 PDT",
+  "last_update_epoch": 1679641240.305078,
   "neo": {
     "date": "24/Mar/2023 PDT",
-    "last_update": "23/Mar/2023 @ 23:00:07 PDT",
+    "last_update": "24/Mar/2023 @ 00:00:09 PDT",
     "objects": [
       {
         "cat": "24/Mar/2023 @ 00:05:00 ",
@@ -3001,7 +2978,7 @@
     "title": "17 objects making close approach (24/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "23/Mar/2023 PDT",
+    "date": "24/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 22/Mar/2023 @ 14:49:30 PDT.",
@@ -3068,7 +3045,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "23/Mar/2023 @ 23:00:07 PDT",
+    "last_update": "24/Mar/2023 @ 00:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -3121,7 +3098,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (23/Mar/2023 PDT)"
+    "title": "10 people in space (24/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -4854,7 +4831,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "23/Mar/2023 @ 23:00:45 PDT",
+    "last_update": "24/Mar/2023 @ 00:00:15 PDT",
     "launches": {
       "future": [
         {
