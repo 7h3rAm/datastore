@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Mar/2023 @ 23:00:04 PDT",
+    "last_update": "25/Mar/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg",
     "title": "Venus and the Da Vinci Glow (25/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "24/Mar/2023 PDT",
+    "date": "25/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -367,27 +367,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmfv",
-        "location": "http://maps.google.com/maps?q=13.6784,-90.5296",
-        "name": "M 4.2 - 34 km SE of Iztapa, Guatemala",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmfv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmmj",
         "location": "http://maps.google.com/maps?q=16.1254,-96.2306",
-        "name": "M 4.3 - Oaxaca, Mexico",
+        "name": "M 4.3 - 2 km NNW of San Francisco Ozolotepec, Mexico",
         "source": [
           {
             "sid": "USGS",
@@ -405,7 +387,7 @@
         ],
         "eid": "us7000jmme",
         "location": "http://maps.google.com/maps?q=37.9894,36.9839",
-        "name": "M 4.4 - Central Turkey",
+        "name": "M 4.4 - 19 km WSW of Ekinözü, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -413,6 +395,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jme6",
+        "location": "http://maps.google.com/maps?q=37.9773,37.526",
+        "name": "M 4.4 - 7 km ENE of Nurhak, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6"
       },
       {
         "category": [
@@ -431,24 +431,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmlr"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jme6",
-        "location": "http://maps.google.com/maps?q=37.9773,37.526",
-        "name": "M 4.4 - central Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6"
       },
       {
         "category": [
@@ -513,7 +495,7 @@
         ],
         "eid": "us7000jmct",
         "location": "http://maps.google.com/maps?q=36.4291,140.3217",
-        "name": "M 4.7 - near the east coast of Honshu, Japan",
+        "name": "M 4.7 - 7 km NE of Kasama, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -577,13 +559,13 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "24/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "25/Mar/2023 @ 00:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=37.9894,36.9839\"><b>M 4.4 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.9894,36.9839\"><b>M 4.4 - 19 km WSW of Ekinözü, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme\">USGS</a>",
           37.9894,
           36.9839
         ],
@@ -593,17 +575,12 @@
           -178.0797
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=16.1254,-96.2306\"><b>M 4.3 - Oaxaca, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmmj\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=16.1254,-96.2306\"><b>M 4.3 - 2 km NNW of San Francisco Ozolotepec, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmmj\">USGS</a>",
           16.1254,
           -96.2306
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=13.6784,-90.5296\"><b>M 4.2 - 34 km SE of Iztapa, Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmfv\">USGS</a>",
-          13.6784,
-          -90.5296
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.9773,37.526\"><b>M 4.4 - central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.9773,37.526\"><b>M 4.4 - 7 km ENE of Nurhak, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6\">USGS</a>",
           37.9773,
           37.526
         ],
@@ -628,7 +605,7 @@
           138.7956
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.4291,140.3217\"><b>M 4.7 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.4291,140.3217\"><b>M 4.7 - 7 km NE of Kasama, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct\">USGS</a>",
           36.4291,
           140.3217
         ],
@@ -2721,13 +2698,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "31 events (24/Mar/2023 PDT)"
+    "title": "30 events (25/Mar/2023 PDT)"
   },
-  "last_update": "24/Mar/2023 @ 23:00:34 PDT",
-  "last_update_epoch": 1679724034.822644,
+  "last_update": "25/Mar/2023 @ 00:00:35 PDT",
+  "last_update_epoch": 1679727635.261946,
   "neo": {
     "date": "25/Mar/2023 PDT",
-    "last_update": "24/Mar/2023 @ 23:00:09 PDT",
+    "last_update": "25/Mar/2023 @ 00:00:08 PDT",
     "objects": [
       {
         "cat": "25/Mar/2023 @ 05:37:00 ",
@@ -2868,7 +2845,7 @@
     "title": "15 objects making close approach (25/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "24/Mar/2023 PDT",
+    "date": "25/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 23/Mar/2023 @ 14:40:10 PDT.",
@@ -2935,7 +2912,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Mar/2023 @ 23:00:09 PDT",
+    "last_update": "25/Mar/2023 @ 00:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -2988,7 +2965,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (24/Mar/2023 PDT)"
+    "title": "10 people in space (25/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -4721,7 +4698,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Mar/2023 @ 23:00:15 PDT",
+    "last_update": "25/Mar/2023 @ 00:00:14 PDT",
     "launches": {
       "future": [
         {
