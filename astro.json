@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "25/Mar/2023 @ 09:00:03 PDT",
+    "last_update": "25/Mar/2023 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg",
     "title": "Venus and the Da Vinci Glow (25/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -587,6 +587,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jmpa",
+        "location": "http://maps.google.com/maps?q=32.7705,-39.7916",
+        "name": "M 4.7 - northern Mid-Atlantic Ridge",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmpa"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jmnp",
         "location": "http://maps.google.com/maps?q=-21.0439,173.485",
         "name": "M 5.0 - Vanuatu region",
@@ -635,11 +653,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "25/Mar/2023 @ 09:00:05 PDT",
+    "last_update": "25/Mar/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=32.7705,-39.7916\"><b>M 4.7 - northern Mid-Atlantic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmpa\">USGS</a>",
+          32.7705,
+          -39.7916
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=22.6673,95.3275\"><b>M 4.3 - 39 km WNW of Shwebo, Myanmar</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmp2\">USGS</a>",
           22.6673,
@@ -3639,13 +3662,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "34 events (25/Mar/2023 PDT)"
+    "title": "35 events (25/Mar/2023 PDT)"
   },
-  "last_update": "25/Mar/2023 @ 09:00:47 PDT",
-  "last_update_epoch": 1679760047.449316,
+  "last_update": "25/Mar/2023 @ 10:00:35 PDT",
+  "last_update_epoch": 1679763635.84315,
   "neo": {
     "date": "25/Mar/2023 PDT",
-    "last_update": "25/Mar/2023 @ 09:00:09 PDT",
+    "last_update": "25/Mar/2023 @ 10:00:09 PDT",
     "objects": [
       {
         "cat": "25/Mar/2023 @ 05:37:00 ",
@@ -3853,7 +3876,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "25/Mar/2023 @ 09:00:09 PDT",
+    "last_update": "25/Mar/2023 @ 10:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5639,7 +5662,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "25/Mar/2023 @ 09:00:15 PDT",
+    "last_update": "25/Mar/2023 @ 10:00:15 PDT",
     "launches": {
       "future": [
         {
