@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Mar/2023 @ 17:00:04 PDT",
+    "last_update": "24/Mar/2023 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg",
     "title": "Outbound Comet ZTF (24/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -441,7 +441,7 @@
         ],
         "eid": "us7000jme6",
         "location": "http://maps.google.com/maps?q=37.9773,37.526",
-        "name": "M 4.4 - 7 km ENE of Nurhak, Turkey",
+        "name": "M 4.4 - central Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -467,24 +467,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmdp"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jmay",
-        "location": "http://maps.google.com/maps?q=37.9518,36.3559",
-        "name": "M 4.6 - 14 km WSW of Göksun, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmay"
       },
       {
         "category": [
@@ -529,24 +511,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmct",
-        "location": "http://maps.google.com/maps?q=36.4291,140.3217",
-        "name": "M 4.7 - 7 km NE of Kasama, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmc9",
         "location": "http://maps.google.com/maps?q=30.0053,141.8439",
         "name": "M 4.7 - Izu Islands, Japan region",
@@ -557,6 +521,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmc9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jmct",
+        "location": "http://maps.google.com/maps?q=36.4291,140.3217",
+        "name": "M 4.7 - near the east coast of Honshu, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct"
       },
       {
         "category": [
@@ -685,13 +667,13 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "24/Mar/2023 @ 17:00:06 PDT",
+    "last_update": "24/Mar/2023 @ 18:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=37.9773,37.526\"><b>M 4.4 - 7 km ENE of Nurhak, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.9773,37.526\"><b>M 4.4 - central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6\">USGS</a>",
           37.9773,
           37.526
         ],
@@ -716,7 +698,7 @@
           138.7956
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.4291,140.3217\"><b>M 4.7 - 7 km NE of Kasama, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.4291,140.3217\"><b>M 4.7 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct\">USGS</a>",
           36.4291,
           140.3217
         ],
@@ -759,11 +741,6 @@
           "<a href=\"http://maps.google.com/maps?q=-6.9805,125.7025\"><b>M 4.8 - 171 km N of Metinaro, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmbe\">USGS</a>",
           -6.9805,
           125.7025
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.9518,36.3559\"><b>M 4.6 - 14 km WSW of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmay\">USGS</a>",
-          37.9518,
-          36.3559
         ]
       ],
       "Floods": [],
@@ -2859,13 +2836,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (24/Mar/2023 PDT)"
+    "title": "36 events (24/Mar/2023 PDT)"
   },
-  "last_update": "24/Mar/2023 @ 17:00:37 PDT",
-  "last_update_epoch": 1679702437.26058,
+  "last_update": "24/Mar/2023 @ 18:00:49 PDT",
+  "last_update_epoch": 1679706049.637146,
   "neo": {
     "date": "25/Mar/2023 PDT",
-    "last_update": "24/Mar/2023 @ 17:00:10 PDT",
+    "last_update": "24/Mar/2023 @ 18:00:09 PDT",
     "objects": [
       {
         "cat": "25/Mar/2023 @ 05:37:00 ",
@@ -3073,7 +3050,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Mar/2023 @ 17:00:10 PDT",
+    "last_update": "24/Mar/2023 @ 18:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4859,7 +4836,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Mar/2023 @ 17:00:15 PDT",
+    "last_update": "24/Mar/2023 @ 18:00:15 PDT",
     "launches": {
       "future": [
         {
