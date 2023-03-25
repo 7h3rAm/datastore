@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "25/Mar/2023 @ 07:00:04 PDT",
+    "last_update": "25/Mar/2023 @ 08:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg",
     "title": "Venus and the Da Vinci Glow (25/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -112,7 +112,7 @@
           }
         ],
         "eid": "EONET_5357",
-        "location": "https://www.google.com/maps/dir/-75.1,-59.43/-74.51,-59.03/-74.06,-59.24/-73.57,-59.34/-73.02,-59.4/-71.4,-56.85/-70.92,-56.3/-70.46,-56.22/-69.8,-56.03/-69.17,-55.87/-68.54,-55.97/-68.01,-55.92/-67.31,-55.61/-66.54,-55.12/-66.05,-54.51/-64.92,-54.16/-64.5,-53.69/-64.0,-52.95/-63.68,-52.19/-63.24,-51.97/-62.86,-52.68/-62.49,-53.27/-62.07,-53.63/-61.75,-52.93/-61.28,-52.39/-60.8,-52.08/-60.17,-50.89/-59.72,-50.42/-59.03,-50.45/-59.17,-49.0/-58.75,-48.62/-58.32,-48.17/-57.39,-47.78/-56.49,-47.24/-55.57,-47.2/-55.78,-45.68/@-75.1,-59.43,3z",
+        "location": "https://www.google.com/maps/dir/-75.1,-59.43/-74.51,-59.03/-74.06,-59.24/-73.57,-59.34/-73.02,-59.4/-71.4,-56.85/-70.92,-56.3/-70.46,-56.22/-69.8,-56.03/-69.17,-55.87/-68.54,-55.97/-68.01,-55.92/-67.31,-55.61/-66.54,-55.12/-66.05,-54.51/-64.92,-54.16/-64.5,-53.69/-64.0,-52.95/-63.68,-52.19/-63.24,-51.97/-62.86,-52.68/-62.49,-53.27/-62.07,-53.63/-61.75,-52.93/-61.28,-52.39/-60.8,-52.08/-60.17,-50.89/-59.72,-50.42/-59.03,-50.45/-59.17,-49.0/-58.75,-48.62/-58.32,-48.17/-57.39,-47.78/-56.49,-47.24/-55.57,-47.2/-55.78,-45.68/-56.37,-44.83/@-75.1,-59.43,3z",
         "name": "Iceberg A76A",
         "source": [
           {
@@ -121,6 +121,24 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5357"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🧊",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
+          }
+        ],
+        "eid": "EONET_5358",
+        "location": "https://www.google.com/maps/dir/-75.09,-57.49/-74.61,-58.2/-74.13,-59.2/-72.89,-58.94/-72.28,-58.88/-71.71,-59.04/-71.27,-59.67/-70.66,-59.79/-70.21,-59.81/-69.71,-59.86/-69.07,-59.98/-68.56,-59.45/-68.11,-59.61/-67.66,-59.53/-67.2,-59.8/-66.81,-59.11/-66.42,-59.82/@-75.09,-57.49,3z",
+        "name": "Iceberg A76B",
+        "source": [
+          {
+            "sid": "NATICE",
+            "url": "https://usicecenter.gov/Products/AntarcIcebergs"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5358"
       },
       {
         "category": [
@@ -184,7 +202,7 @@
           }
         ],
         "eid": "EONET_4125",
-        "location": "https://www.google.com/maps/dir/-65.98,51.31/-66.13,49.16/-66.98,45.05/@-65.98,51.31,3z",
+        "location": "https://www.google.com/maps/dir/-65.98,51.31/-66.13,49.16/-66.98,45.05/-66.36,45.27/@-65.98,51.31,3z",
         "name": "Iceberg B15AB",
         "source": [
           {
@@ -259,8 +277,26 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
           }
         ],
+        "eid": "EONET_4133",
+        "location": "https://www.google.com/maps/dir/-65.47,113.9/-65.3,109.47/-64.93,108.25/-64.95,105.93/-64.65,102.16/-64.95,100.94/-64.74,99.79/-64.33,98.0/-64.38,96.02/-64.77,94.09/-65.3,94.61/-65.96,93.5/-66.25,90.98/-66.6,89.54/-66.37,88.26/@-65.47,113.9,3z",
+        "name": "Iceberg C18B",
+        "source": [
+          {
+            "sid": "NATICE",
+            "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_4133"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🧊",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
+          }
+        ],
         "eid": "EONET_4145",
-        "location": "https://www.google.com/maps/dir/-67.27,81.86/-67.26,80.2/-67.64,79.26/-68.21,77.42/-68.33,76.03/-67.96,74.67/-67.95,73.34/-67.34,71.83/-66.9,69.08/-66.91,67.0/-66.61,64.01/-66.73,61.31/-66.64,59.49/-66.37,58.53/-65.94,57.41/-65.61,55.62/-65.54,52.69/-65.83,51.0/-66.15,49.13/-66.48,48.07/-66.69,46.91/-66.78,45.6/-67.14,44.49/-67.43,43.08/-67.89,40.96/-68.15,38.24/-68.29,36.65/-68.55,31.89/-69.22,23.14/-69.73,24.17/-69.84,19.89/-69.2,15.43/-68.92,12.6/-68.22,12.87/-67.47,12.78/-67.3,11.2/-66.78,11.53/-66.76,10.36/-67.5,9.46/-67.8,8.13/-68.26,7.21/-68.7,3.96/-68.88,2.17/-68.9,-0.6/-69.09,-2.17/-69.38,-3.25/-69.45,-6.07/-70.17,-8.1/-70.79,-10.97/-71.55,-14.94/-72.24,-16.8/-72.5,-18.24/-73.2,-20.76/-73.68,-22.85/-73.74,-25.03/-73.36,-27.2/-73.68,-28.38/-73.99,-26.77/-74.51,-26.72/-74.65,-28.36/@-67.27,81.86,3z",
+        "location": "https://www.google.com/maps/dir/-67.27,81.86/-67.26,80.2/-67.64,79.26/-68.21,77.42/-68.33,76.03/-67.96,74.67/-67.95,73.34/-67.34,71.83/-66.9,69.08/-66.91,67.0/-66.61,64.01/-66.73,61.31/-66.64,59.49/-66.37,58.53/-65.94,57.41/-65.61,55.62/-65.54,52.69/-65.83,51.0/-66.15,49.13/-66.48,48.07/-66.69,46.91/-66.78,45.6/-67.14,44.49/-67.43,43.08/-67.89,40.96/-68.15,38.24/-68.29,36.65/-68.55,31.89/-69.22,23.14/-69.73,24.17/-69.84,19.89/-69.2,15.43/-68.92,12.6/-68.22,12.87/-67.47,12.78/-67.3,11.2/-66.78,11.53/-66.76,10.36/-67.5,9.46/-67.8,8.13/-68.26,7.21/-68.7,3.96/-68.88,2.17/-68.9,-0.6/-69.09,-2.17/-69.38,-3.25/-69.45,-6.07/-70.17,-8.1/-70.79,-10.97/-71.55,-14.94/-72.24,-16.8/-72.5,-18.24/-73.2,-20.76/-73.68,-22.85/-73.74,-25.03/-73.36,-27.2/-73.68,-28.38/-73.99,-26.77/-74.51,-26.72/-74.65,-28.36/-73.76,-28.6/@-67.27,81.86,3z",
         "name": "Iceberg D27",
         "source": [
           {
@@ -269,6 +305,28 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_4145"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🧊",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
+          }
+        ],
+        "eid": "EONET_4440",
+        "location": "https://www.google.com/maps/dir/-68.55,72.21/-68.32,70.99/-67.86,71.24/-67.37,72.02/-67.36,73.25/-67.02,74.07/-66.57,73.35/-66.31,71.85/-66.66,69.81/-66.87,68.44/-66.74,65.87/-66.66,64.69/-66.5,62.81/-66.47,61.52/-66.58,59.99/-66.38,58.98/-65.92,57.88/-65.57,56.31/-65.43,55.2/-66.18,49.33/-66.32,47.35/-66.85,45.85/-66.99,44.73/-67.26,43.56/-67.77,40.97/-68.16,39.42/-68.18,37.23/-67.97,34.52/-68.2,32.93/-68.73,30.8/-69.51,27.11/-69.82,24.73/-69.69,20.78/-69.33,17.66/-69.08,15.52/-69.1,13.5/-69.25,11.38/-69.52,8.37/-69.82,6.15/-69.89,4.34/-69.54,1.09/-69.43,-1.7/-69.92,-3.95/-70.0,-6.09/-70.19,-7.51/-70.43,-9.61/-70.61,-10.99/-70.86,-12.15/-71.37,-15.28/-72.43,-18.73/-74.1,-26.78/-74.51,-28.16/-74.43,-30.15/-74.52,-32.3/-74.35,-34.96/-74.26,-37.72/-74.4,-39.89/-73.97,-41.56/-73.37,-42.69/-73.0,-43.81/-72.52,-46.13/-72.18,-47.48/-72.02,-48.98/-71.86,-50.61/-71.72,-52.41/-71.39,-54.09/-70.87,-55.54/-70.39,-56.11/-69.66,-55.69/-69.15,-55.55/-68.56,-55.18/@-68.55,72.21,3z",
+        "name": "Iceberg D28",
+        "source": [
+          {
+            "sid": "EO",
+            "url": "https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf"
+          },
+          {
+            "sid": "NATICE",
+            "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_4440"
       },
       {
         "category": [
@@ -295,8 +353,26 @@
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
           }
         ],
+        "eid": "EONET_5388",
+        "location": "https://www.google.com/maps/dir/-69.96,22.16/-69.79,19.79/-69.53,17.49/-69.1,13.67/-69.74,10.57/-69.65,8.64/-69.76,7.08/-70.06,4.45/-69.84,1.96/-69.57,-1.7/-70.0,-3.09/-70.09,-4.72/-70.35,-7.02/-70.36,-8.44/-72.24,-17.07/-73.16,-20.98/-73.66,-24.42/-74.17,-26.78/-74.65,-28.29/-74.36,-31.21/-74.79,-33.48/-74.45,-35.97/-74.57,-39.05/-74.23,-40.16/-73.95,-41.9/-73.44,-43.34/-73.08,-44.57/-72.77,-45.85/-72.42,-46.98/-72.15,-48.36/-71.92,-49.95/-71.72,-51.71/-71.48,-53.28/-70.91,-54.72/-70.5,-55.43/-69.95,-55.82/-69.34,-55.4/-68.83,-55.07/@-69.96,22.16,3z",
+        "name": "Iceberg D29B",
+        "source": [
+          {
+            "sid": "NATICE",
+            "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5388"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🧊",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
+          }
+        ],
         "eid": "EONET_5389",
-        "location": "https://www.google.com/maps/dir/-69.77,22.15/-69.5,18.62/-68.86,15.34/-69.1,12.84/-69.48,10.46/-69.61,8.42/-69.92,7.29/-69.94,3.84/-69.87,1.69/-69.88,-2.01/-70.12,-4.0/-70.17,-5.82/-70.27,-8.49/-70.5,-10.23/-70.68,-11.65/-71.6,-15.35/-72.4,-17.7/-73.5,-26.01/-73.7,-28.56/-73.39,-30.9/-72.95,-31.92/-73.14,-34.2/-72.81,-35.38/-71.94,-36.51/-71.48,-37.74/-72.52,-39.87/-72.04,-40.74/-71.48,-42.1/-70.93,-42.1/-70.9,-43.8/-70.57,-44.78/-70.26,-45.85/-69.69,-45.32/-69.09,-45.62/-69.22,-47.35/-68.76,-47.51/-68.58,-48.79/@-69.77,22.15,3z",
+        "location": "https://www.google.com/maps/dir/-69.77,22.15/-69.5,18.62/-68.86,15.34/-69.1,12.84/-69.48,10.46/-69.61,8.42/-69.92,7.29/-69.94,3.84/-69.87,1.69/-69.88,-2.01/-70.12,-4.0/-70.17,-5.82/-70.27,-8.49/-70.5,-10.23/-70.68,-11.65/-71.6,-15.35/-72.4,-17.7/-73.5,-26.01/-73.7,-28.56/-73.39,-30.9/-72.95,-31.92/-73.14,-34.2/-72.81,-35.38/-71.94,-36.51/-71.48,-37.74/-72.52,-39.87/-72.04,-40.74/-71.48,-42.1/-70.93,-42.1/-70.9,-43.8/-70.57,-44.78/-70.26,-45.85/-69.69,-45.32/-69.09,-45.62/-69.22,-47.35/-68.76,-47.51/-68.58,-48.79/-68.42,-50.08/@-69.77,22.15,3z",
         "name": "Iceberg D29C",
         "source": [
           {
@@ -314,7 +390,7 @@
           }
         ],
         "eid": "EONET_5390",
-        "location": "https://www.google.com/maps/dir/-69.46,18.59/-69.19,15.82/-69.11,13.07/-69.07,11.52/-69.48,10.08/-69.57,8.5/-69.74,6.26/-69.89,3.58/-69.4,-0.36/-70.01,-3.9/-70.35,-7.66/-70.34,-9.48/-70.83,-11.34/-70.97,-13.21/-71.49,-14.88/-71.84,-16.89/-72.34,-18.24/-72.51,-19.85/-73.19,-22.26/-73.69,-26.38/-74.44,-31.04/-74.29,-32.92/-74.45,-35.91/-74.31,-37.69/-73.97,-39.2/-73.52,-41.34/-73.21,-42.84/-73.93,-43.33/-73.45,-43.86/-73.12,-44.96/-72.59,-45.87/-72.39,-47.37/-72.13,-49.04/-71.79,-51.13/-71.3,-51.99/-70.7,-53.0/-70.3,-54.78/-69.65,-54.67/-69.09,-54.94/-68.54,-55.11/-67.92,-55.05/-67.26,-54.92/-66.72,-54.73/-66.15,-54.36/@-69.46,18.59,3z",
+        "location": "https://www.google.com/maps/dir/-69.46,18.59/-69.19,15.82/-69.11,13.07/-69.07,11.52/-69.48,10.08/-69.57,8.5/-69.74,6.26/-69.89,3.58/-69.4,-0.36/-70.01,-3.9/-70.35,-7.66/-70.34,-9.48/-70.83,-11.34/-70.97,-13.21/-71.49,-14.88/-71.84,-16.89/-72.34,-18.24/-72.51,-19.85/-73.19,-22.26/-73.69,-26.38/-74.44,-31.04/-74.29,-32.92/-74.45,-35.91/-74.31,-37.69/-73.97,-39.2/-73.52,-41.34/-73.21,-42.84/-73.93,-43.33/-73.45,-43.86/-73.12,-44.96/-72.59,-45.87/-72.39,-47.37/-72.13,-49.04/-71.79,-51.13/-71.3,-51.99/-70.7,-53.0/-70.3,-54.78/-69.65,-54.67/-69.09,-54.94/-68.54,-55.11/-67.92,-55.05/-67.26,-54.92/-66.72,-54.73/-66.15,-54.36/-65.67,-54.11/@-69.46,18.59,3z",
         "name": "Iceberg D30A",
         "source": [
           {
@@ -323,6 +399,24 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5390"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🧊",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
+          }
+        ],
+        "eid": "EONET_6007",
+        "location": "https://www.google.com/maps/dir/-69.89,2.34/-69.66,0.74/-69.8,-2.0/-69.98,-3.58/-70.22,-4.85/-70.3,-7.57/-70.69,-9.64/-71.14,-12.61/-72.68,-19.39/-73.3,-22.05/-73.53,-25.68/-73.52,-30.36/-73.5,-33.17/-74.06,-33.42/-74.58,-33.91/-73.95,-35.81/-73.64,-38.48/-73.2,-39.02/-72.53,-40.74/-72.17,-41.85/-71.93,-43.28/-71.45,-45.09/-71.27,-46.69/-71.02,-47.89/-70.47,-49.4/-70.23,-50.67/-70.01,-52.37/-69.97,-53.75/@-69.89,2.34,3z",
+        "name": "Iceberg D31",
+        "source": [
+          {
+            "sid": "NATICE",
+            "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6007"
       },
       {
         "category": [
@@ -341,24 +435,6 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6288"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jmfv",
-        "location": "http://maps.google.com/maps?q=13.6784,-90.5296",
-        "name": "M 4.2 - 34 km SE of Iztapa, Guatemala",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmfv"
       },
       {
         "category": [
@@ -421,24 +497,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmmj",
-        "location": "http://maps.google.com/maps?q=16.1254,-96.2306",
-        "name": "M 4.3 - Oaxaca, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmmj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmnk",
         "location": "http://maps.google.com/maps?q=-5.2969,102.0212",
         "name": "M 4.4 - 167 km S of Bengkulu, Indonesia",
@@ -459,7 +517,7 @@
         ],
         "eid": "us7000jmme",
         "location": "http://maps.google.com/maps?q=37.9894,36.9839",
-        "name": "M 4.4 - Central Turkey",
+        "name": "M 4.4 - 19 km WSW of Ekinözü, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -495,7 +553,7 @@
         ],
         "eid": "us7000jmn5",
         "location": "http://maps.google.com/maps?q=-22.909,-68.8085",
-        "name": "M 4.6 - Antofagasta, Chile",
+        "name": "M 4.6 - 51 km SSE of Calama, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -577,7 +635,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "25/Mar/2023 @ 07:00:05 PDT",
+    "last_update": "25/Mar/2023 @ 08:00:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -608,7 +666,7 @@
           102.0212
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-22.909,-68.8085\"><b>M 4.6 - Antofagasta, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmn5\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-22.909,-68.8085\"><b>M 4.6 - 51 km SSE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmn5\">USGS</a>",
           -22.909,
           -68.8085
         ],
@@ -618,7 +676,7 @@
           36.1849
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.9894,36.9839\"><b>M 4.4 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.9894,36.9839\"><b>M 4.4 - 19 km WSW of Ekinözü, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme\">USGS</a>",
           37.9894,
           36.9839
         ],
@@ -626,22 +684,857 @@
           "<a href=\"http://maps.google.com/maps?q=-20.4893,-178.0797\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmlr\">USGS</a>",
           -20.4893,
           -178.0797
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=16.1254,-96.2306\"><b>M 4.3 - Oaxaca, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmmj\">USGS</a>",
-          16.1254,
-          -96.2306
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.6784,-90.5296\"><b>M 4.2 - 34 km SE of Iztapa, Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmfv\">USGS</a>",
-          13.6784,
-          -90.5296
         ]
       ],
       "Floods": [],
       "Landslides": [],
       "Manmade": [],
       "Sea and Lake Ice": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-65.47,113.9\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -65.47,
+          113.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-65.3,109.47\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -65.3,
+          109.47
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-64.93,108.25\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -64.93,
+          108.25
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-64.95,105.93\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -64.95,
+          105.93
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-64.65,102.16\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -64.65,
+          102.16
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-64.95,100.94\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -64.95,
+          100.94
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-64.74,99.79\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -64.74,
+          99.79
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-64.33,98.0\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -64.33,
+          98.0
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-64.38,96.02\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -64.38,
+          96.02
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-64.77,94.09\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -64.77,
+          94.09
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-65.3,94.61\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -65.3,
+          94.61
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-65.96,93.5\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -65.96,
+          93.5
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.25,90.98\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.25,
+          90.98
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.6,89.54\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.6,
+          89.54
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.37,88.26\"><b>Iceberg C18B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.37,
+          88.26
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.55,72.21\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.55,
+          72.21
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.32,70.99\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.32,
+          70.99
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.86,71.24\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -67.86,
+          71.24
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.37,72.02\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -67.37,
+          72.02
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.36,73.25\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -67.36,
+          73.25
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.02,74.07\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -67.02,
+          74.07
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.57,73.35\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.57,
+          73.35
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.31,71.85\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.31,
+          71.85
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.66,69.81\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.66,
+          69.81
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.87,68.44\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.87,
+          68.44
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.74,65.87\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.74,
+          65.87
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.66,64.69\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.66,
+          64.69
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.5,62.81\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.5,
+          62.81
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.47,61.52\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.47,
+          61.52
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.58,59.99\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.58,
+          59.99
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.38,58.98\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.38,
+          58.98
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-65.92,57.88\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -65.92,
+          57.88
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-65.57,56.31\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -65.57,
+          56.31
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-65.43,55.2\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -65.43,
+          55.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.18,49.33\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.18,
+          49.33
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.32,47.35\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.32,
+          47.35
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.85,45.85\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.85,
+          45.85
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.99,44.73\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.99,
+          44.73
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.26,43.56\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -67.26,
+          43.56
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.77,40.97\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -67.77,
+          40.97
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.16,39.42\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.16,
+          39.42
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.18,37.23\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.18,
+          37.23
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.97,34.52\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -67.97,
+          34.52
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.2,32.93\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.2,
+          32.93
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.73,30.8\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.73,
+          30.8
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.51,27.11\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.51,
+          27.11
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.82,24.73\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.82,
+          24.73
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.69,20.78\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.69,
+          20.78
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.33,17.66\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.33,
+          17.66
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.08,15.52\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.08,
+          15.52
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.1,13.5\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.1,
+          13.5
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.25,11.38\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.25,
+          11.38
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.52,8.37\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.52,
+          8.37
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.82,6.15\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.82,
+          6.15
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.89,4.34\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.89,
+          4.34
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.54,1.09\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.54,
+          1.09
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.43,-1.7\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.43,
+          -1.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.92,-3.95\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.92,
+          -3.95
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.0,-6.09\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.0,
+          -6.09
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.19,-7.51\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.19,
+          -7.51
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.43,-9.61\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.43,
+          -9.61
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.61,-10.99\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.61,
+          -10.99
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.86,-12.15\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.86,
+          -12.15
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.37,-15.28\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.37,
+          -15.28
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.43,-18.73\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.43,
+          -18.73
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.1,-26.78\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.1,
+          -26.78
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.51,-28.16\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.51,
+          -28.16
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.43,-30.15\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.43,
+          -30.15
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.52,-32.3\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.52,
+          -32.3
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.35,-34.96\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.35,
+          -34.96
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.26,-37.72\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.26,
+          -37.72
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.4,-39.89\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.4,
+          -39.89
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.97,-41.56\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.97,
+          -41.56
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.37,-42.69\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.37,
+          -42.69
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.0,-43.81\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.0,
+          -43.81
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.52,-46.13\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.52,
+          -46.13
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.18,-47.48\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.18,
+          -47.48
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.02,-48.98\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.02,
+          -48.98
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.86,-50.61\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.86,
+          -50.61
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.72,-52.41\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.72,
+          -52.41
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.39,-54.09\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.39,
+          -54.09
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.87,-55.54\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.87,
+          -55.54
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.39,-56.11\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.39,
+          -56.11
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.66,-55.69\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.66,
+          -55.69
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.15,-55.55\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.15,
+          -55.55
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.56,-55.18\"><b>Iceberg D28</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://earthobservatory.nasa.gov/images/145680/rifting-and-calving-on-the-amery-ice-shelf\">EO</a>, <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.56,
+          -55.18
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-75.09,-57.49\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -75.09,
+          -57.49
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.61,-58.2\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -74.61,
+          -58.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.13,-59.2\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -74.13,
+          -59.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.89,-58.94\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -72.89,
+          -58.94
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.28,-58.88\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -72.28,
+          -58.88
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.71,-59.04\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -71.71,
+          -59.04
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.27,-59.67\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -71.27,
+          -59.67
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.66,-59.79\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -70.66,
+          -59.79
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.21,-59.81\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -70.21,
+          -59.81
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.71,-59.86\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -69.71,
+          -59.86
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.07,-59.98\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -69.07,
+          -59.98
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.56,-59.45\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -68.56,
+          -59.45
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.11,-59.61\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -68.11,
+          -59.61
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.66,-59.53\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -67.66,
+          -59.53
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-67.2,-59.8\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -67.2,
+          -59.8
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.81,-59.11\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -66.81,
+          -59.11
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-66.42,-59.82\"><b>Iceberg A76B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -66.42,
+          -59.82
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.96,22.16\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.96,
+          22.16
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.79,19.79\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.79,
+          19.79
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.53,17.49\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.53,
+          17.49
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.1,13.67\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.1,
+          13.67
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.74,10.57\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.74,
+          10.57
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.65,8.64\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.65,
+          8.64
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.76,7.08\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.76,
+          7.08
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.06,4.45\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.06,
+          4.45
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.84,1.96\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.84,
+          1.96
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.57,-1.7\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.57,
+          -1.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.0,-3.09\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.0,
+          -3.09
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.09,-4.72\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.09,
+          -4.72
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.35,-7.02\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.35,
+          -7.02
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.36,-8.44\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.36,
+          -8.44
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.24,-17.07\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.24,
+          -17.07
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.16,-20.98\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.16,
+          -20.98
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.66,-24.42\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.66,
+          -24.42
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.17,-26.78\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.17,
+          -26.78
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.65,-28.29\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.65,
+          -28.29
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.36,-31.21\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.36,
+          -31.21
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.79,-33.48\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.79,
+          -33.48
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.45,-35.97\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.45,
+          -35.97
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.57,-39.05\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.57,
+          -39.05
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.23,-40.16\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.23,
+          -40.16
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.95,-41.9\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.95,
+          -41.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.44,-43.34\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.44,
+          -43.34
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.08,-44.57\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.08,
+          -44.57
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.77,-45.85\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.77,
+          -45.85
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.42,-46.98\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.42,
+          -46.98
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.15,-48.36\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.15,
+          -48.36
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.92,-49.95\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.92,
+          -49.95
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.72,-51.71\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.72,
+          -51.71
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.48,-53.28\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.48,
+          -53.28
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.91,-54.72\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.91,
+          -54.72
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.5,-55.43\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.5,
+          -55.43
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.95,-55.82\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.95,
+          -55.82
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.34,-55.4\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.34,
+          -55.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.83,-55.07\"><b>Iceberg D29B</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.83,
+          -55.07
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.89,2.34\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.89,
+          2.34
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.66,0.74\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.66,
+          0.74
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.8,-2.0\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.8,
+          -2.0
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.98,-3.58\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.98,
+          -3.58
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.22,-4.85\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.22,
+          -4.85
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.3,-7.57\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.3,
+          -7.57
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.69,-9.64\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.69,
+          -9.64
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.14,-12.61\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.14,
+          -12.61
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.68,-19.39\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.68,
+          -19.39
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.3,-22.05\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.3,
+          -22.05
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.53,-25.68\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.53,
+          -25.68
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.52,-30.36\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.52,
+          -30.36
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.5,-33.17\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.5,
+          -33.17
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.06,-33.42\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.06,
+          -33.42
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-74.58,-33.91\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -74.58,
+          -33.91
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.95,-35.81\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.95,
+          -35.81
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.64,-38.48\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.64,
+          -38.48
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-73.2,-39.02\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.2,
+          -39.02
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.53,-40.74\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.53,
+          -40.74
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-72.17,-41.85\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -72.17,
+          -41.85
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.93,-43.28\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.93,
+          -43.28
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.45,-45.09\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.45,
+          -45.09
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.27,-46.69\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.27,
+          -46.69
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-71.02,-47.89\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -71.02,
+          -47.89
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.47,-49.4\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.47,
+          -49.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.23,-50.67\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.23,
+          -50.67
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-70.01,-52.37\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -70.01,
+          -52.37
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-69.97,-53.75\"><b>Iceberg D31</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -69.97,
+          -53.75
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-70.35,-4.03\"><b>Iceberg A78</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -70.35,
@@ -1573,6 +2466,11 @@
           -28.36
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-73.76,-28.6\"><b>Iceberg D27</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -73.76,
+          -28.6
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-72.35,-59.64\"><b>Iceberg A70</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -72.35,
           -59.64
@@ -2098,6 +2996,11 @@
           45.05
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-66.36,45.27\"><b>Iceberg B15AB</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -66.36,
+          45.27
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-75.1,-59.43\"><b>Iceberg A76A</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
           -75.1,
           -59.43
@@ -2276,6 +3179,11 @@
           "<a href=\"http://maps.google.com/maps?q=-55.78,-45.68\"><b>Iceberg A76A</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
           -55.78,
           -45.68
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-56.37,-44.83\"><b>Iceberg A76A</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/Products/AntarcIcebergs\">NATICE</a>",
+          -56.37,
+          -44.83
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-69.77,22.15\"><b>Iceberg D29C</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
@@ -2461,6 +3369,11 @@
           "<a href=\"http://maps.google.com/maps?q=-68.58,-48.79\"><b>Iceberg D29C</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -68.58,
           -48.79
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-68.42,-50.08\"><b>Iceberg D29C</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -68.42,
+          -50.08
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-69.46,18.59\"><b>Iceberg D30A</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
@@ -2683,6 +3596,11 @@
           -54.36
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-65.67,-54.11\"><b>Iceberg D30A</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
+          -65.67,
+          -54.11
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-75.66,-27.16\"><b>Iceberg A81</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -75.66,
           -27.16
@@ -2721,13 +3639,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "31 events (25/Mar/2023 PDT)"
+    "title": "34 events (25/Mar/2023 PDT)"
   },
-  "last_update": "25/Mar/2023 @ 07:00:37 PDT",
-  "last_update_epoch": 1679752837.278121,
+  "last_update": "25/Mar/2023 @ 08:00:43 PDT",
+  "last_update_epoch": 1679756443.439499,
   "neo": {
     "date": "25/Mar/2023 PDT",
-    "last_update": "25/Mar/2023 @ 07:00:09 PDT",
+    "last_update": "25/Mar/2023 @ 08:00:13 PDT",
     "objects": [
       {
         "cat": "25/Mar/2023 @ 05:37:00 ",
@@ -2935,7 +3853,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "25/Mar/2023 @ 07:00:09 PDT",
+    "last_update": "25/Mar/2023 @ 08:00:14 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4721,7 +5639,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "25/Mar/2023 @ 07:00:14 PDT",
+    "last_update": "25/Mar/2023 @ 08:00:19 PDT",
     "launches": {
       "future": [
         {
