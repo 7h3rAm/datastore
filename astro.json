@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Mar/2023 @ 22:00:03 PDT",
+    "last_update": "24/Mar/2023 @ 23:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg",
     "title": "Venus and the Da Vinci Glow (25/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -10,24 +10,6 @@
   "earthevents": {
     "date": "24/Mar/2023 PDT",
     "events": [
-      {
-        "category": [
-          {
-            "emoji": "🌋",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
-          }
-        ],
-        "eid": "EONET_6331",
-        "location": "https://www.google.com/maps/dir/-15.389,167.835/@-15.389,167.835,3z",
-        "name": "Ambae Volcano, Vanuatu",
-        "source": [
-          {
-            "sid": "SIVolcano",
-            "url": "http://volcano.si.edu/volcano.cfm?vn=257030"
-          }
-        ],
-        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6331"
-      },
       {
         "category": [
           {
@@ -175,24 +157,6 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5907"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🧊",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/seaLakeIce"
-          }
-        ],
-        "eid": "EONET_6330",
-        "location": "https://www.google.com/maps/dir/-72.19,-59.34/@-72.19,-59.34,3z",
-        "name": "Iceberg A80D",
-        "source": [
-          {
-            "sid": "NATICE",
-            "url": "https://usicecenter.gov/pub/Iceberg_Tabular.csv"
-          }
-        ],
-        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6330"
       },
       {
         "category": [
@@ -421,16 +385,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmme",
-        "location": "http://maps.google.com/maps?q=37.9894,36.9839",
-        "name": "M 4.4 - 19 km WSW of Ekinözü, Turkey",
+        "eid": "us7000jmmj",
+        "location": "http://maps.google.com/maps?q=16.1254,-96.2306",
+        "name": "M 4.3 - Oaxaca, Mexico",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmmj"
       },
       {
         "category": [
@@ -439,16 +403,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jme6",
-        "location": "http://maps.google.com/maps?q=37.9773,37.526",
-        "name": "M 4.4 - 7 km ENE of Nurhak, Turkey",
+        "eid": "us7000jmme",
+        "location": "http://maps.google.com/maps?q=37.9894,36.9839",
+        "name": "M 4.4 - Central Turkey",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme"
       },
       {
         "category": [
@@ -467,6 +431,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmlr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jme6",
+        "location": "http://maps.google.com/maps?q=37.9773,37.526",
+        "name": "M 4.4 - central Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6"
       },
       {
         "category": [
@@ -531,7 +513,7 @@
         ],
         "eid": "us7000jmct",
         "location": "http://maps.google.com/maps?q=36.4291,140.3217",
-        "name": "M 4.7 - 7 km NE of Kasama, Japan",
+        "name": "M 4.7 - near the east coast of Honshu, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -595,13 +577,13 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "24/Mar/2023 @ 22:00:05 PDT",
+    "last_update": "24/Mar/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=37.9894,36.9839\"><b>M 4.4 - 19 km WSW of Ekinözü, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.9894,36.9839\"><b>M 4.4 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmme\">USGS</a>",
           37.9894,
           36.9839
         ],
@@ -611,12 +593,17 @@
           -178.0797
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=16.1254,-96.2306\"><b>M 4.3 - Oaxaca, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmmj\">USGS</a>",
+          16.1254,
+          -96.2306
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=13.6784,-90.5296\"><b>M 4.2 - 34 km SE of Iztapa, Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmfv\">USGS</a>",
           13.6784,
           -90.5296
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=37.9773,37.526\"><b>M 4.4 - 7 km ENE of Nurhak, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=37.9773,37.526\"><b>M 4.4 - central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jme6\">USGS</a>",
           37.9773,
           37.526
         ],
@@ -641,7 +628,7 @@
           138.7956
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.4291,140.3217\"><b>M 4.7 - 7 km NE of Kasama, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.4291,140.3217\"><b>M 4.7 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmct\">USGS</a>",
           36.4291,
           140.3217
         ],
@@ -2709,11 +2696,6 @@
           "<a href=\"http://maps.google.com/maps?q=-76.37,-30.79\"><b>Iceberg A81</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
           -76.37,
           -30.79
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-72.19,-59.34\"><b>Iceberg A80D</b></a><br/><b>Category</b>: Sea and Lake Ice<br/><b>Source</b>: <a href=\"https://usicecenter.gov/pub/Iceberg_Tabular.csv\">NATICE</a>",
-          -72.19,
-          -59.34
         ]
       ],
       "Severe Storms": [],
@@ -2734,23 +2716,18 @@
           "<a href=\"http://maps.google.com/maps?q=13.434,-88.269\"><b>San Miguel Volcano, El Salvador</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=343100\">SIVolcano</a>",
           13.434,
           -88.269
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.389,167.835\"><b>Ambae Volcano, Vanuatu</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"http://volcano.si.edu/volcano.cfm?vn=257030\">SIVolcano</a>",
-          -15.389,
-          167.835
         ]
       ],
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "32 events (24/Mar/2023 PDT)"
+    "title": "31 events (24/Mar/2023 PDT)"
   },
-  "last_update": "24/Mar/2023 @ 22:00:37 PDT",
-  "last_update_epoch": 1679720437.018126,
+  "last_update": "24/Mar/2023 @ 23:00:34 PDT",
+  "last_update_epoch": 1679724034.822644,
   "neo": {
     "date": "25/Mar/2023 PDT",
-    "last_update": "24/Mar/2023 @ 22:00:09 PDT",
+    "last_update": "24/Mar/2023 @ 23:00:09 PDT",
     "objects": [
       {
         "cat": "25/Mar/2023 @ 05:37:00 ",
@@ -2958,7 +2935,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Mar/2023 @ 22:00:09 PDT",
+    "last_update": "24/Mar/2023 @ 23:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4744,7 +4721,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Mar/2023 @ 22:00:14 PDT",
+    "last_update": "24/Mar/2023 @ 23:00:15 PDT",
     "launches": {
       "future": [
         {
