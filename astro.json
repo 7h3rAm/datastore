@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "24/Mar/2023 @ 19:00:04 PDT",
+    "last_update": "24/Mar/2023 @ 20:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg",
     "title": "Outbound Comet ZTF (24/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -565,24 +565,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmbe",
-        "location": "http://maps.google.com/maps?q=-6.9805,125.7025",
-        "name": "M 4.8 - 171 km N of Metinaro, Timor Leste",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmbe"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmc7",
         "location": "http://maps.google.com/maps?q=29.964,141.8529",
         "name": "M 5.0 - Izu Islands, Japan region",
@@ -685,7 +667,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "24/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "24/Mar/2023 @ 20:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -759,11 +741,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.462,44.8446\"><b>M 5.6 - 13 km SW of Khowy, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmbi\">USGS</a>",
           38.462,
           44.8446
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-6.9805,125.7025\"><b>M 4.8 - 171 km N of Metinaro, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmbe\">USGS</a>",
-          -6.9805,
-          125.7025
         ]
       ],
       "Floods": [],
@@ -2859,13 +2836,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (24/Mar/2023 PDT)"
+    "title": "36 events (24/Mar/2023 PDT)"
   },
-  "last_update": "24/Mar/2023 @ 19:00:40 PDT",
-  "last_update_epoch": 1679709640.281609,
+  "last_update": "24/Mar/2023 @ 20:00:39 PDT",
+  "last_update_epoch": 1679713239.380195,
   "neo": {
     "date": "25/Mar/2023 PDT",
-    "last_update": "24/Mar/2023 @ 19:00:09 PDT",
+    "last_update": "24/Mar/2023 @ 20:00:09 PDT",
     "objects": [
       {
         "cat": "25/Mar/2023 @ 05:37:00 ",
@@ -3073,7 +3050,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "24/Mar/2023 @ 19:00:09 PDT",
+    "last_update": "24/Mar/2023 @ 20:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4859,7 +4836,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "24/Mar/2023 @ 19:00:15 PDT",
+    "last_update": "24/Mar/2023 @ 20:00:16 PDT",
     "launches": {
       "future": [
         {
