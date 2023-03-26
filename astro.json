@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "25/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "25/Mar/2023 @ 20:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg",
     "title": "Venus and the Da Vinci Glow (25/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -461,6 +461,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jmsd",
+        "location": "http://maps.google.com/maps?q=15.1751,-94.2646",
+        "name": "M 4.2 - 98 km SSW of Cabeza de Toro, Mexico",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmsd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jmmu",
         "location": "http://maps.google.com/maps?q=37.9055,36.1849",
         "name": "M 4.3 - 12 km SE of Saimbeyli, Turkey",
@@ -761,11 +779,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "25/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "25/Mar/2023 @ 20:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=15.1751,-94.2646\"><b>M 4.2 - 98 km SSW of Cabeza de Toro, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmsd\">USGS</a>",
+          15.1751,
+          -94.2646
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=18.4495,-68.3726\"><b>M 4.2 - 15 km SSE of Punta Cana, Dominican Republic</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/pr2023085000\">USGS</a>",
           18.4495,
@@ -3800,13 +3823,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (25/Mar/2023 PDT)"
+    "title": "42 events (25/Mar/2023 PDT)"
   },
-  "last_update": "25/Mar/2023 @ 19:00:35 PDT",
-  "last_update_epoch": 1679796035.636341,
+  "last_update": "25/Mar/2023 @ 20:00:41 PDT",
+  "last_update_epoch": 1679799641.18775,
   "neo": {
     "date": "26/Mar/2023 PDT",
-    "last_update": "25/Mar/2023 @ 19:00:07 PDT",
+    "last_update": "25/Mar/2023 @ 20:00:08 PDT",
     "objects": [
       {
         "cat": "26/Mar/2023 @ 09:20:00 ",
@@ -3969,7 +3992,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "25/Mar/2023 @ 19:00:08 PDT",
+    "last_update": "25/Mar/2023 @ 20:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5755,7 +5778,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "25/Mar/2023 @ 19:00:12 PDT",
+    "last_update": "25/Mar/2023 @ 20:00:13 PDT",
     "launches": {
       "future": [
         {
