@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "25/Mar/2023 @ 17:00:04 PDT",
+    "last_update": "25/Mar/2023 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg",
     "title": "Venus and the Da Vinci Glow (25/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -661,7 +661,7 @@
         ],
         "eid": "us7000jmqk",
         "location": "http://maps.google.com/maps?q=-18.209,167.9743",
-        "name": "M 4.8 - 63 km SW of Port-Vila, Vanuatu",
+        "name": "M 4.8 - Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -687,6 +687,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmnp"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jmrf",
+        "location": "http://maps.google.com/maps?q=-21.0284,-68.6124",
+        "name": "M 5.4 - 161 km NNE of Calama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmrf"
       },
       {
         "category": [
@@ -725,11 +743,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "25/Mar/2023 @ 17:00:06 PDT",
+    "last_update": "25/Mar/2023 @ 18:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.0284,-68.6124\"><b>M 5.4 - 161 km NNE of Calama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmrf\">USGS</a>",
+          -21.0284,
+          -68.6124
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-18.2083,168.0275\"><b>M 4.8 - 60 km SSW of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmra\">USGS</a>",
           -18.2083,
@@ -746,7 +769,7 @@
           120.9222
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.209,167.9743\"><b>M 4.8 - 63 km SW of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmqk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-18.209,167.9743\"><b>M 4.8 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmqk\">USGS</a>",
           -18.209,
           167.9743
         ],
@@ -3754,13 +3777,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "39 events (25/Mar/2023 PDT)"
+    "title": "40 events (25/Mar/2023 PDT)"
   },
-  "last_update": "25/Mar/2023 @ 17:00:37 PDT",
-  "last_update_epoch": 1679788837.345284,
+  "last_update": "25/Mar/2023 @ 18:00:34 PDT",
+  "last_update_epoch": 1679792434.509707,
   "neo": {
     "date": "26/Mar/2023 PDT",
-    "last_update": "25/Mar/2023 @ 17:00:08 PDT",
+    "last_update": "25/Mar/2023 @ 18:00:07 PDT",
     "objects": [
       {
         "cat": "26/Mar/2023 @ 09:20:00 ",
@@ -3923,7 +3946,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "25/Mar/2023 @ 17:00:08 PDT",
+    "last_update": "25/Mar/2023 @ 18:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5709,7 +5732,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "25/Mar/2023 @ 17:00:14 PDT",
+    "last_update": "25/Mar/2023 @ 18:00:13 PDT",
     "launches": {
       "future": [
         {
