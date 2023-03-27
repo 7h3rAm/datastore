@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Mar/2023 @ 07:00:03 PDT",
+    "last_update": "27/Mar/2023 @ 08:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg",
     "title": "Aurora Over Arctic Henge (27/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -583,16 +583,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmvh",
-        "location": "http://maps.google.com/maps?q=38.3522,141.6744",
-        "name": "M 4.5 - 33 km ESE of Ishinomaki, Japan",
+        "eid": "us7000jmyt",
+        "location": "http://maps.google.com/maps?q=49.9655,-178.7466",
+        "name": "M 4.5 - 259 km SW of Adak, Alaska",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmvh"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyt"
       },
       {
         "category": [
@@ -793,7 +793,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "27/Mar/2023 @ 07:00:05 PDT",
+    "last_update": "27/Mar/2023 @ 08:00:09 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -807,6 +807,11 @@
           "<a href=\"http://maps.google.com/maps?q=13.5662,-88.5654\"><b>M 4.4 - 8 km NNW of Berlín, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmzt\">USGS</a>",
           13.5662,
           -88.5654
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=49.9655,-178.7466\"><b>M 4.5 - 259 km SW of Adak, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyt\">USGS</a>",
+          49.9655,
+          -178.7466
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=43.3548,-126.8521\"><b>M 4.0 - 200 km W of Bandon, Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyr\">USGS</a>",
@@ -887,11 +892,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.337,141.6856\"><b>M 4.9 - 34 km ESE of Ishinomaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmvm\">USGS</a>",
           38.337,
           141.6856
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.3522,141.6744\"><b>M 4.5 - 33 km ESE of Ishinomaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmvh\">USGS</a>",
-          38.3522,
-          141.6744
         ]
       ],
       "Floods": [],
@@ -3784,11 +3784,11 @@
     },
     "title": "43 events (27/Mar/2023 PDT)"
   },
-  "last_update": "27/Mar/2023 @ 07:00:41 PDT",
-  "last_update_epoch": 1679925641.234339,
+  "last_update": "27/Mar/2023 @ 08:00:42 PDT",
+  "last_update_epoch": 1679929242.121976,
   "neo": {
     "date": "27/Mar/2023 PDT",
-    "last_update": "27/Mar/2023 @ 07:00:08 PDT",
+    "last_update": "27/Mar/2023 @ 08:00:10 PDT",
     "objects": [
       {
         "cat": "27/Mar/2023 @ 13:49:00 ",
@@ -3969,7 +3969,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Mar/2023 @ 07:00:08 PDT",
+    "last_update": "27/Mar/2023 @ 08:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5755,7 +5755,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Mar/2023 @ 07:00:15 PDT",
+    "last_update": "27/Mar/2023 @ 08:00:17 PDT",
     "launches": {
       "future": [
         {
