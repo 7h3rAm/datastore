@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Mar/2023 @ 00:00:03 PDT",
+    "last_update": "27/Mar/2023 @ 01:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg",
     "title": "Aurora Over Arctic Henge (27/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -847,7 +847,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "27/Mar/2023 @ 00:00:05 PDT",
+    "last_update": "27/Mar/2023 @ 01:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3853,11 +3853,11 @@
     },
     "title": "46 events (27/Mar/2023 PDT)"
   },
-  "last_update": "27/Mar/2023 @ 00:00:41 PDT",
-  "last_update_epoch": 1679900441.802221,
+  "last_update": "27/Mar/2023 @ 01:00:43 PDT",
+  "last_update_epoch": 1679904043.36357,
   "neo": {
     "date": "27/Mar/2023 PDT",
-    "last_update": "27/Mar/2023 @ 00:00:08 PDT",
+    "last_update": "27/Mar/2023 @ 01:00:08 PDT",
     "objects": [
       {
         "cat": "27/Mar/2023 @ 13:49:00 ",
@@ -4038,7 +4038,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Mar/2023 @ 00:00:08 PDT",
+    "last_update": "27/Mar/2023 @ 01:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5824,7 +5824,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Mar/2023 @ 00:00:15 PDT",
+    "last_update": "27/Mar/2023 @ 01:00:14 PDT",
     "launches": {
       "future": [
         {
