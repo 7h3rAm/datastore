@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "26/Mar/2023 @ 22:00:04 PDT",
+    "last_update": "26/Mar/2023 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg",
     "title": "Aurora Over Arctic Henge (27/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -421,9 +421,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jmyr",
+        "location": "http://maps.google.com/maps?q=43.3548,-126.8521",
+        "name": "M 4.0 - 200 km W of Bandon, Oregon",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jmyk",
         "location": "http://maps.google.com/maps?q=-24.3046,-67.2997",
-        "name": "M 4.1 - Salta, Argentina",
+        "name": "M 4.1 - 100 km W of San Antonio de los Cobres, Argentina",
         "source": [
           {
             "sid": "USGS",
@@ -431,6 +449,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyk"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "hv73350092",
+        "location": "http://maps.google.com/maps?q=18.8155,-155.160333333333",
+        "name": "M 4.1 - 52 km ESE of Naalehu, Hawaii",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv73350092"
       },
       {
         "category": [
@@ -475,16 +511,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmx9",
-        "location": "http://maps.google.com/maps?q=6.871,-73.1428",
-        "name": "M 4.4 - 15 km ENE of Zapatoca, Colombia",
+        "eid": "us7000jmyq",
+        "location": "http://maps.google.com/maps?q=53.5347,-170.5969",
+        "name": "M 4.2 - Fox Islands, Aleutian Islands, Alaska",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmx9"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyq"
       },
       {
         "category": [
@@ -511,24 +547,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmyl",
-        "location": "http://maps.google.com/maps?q=18.8381,-155.1649",
-        "name": "M 4.4 - Hawaii region, Hawaii",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyl"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmxn",
         "location": "http://maps.google.com/maps?q=-7.0869,129.6621",
         "name": "M 4.4 - Kepulauan Babar, Indonesia",
@@ -539,6 +557,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmxn"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jmx9",
+        "location": "http://maps.google.com/maps?q=6.871,-73.1428",
+        "name": "M 4.4 - northern Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmx9"
       },
       {
         "category": [
@@ -673,24 +709,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmu9",
-        "location": "http://maps.google.com/maps?q=-7.5337,130.3732",
-        "name": "M 4.9 - Kepulauan Tanimbar, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmu9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmwe",
         "location": "http://maps.google.com/maps?q=-7.4564,130.1762",
         "name": "M 4.9 - Pulau Pulau Tanimbar, Indonesia",
@@ -701,6 +719,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmwe"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us7000jmu9",
+        "location": "http://maps.google.com/maps?q=-7.5337,130.3732",
+        "name": "M 4.9 - Pulau Pulau Tanimbar, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmu9"
       },
       {
         "category": [
@@ -747,7 +783,7 @@
         ],
         "eid": "us7000jmuw",
         "location": "http://maps.google.com/maps?q=-4.9622,131.9716",
-        "name": "M 5.1 - 113 km NW of Tual, Indonesia",
+        "name": "M 5.1 - Banda Sea",
         "source": [
           {
             "sid": "USGS",
@@ -811,18 +847,28 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "26/Mar/2023 @ 22:00:05 PDT",
+    "last_update": "26/Mar/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=18.8381,-155.1649\"><b>M 4.4 - Hawaii region, Hawaii</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyl\">USGS</a>",
-          18.8381,
-          -155.1649
+          "<a href=\"http://maps.google.com/maps?q=43.3548,-126.8521\"><b>M 4.0 - 200 km W of Bandon, Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyr\">USGS</a>",
+          43.3548,
+          -126.8521
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.3046,-67.2997\"><b>M 4.1 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.5347,-170.5969\"><b>M 4.2 - Fox Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyq\">USGS</a>",
+          53.5347,
+          -170.5969
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.8155,-155.160333333333\"><b>M 4.1 - 52 km ESE of Naalehu, Hawaii</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/hv73350092\">USGS</a>",
+          18.8155,
+          -155.160333333333
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.3046,-67.2997\"><b>M 4.1 - 100 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyk\">USGS</a>",
           -24.3046,
           -67.2997
         ],
@@ -862,7 +908,7 @@
           69.9122
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=6.871,-73.1428\"><b>M 4.4 - 15 km ENE of Zapatoca, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmx9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=6.871,-73.1428\"><b>M 4.4 - northern Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmx9\">USGS</a>",
           6.871,
           -73.1428
         ],
@@ -897,7 +943,7 @@
           71.1775
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-4.9622,131.9716\"><b>M 5.1 - 113 km NW of Tual, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmuw\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-4.9622,131.9716\"><b>M 5.1 - Banda Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmuw\">USGS</a>",
           -4.9622,
           131.9716
         ],
@@ -912,7 +958,7 @@
           -69.1855
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-7.5337,130.3732\"><b>M 4.9 - Kepulauan Tanimbar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmu9\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-7.5337,130.3732\"><b>M 4.9 - Pulau Pulau Tanimbar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmu9\">USGS</a>",
           -7.5337,
           130.3732
         ]
@@ -3805,13 +3851,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (26/Mar/2023 PDT)"
+    "title": "46 events (26/Mar/2023 PDT)"
   },
-  "last_update": "26/Mar/2023 @ 22:00:39 PDT",
-  "last_update_epoch": 1679893239.564513,
+  "last_update": "26/Mar/2023 @ 23:00:43 PDT",
+  "last_update_epoch": 1679896843.430589,
   "neo": {
     "date": "27/Mar/2023 PDT",
-    "last_update": "26/Mar/2023 @ 22:00:09 PDT",
+    "last_update": "26/Mar/2023 @ 23:00:08 PDT",
     "objects": [
       {
         "cat": "27/Mar/2023 @ 13:49:00 ",
@@ -3992,7 +4038,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "26/Mar/2023 @ 22:00:09 PDT",
+    "last_update": "26/Mar/2023 @ 23:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5778,7 +5824,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "26/Mar/2023 @ 22:00:14 PDT",
+    "last_update": "26/Mar/2023 @ 23:00:13 PDT",
     "launches": {
       "future": [
         {
