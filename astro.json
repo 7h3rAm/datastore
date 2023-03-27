@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Mar/2023 @ 06:00:04 PDT",
+    "last_update": "27/Mar/2023 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg",
     "title": "Aurora Over Arctic Henge (27/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -547,24 +547,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmuz",
-        "location": "http://maps.google.com/maps?q=36.4356,71.1775",
-        "name": "M 4.4 - 42 km SW of Ashkāsham, Afghanistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmuz"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jmzt",
         "location": "http://maps.google.com/maps?q=13.5662,-88.5654",
         "name": "M 4.4 - 8 km NNW of Berlín, El Salvador",
@@ -811,7 +793,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "27/Mar/2023 @ 06:00:05 PDT",
+    "last_update": "27/Mar/2023 @ 07:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -910,11 +892,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.3522,141.6744\"><b>M 4.5 - 33 km ESE of Ishinomaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmvh\">USGS</a>",
           38.3522,
           141.6744
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.4356,71.1775\"><b>M 4.4 - 42 km SW of Ashkāsham, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmuz\">USGS</a>",
-          36.4356,
-          71.1775
         ]
       ],
       "Floods": [],
@@ -3805,13 +3782,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (27/Mar/2023 PDT)"
+    "title": "43 events (27/Mar/2023 PDT)"
   },
-  "last_update": "27/Mar/2023 @ 06:00:35 PDT",
-  "last_update_epoch": 1679922035.623357,
+  "last_update": "27/Mar/2023 @ 07:00:41 PDT",
+  "last_update_epoch": 1679925641.234339,
   "neo": {
     "date": "27/Mar/2023 PDT",
-    "last_update": "27/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "27/Mar/2023 @ 07:00:08 PDT",
     "objects": [
       {
         "cat": "27/Mar/2023 @ 13:49:00 ",
@@ -3992,7 +3969,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "27/Mar/2023 @ 07:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5778,7 +5755,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Mar/2023 @ 06:00:12 PDT",
+    "last_update": "27/Mar/2023 @ 07:00:15 PDT",
     "launches": {
       "future": [
         {
