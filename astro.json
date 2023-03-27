@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Mar/2023 @ 09:00:03 PDT",
+    "last_update": "27/Mar/2023 @ 10:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg",
     "title": "Aurora Over Arctic Henge (27/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -691,6 +691,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us7000jn1d",
+        "location": "http://maps.google.com/maps?q=-44.0814,-81.8608",
+        "name": "M 4.7 - West Chile Rise",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn1d"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us7000jmzw",
         "location": "http://maps.google.com/maps?q=13.0893,143.9275",
         "name": "M 4.8 - 82 km WSW of Merizo Village, Guam",
@@ -793,11 +811,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "27/Mar/2023 @ 09:00:05 PDT",
+    "last_update": "27/Mar/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-44.0814,-81.8608\"><b>M 4.7 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn1d\">USGS</a>",
+          -44.0814,
+          -81.8608
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=38.0716,36.5315\"><b>M 4.4 - 6 km NNE of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn0d\">USGS</a>",
           38.0716,
@@ -3782,13 +3805,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "43 events (27/Mar/2023 PDT)"
+    "title": "44 events (27/Mar/2023 PDT)"
   },
-  "last_update": "27/Mar/2023 @ 09:00:39 PDT",
-  "last_update_epoch": 1679932839.367639,
+  "last_update": "27/Mar/2023 @ 10:00:53 PDT",
+  "last_update_epoch": 1679936453.562349,
   "neo": {
     "date": "27/Mar/2023 PDT",
-    "last_update": "27/Mar/2023 @ 09:00:05 PDT",
+    "last_update": "27/Mar/2023 @ 10:00:06 PDT",
     "objects": [
       {
         "cat": "27/Mar/2023 @ 13:49:00 ",
@@ -3969,7 +3992,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Mar/2023 @ 09:00:06 PDT",
+    "last_update": "27/Mar/2023 @ 10:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5755,7 +5778,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Mar/2023 @ 09:00:11 PDT",
+    "last_update": "27/Mar/2023 @ 10:00:11 PDT",
     "launches": {
       "future": [
         {
