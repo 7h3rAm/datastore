@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "27/Mar/2023 @ 20:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg",
     "title": "Aurora Over Arctic Henge (27/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -421,27 +421,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmyr",
-        "location": "http://maps.google.com/maps?q=43.3548,-126.8521",
-        "name": "M 4.0 - 200 km W of Bandon, Oregon",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyr"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jn12",
         "location": "http://maps.google.com/maps?q=-26.6931,-71.5544",
-        "name": "M 4.0 - Off the coast of Atacama, Chile",
+        "name": "M 4.0 - 142 km WNW of Copiapó, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -457,16 +439,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmyk",
-        "location": "http://maps.google.com/maps?q=-24.3046,-67.2997",
-        "name": "M 4.1 - 100 km W of San Antonio de los Cobres, Argentina",
+        "eid": "us7000jmyr",
+        "location": "http://maps.google.com/maps?q=43.3548,-126.8521",
+        "name": "M 4.0 - 200 km W of Bandon, Oregon",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyk"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyr"
       },
       {
         "category": [
@@ -493,16 +475,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k079",
-        "location": "http://maps.google.com/maps?q=-17.4183,-176.9879",
-        "name": "M 4.2 - Fiji region",
+        "eid": "us7000jmyk",
+        "location": "http://maps.google.com/maps?q=-24.3046,-67.2997",
+        "name": "M 4.1 - Salta, Argentina",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k079"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyk"
       },
       {
         "category": [
@@ -513,7 +495,7 @@
         ],
         "eid": "us7000jmyq",
         "location": "http://maps.google.com/maps?q=53.5347,-170.5969",
-        "name": "M 4.2 - Fox Islands, Aleutian Islands, Alaska",
+        "name": "M 4.2 - 133 km WNW of Nikolski, Alaska",
         "source": [
           {
             "sid": "USGS",
@@ -521,6 +503,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k079",
+        "location": "http://maps.google.com/maps?q=-17.4183,-176.9879",
+        "name": "M 4.2 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k079"
       },
       {
         "category": [
@@ -619,42 +619,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmy9",
-        "location": "http://maps.google.com/maps?q=-26.154,178.5166",
-        "name": "M 4.5 - south of the Fiji Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmy9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jmyc",
-        "location": "http://maps.google.com/maps?q=-5.5666,146.923",
-        "name": "M 4.6 - 128 km N of Lae, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyc"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us7000jn1d",
         "location": "http://maps.google.com/maps?q=-44.0814,-81.8608",
         "name": "M 4.7 - West Chile Rise",
@@ -675,7 +639,7 @@
         ],
         "eid": "us7000jmzw",
         "location": "http://maps.google.com/maps?q=13.0893,143.9275",
-        "name": "M 4.8 - Guam region",
+        "name": "M 4.8 - 82 km WSW of Merizo Village, Guam",
         "source": [
           {
             "sid": "USGS",
@@ -693,7 +657,7 @@
         ],
         "eid": "us6000k03l",
         "location": "http://maps.google.com/maps?q=-0.7264,29.3364",
-        "name": "M 4.9 - 38 km WNW of Ntungamo, Uganda",
+        "name": "M 4.9 - Lake Edward region, Congo-Uganda",
         "source": [
           {
             "sid": "USGS",
@@ -701,42 +665,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jmyb",
-        "location": "http://maps.google.com/maps?q=-22.7695,171.7227",
-        "name": "M 5.0 - southeast of the Loyalty Islands",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us7000jmy4",
-        "location": "http://maps.google.com/maps?q=-17.8319,-178.213",
-        "name": "M 5.5 - 262 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmy4"
       },
       {
         "category": [
@@ -793,7 +721,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "27/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "27/Mar/2023 @ 20:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -814,7 +742,7 @@
           158.9268
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-0.7264,29.3364\"><b>M 4.9 - 38 km WNW of Ntungamo, Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-0.7264,29.3364\"><b>M 4.9 - Lake Edward region, Congo-Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l\">USGS</a>",
           -0.7264,
           29.3364
         ],
@@ -829,7 +757,7 @@
           -81.8608
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-26.6931,-71.5544\"><b>M 4.0 - Off the coast of Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn12\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-26.6931,-71.5544\"><b>M 4.0 - 142 km WNW of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn12\">USGS</a>",
           -26.6931,
           -71.5544
         ],
@@ -839,7 +767,7 @@
           36.5315
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=13.0893,143.9275\"><b>M 4.8 - Guam region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmzw\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=13.0893,143.9275\"><b>M 4.8 - 82 km WSW of Merizo Village, Guam</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmzw\">USGS</a>",
           13.0893,
           143.9275
         ],
@@ -859,7 +787,7 @@
           -126.8521
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.5347,-170.5969\"><b>M 4.2 - Fox Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyq\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.5347,-170.5969\"><b>M 4.2 - 133 km WNW of Nikolski, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyq\">USGS</a>",
           53.5347,
           -170.5969
         ],
@@ -869,29 +797,9 @@
           -155.160333333333
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.3046,-67.2997\"><b>M 4.1 - 100 km W of San Antonio de los Cobres, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyk\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.3046,-67.2997\"><b>M 4.1 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyk\">USGS</a>",
           -24.3046,
           -67.2997
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-5.5666,146.923\"><b>M 4.6 - 128 km N of Lae, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyc\">USGS</a>",
-          -5.5666,
-          146.923
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-22.7695,171.7227\"><b>M 5.0 - southeast of the Loyalty Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyb\">USGS</a>",
-          -22.7695,
-          171.7227
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-26.154,178.5166\"><b>M 4.5 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmy9\">USGS</a>",
-          -26.154,
-          178.5166
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.8319,-178.213\"><b>M 5.5 - 262 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmy4\">USGS</a>",
-          -17.8319,
-          -178.213
         ]
       ],
       "Floods": [],
@@ -3782,10 +3690,10 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "43 events (27/Mar/2023 PDT)"
+    "title": "39 events (27/Mar/2023 PDT)"
   },
-  "last_update": "27/Mar/2023 @ 19:00:35 PDT",
-  "last_update_epoch": 1679968835.858872,
+  "last_update": "27/Mar/2023 @ 20:00:05 PDT",
+  "last_update_epoch": 1679972405.319289,
   "neo": {
     "date": "28/Mar/2023 PDT",
     "last_update": "27/Mar/2023 @ 19:00:08 PDT",
