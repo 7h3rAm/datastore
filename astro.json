@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Mar/2023 @ 09:00:04 PDT",
+    "last_update": "28/Mar/2023 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg",
     "title": "A Multiple Green Flash Sunset (28/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -423,7 +423,7 @@
         ],
         "eid": "us6000k09l",
         "location": "http://maps.google.com/maps?q=-2.6262,128.4726",
-        "name": "M 4.1 - Ceram Sea, Indonesia",
+        "name": "M 4.1 - 93 km NNW of Amahai, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -475,24 +475,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jn1g",
-        "location": "http://maps.google.com/maps?q=14.0666,-90.9464",
-        "name": "M 4.3 - 11 km E of La Gomera, Guatemala",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn1g"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k07h",
         "location": "http://maps.google.com/maps?q=-6.2098,130.235",
         "name": "M 4.3 - 286 km WSW of Tual, Indonesia",
@@ -513,7 +495,7 @@
         ],
         "eid": "us6000k08j",
         "location": "http://maps.google.com/maps?q=-17.871,167.4196",
-        "name": "M 4.7 - 95 km W of Port-Vila, Vanuatu",
+        "name": "M 4.7 - Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -529,27 +511,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jn1d",
-        "location": "http://maps.google.com/maps?q=-44.0814,-81.8608",
-        "name": "M 4.7 - West Chile Rise",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn1d"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k03l",
         "location": "http://maps.google.com/maps?q=-0.7264,29.3364",
-        "name": "M 4.9 - 38 km WNW of Ntungamo, Uganda",
+        "name": "M 4.9 - Lake Edward region, Congo-Uganda",
         "source": [
           {
             "sid": "USGS",
@@ -585,7 +549,7 @@
         ],
         "eid": "us6000k0bq",
         "location": "http://maps.google.com/maps?q=-10.8856,166.845",
-        "name": "M 5.0 - Santa Cruz Islands",
+        "name": "M 5.0 - 115 km E of Lata, Solomon Islands",
         "source": [
           {
             "sid": "USGS",
@@ -703,7 +667,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "28/Mar/2023 @ 09:00:07 PDT",
+    "last_update": "28/Mar/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -714,7 +678,7 @@
           166.7987
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-10.8856,166.845\"><b>M 5.0 - Santa Cruz Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bq\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-10.8856,166.845\"><b>M 5.0 - 115 km E of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bq\">USGS</a>",
           -10.8856,
           166.845
         ],
@@ -724,7 +688,7 @@
           142.805
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.6262,128.4726\"><b>M 4.1 - Ceram Sea, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k09l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-2.6262,128.4726\"><b>M 4.1 - 93 km NNW of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k09l\">USGS</a>",
           -2.6262,
           128.4726
         ],
@@ -744,7 +708,7 @@
           123.5622
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.871,167.4196\"><b>M 4.7 - 95 km W of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.871,167.4196\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08j\">USGS</a>",
           -17.871,
           167.4196
         ],
@@ -764,19 +728,9 @@
           158.9268
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-0.7264,29.3364\"><b>M 4.9 - 38 km WNW of Ntungamo, Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-0.7264,29.3364\"><b>M 4.9 - Lake Edward region, Congo-Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l\">USGS</a>",
           -0.7264,
           29.3364
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.0666,-90.9464\"><b>M 4.3 - 11 km E of La Gomera, Guatemala</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn1g\">USGS</a>",
-          14.0666,
-          -90.9464
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-44.0814,-81.8608\"><b>M 4.7 - West Chile Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn1d\">USGS</a>",
-          -44.0814,
-          -81.8608
         ]
       ],
       "Floods": [],
@@ -3667,13 +3621,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "38 events (28/Mar/2023 PDT)"
+    "title": "36 events (28/Mar/2023 PDT)"
   },
-  "last_update": "28/Mar/2023 @ 09:00:37 PDT",
-  "last_update_epoch": 1680019237.587168,
+  "last_update": "28/Mar/2023 @ 10:00:36 PDT",
+  "last_update_epoch": 1680022836.831045,
   "neo": {
     "date": "28/Mar/2023 PDT",
-    "last_update": "28/Mar/2023 @ 09:00:08 PDT",
+    "last_update": "28/Mar/2023 @ 10:00:08 PDT",
     "objects": [
       {
         "cat": "28/Mar/2023 @ 14:03:00 ",
@@ -3872,7 +3826,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Mar/2023 @ 09:00:08 PDT",
+    "last_update": "28/Mar/2023 @ 10:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5658,7 +5612,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Mar/2023 @ 09:00:14 PDT",
+    "last_update": "28/Mar/2023 @ 10:00:15 PDT",
     "launches": {
       "future": [
         {
