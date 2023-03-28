@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Mar/2023 @ 07:00:03 PDT",
+    "last_update": "28/Mar/2023 @ 08:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg",
     "title": "A Multiple Green Flash Sunset (28/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -423,7 +423,7 @@
         ],
         "eid": "us7000jn12",
         "location": "http://maps.google.com/maps?q=-26.6931,-71.5544",
-        "name": "M 4.0 - Off the coast of Atacama, Chile",
+        "name": "M 4.0 - 142 km WNW of Copiapó, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -511,27 +511,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jn0d",
-        "location": "http://maps.google.com/maps?q=38.0716,36.5315",
-        "name": "M 4.4 - 6 km NNE of Göksun, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn0d"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k08j",
         "location": "http://maps.google.com/maps?q=-17.871,167.4196",
-        "name": "M 4.7 - 95 km W of Port-Vila, Vanuatu",
+        "name": "M 4.7 - Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -567,7 +549,7 @@
         ],
         "eid": "us6000k03l",
         "location": "http://maps.google.com/maps?q=-0.7264,29.3364",
-        "name": "M 4.9 - 38 km WNW of Ntungamo, Uganda",
+        "name": "M 4.9 - Lake Edward region, Congo-Uganda",
         "source": [
           {
             "sid": "USGS",
@@ -603,7 +585,7 @@
         ],
         "eid": "us6000k0bq",
         "location": "http://maps.google.com/maps?q=-10.8856,166.845",
-        "name": "M 5.0 - Santa Cruz Islands",
+        "name": "M 5.0 - 115 km E of Lata, Solomon Islands",
         "source": [
           {
             "sid": "USGS",
@@ -611,6 +593,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k0bv",
+        "location": "http://maps.google.com/maps?q=-10.9057,166.7987",
+        "name": "M 5.2 - 111 km E of Lata, Solomon Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bv"
       },
       {
         "category": [
@@ -703,13 +703,18 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "28/Mar/2023 @ 07:00:05 PDT",
+    "last_update": "28/Mar/2023 @ 08:00:12 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-10.8856,166.845\"><b>M 5.0 - Santa Cruz Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bq\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-10.9057,166.7987\"><b>M 5.2 - 111 km E of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bv\">USGS</a>",
+          -10.9057,
+          166.7987
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-10.8856,166.845\"><b>M 5.0 - 115 km E of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bq\">USGS</a>",
           -10.8856,
           166.845
         ],
@@ -734,7 +739,7 @@
           123.5622
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.871,167.4196\"><b>M 4.7 - 95 km W of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.871,167.4196\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08j\">USGS</a>",
           -17.871,
           167.4196
         ],
@@ -754,7 +759,7 @@
           158.9268
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-0.7264,29.3364\"><b>M 4.9 - 38 km WNW of Ntungamo, Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-0.7264,29.3364\"><b>M 4.9 - Lake Edward region, Congo-Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l\">USGS</a>",
           -0.7264,
           29.3364
         ],
@@ -769,14 +774,9 @@
           -81.8608
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-26.6931,-71.5544\"><b>M 4.0 - Off the coast of Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn12\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-26.6931,-71.5544\"><b>M 4.0 - 142 km WNW of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn12\">USGS</a>",
           -26.6931,
           -71.5544
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.0716,36.5315\"><b>M 4.4 - 6 km NNE of Göksun, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn0d\">USGS</a>",
-          38.0716,
-          36.5315
         ]
       ],
       "Floods": [],
@@ -3669,11 +3669,11 @@
     },
     "title": "38 events (28/Mar/2023 PDT)"
   },
-  "last_update": "28/Mar/2023 @ 07:00:44 PDT",
-  "last_update_epoch": 1680012044.944685,
+  "last_update": "28/Mar/2023 @ 08:00:54 PDT",
+  "last_update_epoch": 1680015654.077826,
   "neo": {
     "date": "28/Mar/2023 PDT",
-    "last_update": "28/Mar/2023 @ 07:00:08 PDT",
+    "last_update": "28/Mar/2023 @ 08:00:15 PDT",
     "objects": [
       {
         "cat": "28/Mar/2023 @ 14:03:00 ",
@@ -3872,7 +3872,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Mar/2023 @ 07:00:09 PDT",
+    "last_update": "28/Mar/2023 @ 08:00:15 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5658,7 +5658,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Mar/2023 @ 07:00:22 PDT",
+    "last_update": "28/Mar/2023 @ 08:00:31 PDT",
     "launches": {
       "future": [
         {
