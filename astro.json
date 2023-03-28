@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Mar/2023 @ 22:00:03 PDT",
+    "last_update": "27/Mar/2023 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg",
     "title": "A Multiple Green Flash Sunset (28/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -423,7 +423,7 @@
         ],
         "eid": "us7000jn12",
         "location": "http://maps.google.com/maps?q=-26.6931,-71.5544",
-        "name": "M 4.0 - 142 km WNW of Copiapó, Chile",
+        "name": "M 4.0 - Off the coast of Atacama, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -529,27 +529,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us7000jmyt",
-        "location": "http://maps.google.com/maps?q=49.9655,-178.7466",
-        "name": "M 4.5 - 259 km SW of Adak, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k08j",
         "location": "http://maps.google.com/maps?q=-17.871,167.4196",
-        "name": "M 4.7 - Vanuatu",
+        "name": "M 4.7 - 95 km W of Port-Vila, Vanuatu",
         "source": [
           {
             "sid": "USGS",
@@ -585,7 +567,7 @@
         ],
         "eid": "us7000jmzw",
         "location": "http://maps.google.com/maps?q=13.0893,143.9275",
-        "name": "M 4.8 - 82 km WSW of Merizo Village, Guam",
+        "name": "M 4.8 - Guam region",
         "source": [
           {
             "sid": "USGS",
@@ -603,7 +585,7 @@
         ],
         "eid": "us6000k03l",
         "location": "http://maps.google.com/maps?q=-0.7264,29.3364",
-        "name": "M 4.9 - Lake Edward region, Congo-Uganda",
+        "name": "M 4.9 - 38 km WNW of Ntungamo, Uganda",
         "source": [
           {
             "sid": "USGS",
@@ -685,7 +667,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "27/Mar/2023 @ 22:00:05 PDT",
+    "last_update": "27/Mar/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -696,7 +678,7 @@
           123.5622
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.871,167.4196\"><b>M 4.7 - Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08j\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.871,167.4196\"><b>M 4.7 - 95 km W of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08j\">USGS</a>",
           -17.871,
           167.4196
         ],
@@ -716,7 +698,7 @@
           158.9268
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-0.7264,29.3364\"><b>M 4.9 - Lake Edward region, Congo-Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-0.7264,29.3364\"><b>M 4.9 - 38 km WNW of Ntungamo, Uganda</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k03l\">USGS</a>",
           -0.7264,
           29.3364
         ],
@@ -731,7 +713,7 @@
           -81.8608
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-26.6931,-71.5544\"><b>M 4.0 - 142 km WNW of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn12\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-26.6931,-71.5544\"><b>M 4.0 - Off the coast of Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jn12\">USGS</a>",
           -26.6931,
           -71.5544
         ],
@@ -741,7 +723,7 @@
           36.5315
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=13.0893,143.9275\"><b>M 4.8 - 82 km WSW of Merizo Village, Guam</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmzw\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=13.0893,143.9275\"><b>M 4.8 - Guam region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmzw\">USGS</a>",
           13.0893,
           143.9275
         ],
@@ -749,11 +731,6 @@
           "<a href=\"http://maps.google.com/maps?q=13.5662,-88.5654\"><b>M 4.4 - 8 km NNW of Berlín, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmzt\">USGS</a>",
           13.5662,
           -88.5654
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=49.9655,-178.7466\"><b>M 4.5 - 259 km SW of Adak, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us7000jmyt\">USGS</a>",
-          49.9655,
-          -178.7466
         ]
       ],
       "Floods": [],
@@ -3644,13 +3621,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (27/Mar/2023 PDT)"
+    "title": "36 events (27/Mar/2023 PDT)"
   },
-  "last_update": "27/Mar/2023 @ 22:00:36 PDT",
-  "last_update_epoch": 1679979636.259147,
+  "last_update": "27/Mar/2023 @ 23:00:32 PDT",
+  "last_update_epoch": 1679983232.559364,
   "neo": {
     "date": "28/Mar/2023 PDT",
-    "last_update": "27/Mar/2023 @ 22:00:08 PDT",
+    "last_update": "27/Mar/2023 @ 23:00:06 PDT",
     "objects": [
       {
         "cat": "28/Mar/2023 @ 14:03:00 ",
@@ -3849,7 +3826,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Mar/2023 @ 22:00:09 PDT",
+    "last_update": "27/Mar/2023 @ 23:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5635,7 +5612,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Mar/2023 @ 22:00:14 PDT",
+    "last_update": "27/Mar/2023 @ 23:00:11 PDT",
     "launches": {
       "future": [
         {
