@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Mar/2023 @ 03:00:03 PDT",
+    "last_update": "28/Mar/2023 @ 04:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg",
     "title": "A Multiple Green Flash Sunset (28/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -655,6 +655,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k09q",
+        "location": "http://maps.google.com/maps?q=41.148,142.805",
+        "name": "M 6.0 - 129 km ENE of Misawa, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k09q"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k05c",
         "location": "http://maps.google.com/maps?q=-8.2105,158.9268",
         "name": "M 6.1 - 73 km W of Buala, Solomon Islands",
@@ -665,24 +683,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k05c"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k09q",
-        "location": "http://maps.google.com/maps?q=41.147,142.799",
-        "name": "M 6.2 - Hokkaido, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k09q"
       },
       {
         "category": [
@@ -721,15 +721,15 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "28/Mar/2023 @ 03:00:05 PDT",
+    "last_update": "28/Mar/2023 @ 04:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=41.147,142.799\"><b>M 6.2 - Hokkaido, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k09q\">USGS</a>",
-          41.147,
-          142.799
+          "<a href=\"http://maps.google.com/maps?q=41.148,142.805\"><b>M 6.0 - 129 km ENE of Misawa, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k09q\">USGS</a>",
+          41.148,
+          142.805
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=18.3377,120.4505\"><b>M 5.3 - 17 km W of Pasuquin, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k091\">USGS</a>",
@@ -3692,11 +3692,11 @@
     },
     "title": "39 events (28/Mar/2023 PDT)"
   },
-  "last_update": "28/Mar/2023 @ 03:00:38 PDT",
-  "last_update_epoch": 1679997638.455737,
+  "last_update": "28/Mar/2023 @ 04:00:38 PDT",
+  "last_update_epoch": 1680001238.942879,
   "neo": {
     "date": "28/Mar/2023 PDT",
-    "last_update": "28/Mar/2023 @ 03:00:08 PDT",
+    "last_update": "28/Mar/2023 @ 04:00:05 PDT",
     "objects": [
       {
         "cat": "28/Mar/2023 @ 14:03:00 ",
@@ -3831,8 +3831,8 @@
     "date": "28/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 26/Mar/2023 @ 15:36:18 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/03/26/jpg/epic_1b_20230326224109.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 27/Mar/2023 @ 15:26:55 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/03/27/jpg/epic_1b_20230327223144.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -3895,7 +3895,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Mar/2023 @ 03:00:08 PDT",
+    "last_update": "28/Mar/2023 @ 04:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5681,7 +5681,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Mar/2023 @ 03:00:13 PDT",
+    "last_update": "28/Mar/2023 @ 04:00:13 PDT",
     "launches": {
       "future": [
         {
