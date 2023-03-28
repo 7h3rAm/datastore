@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "27/Mar/2023 @ 23:00:03 PDT",
+    "last_update": "28/Mar/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg",
     "title": "A Multiple Green Flash Sunset (28/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "27/Mar/2023 PDT",
+    "date": "28/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -439,6 +439,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k08t",
+        "location": "http://maps.google.com/maps?q=-3.6524,139.1117",
+        "name": "M 4.2 - 205 km SW of Abepura, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08t"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k079",
         "location": "http://maps.google.com/maps?q=-17.4183,-176.9879",
         "name": "M 4.2 - Fiji region",
@@ -619,6 +637,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k091",
+        "location": "http://maps.google.com/maps?q=18.3377,120.4505",
+        "name": "M 5.3 - 17 km W of Pasuquin, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k091"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k05c",
         "location": "http://maps.google.com/maps?q=-8.2105,158.9268",
         "name": "M 6.1 - 73 km W of Buala, Solomon Islands",
@@ -667,11 +703,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "27/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "28/Mar/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=18.3377,120.4505\"><b>M 5.3 - 17 km W of Pasuquin, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k091\">USGS</a>",
+          18.3377,
+          120.4505
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-3.6524,139.1117\"><b>M 4.2 - 205 km SW of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08t\">USGS</a>",
+          -3.6524,
+          139.1117
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-0.3948,123.5622\"><b>M 5.0 - 105 km NE of Luwuk, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08q\">USGS</a>",
           -0.3948,
@@ -3621,13 +3667,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (27/Mar/2023 PDT)"
+    "title": "38 events (28/Mar/2023 PDT)"
   },
-  "last_update": "27/Mar/2023 @ 23:00:32 PDT",
-  "last_update_epoch": 1679983232.559364,
+  "last_update": "28/Mar/2023 @ 00:00:34 PDT",
+  "last_update_epoch": 1679986834.392525,
   "neo": {
     "date": "28/Mar/2023 PDT",
-    "last_update": "27/Mar/2023 @ 23:00:06 PDT",
+    "last_update": "28/Mar/2023 @ 00:00:05 PDT",
     "objects": [
       {
         "cat": "28/Mar/2023 @ 14:03:00 ",
@@ -3759,7 +3805,7 @@
     "title": "14 objects making close approach (28/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "27/Mar/2023 PDT",
+    "date": "28/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 26/Mar/2023 @ 15:36:18 PDT.",
@@ -3826,7 +3872,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "27/Mar/2023 @ 23:00:06 PDT",
+    "last_update": "28/Mar/2023 @ 00:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -3879,7 +3925,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (27/Mar/2023 PDT)"
+    "title": "10 people in space (28/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5612,7 +5658,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "27/Mar/2023 @ 23:00:11 PDT",
+    "last_update": "28/Mar/2023 @ 00:00:12 PDT",
     "launches": {
       "future": [
         {
