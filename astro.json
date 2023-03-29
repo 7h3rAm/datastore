@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Mar/2023 @ 20:00:03 PDT",
+    "last_update": "28/Mar/2023 @ 21:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg",
     "title": "A Multiple Green Flash Sunset (28/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -476,8 +476,8 @@
           }
         ],
         "eid": "us6000k08t",
-        "location": "http://maps.google.com/maps?q=-3.6524,139.1117",
-        "name": "M 4.2 - 205 km SW of Abepura, Indonesia",
+        "location": "http://maps.google.com/maps?q=-3.6472,139.08",
+        "name": "M 4.3 - 208 km SW of Abepura, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -547,26 +547,8 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k08j",
-        "location": "http://maps.google.com/maps?q=-17.871,167.4196",
-        "name": "M 4.7 - 95 km W of Port-Vila, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08j"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k08q",
-        "location": "http://maps.google.com/maps?q=-0.3948,123.5622",
+        "location": "http://maps.google.com/maps?q=-0.3835,123.5482",
         "name": "M 5.0 - 105 km NE of Luwuk, Indonesia",
         "source": [
           {
@@ -685,7 +667,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "28/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "28/Mar/2023 @ 21:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -741,19 +723,14 @@
           120.4505
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.6524,139.1117\"><b>M 4.2 - 205 km SW of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08t\">USGS</a>",
-          -3.6524,
-          139.1117
+          "<a href=\"http://maps.google.com/maps?q=-3.6472,139.08\"><b>M 4.3 - 208 km SW of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08t\">USGS</a>",
+          -3.6472,
+          139.08
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-0.3948,123.5622\"><b>M 5.0 - 105 km NE of Luwuk, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08q\">USGS</a>",
-          -0.3948,
-          123.5622
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.871,167.4196\"><b>M 4.7 - 95 km W of Port-Vila, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08j\">USGS</a>",
-          -17.871,
-          167.4196
+          "<a href=\"http://maps.google.com/maps?q=-0.3835,123.5482\"><b>M 5.0 - 105 km NE of Luwuk, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08q\">USGS</a>",
+          -0.3835,
+          123.5482
         ]
       ],
       "Floods": [],
@@ -3644,13 +3621,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "37 events (28/Mar/2023 PDT)"
+    "title": "36 events (28/Mar/2023 PDT)"
   },
-  "last_update": "28/Mar/2023 @ 20:00:03 PDT",
-  "last_update_epoch": 1680058803.517583,
+  "last_update": "28/Mar/2023 @ 21:00:39 PDT",
+  "last_update_epoch": 1680062439.346146,
   "neo": {
     "date": "29/Mar/2023 PDT",
-    "last_update": "28/Mar/2023 @ 19:00:06 PDT",
+    "last_update": "28/Mar/2023 @ 21:00:06 PDT",
     "objects": [
       {
         "cat": "29/Mar/2023 @ 11:40:00 ",
@@ -3813,7 +3790,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Mar/2023 @ 19:00:06 PDT",
+    "last_update": "28/Mar/2023 @ 21:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5599,7 +5576,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Mar/2023 @ 19:00:10 PDT",
+    "last_update": "28/Mar/2023 @ 21:00:11 PDT",
     "launches": {
       "future": [
         {
