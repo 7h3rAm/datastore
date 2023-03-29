@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Mar/2023 @ 21:00:04 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2303/GreenFlashesB_Slovinsky_960.jpg",
-    "title": "A Multiple Green Flash Sunset (28/Mar/2023 PDT)",
+    "last_update": "28/Mar/2023 @ 22:00:04 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg",
+    "title": "Sh2-308: A Dolphin Shaped Star Bubble (29/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -423,7 +423,7 @@
         ],
         "eid": "us6000k0gg",
         "location": "http://maps.google.com/maps?q=36.5116,70.2942",
-        "name": "M 4.0 - Hindu Kush region, Afghanistan",
+        "name": "M 4.0 - 39 km E of Farkhār, Afghanistan",
         "source": [
           {
             "sid": "USGS",
@@ -459,7 +459,7 @@
         ],
         "eid": "us6000k09l",
         "location": "http://maps.google.com/maps?q=-2.6262,128.4726",
-        "name": "M 4.1 - Ceram Sea, Indonesia",
+        "name": "M 4.1 - 93 km NNW of Amahai, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -475,27 +475,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k08t",
-        "location": "http://maps.google.com/maps?q=-3.6472,139.08",
-        "name": "M 4.3 - 208 km SW of Abepura, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08t"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0gc",
         "location": "http://maps.google.com/maps?q=34.6026,70.6043",
-        "name": "M 4.3 - 24 km NE of Jalālābād, Afghanistan",
+        "name": "M 4.3 - Hindu Kush region, Afghanistan",
         "source": [
           {
             "sid": "USGS",
@@ -511,9 +493,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k0hc",
+        "location": "http://maps.google.com/maps?q=-15.315,-175.0423",
+        "name": "M 4.4 - 151 km WNW of Hihifo, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0hc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k0ex",
         "location": "http://maps.google.com/maps?q=2.4101,128.7992",
-        "name": "M 4.6 - Halmahera, Indonesia",
+        "name": "M 4.6 - 115 km NE of Tobelo, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -547,27 +547,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k08q",
-        "location": "http://maps.google.com/maps?q=-0.3835,123.5482",
-        "name": "M 5.0 - 105 km NE of Luwuk, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08q"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0bq",
         "location": "http://maps.google.com/maps?q=-10.8856,166.845",
-        "name": "M 5.0 - Santa Cruz Islands",
+        "name": "M 5.0 - 115 km E of Lata, Solomon Islands",
         "source": [
           {
             "sid": "USGS",
@@ -667,18 +649,23 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "28/Mar/2023 @ 21:00:05 PDT",
+    "last_update": "28/Mar/2023 @ 22:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=36.5116,70.2942\"><b>M 4.0 - Hindu Kush region, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0gg\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-15.315,-175.0423\"><b>M 4.4 - 151 km WNW of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0hc\">USGS</a>",
+          -15.315,
+          -175.0423
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.5116,70.2942\"><b>M 4.0 - 39 km E of Farkhār, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0gg\">USGS</a>",
           36.5116,
           70.2942
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=34.6026,70.6043\"><b>M 4.3 - 24 km NE of Jalālābād, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0gc\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=34.6026,70.6043\"><b>M 4.3 - Hindu Kush region, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0gc\">USGS</a>",
           34.6026,
           70.6043
         ],
@@ -693,7 +680,7 @@
           14.6553
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=2.4101,128.7992\"><b>M 4.6 - Halmahera, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ex\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=2.4101,128.7992\"><b>M 4.6 - 115 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ex\">USGS</a>",
           2.4101,
           128.7992
         ],
@@ -703,7 +690,7 @@
           166.7573
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-10.8856,166.845\"><b>M 5.0 - Santa Cruz Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bq\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-10.8856,166.845\"><b>M 5.0 - 115 km E of Lata, Solomon Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bq\">USGS</a>",
           -10.8856,
           166.845
         ],
@@ -713,7 +700,7 @@
           142.805
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-2.6262,128.4726\"><b>M 4.1 - Ceram Sea, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k09l\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-2.6262,128.4726\"><b>M 4.1 - 93 km NNW of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k09l\">USGS</a>",
           -2.6262,
           128.4726
         ],
@@ -721,16 +708,6 @@
           "<a href=\"http://maps.google.com/maps?q=18.3377,120.4505\"><b>M 5.3 - 17 km W of Pasuquin, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k091\">USGS</a>",
           18.3377,
           120.4505
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.6472,139.08\"><b>M 4.3 - 208 km SW of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08t\">USGS</a>",
-          -3.6472,
-          139.08
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-0.3835,123.5482\"><b>M 5.0 - 105 km NE of Luwuk, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k08q\">USGS</a>",
-          -0.3835,
-          123.5482
         ]
       ],
       "Floods": [],
@@ -3621,13 +3598,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (28/Mar/2023 PDT)"
+    "title": "35 events (28/Mar/2023 PDT)"
   },
-  "last_update": "28/Mar/2023 @ 21:00:39 PDT",
-  "last_update_epoch": 1680062439.346146,
+  "last_update": "28/Mar/2023 @ 22:00:38 PDT",
+  "last_update_epoch": 1680066038.897278,
   "neo": {
     "date": "29/Mar/2023 PDT",
-    "last_update": "28/Mar/2023 @ 21:00:06 PDT",
+    "last_update": "28/Mar/2023 @ 22:00:06 PDT",
     "objects": [
       {
         "cat": "29/Mar/2023 @ 11:40:00 ",
@@ -3790,7 +3767,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Mar/2023 @ 21:00:06 PDT",
+    "last_update": "28/Mar/2023 @ 22:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5576,7 +5553,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Mar/2023 @ 21:00:11 PDT",
+    "last_update": "28/Mar/2023 @ 22:00:12 PDT",
     "launches": {
       "future": [
         {
