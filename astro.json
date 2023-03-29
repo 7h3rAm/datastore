@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Mar/2023 @ 14:00:03 PDT",
+    "last_update": "29/Mar/2023 @ 15:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg",
     "title": "Sh2-308: A Dolphin Shaped Star Bubble (29/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -529,24 +529,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0fj",
-        "location": "http://maps.google.com/maps?q=41.6564,14.6553",
-        "name": "M 4.7 - 1 km NW of Montagano, Italy",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0fj"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0hu",
         "location": "http://maps.google.com/maps?q=-14.041,-74.4411",
         "name": "M 4.7 - 17 km SW of Sacsamarca, Peru",
@@ -757,7 +739,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "29/Mar/2023 @ 14:00:05 PDT",
+    "last_update": "29/Mar/2023 @ 15:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -841,11 +823,6 @@
           "<a href=\"http://maps.google.com/maps?q=36.3179,139.4924\"><b>M 4.1 - 4 km ESE of Ashikaga, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ga\">USGS</a>",
           36.3179,
           139.4924
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=41.6564,14.6553\"><b>M 4.7 - 1 km NW of Montagano, Italy</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0fj\">USGS</a>",
-          41.6564,
-          14.6553
         ]
       ],
       "Floods": [],
@@ -3736,13 +3713,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (29/Mar/2023 PDT)"
+    "title": "40 events (29/Mar/2023 PDT)"
   },
-  "last_update": "29/Mar/2023 @ 14:00:33 PDT",
-  "last_update_epoch": 1680123633.921047,
+  "last_update": "29/Mar/2023 @ 15:00:32 PDT",
+  "last_update_epoch": 1680127232.352507,
   "neo": {
     "date": "29/Mar/2023 PDT",
-    "last_update": "29/Mar/2023 @ 14:00:06 PDT",
+    "last_update": "29/Mar/2023 @ 15:00:05 PDT",
     "objects": [
       {
         "cat": "29/Mar/2023 @ 11:40:00 ",
@@ -3905,7 +3882,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Mar/2023 @ 14:00:06 PDT",
+    "last_update": "29/Mar/2023 @ 15:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5691,7 +5668,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Mar/2023 @ 14:00:11 PDT",
+    "last_update": "29/Mar/2023 @ 15:00:11 PDT",
     "launches": {
       "future": [
         {
