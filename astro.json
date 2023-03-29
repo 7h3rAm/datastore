@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Mar/2023 @ 10:00:03 PDT",
+    "last_update": "29/Mar/2023 @ 11:00:30 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg",
     "title": "Sh2-308: A Dolphin Shaped Star Bubble (29/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -511,42 +511,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0e4",
-        "location": "http://maps.google.com/maps?q=12.6459,-71.0189",
-        "name": "M 4.5 - 138 km NW of Punto Fijo, Venezuela",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0e4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k0e3",
-        "location": "http://maps.google.com/maps?q=30.2842,51.7982",
-        "name": "M 4.5 - 32 km NE of Nūrābād, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0e3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0ex",
         "location": "http://maps.google.com/maps?q=2.4101,128.7992",
         "name": "M 4.6 - 115 km NE of Tobelo, Indonesia",
@@ -557,6 +521,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ex"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k0ne",
+        "location": "http://maps.google.com/maps?q=37.9135,36.2474",
+        "name": "M 4.6 - Central Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ne"
       },
       {
         "category": [
@@ -739,11 +721,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "29/Mar/2023 @ 10:00:05 PDT",
+    "last_update": "29/Mar/2023 @ 11:00:32 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.9135,36.2474\"><b>M 4.6 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ne\">USGS</a>",
+          37.9135,
+          36.2474
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=27.9933,139.427\"><b>M 4.7 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ix\">USGS</a>",
           27.9933,
@@ -813,16 +800,6 @@
           "<a href=\"http://maps.google.com/maps?q=2.4101,128.7992\"><b>M 4.6 - 115 km NE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ex\">USGS</a>",
           2.4101,
           128.7992
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=12.6459,-71.0189\"><b>M 4.5 - 138 km NW of Punto Fijo, Venezuela</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0e4\">USGS</a>",
-          12.6459,
-          -71.0189
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=30.2842,51.7982\"><b>M 4.5 - 32 km NE of Nūrābād, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0e3\">USGS</a>",
-          30.2842,
-          51.7982
         ]
       ],
       "Floods": [],
@@ -3713,13 +3690,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "40 events (29/Mar/2023 PDT)"
+    "title": "39 events (29/Mar/2023 PDT)"
   },
-  "last_update": "29/Mar/2023 @ 10:00:38 PDT",
-  "last_update_epoch": 1680109238.507819,
+  "last_update": "29/Mar/2023 @ 11:01:19 PDT",
+  "last_update_epoch": 1680112879.082891,
   "neo": {
     "date": "29/Mar/2023 PDT",
-    "last_update": "29/Mar/2023 @ 10:00:06 PDT",
+    "last_update": "29/Mar/2023 @ 11:00:33 PDT",
     "objects": [
       {
         "cat": "29/Mar/2023 @ 11:40:00 ",
@@ -3882,7 +3859,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Mar/2023 @ 10:00:06 PDT",
+    "last_update": "29/Mar/2023 @ 11:00:34 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5668,7 +5645,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Mar/2023 @ 10:00:13 PDT",
+    "last_update": "29/Mar/2023 @ 11:00:39 PDT",
     "launches": {
       "future": [
         {
