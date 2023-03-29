@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "28/Mar/2023 @ 23:00:03 PDT",
+    "last_update": "29/Mar/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg",
     "title": "Sh2-308: A Dolphin Shaped Star Bubble (29/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "28/Mar/2023 PDT",
+    "date": "29/Mar/2023 PDT",
     "events": [
       {
         "category": [
@@ -631,7 +631,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "28/Mar/2023 @ 23:00:04 PDT",
+    "last_update": "29/Mar/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3575,13 +3575,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "34 events (28/Mar/2023 PDT)"
+    "title": "34 events (29/Mar/2023 PDT)"
   },
-  "last_update": "28/Mar/2023 @ 23:00:33 PDT",
-  "last_update_epoch": 1680069633.293844,
+  "last_update": "29/Mar/2023 @ 00:00:31 PDT",
+  "last_update_epoch": 1680073231.638912,
   "neo": {
     "date": "29/Mar/2023 PDT",
-    "last_update": "28/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "29/Mar/2023 @ 00:00:05 PDT",
     "objects": [
       {
         "cat": "29/Mar/2023 @ 11:40:00 ",
@@ -3677,7 +3677,7 @@
     "title": "10 objects making close approach (29/Mar/2023 PDT)"
   },
   "satview": {
-    "date": "28/Mar/2023 PDT",
+    "date": "29/Mar/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 27/Mar/2023 @ 15:26:55 PDT.",
@@ -3744,7 +3744,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "28/Mar/2023 @ 23:00:06 PDT",
+    "last_update": "29/Mar/2023 @ 00:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -3797,7 +3797,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (28/Mar/2023 PDT)"
+    "title": "10 people in space (29/Mar/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5530,7 +5530,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "28/Mar/2023 @ 23:00:11 PDT",
+    "last_update": "29/Mar/2023 @ 00:00:10 PDT",
     "launches": {
       "future": [
         {
