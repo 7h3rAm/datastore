@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Mar/2023 @ 00:00:03 PDT",
+    "last_update": "29/Mar/2023 @ 01:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg",
     "title": "Sh2-308: A Dolphin Shaped Star Bubble (29/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -547,6 +547,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k0i4",
+        "location": "http://maps.google.com/maps?q=-18.4958,-175.4917",
+        "name": "M 4.7 - 160 km W of Neiafu, Tonga",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0i4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k0hu",
+        "location": "http://maps.google.com/maps?q=-14.041,-74.4411",
+        "name": "M 4.7 - central Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0hu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k0bq",
         "location": "http://maps.google.com/maps?q=-10.8856,166.845",
         "name": "M 5.0 - Santa Cruz Islands",
@@ -557,6 +593,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0bq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k0i7",
+        "location": "http://maps.google.com/maps?q=-26.2273,178.4971",
+        "name": "M 5.0 - south of the Fiji Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0i7"
       },
       {
         "category": [
@@ -631,11 +685,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "29/Mar/2023 @ 00:00:05 PDT",
+    "last_update": "29/Mar/2023 @ 01:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-26.2273,178.4971\"><b>M 5.0 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0i7\">USGS</a>",
+          -26.2273,
+          178.4971
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.4958,-175.4917\"><b>M 4.7 - 160 km W of Neiafu, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0i4\">USGS</a>",
+          -18.4958,
+          -175.4917
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14.041,-74.4411\"><b>M 4.7 - central Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0hu\">USGS</a>",
+          -14.041,
+          -74.4411
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-15.315,-175.0423\"><b>M 4.4 - 151 km WNW of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0hc\">USGS</a>",
           -15.315,
@@ -3575,13 +3644,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "34 events (29/Mar/2023 PDT)"
+    "title": "37 events (29/Mar/2023 PDT)"
   },
-  "last_update": "29/Mar/2023 @ 00:00:31 PDT",
-  "last_update_epoch": 1680073231.638912,
+  "last_update": "29/Mar/2023 @ 01:00:33 PDT",
+  "last_update_epoch": 1680076833.034289,
   "neo": {
     "date": "29/Mar/2023 PDT",
-    "last_update": "29/Mar/2023 @ 00:00:05 PDT",
+    "last_update": "29/Mar/2023 @ 01:00:06 PDT",
     "objects": [
       {
         "cat": "29/Mar/2023 @ 11:40:00 ",
@@ -3744,7 +3813,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Mar/2023 @ 00:00:05 PDT",
+    "last_update": "29/Mar/2023 @ 01:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5530,7 +5599,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Mar/2023 @ 00:00:10 PDT",
+    "last_update": "29/Mar/2023 @ 01:00:10 PDT",
     "launches": {
       "future": [
         {
