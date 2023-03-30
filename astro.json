@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "29/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "29/Mar/2023 @ 20:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg",
     "title": "Sh2-308: A Dolphin Shaped Star Bubble (29/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -475,24 +475,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0gv",
-        "location": "http://maps.google.com/maps?q=36.727,71.2853",
-        "name": "M 4.4 - Hindu Kush region, Afghanistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0gv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0ne",
         "location": "http://maps.google.com/maps?q=37.9135,36.2474",
         "name": "M 4.6 - Central Turkey",
@@ -757,7 +739,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "29/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "29/Mar/2023 @ 20:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -841,11 +823,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.3285,-174.9924\"><b>M 4.7 - 145 km WNW of Hihifo, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0hc\">USGS</a>",
           -15.3285,
           -174.9924
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.727,71.2853\"><b>M 4.4 - Hindu Kush region, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0gv\">USGS</a>",
-          36.727,
-          71.2853
         ]
       ],
       "Floods": [],
@@ -3736,13 +3713,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (29/Mar/2023 PDT)"
+    "title": "40 events (29/Mar/2023 PDT)"
   },
-  "last_update": "29/Mar/2023 @ 19:00:36 PDT",
-  "last_update_epoch": 1680141636.451649,
+  "last_update": "29/Mar/2023 @ 20:00:32 PDT",
+  "last_update_epoch": 1680145232.434317,
   "neo": {
     "date": "30/Mar/2023 PDT",
-    "last_update": "29/Mar/2023 @ 19:00:06 PDT",
+    "last_update": "29/Mar/2023 @ 20:00:05 PDT",
     "objects": [
       {
         "cat": "30/Mar/2023 @ 08:08:00 ",
@@ -4031,7 +4008,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "29/Mar/2023 @ 19:00:06 PDT",
+    "last_update": "29/Mar/2023 @ 20:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5817,7 +5794,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "29/Mar/2023 @ 19:00:12 PDT",
+    "last_update": "29/Mar/2023 @ 20:00:12 PDT",
     "launches": {
       "future": [
         {
