@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Mar/2023 @ 07:00:04 PDT",
+    "last_update": "30/Mar/2023 @ 08:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg",
     "title": "NGC 4372 and the Dark Doodad (30/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -10,6 +10,24 @@
   "earthevents": {
     "date": "30/Mar/2023 PDT",
     "events": [
+      {
+        "category": [
+          {
+            "emoji": "🌋",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
+          }
+        ],
+        "eid": "EONET_6336",
+        "location": "https://www.google.com/maps/dir/55.972,160.595/@55.972,160.595,3z",
+        "name": "Bezymianny Volcano, Russia",
+        "source": [
+          {
+            "sid": "SIVolcano",
+            "url": "https://volcano.si.edu/volcano.cfm?vn=300250"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6336"
+      },
       {
         "category": [
           {
@@ -613,7 +631,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6335"
       }
     ],
-    "last_update": "30/Mar/2023 @ 07:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 08:00:11 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3560,6 +3578,11 @@
       "Temperature Extremes": [],
       "Volcanoes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=55.972,160.595\"><b>Bezymianny Volcano, Russia</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=300250\">SIVolcano</a>",
+          55.972,
+          160.595
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=1.488,127.63\"><b>Ibu Volcano, Indonesia</b></a><br/><b>Category</b>: Volcanoes<br/><b>Source</b>: <a href=\"https://volcano.si.edu/volcano.cfm?vn=268030\">SIVolcano</a>",
           1.488,
           127.63
@@ -3578,13 +3601,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "33 events (30/Mar/2023 PDT)"
+    "title": "34 events (30/Mar/2023 PDT)"
   },
-  "last_update": "30/Mar/2023 @ 07:00:33 PDT",
-  "last_update_epoch": 1680184833.389626,
+  "last_update": "30/Mar/2023 @ 08:00:40 PDT",
+  "last_update_epoch": 1680188440.073495,
   "neo": {
     "date": "30/Mar/2023 PDT",
-    "last_update": "30/Mar/2023 @ 07:00:07 PDT",
+    "last_update": "30/Mar/2023 @ 08:00:12 PDT",
     "objects": [
       {
         "cat": "30/Mar/2023 @ 08:08:00 ",
@@ -3873,7 +3896,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Mar/2023 @ 07:00:07 PDT",
+    "last_update": "30/Mar/2023 @ 08:00:12 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5659,7 +5682,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Mar/2023 @ 07:00:12 PDT",
+    "last_update": "30/Mar/2023 @ 08:00:18 PDT",
     "launches": {
       "future": [
         {
