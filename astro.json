@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Mar/2023 @ 01:00:03 PDT",
+    "last_update": "30/Mar/2023 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg",
     "title": "NGC 4372 and the Dark Doodad (30/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -439,24 +439,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0id",
-        "location": "http://maps.google.com/maps?q=36.6575,71.0908",
-        "name": "M 4.3 - Afghanistan-Tajikistan-Pakistan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0id"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0rp",
         "location": "http://maps.google.com/maps?q=49.8805,89.8172",
         "name": "M 4.4 - 19 km SSW of Kyzyl-Khaya, Russia",
@@ -503,24 +485,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ix"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k0im",
-        "location": "http://maps.google.com/maps?q=-17.9194,-178.6172",
-        "name": "M 4.8 - 219 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0im"
       },
       {
         "category": [
@@ -583,24 +547,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0il",
-        "location": "http://maps.google.com/maps?q=30.3087,127.9014",
-        "name": "M 5.1 - 242 km W of Kurio, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0il"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0pe",
         "location": "http://maps.google.com/maps?q=-15.2968,-173.0504",
         "name": "M 5.4 - 108 km NE of Hihifo, Tonga",
@@ -649,7 +595,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
       }
     ],
-    "last_update": "30/Mar/2023 @ 01:00:05 PDT",
+    "last_update": "30/Mar/2023 @ 02:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -693,21 +639,6 @@
           "<a href=\"http://maps.google.com/maps?q=27.9933,139.427\"><b>M 4.7 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ix\">USGS</a>",
           27.9933,
           139.427
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.9194,-178.6172\"><b>M 4.8 - 219 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0im\">USGS</a>",
-          -17.9194,
-          -178.6172
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=30.3087,127.9014\"><b>M 5.1 - 242 km W of Kurio, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0il\">USGS</a>",
-          30.3087,
-          127.9014
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.6575,71.0908\"><b>M 4.3 - Afghanistan-Tajikistan-Pakistan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0id\">USGS</a>",
-          36.6575,
-          71.0908
         ]
       ],
       "Floods": [],
@@ -3598,13 +3529,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "35 events (30/Mar/2023 PDT)"
+    "title": "32 events (30/Mar/2023 PDT)"
   },
-  "last_update": "30/Mar/2023 @ 01:00:34 PDT",
-  "last_update_epoch": 1680163234.349993,
+  "last_update": "30/Mar/2023 @ 02:00:35 PDT",
+  "last_update_epoch": 1680166835.051516,
   "neo": {
     "date": "30/Mar/2023 PDT",
-    "last_update": "30/Mar/2023 @ 01:00:05 PDT",
+    "last_update": "30/Mar/2023 @ 02:00:07 PDT",
     "objects": [
       {
         "cat": "30/Mar/2023 @ 08:08:00 ",
@@ -3893,7 +3824,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Mar/2023 @ 01:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 02:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5679,7 +5610,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Mar/2023 @ 01:00:10 PDT",
+    "last_update": "30/Mar/2023 @ 02:00:12 PDT",
     "launches": {
       "future": [
         {
