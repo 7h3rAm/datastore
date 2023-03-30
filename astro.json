@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Mar/2023 @ 15:00:03 PDT",
+    "last_update": "30/Mar/2023 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg",
     "title": "NGC 4372 and the Dark Doodad (30/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -458,8 +458,8 @@
           }
         ],
         "eid": "us6000k0yt",
-        "location": "http://maps.google.com/maps?q=47.7419,16.0116",
-        "name": "M 4.1 - 3 km NNW of Ternitz, Austria",
+        "location": "http://maps.google.com/maps?q=47.7295,15.9861",
+        "name": "M 4.0 - 3 km N of Buchbach, Austria",
         "source": [
           {
             "sid": "USGS",
@@ -565,16 +565,34 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0rp",
-        "location": "http://maps.google.com/maps?q=49.8805,89.8172",
-        "name": "M 4.4 - 19 km SSW of Kyzyl-Khaya, Russia",
+        "eid": "us6000k0z5",
+        "location": "http://maps.google.com/maps?q=-17.9506,-178.5694",
+        "name": "M 4.4 - Fiji region",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0rp"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0z5"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k0zq",
+        "location": "http://maps.google.com/maps?q=-35.7033,-73.5399",
+        "name": "M 4.5 - 110 km WSW of Constitución, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0zq"
       },
       {
         "category": [
@@ -657,7 +675,7 @@
         ],
         "eid": "us6000k0xf",
         "location": "http://maps.google.com/maps?q=-35.6626,-73.5404",
-        "name": "M 6.3 - 108 km WSW of Constitución, Chile",
+        "name": "M 6.3 - Off the coast of Maule, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -710,7 +728,7 @@
           }
         ],
         "eid": "EONET_6335",
-        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/@-13.3,100.4,3z",
+        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/@-13.3,100.4,3z",
         "name": "Tropical Cyclone Herman",
         "source": [
           {
@@ -739,15 +757,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "30/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "30/Mar/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=47.7419,16.0116\"><b>M 4.1 - 3 km NNW of Ternitz, Austria</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yt\">USGS</a>",
-          47.7419,
-          16.0116
+          "<a href=\"http://maps.google.com/maps?q=-35.7033,-73.5399\"><b>M 4.5 - 110 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0zq\">USGS</a>",
+          -35.7033,
+          -73.5399
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.9506,-178.5694\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0z5\">USGS</a>",
+          -17.9506,
+          -178.5694
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=47.7295,15.9861\"><b>M 4.0 - 3 km N of Buchbach, Austria</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yt\">USGS</a>",
+          47.7295,
+          15.9861
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=22.2141,121.5548\"><b>M 4.5 - 86 km ENE of Hengchun, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yr\">USGS</a>",
@@ -780,7 +808,7 @@
           -73.6952
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - 108 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - Off the coast of Maule, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
           -35.6626,
           -73.5404
         ],
@@ -798,11 +826,6 @@
           "<a href=\"http://maps.google.com/maps?q=7.9238,-74.7507\"><b>M 4.5 - 14 km N of San Carlos, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0u3\">USGS</a>",
           7.9238,
           -74.7507
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=49.8805,89.8172\"><b>M 4.4 - 19 km SSW of Kyzyl-Khaya, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0rp\">USGS</a>",
-          49.8805,
-          89.8172
         ]
       ],
       "Floods": [],
@@ -3705,6 +3728,11 @@
           "<a href=\"http://maps.google.com/maps?q=-15.7,105.4\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
           -15.7,
           105.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-16.3,105.8\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -16.3,
+          105.8
         ]
       ],
       "Snow": [],
@@ -3744,13 +3772,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "40 events (30/Mar/2023 PDT)"
+    "title": "41 events (30/Mar/2023 PDT)"
   },
-  "last_update": "30/Mar/2023 @ 15:00:36 PDT",
-  "last_update_epoch": 1680213636.578733,
+  "last_update": "30/Mar/2023 @ 16:00:41 PDT",
+  "last_update_epoch": 1680217241.87298,
   "neo": {
     "date": "30/Mar/2023 PDT",
-    "last_update": "30/Mar/2023 @ 15:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 16:00:06 PDT",
     "objects": [
       {
         "cat": "30/Mar/2023 @ 08:08:00 ",
@@ -4039,7 +4067,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Mar/2023 @ 15:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 16:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5825,7 +5853,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Mar/2023 @ 15:00:11 PDT",
+    "last_update": "30/Mar/2023 @ 16:00:11 PDT",
     "launches": {
       "future": [
         {
