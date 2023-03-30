@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Mar/2023 @ 12:00:03 PDT",
+    "last_update": "30/Mar/2023 @ 13:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg",
     "title": "NGC 4372 and the Dark Doodad (30/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -457,6 +457,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k0y6",
+        "location": "http://maps.google.com/maps?q=35.5828,70.8363",
+        "name": "M 4.2 - 19 km NNW of Pārūn, Afghanistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y6"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k0wq",
         "location": "http://maps.google.com/maps?q=33.0242,136.7762",
         "name": "M 4.3 - 107 km SE of Shingū, Japan",
@@ -467,6 +485,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0wq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k0y3",
+        "location": "http://maps.google.com/maps?q=51.9657,176.2433",
+        "name": "M 4.3 - 229 km ESE of Attu Station, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y3"
       },
       {
         "category": [
@@ -521,6 +557,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0u3"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k0y7",
+        "location": "http://maps.google.com/maps?q=34.6599,25.2165",
+        "name": "M 4.5 - 38 km S of Pýrgos, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y7"
       },
       {
         "category": [
@@ -667,11 +721,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "30/Mar/2023 @ 12:00:05 PDT",
+    "last_update": "30/Mar/2023 @ 13:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=34.6599,25.2165\"><b>M 4.5 - 38 km S of Pýrgos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y7\">USGS</a>",
+          34.6599,
+          25.2165
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=35.5828,70.8363\"><b>M 4.2 - 19 km NNW of Pārūn, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y6\">USGS</a>",
+          35.5828,
+          70.8363
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=51.9657,176.2433\"><b>M 4.3 - 229 km ESE of Attu Station, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y3\">USGS</a>",
+          51.9657,
+          176.2433
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-35.6602,-73.5365\"><b>M 6.3 - 108 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
           -35.6602,
@@ -3652,13 +3721,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "36 events (30/Mar/2023 PDT)"
+    "title": "39 events (30/Mar/2023 PDT)"
   },
-  "last_update": "30/Mar/2023 @ 12:00:38 PDT",
-  "last_update_epoch": 1680202838.39833,
+  "last_update": "30/Mar/2023 @ 13:00:39 PDT",
+  "last_update_epoch": 1680206439.259706,
   "neo": {
     "date": "30/Mar/2023 PDT",
-    "last_update": "30/Mar/2023 @ 12:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 13:00:07 PDT",
     "objects": [
       {
         "cat": "30/Mar/2023 @ 08:08:00 ",
@@ -3947,7 +4016,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Mar/2023 @ 12:00:07 PDT",
+    "last_update": "30/Mar/2023 @ 13:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5733,7 +5802,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Mar/2023 @ 12:00:11 PDT",
+    "last_update": "30/Mar/2023 @ 13:00:12 PDT",
     "launches": {
       "future": [
         {
