@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Mar/2023 @ 06:00:04 PDT",
+    "last_update": "30/Mar/2023 @ 07:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg",
     "title": "NGC 4372 and the Dark Doodad (30/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -593,9 +593,27 @@
           }
         ],
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6333"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🌀",
+            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
+          }
+        ],
+        "eid": "EONET_6335",
+        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/@-13.3,100.4,3z",
+        "name": "Tropical Cyclone Herman",
+        "source": [
+          {
+            "sid": "JTWC",
+            "url": "https://www.metoc.navy.mil/jtwc/products/sh1723.tcw"
+          }
+        ],
+        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6335"
       }
     ],
-    "last_update": "30/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 07:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -3506,7 +3524,38 @@
           -45.16
         ]
       ],
-      "Severe Storms": [],
+      "Severe Storms": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-13.3,100.4\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -13.3,
+          100.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-13.7,101\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -13.7,
+          101
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14,102.2\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -14,
+          102.2
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14.4,103\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -14.4,
+          103
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-14.9,104\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -14.9,
+          104
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.4,104.8\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -15.4,
+          104.8
+        ]
+      ],
       "Snow": [],
       "Temperature Extremes": [],
       "Volcanoes": [
@@ -3529,13 +3578,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "32 events (30/Mar/2023 PDT)"
+    "title": "33 events (30/Mar/2023 PDT)"
   },
-  "last_update": "30/Mar/2023 @ 06:00:34 PDT",
-  "last_update_epoch": 1680181234.0092,
+  "last_update": "30/Mar/2023 @ 07:00:33 PDT",
+  "last_update_epoch": 1680184833.389626,
   "neo": {
     "date": "30/Mar/2023 PDT",
-    "last_update": "30/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 07:00:07 PDT",
     "objects": [
       {
         "cat": "30/Mar/2023 @ 08:08:00 ",
@@ -3824,7 +3873,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 07:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5610,7 +5659,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Mar/2023 @ 06:00:11 PDT",
+    "last_update": "30/Mar/2023 @ 07:00:12 PDT",
     "launches": {
       "future": [
         {
