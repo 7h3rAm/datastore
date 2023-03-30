@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Mar/2023 @ 10:00:17 PDT",
+    "last_update": "30/Mar/2023 @ 11:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg",
     "title": "NGC 4372 and the Dark Doodad (30/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -457,6 +457,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k0wq",
+        "location": "http://maps.google.com/maps?q=33.0242,136.7762",
+        "name": "M 4.3 - 107 km SE of Shingū, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0wq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k0re",
         "location": "http://maps.google.com/maps?q=37.7974,36.5428",
         "name": "M 4.3 - 25 km S of Göksun, Turkey",
@@ -579,6 +597,24 @@
       {
         "category": [
           {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k0xf",
+        "location": "http://maps.google.com/maps?q=-35.6602,-73.5365",
+        "name": "M 6.3 - 108 km WSW of Constitución, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf"
+      },
+      {
+        "category": [
+          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -649,11 +685,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "30/Mar/2023 @ 10:00:19 PDT",
+    "last_update": "30/Mar/2023 @ 11:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-35.6602,-73.5365\"><b>M 6.3 - 108 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
+          -35.6602,
+          -73.5365
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.0242,136.7762\"><b>M 4.3 - 107 km SE of Shingū, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0wq\">USGS</a>",
+          33.0242,
+          136.7762
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=7.9238,-74.7507\"><b>M 4.5 - 14 km N of San Carlos, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0u3\">USGS</a>",
           7.9238,
@@ -3629,13 +3675,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "35 events (30/Mar/2023 PDT)"
+    "title": "37 events (30/Mar/2023 PDT)"
   },
-  "last_update": "30/Mar/2023 @ 10:00:47 PDT",
-  "last_update_epoch": 1680195647.049692,
+  "last_update": "30/Mar/2023 @ 11:00:34 PDT",
+  "last_update_epoch": 1680199234.483518,
   "neo": {
     "date": "30/Mar/2023 PDT",
-    "last_update": "30/Mar/2023 @ 10:00:20 PDT",
+    "last_update": "30/Mar/2023 @ 11:00:06 PDT",
     "objects": [
       {
         "cat": "30/Mar/2023 @ 08:08:00 ",
@@ -3924,7 +3970,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Mar/2023 @ 10:00:20 PDT",
+    "last_update": "30/Mar/2023 @ 11:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5710,7 +5756,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Mar/2023 @ 10:00:26 PDT",
+    "last_update": "30/Mar/2023 @ 11:00:12 PDT",
     "launches": {
       "future": [
         {
