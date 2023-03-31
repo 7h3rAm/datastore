@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Mar/2023 @ 17:00:04 PDT",
+    "last_update": "30/Mar/2023 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg",
     "title": "NGC 4372 and the Dark Doodad (30/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -475,6 +475,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k0t1",
+        "location": "http://maps.google.com/maps?q=38.2349,72.9818",
+        "name": "M 4.1 - 86 km W of Murghob, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0t1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k0ye",
         "location": "http://maps.google.com/maps?q=-35.6984,-73.5677",
         "name": "M 4.2 - 112 km WSW of Constitución, Chile",
@@ -565,6 +583,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k10k",
+        "location": "http://maps.google.com/maps?q=-18.5259,-177.8786",
+        "name": "M 4.4 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k10k"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k0z5",
         "location": "http://maps.google.com/maps?q=-17.9506,-178.5694",
         "name": "M 4.4 - Fiji region",
@@ -593,6 +629,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0zq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k10i",
+        "location": "http://maps.google.com/maps?q=44.6222,149.3147",
+        "name": "M 4.5 - 131 km ESE of Kuril’sk, Russia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k10i"
       },
       {
         "category": [
@@ -675,7 +729,7 @@
         ],
         "eid": "us6000k0xf",
         "location": "http://maps.google.com/maps?q=-35.6626,-73.5404",
-        "name": "M 6.3 - 108 km WSW of Constitución, Chile",
+        "name": "M 6.3 - Off the coast of Maule, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -757,11 +811,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "30/Mar/2023 @ 17:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 18:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.5259,-177.8786\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k10k\">USGS</a>",
+          -18.5259,
+          -177.8786
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=44.6222,149.3147\"><b>M 4.5 - 131 km ESE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k10i\">USGS</a>",
+          44.6222,
+          149.3147
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-35.7033,-73.5399\"><b>M 4.5 - 110 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0zq\">USGS</a>",
           -35.7033,
@@ -808,7 +872,7 @@
           -73.6952
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - 108 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - Off the coast of Maule, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
           -35.6626,
           -73.5404
         ],
@@ -826,6 +890,11 @@
           "<a href=\"http://maps.google.com/maps?q=7.9238,-74.7507\"><b>M 4.5 - 14 km N of San Carlos, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0u3\">USGS</a>",
           7.9238,
           -74.7507
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.2349,72.9818\"><b>M 4.1 - 86 km W of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0t1\">USGS</a>",
+          38.2349,
+          72.9818
         ]
       ],
       "Floods": [],
@@ -3772,13 +3841,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (30/Mar/2023 PDT)"
+    "title": "44 events (30/Mar/2023 PDT)"
   },
-  "last_update": "30/Mar/2023 @ 17:00:07 PDT",
-  "last_update_epoch": 1680220807.347414,
+  "last_update": "30/Mar/2023 @ 18:00:06 PDT",
+  "last_update_epoch": 1680224406.73665,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "30/Mar/2023 @ 17:00:07 PDT",
+    "last_update": "30/Mar/2023 @ 18:00:06 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -3817,6 +3886,123 @@
         "velocity": "22,728.47 mph"
       },
       {
+        "cat": "31/Mar/2023 @ 01:09:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "9,786,779.43 miles",
+        "hazardous": false,
+        "name": "Asteroid (2017 FO127)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3773596",
+        "velocity": "22,152.98 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 10:28:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "30,733,802.37 miles",
+        "hazardous": false,
+        "name": "Asteroid (2018 GE3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3802568",
+        "velocity": "88,763.22 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 09:14:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "20,780,739.52 miles",
+        "hazardous": false,
+        "name": "Asteroid (2018 PK20)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3826760",
+        "velocity": "15,687.00 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 20:36:00 ",
+        "diameter": "0.00-0.01 miles",
+        "distance": "27,368,826.71 miles",
+        "hazardous": false,
+        "name": "Asteroid (2018 SC)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3830497",
+        "velocity": "50,148.23 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 12:45:00 ",
+        "diameter": "0.01-0.01 miles",
+        "distance": "14,343,337.60 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 HM3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3841620",
+        "velocity": "21,916.65 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 05:28:00 ",
+        "diameter": "0.02-0.03 miles",
+        "distance": "20,366,659.26 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 QQ)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843575",
+        "velocity": "39,848.53 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 13:27:00 ",
+        "diameter": "0.00-0.01 miles",
+        "distance": "12,571,303.99 miles",
+        "hazardous": false,
+        "name": "Asteroid (2020 VN1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54087576",
+        "velocity": "14,533.42 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 19:23:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "5,712,628.15 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 FX1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54265773",
+        "velocity": "21,265.43 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 04:16:00 ",
+        "diameter": "0.06-0.14 miles",
+        "distance": "43,376,952.36 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 OU1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54291603",
+        "velocity": "17,408.87 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 13:14:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "22,259,106.74 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 SG18)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54308103",
+        "velocity": "38,304.48 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 18:10:00 ",
+        "diameter": "0.07-0.15 miles",
+        "distance": "31,275,748.62 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 UB4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54317874",
+        "velocity": "61,023.23 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 06:13:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "9,039,851.08 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 ER2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54347998",
+        "velocity": "16,490.67 mph"
+      },
+      {
+        "cat": "31/Mar/2023 @ 07:09:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "1,568,922.30 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 FO3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54351828",
+        "velocity": "22,773.64 mph"
+      },
+      {
         "cat": "31/Mar/2023 @ 05:19:00 ",
         "diameter": "0.67-1.50 miles",
         "distance": "33,609,599.59 miles",
@@ -3826,7 +4012,7 @@
         "velocity": "55,783.64 mph"
       }
     ],
-    "title": "5 objects making close approach (31/Mar/2023 PDT)"
+    "title": "18 objects making close approach (31/Mar/2023 PDT)"
   },
   "satview": {
     "date": "30/Mar/2023 PDT",
@@ -3896,7 +4082,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Mar/2023 @ 17:00:07 PDT",
+    "last_update": "30/Mar/2023 @ 18:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
