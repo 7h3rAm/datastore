@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 06:00:04 PDT",
+    "last_update": "31/Mar/2023 @ 07:00:11 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -475,6 +475,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k11p",
+        "location": "http://maps.google.com/maps?q=34.4083,93.7828",
+        "name": "M 4.1 - Southern Qinghai, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k0ye",
         "location": "http://maps.google.com/maps?q=-35.6984,-73.5677",
         "name": "M 4.2 - 112 km WSW of Constitución, Chile",
@@ -611,6 +629,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0zq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k12k",
+        "location": "http://maps.google.com/maps?q=-3.0728,147.387",
+        "name": "M 4.5 - 115 km S of Lorengau, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12k"
       },
       {
         "category": [
@@ -801,7 +837,7 @@
         ],
         "eid": "us6000k0xf",
         "location": "http://maps.google.com/maps?q=-35.6626,-73.5404",
-        "name": "M 6.3 - Off the coast of Maule, Chile",
+        "name": "M 6.3 - 108 km WSW of Constitución, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -883,7 +919,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 07:00:13 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -892,6 +928,11 @@
           "<a href=\"http://maps.google.com/maps?q=-24.7616,-70.1594\"><b>M 5.2 - 78 km NNE of Taltal, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k138\">USGS</a>",
           -24.7616,
           -70.1594
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-3.0728,147.387\"><b>M 4.5 - 115 km S of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12k\">USGS</a>",
+          -3.0728,
+          147.387
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-9.7454,115.1016\"><b>M 4.8 - 105 km S of Nusa Dua, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12g\">USGS</a>",
@@ -912,6 +953,11 @@
           "<a href=\"http://maps.google.com/maps?q=27.0725,141.4644\"><b>M 5.4 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11q\">USGS</a>",
           27.0725,
           141.4644
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - Southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
+          34.4083,
+          93.7828
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=17.6543,-94.402\"><b>M 4.6 - 26 km NNE of Niños Héroes, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k114\">USGS</a>",
@@ -974,7 +1020,7 @@
           -73.6952
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - Off the coast of Maule, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - 108 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
           -35.6626,
           -73.5404
         ],
@@ -3943,13 +3989,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (31/Mar/2023 PDT)"
+    "title": "50 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 06:00:38 PDT",
-  "last_update_epoch": 1680267638.993526,
+  "last_update": "31/Mar/2023 @ 07:01:09 PDT",
+  "last_update_epoch": 1680271269.800375,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 06:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 07:00:14 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4184,7 +4230,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 06:00:07 PDT",
+    "last_update": "31/Mar/2023 @ 07:00:15 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5970,7 +6016,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 06:00:12 PDT",
+    "last_update": "31/Mar/2023 @ 07:00:21 PDT",
     "launches": {
       "future": [
         {
