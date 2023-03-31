@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 14:00:04 PDT",
+    "last_update": "31/Mar/2023 @ 15:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -493,6 +493,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k17l",
+        "location": "http://maps.google.com/maps?q=40.9506,78.0801",
+        "name": "M 4.3 - 152 km SSE of Kadzhi-Say, Kyrgyzstan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k17l"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k17g",
+        "location": "http://maps.google.com/maps?q=38.738,142.0863",
+        "name": "M 4.3 - 48 km SE of Ōfunato, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k17g"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k12y",
         "location": "http://maps.google.com/maps?q=2.3955,128.3208",
         "name": "M 4.4 - 81 km NNE of Tobelo, Indonesia",
@@ -829,11 +865,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 14:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 15:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=40.9506,78.0801\"><b>M 4.3 - 152 km SSE of Kadzhi-Say, Kyrgyzstan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k17l\">USGS</a>",
+          40.9506,
+          78.0801
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.738,142.0863\"><b>M 4.3 - 48 km SE of Ōfunato, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k17g\">USGS</a>",
+          38.738,
+          142.0863
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=11.8701,93.7364\"><b>M 4.2 - 110 km ENE of Port Blair, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16v\">USGS</a>",
           11.8701,
@@ -3879,13 +3925,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (31/Mar/2023 PDT)"
+    "title": "47 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 14:00:37 PDT",
-  "last_update_epoch": 1680296437.641065,
+  "last_update": "31/Mar/2023 @ 15:00:38 PDT",
+  "last_update_epoch": 1680300038.964893,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 14:00:07 PDT",
+    "last_update": "31/Mar/2023 @ 15:00:06 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4120,7 +4166,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 14:00:07 PDT",
+    "last_update": "31/Mar/2023 @ 15:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5906,7 +5952,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 14:00:12 PDT",
+    "last_update": "31/Mar/2023 @ 15:00:13 PDT",
     "launches": {
       "future": [
         {
