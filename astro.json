@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 15:00:03 PDT",
+    "last_update": "31/Mar/2023 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -459,7 +459,7 @@
         ],
         "eid": "us6000k11p",
         "location": "http://maps.google.com/maps?q=34.4083,93.7828",
-        "name": "M 4.1 - southern Qinghai, China",
+        "name": "M 4.1 - Southern Qinghai, China",
         "source": [
           {
             "sid": "USGS",
@@ -565,24 +565,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0zq",
-        "location": "http://maps.google.com/maps?q=-35.7033,-73.5399",
-        "name": "M 4.5 - 110 km WSW of Constitución, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0zq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k12k",
         "location": "http://maps.google.com/maps?q=-3.0728,147.387",
         "name": "M 4.5 - 115 km S of Lorengau, Papua New Guinea",
@@ -621,7 +603,7 @@
         ],
         "eid": "us6000k167",
         "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
-        "name": "M 4.5 - 252 km ENE of Levuka, Fiji",
+        "name": "M 4.5 - Fiji region",
         "source": [
           {
             "sid": "USGS",
@@ -836,7 +818,7 @@
           }
         ],
         "eid": "EONET_6335",
-        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/-17.8,106.7/@-13.3,100.4,3z",
+        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/-17.8,106.7/-18.2,106.9/@-13.3,100.4,3z",
         "name": "Tropical Cyclone Herman",
         "source": [
           {
@@ -865,7 +847,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 15:00:05 PDT",
+    "last_update": "31/Mar/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -896,7 +878,7 @@
           24.0823
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - 252 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
           -17.3832,
           -178.4089
         ],
@@ -941,7 +923,7 @@
           141.4644
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - Southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
           34.4083,
           93.7828
         ],
@@ -959,11 +941,6 @@
           "<a href=\"http://maps.google.com/maps?q=44.6222,149.3147\"><b>M 4.5 - 131 km ESE of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k10i\">USGS</a>",
           44.6222,
           149.3147
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-35.7033,-73.5399\"><b>M 4.5 - 110 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0zq\">USGS</a>",
-          -35.7033,
-          -73.5399
         ]
       ],
       "Floods": [],
@@ -3886,6 +3863,11 @@
           "<a href=\"http://maps.google.com/maps?q=-17.8,106.7\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
           -17.8,
           106.7
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.2,106.9\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -18.2,
+          106.9
         ]
       ],
       "Snow": [],
@@ -3925,13 +3907,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (31/Mar/2023 PDT)"
+    "title": "46 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 15:00:38 PDT",
-  "last_update_epoch": 1680300038.964893,
+  "last_update": "31/Mar/2023 @ 16:00:31 PDT",
+  "last_update_epoch": 1680303631.761021,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 15:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 16:00:06 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4166,7 +4148,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 15:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 16:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5952,7 +5934,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 15:00:13 PDT",
+    "last_update": "31/Mar/2023 @ 16:00:11 PDT",
     "launches": {
       "future": [
         {
