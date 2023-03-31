@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 00:00:04 PDT",
+    "last_update": "31/Mar/2023 @ 01:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -691,6 +691,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k125",
+        "location": "http://maps.google.com/maps?q=-30.2304,-176.6751",
+        "name": "M 4.5 - Kermadec Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k125"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k0wi",
         "location": "http://maps.google.com/maps?q=17.0581,-99.8807",
         "name": "M 4.6 - 2 km N of Ocotillo, Mexico",
@@ -747,7 +765,7 @@
         ],
         "eid": "us6000k0xf",
         "location": "http://maps.google.com/maps?q=-35.6626,-73.5404",
-        "name": "M 6.3 - Off the coast of Maule, Chile",
+        "name": "M 6.3 - 108 km WSW of Constitución, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -829,11 +847,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 00:00:05 PDT",
+    "last_update": "31/Mar/2023 @ 01:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-30.2304,-176.6751\"><b>M 4.5 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k125\">USGS</a>",
+          -30.2304,
+          -176.6751
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=27.0725,141.4644\"><b>M 5.4 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11q\">USGS</a>",
           27.0725,
@@ -900,7 +923,7 @@
           -73.6952
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - Off the coast of Maule, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - 108 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
           -35.6626,
           -73.5404
         ],
@@ -3869,13 +3892,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (31/Mar/2023 PDT)"
+    "title": "46 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 00:00:36 PDT",
-  "last_update_epoch": 1680246036.033926,
+  "last_update": "31/Mar/2023 @ 01:00:44 PDT",
+  "last_update_epoch": 1680249644.673916,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 00:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 01:00:06 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4110,7 +4133,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 00:00:07 PDT",
+    "last_update": "31/Mar/2023 @ 01:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5896,7 +5919,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 00:00:11 PDT",
+    "last_update": "31/Mar/2023 @ 01:00:11 PDT",
     "launches": {
       "future": [
         {
