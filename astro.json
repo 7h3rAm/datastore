@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 09:00:04 PDT",
+    "last_update": "31/Mar/2023 @ 10:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -763,6 +763,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k168",
+        "location": "http://maps.google.com/maps?q=37.2541,24.0823",
+        "name": "M 4.8 - 39 km WNW of Sérifos, Greece",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k168"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k12h",
         "location": "http://maps.google.com/maps?q=-49.1167,124.984",
         "name": "M 4.8 - western Indian-Antarctic Ridge",
@@ -890,7 +908,7 @@
           }
         ],
         "eid": "EONET_6335",
-        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/@-13.3,100.4,3z",
+        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/-17.8,106.7/@-13.3,100.4,3z",
         "name": "Tropical Cyclone Herman",
         "source": [
           {
@@ -919,11 +937,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 09:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 10:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.2541,24.0823\"><b>M 4.8 - 39 km WNW of Sérifos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k168\">USGS</a>",
+          37.2541,
+          24.0823
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=41.1623,142.7722\"><b>M 4.9 - 127 km ENE of Misawa, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15z\">USGS</a>",
           41.1623,
@@ -3950,6 +3973,11 @@
           "<a href=\"http://maps.google.com/maps?q=-17.4,106.4\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
           -17.4,
           106.4
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.8,106.7\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -17.8,
+          106.7
         ]
       ],
       "Snow": [],
@@ -3989,13 +4017,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "50 events (31/Mar/2023 PDT)"
+    "title": "51 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 09:00:42 PDT",
-  "last_update_epoch": 1680278442.081419,
+  "last_update": "31/Mar/2023 @ 10:00:42 PDT",
+  "last_update_epoch": 1680282042.574132,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 09:00:07 PDT",
+    "last_update": "31/Mar/2023 @ 10:00:07 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4230,7 +4258,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 09:00:07 PDT",
+    "last_update": "31/Mar/2023 @ 10:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6016,7 +6044,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 09:00:12 PDT",
+    "last_update": "31/Mar/2023 @ 10:00:14 PDT",
     "launches": {
       "future": [
         {
