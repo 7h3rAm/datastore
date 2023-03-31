@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "30/Mar/2023 @ 20:00:04 PDT",
+    "last_update": "30/Mar/2023 @ 21:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg",
     "title": "NGC 4372 and the Dark Doodad (30/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -475,24 +475,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0t1",
-        "location": "http://maps.google.com/maps?q=38.2349,72.9818",
-        "name": "M 4.1 - 86 km W of Murghob, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0t1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0ye",
         "location": "http://maps.google.com/maps?q=-35.6984,-73.5677",
         "name": "M 4.2 - 112 km WSW of Constitución, Chile",
@@ -729,7 +711,7 @@
         ],
         "eid": "us6000k0xf",
         "location": "http://maps.google.com/maps?q=-35.6626,-73.5404",
-        "name": "M 6.3 - Off the coast of Maule, Chile",
+        "name": "M 6.3 - 108 km WSW of Constitución, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -811,7 +793,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "30/Mar/2023 @ 20:00:05 PDT",
+    "last_update": "30/Mar/2023 @ 21:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -872,7 +854,7 @@
           -73.6952
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - Off the coast of Maule, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - 108 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
           -35.6626,
           -73.5404
         ],
@@ -890,11 +872,6 @@
           "<a href=\"http://maps.google.com/maps?q=7.9238,-74.7507\"><b>M 4.5 - 14 km N of San Carlos, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0u3\">USGS</a>",
           7.9238,
           -74.7507
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.2349,72.9818\"><b>M 4.1 - 86 km W of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0t1\">USGS</a>",
-          38.2349,
-          72.9818
         ]
       ],
       "Floods": [],
@@ -3841,13 +3818,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (30/Mar/2023 PDT)"
+    "title": "43 events (30/Mar/2023 PDT)"
   },
-  "last_update": "30/Mar/2023 @ 20:00:46 PDT",
-  "last_update_epoch": 1680231646.207059,
+  "last_update": "30/Mar/2023 @ 21:00:51 PDT",
+  "last_update_epoch": 1680235251.668824,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "30/Mar/2023 @ 20:00:06 PDT",
+    "last_update": "30/Mar/2023 @ 21:00:07 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4082,7 +4059,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "30/Mar/2023 @ 20:00:07 PDT",
+    "last_update": "30/Mar/2023 @ 21:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5868,7 +5845,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "30/Mar/2023 @ 20:00:12 PDT",
+    "last_update": "30/Mar/2023 @ 21:00:30 PDT",
     "launches": {
       "future": [
         {
