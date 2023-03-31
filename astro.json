@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 01:00:03 PDT",
+    "last_update": "31/Mar/2023 @ 02:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -637,24 +637,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0u3",
-        "location": "http://maps.google.com/maps?q=7.9238,-74.7507",
-        "name": "M 4.5 - 14 km N of San Carlos, Colombia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0u3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0y7",
         "location": "http://maps.google.com/maps?q=34.6472,25.1959",
         "name": "M 4.5 - 40 km S of Pýrgos, Greece",
@@ -737,6 +719,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k114"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k12g",
+        "location": "http://maps.google.com/maps?q=-9.7454,115.1016",
+        "name": "M 4.8 - 105 km S of Nusa Dua, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12g"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k12h",
+        "location": "http://maps.google.com/maps?q=-49.1167,124.984",
+        "name": "M 4.8 - western Indian-Antarctic Ridge",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12h"
       },
       {
         "category": [
@@ -847,11 +865,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 01:00:05 PDT",
+    "last_update": "31/Mar/2023 @ 02:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-9.7454,115.1016\"><b>M 4.8 - 105 km S of Nusa Dua, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12g\">USGS</a>",
+          -9.7454,
+          115.1016
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-49.1167,124.984\"><b>M 4.8 - western Indian-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12h\">USGS</a>",
+          -49.1167,
+          124.984
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-30.2304,-176.6751\"><b>M 4.5 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k125\">USGS</a>",
           -30.2304,
@@ -936,11 +964,6 @@
           "<a href=\"http://maps.google.com/maps?q=33.0242,136.7762\"><b>M 4.3 - 107 km SE of Shingū, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0wq\">USGS</a>",
           33.0242,
           136.7762
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=7.9238,-74.7507\"><b>M 4.5 - 14 km N of San Carlos, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0u3\">USGS</a>",
-          7.9238,
-          -74.7507
         ]
       ],
       "Floods": [],
@@ -3892,13 +3915,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (31/Mar/2023 PDT)"
+    "title": "47 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 01:00:44 PDT",
-  "last_update_epoch": 1680249644.673916,
+  "last_update": "31/Mar/2023 @ 02:00:39 PDT",
+  "last_update_epoch": 1680253239.10245,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 01:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 02:00:06 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4133,7 +4156,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 01:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 02:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5919,7 +5942,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 01:00:11 PDT",
+    "last_update": "31/Mar/2023 @ 02:00:12 PDT",
     "launches": {
       "future": [
         {
