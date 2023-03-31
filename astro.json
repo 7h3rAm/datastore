@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 13:00:03 PDT",
+    "last_update": "31/Mar/2023 @ 14:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -457,27 +457,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0yt",
-        "location": "http://maps.google.com/maps?q=47.7295,15.9861",
-        "name": "M 4.0 - 3 km N of Buchbach, Austria",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k11p",
         "location": "http://maps.google.com/maps?q=34.4083,93.7828",
-        "name": "M 4.1 - Southern Qinghai, China",
+        "name": "M 4.1 - southern Qinghai, China",
         "source": [
           {
             "sid": "USGS",
@@ -547,24 +529,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0z5",
-        "location": "http://maps.google.com/maps?q=-17.9506,-178.5694",
-        "name": "M 4.4 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0z5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0zq",
         "location": "http://maps.google.com/maps?q=-35.7033,-73.5399",
         "name": "M 4.5 - 110 km WSW of Constitución, Chile",
@@ -619,27 +583,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0yr",
-        "location": "http://maps.google.com/maps?q=22.2141,121.5548",
-        "name": "M 4.5 - 86 km ENE of Hengchun, Taiwan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yr"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k167",
         "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
-        "name": "M 4.5 - Fiji region",
+        "name": "M 4.5 - 252 km ENE of Levuka, Fiji",
         "source": [
           {
             "sid": "USGS",
@@ -883,7 +829,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 13:00:05 PDT",
+    "last_update": "31/Mar/2023 @ 14:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -904,7 +850,7 @@
           24.0823
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - 252 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
           -17.3832,
           -178.4089
         ],
@@ -949,7 +895,7 @@
           141.4644
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - Southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
           34.4083,
           93.7828
         ],
@@ -972,21 +918,6 @@
           "<a href=\"http://maps.google.com/maps?q=-35.7033,-73.5399\"><b>M 4.5 - 110 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0zq\">USGS</a>",
           -35.7033,
           -73.5399
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.9506,-178.5694\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0z5\">USGS</a>",
-          -17.9506,
-          -178.5694
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=47.7295,15.9861\"><b>M 4.0 - 3 km N of Buchbach, Austria</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yt\">USGS</a>",
-          47.7295,
-          15.9861
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=22.2141,121.5548\"><b>M 4.5 - 86 km ENE of Hengchun, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yr\">USGS</a>",
-          22.2141,
-          121.5548
         ]
       ],
       "Floods": [],
@@ -3948,13 +3879,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (31/Mar/2023 PDT)"
+    "title": "45 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 13:00:40 PDT",
-  "last_update_epoch": 1680292840.069638,
+  "last_update": "31/Mar/2023 @ 14:00:37 PDT",
+  "last_update_epoch": 1680296437.641065,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 13:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 14:00:07 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4189,7 +4120,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 13:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 14:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5975,7 +5906,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 13:00:12 PDT",
+    "last_update": "31/Mar/2023 @ 14:00:12 PDT",
     "launches": {
       "future": [
         {
