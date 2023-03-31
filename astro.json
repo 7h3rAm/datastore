@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 12:00:03 PDT",
+    "last_update": "31/Mar/2023 @ 13:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -477,7 +477,7 @@
         ],
         "eid": "us6000k11p",
         "location": "http://maps.google.com/maps?q=34.4083,93.7828",
-        "name": "M 4.1 - southern Qinghai, China",
+        "name": "M 4.1 - Southern Qinghai, China",
         "source": [
           {
             "sid": "USGS",
@@ -493,34 +493,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0ye",
-        "location": "http://maps.google.com/maps?q=-35.6984,-73.5677",
-        "name": "M 4.2 - 112 km WSW of Constitución, Chile",
+        "eid": "us6000k16v",
+        "location": "http://maps.google.com/maps?q=11.8701,93.7364",
+        "name": "M 4.2 - 110 km ENE of Port Blair, India",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ye"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k0y6",
-        "location": "http://maps.google.com/maps?q=35.5898,70.8344",
-        "name": "M 4.2 - 20 km NNW of Pārūn, Afghanistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y6"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16v"
       },
       {
         "category": [
@@ -637,24 +619,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0y7",
-        "location": "http://maps.google.com/maps?q=34.6472,25.1959",
-        "name": "M 4.5 - 40 km S of Pýrgos, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y7"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0yr",
         "location": "http://maps.google.com/maps?q=22.2141,121.5548",
         "name": "M 4.5 - 86 km ENE of Hengchun, Taiwan",
@@ -665,6 +629,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k167",
+        "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
+        "name": "M 4.5 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167"
       },
       {
         "category": [
@@ -781,6 +763,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k16s",
+        "location": "http://maps.google.com/maps?q=-7.984,120.7193",
+        "name": "M 4.9 - 74 km NNE of Ruteng, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16s"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k138",
         "location": "http://maps.google.com/maps?q=-24.7616,-70.1594",
         "name": "M 5.2 - 78 km NNE of Taltal, Chile",
@@ -883,15 +883,30 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 12:00:05 PDT",
+    "last_update": "31/Mar/2023 @ 13:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=11.8701,93.7364\"><b>M 4.2 - 110 km ENE of Port Blair, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16v\">USGS</a>",
+          11.8701,
+          93.7364
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-7.984,120.7193\"><b>M 4.9 - 74 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16s\">USGS</a>",
+          -7.984,
+          120.7193
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=37.2541,24.0823\"><b>M 4.8 - 39 km WNW of Sérifos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k168\">USGS</a>",
           37.2541,
           24.0823
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
+          -17.3832,
+          -178.4089
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=41.1623,142.7722\"><b>M 4.9 - 127 km ENE of Misawa, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15z\">USGS</a>",
@@ -934,7 +949,7 @@
           141.4644
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - Southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
           34.4083,
           93.7828
         ],
@@ -972,21 +987,6 @@
           "<a href=\"http://maps.google.com/maps?q=22.2141,121.5548\"><b>M 4.5 - 86 km ENE of Hengchun, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0yr\">USGS</a>",
           22.2141,
           121.5548
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-35.6984,-73.5677\"><b>M 4.2 - 112 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0ye\">USGS</a>",
-          -35.6984,
-          -73.5677
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.6472,25.1959\"><b>M 4.5 - 40 km S of Pýrgos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y7\">USGS</a>",
-          34.6472,
-          25.1959
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.5898,70.8344\"><b>M 4.2 - 20 km NNW of Pārūn, Afghanistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0y6\">USGS</a>",
-          35.5898,
-          70.8344
         ]
       ],
       "Floods": [],
@@ -3950,11 +3950,11 @@
     },
     "title": "48 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 12:00:39 PDT",
-  "last_update_epoch": 1680289239.832257,
+  "last_update": "31/Mar/2023 @ 13:00:40 PDT",
+  "last_update_epoch": 1680292840.069638,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 12:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 13:00:06 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4189,7 +4189,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 12:00:06 PDT",
+    "last_update": "31/Mar/2023 @ 13:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5975,7 +5975,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 12:00:11 PDT",
+    "last_update": "31/Mar/2023 @ 13:00:12 PDT",
     "launches": {
       "future": [
         {
