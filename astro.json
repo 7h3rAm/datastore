@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 08:00:07 PDT",
+    "last_update": "31/Mar/2023 @ 09:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -529,24 +529,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0wq",
-        "location": "http://maps.google.com/maps?q=33.0242,136.7762",
-        "name": "M 4.3 - 107 km SE of Shingū, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0wq"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k0y3",
         "location": "http://maps.google.com/maps?q=51.9657,176.2433",
         "name": "M 4.3 - 229 km ESE of Attu Station, Alaska",
@@ -745,24 +727,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k0wi",
-        "location": "http://maps.google.com/maps?q=17.0581,-99.8807",
-        "name": "M 4.6 - 2 km N of Ocotillo, Mexico",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0wi"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k114",
         "location": "http://maps.google.com/maps?q=17.6543,-94.402",
         "name": "M 4.6 - 26 km NNE of Niños Héroes, Mexico",
@@ -809,6 +773,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12h"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k15z",
+        "location": "http://maps.google.com/maps?q=41.1623,142.7722",
+        "name": "M 4.9 - 127 km ENE of Misawa, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15z"
       },
       {
         "category": [
@@ -937,11 +919,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 08:00:10 PDT",
+    "last_update": "31/Mar/2023 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=41.1623,142.7722\"><b>M 4.9 - 127 km ENE of Misawa, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15z\">USGS</a>",
+          41.1623,
+          142.7722
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.7616,-70.1594\"><b>M 5.2 - 78 km NNE of Taltal, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k138\">USGS</a>",
           -24.7616,
@@ -1046,16 +1033,6 @@
           "<a href=\"http://maps.google.com/maps?q=-35.6626,-73.5404\"><b>M 6.3 - 108 km WSW of Constitución, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0xf\">USGS</a>",
           -35.6626,
           -73.5404
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=17.0581,-99.8807\"><b>M 4.6 - 2 km N of Ocotillo, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0wi\">USGS</a>",
-          17.0581,
-          -99.8807
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=33.0242,136.7762\"><b>M 4.3 - 107 km SE of Shingū, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k0wq\">USGS</a>",
-          33.0242,
-          136.7762
         ]
       ],
       "Floods": [],
@@ -4012,13 +3989,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "51 events (31/Mar/2023 PDT)"
+    "title": "50 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 08:00:36 PDT",
-  "last_update_epoch": 1680274836.565703,
+  "last_update": "31/Mar/2023 @ 09:00:42 PDT",
+  "last_update_epoch": 1680278442.081419,
   "neo": {
     "date": "31/Mar/2023 PDT",
-    "last_update": "31/Mar/2023 @ 08:00:11 PDT",
+    "last_update": "31/Mar/2023 @ 09:00:07 PDT",
     "objects": [
       {
         "cat": "31/Mar/2023 @ 04:27:00 ",
@@ -4253,7 +4230,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 08:00:12 PDT",
+    "last_update": "31/Mar/2023 @ 09:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6039,7 +6016,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 08:00:17 PDT",
+    "last_update": "31/Mar/2023 @ 09:00:12 PDT",
     "launches": {
       "future": [
         {
