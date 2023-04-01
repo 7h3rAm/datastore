@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 09:00:08 PDT",
+    "last_update": "01/Apr/2023 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -739,24 +739,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k167",
-        "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
-        "name": "M 4.5 - 252 km ENE of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1bt",
         "location": "http://maps.google.com/maps?q=-16.6773,-69.7533",
         "name": "M 4.5 - 8 km NNW of Mazo Cruz, Peru",
@@ -847,24 +829,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k168",
-        "location": "http://maps.google.com/maps?q=37.2541,24.0823",
-        "name": "M 4.8 - 39 km WNW of Sérifos, Greece",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k168"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k16s",
         "location": "http://maps.google.com/maps?q=-7.984,120.7193",
         "name": "M 4.9 - 74 km NNE of Ruteng, Indonesia",
@@ -911,6 +875,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1d6",
+        "location": "http://maps.google.com/maps?q=27.3325,53.0705",
+        "name": "M 5.1 - 30 km SE of Mohr, Iran",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1d6"
       },
       {
         "category": [
@@ -974,7 +956,7 @@
           }
         ],
         "eid": "EONET_6335",
-        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/-17.8,106.7/-18.2,106.9/-18.6,107.1/-19.1,106.9/@-13.3,100.4,3z",
+        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/-17.8,106.7/-18.2,106.9/-18.6,107.1/-19.1,106.9/-19.6,106.9/@-13.3,100.4,3z",
         "name": "Tropical Cyclone Herman",
         "source": [
           {
@@ -1003,11 +985,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 09:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=27.3325,53.0705\"><b>M 5.1 - 30 km SE of Mohr, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1d6\">USGS</a>",
+          27.3325,
+          53.0705
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=0.8134,126.2041\"><b>M 4.5 - Molucca Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1cv\">USGS</a>",
           0.8134,
@@ -1097,16 +1084,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.984,120.7193\"><b>M 4.9 - 74 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16s\">USGS</a>",
           -7.984,
           120.7193
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.2541,24.0823\"><b>M 4.8 - 39 km WNW of Sérifos, Greece</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k168\">USGS</a>",
-          37.2541,
-          24.0823
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - 252 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
-          -17.3832,
-          -178.4089
         ]
       ],
       "Floods": [],
@@ -4739,6 +4716,11 @@
           "<a href=\"http://maps.google.com/maps?q=-19.1,106.9\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
           -19.1,
           106.9
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-19.6,106.9\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -19.6,
+          106.9
         ]
       ],
       "Snow": [],
@@ -4778,13 +4760,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "54 events (01/Apr/2023 PDT)"
+    "title": "53 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 09:00:50 PDT",
-  "last_update_epoch": 1680364850.293689,
+  "last_update": "01/Apr/2023 @ 10:00:40 PDT",
+  "last_update_epoch": 1680368440.132813,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 09:00:10 PDT",
+    "last_update": "01/Apr/2023 @ 10:00:09 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -5001,7 +4983,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 09:00:10 PDT",
+    "last_update": "01/Apr/2023 @ 10:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6787,7 +6769,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 09:00:15 PDT",
+    "last_update": "01/Apr/2023 @ 10:00:14 PDT",
     "launches": {
       "future": [
         {
