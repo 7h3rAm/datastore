@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 13:00:04 PDT",
+    "last_update": "01/Apr/2023 @ 14:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -685,24 +685,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k187",
-        "location": "http://maps.google.com/maps?q=14.5857,56.2063",
-        "name": "M 4.4 - Owen Fracture Zone region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k187"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1bt",
         "location": "http://maps.google.com/maps?q=-16.6773,-69.7533",
         "name": "M 4.5 - 8 km NNW of Mazo Cruz, Peru",
@@ -967,7 +949,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 13:00:06 PDT",
+    "last_update": "01/Apr/2023 @ 14:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1056,11 +1038,6 @@
           "<a href=\"http://maps.google.com/maps?q=-50.0285,113.9109\"><b>M 5.6 - southeast Indian Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k18y\">USGS</a>",
           -50.0285,
           113.9109
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.5857,56.2063\"><b>M 4.4 - Owen Fracture Zone region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k187\">USGS</a>",
-          14.5857,
-          56.2063
         ]
       ],
       "Floods": [],
@@ -4737,13 +4714,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "52 events (01/Apr/2023 PDT)"
+    "title": "51 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 13:00:39 PDT",
-  "last_update_epoch": 1680379239.642816,
+  "last_update": "01/Apr/2023 @ 14:00:40 PDT",
+  "last_update_epoch": 1680382840.938787,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 13:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 14:00:08 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4960,7 +4937,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 13:00:10 PDT",
+    "last_update": "01/Apr/2023 @ 14:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6746,7 +6723,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 13:00:14 PDT",
+    "last_update": "01/Apr/2023 @ 14:00:13 PDT",
     "launches": {
       "future": [
         {
