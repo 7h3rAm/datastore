@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 22:00:03 PDT",
+    "last_update": "31/Mar/2023 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -457,24 +457,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k11p",
-        "location": "http://maps.google.com/maps?q=34.4083,93.7828",
-        "name": "M 4.1 - southern Qinghai, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k16v",
         "location": "http://maps.google.com/maps?q=11.8701,93.7364",
         "name": "M 4.2 - 110 km ENE of Port Blair, India",
@@ -621,7 +603,7 @@
         ],
         "eid": "us6000k167",
         "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
-        "name": "M 4.5 - 252 km ENE of Levuka, Fiji",
+        "name": "M 4.5 - Fiji region",
         "source": [
           {
             "sid": "USGS",
@@ -763,24 +745,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k11q",
-        "location": "http://maps.google.com/maps?q=27.0725,141.4644",
-        "name": "M 5.4 - Bonin Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11q"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k18y",
         "location": "http://maps.google.com/maps?q=-50.0285,113.9109",
         "name": "M 5.6 - southeast Indian Ridge",
@@ -865,7 +829,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 22:00:05 PDT",
+    "last_update": "31/Mar/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -916,7 +880,7 @@
           24.0823
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - 252 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
           -17.3832,
           -178.4089
         ],
@@ -954,16 +918,6 @@
           "<a href=\"http://maps.google.com/maps?q=-30.2304,-176.6751\"><b>M 4.5 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k125\">USGS</a>",
           -30.2304,
           -176.6751
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.0725,141.4644\"><b>M 5.4 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11q\">USGS</a>",
-          27.0725,
-          141.4644
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
-          34.4083,
-          93.7828
         ]
       ],
       "Floods": [],
@@ -3935,13 +3889,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (31/Mar/2023 PDT)"
+    "title": "45 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 22:00:34 PDT",
-  "last_update_epoch": 1680325234.368555,
+  "last_update": "31/Mar/2023 @ 23:00:35 PDT",
+  "last_update_epoch": 1680328835.172557,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "31/Mar/2023 @ 22:00:09 PDT",
+    "last_update": "31/Mar/2023 @ 23:00:05 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4158,7 +4112,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 22:00:09 PDT",
+    "last_update": "31/Mar/2023 @ 23:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5944,7 +5898,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 22:00:14 PDT",
+    "last_update": "31/Mar/2023 @ 23:00:12 PDT",
     "launches": {
       "future": [
         {
