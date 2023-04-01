@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 02:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -619,6 +619,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1bt",
+        "location": "http://maps.google.com/maps?q=-16.6773,-69.7533",
+        "name": "M 4.5 - 8 km NNW of Mazo Cruz, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k167",
         "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
         "name": "M 4.5 - Fiji region",
@@ -829,11 +847,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 02:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 03:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-16.6773,-69.7533\"><b>M 4.5 - 8 km NNW of Mazo Cruz, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bt\">USGS</a>",
+          -16.6773,
+          -69.7533
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-3.0479,129.9004\"><b>M 4.7 - 113 km ENE of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be\">USGS</a>",
           -3.0479,
@@ -3889,13 +3912,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (01/Apr/2023 PDT)"
+    "title": "46 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 02:00:36 PDT",
-  "last_update_epoch": 1680339636.201071,
+  "last_update": "01/Apr/2023 @ 03:00:31 PDT",
+  "last_update_epoch": 1680343231.33466,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 02:00:08 PDT",
+    "last_update": "01/Apr/2023 @ 03:00:05 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4112,7 +4135,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 02:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 03:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5898,7 +5921,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 02:00:14 PDT",
+    "last_update": "01/Apr/2023 @ 03:00:10 PDT",
     "launches": {
       "future": [
         {
