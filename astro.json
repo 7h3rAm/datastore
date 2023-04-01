@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 01:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 02:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -619,24 +619,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k12k",
-        "location": "http://maps.google.com/maps?q=-3.0728,147.387",
-        "name": "M 4.5 - 115 km S of Lorengau, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12k"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k167",
         "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
         "name": "M 4.5 - Fiji region",
@@ -691,24 +673,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k12g",
-        "location": "http://maps.google.com/maps?q=-9.7454,115.1016",
-        "name": "M 4.8 - 105 km S of Nusa Dua, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12g"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k168",
         "location": "http://maps.google.com/maps?q=37.2541,24.0823",
         "name": "M 4.8 - 39 km WNW of Sérifos, Greece",
@@ -719,24 +683,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k168"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k12h",
-        "location": "http://maps.google.com/maps?q=-49.1167,124.984",
-        "name": "M 4.8 - western Indian-Antarctic Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12h"
       },
       {
         "category": [
@@ -883,7 +829,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 01:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 02:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -972,21 +918,6 @@
           "<a href=\"http://maps.google.com/maps?q=2.3955,128.3208\"><b>M 4.4 - 81 km NNE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12y\">USGS</a>",
           2.3955,
           128.3208
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.0728,147.387\"><b>M 4.5 - 115 km S of Lorengau, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12k\">USGS</a>",
-          -3.0728,
-          147.387
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-9.7454,115.1016\"><b>M 4.8 - 105 km S of Nusa Dua, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12g\">USGS</a>",
-          -9.7454,
-          115.1016
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-49.1167,124.984\"><b>M 4.8 - western Indian-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12h\">USGS</a>",
-          -49.1167,
-          124.984
         ]
       ],
       "Floods": [],
@@ -3958,13 +3889,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (01/Apr/2023 PDT)"
+    "title": "45 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 01:00:31 PDT",
-  "last_update_epoch": 1680336031.350552,
+  "last_update": "01/Apr/2023 @ 02:00:36 PDT",
+  "last_update_epoch": 1680339636.201071,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 01:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 02:00:08 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4181,7 +4112,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 01:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 02:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5967,7 +5898,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 01:00:10 PDT",
+    "last_update": "01/Apr/2023 @ 02:00:14 PDT",
     "launches": {
       "future": [
         {
