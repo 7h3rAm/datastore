@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 23:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "31/Mar/2023 PDT",
+    "date": "01/Apr/2023 PDT",
     "events": [
       {
         "category": [
@@ -511,6 +511,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k15n",
+        "location": "http://maps.google.com/maps?q=-22.6839,-66.3582",
+        "name": "M 4.2 - 68 km W of Abra Pampa, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15n"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k19h",
         "location": "http://maps.google.com/maps?q=-20.8932,-70.5035",
         "name": "M 4.2 - 83 km SSW of Iquique, Chile",
@@ -557,6 +575,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k17g"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1b5",
+        "location": "http://maps.google.com/maps?q=2.2493,129.0141",
+        "name": "M 4.4 - 125 km ENE of Tobelo, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b5"
       },
       {
         "category": [
@@ -619,16 +655,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k125",
-        "location": "http://maps.google.com/maps?q=-30.2304,-176.6751",
-        "name": "M 4.5 - Kermadec Islands region",
+        "eid": "us6000k1b0",
+        "location": "http://maps.google.com/maps?q=27.7012,86.1877",
+        "name": "M 4.6 - Nepal",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k125"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b0"
       },
       {
         "category": [
@@ -829,11 +865,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=2.2493,129.0141\"><b>M 4.4 - 125 km ENE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b5\">USGS</a>",
+          2.2493,
+          129.0141
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=27.7012,86.1877\"><b>M 4.6 - Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b0\">USGS</a>",
+          27.7012,
+          86.1877
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-2.7038,138.9651\"><b>M 4.2 - 185 km W of Abepura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ac\">USGS</a>",
           -2.7038,
@@ -890,6 +936,11 @@
           142.7722
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=-22.6839,-66.3582\"><b>M 4.2 - 68 km W of Abra Pampa, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15n\">USGS</a>",
+          -22.6839,
+          -66.3582
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=-24.7616,-70.1594\"><b>M 5.2 - 78 km NNE of Taltal, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k138\">USGS</a>",
           -24.7616,
           -70.1594
@@ -913,11 +964,6 @@
           "<a href=\"http://maps.google.com/maps?q=-49.1167,124.984\"><b>M 4.8 - western Indian-Antarctic Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12h\">USGS</a>",
           -49.1167,
           124.984
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-30.2304,-176.6751\"><b>M 4.5 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k125\">USGS</a>",
-          -30.2304,
-          -176.6751
         ]
       ],
       "Floods": [],
@@ -3889,13 +3935,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (31/Mar/2023 PDT)"
+    "title": "47 events (01/Apr/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 23:00:35 PDT",
-  "last_update_epoch": 1680328835.172557,
+  "last_update": "01/Apr/2023 @ 00:00:37 PDT",
+  "last_update_epoch": 1680332437.124537,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "31/Mar/2023 @ 23:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 00:00:09 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4045,7 +4091,7 @@
     "title": "16 objects making close approach (01/Apr/2023 PDT)"
   },
   "satview": {
-    "date": "31/Mar/2023 PDT",
+    "date": "01/Apr/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 30/Mar/2023 @ 14:40:08 PDT.",
@@ -4112,7 +4158,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 23:00:06 PDT",
+    "last_update": "01/Apr/2023 @ 00:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4165,7 +4211,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (31/Mar/2023 PDT)"
+    "title": "10 people in space (01/Apr/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -5898,7 +5944,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 23:00:12 PDT",
+    "last_update": "01/Apr/2023 @ 00:00:15 PDT",
     "launches": {
       "future": [
         {
