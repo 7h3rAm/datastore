@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 18:00:04 PDT",
+    "last_update": "31/Mar/2023 @ 19:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -459,7 +459,7 @@
         ],
         "eid": "us6000k11p",
         "location": "http://maps.google.com/maps?q=34.4083,93.7828",
-        "name": "M 4.1 - Southern Qinghai, China",
+        "name": "M 4.1 - southern Qinghai, China",
         "source": [
           {
             "sid": "USGS",
@@ -485,6 +485,42 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16v"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "ci39508378",
+        "location": "http://maps.google.com/maps?q=33.3818321,-116.9046631",
+        "name": "M 4.2 - 5km NW of Palomar Observatory, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39508378"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k19h",
+        "location": "http://maps.google.com/maps?q=-20.8932,-70.5035",
+        "name": "M 4.2 - 83 km SSW of Iquique, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k19h"
       },
       {
         "category": [
@@ -567,7 +603,7 @@
         ],
         "eid": "us6000k167",
         "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
-        "name": "M 4.5 - Fiji region",
+        "name": "M 4.5 - 252 km ENE of Levuka, Fiji",
         "source": [
           {
             "sid": "USGS",
@@ -829,11 +865,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 18:00:05 PDT",
+    "last_update": "31/Mar/2023 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=33.3818321,-116.9046631\"><b>M 4.2 - 5km NW of Palomar Observatory, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ci39508378\">USGS</a>",
+          33.3818321,
+          -116.9046631
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.8932,-70.5035\"><b>M 4.2 - 83 km SSW of Iquique, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k19h\">USGS</a>",
+          -20.8932,
+          -70.5035
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-50.0285,113.9109\"><b>M 5.6 - southeast Indian Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k18y\">USGS</a>",
           -50.0285,
@@ -865,7 +911,7 @@
           24.0823
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - 252 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
           -17.3832,
           -178.4089
         ],
@@ -910,7 +956,7 @@
           141.4644
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - Southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
           34.4083,
           93.7828
         ],
@@ -3884,13 +3930,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (31/Mar/2023 PDT)"
+    "title": "47 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 18:00:35 PDT",
-  "last_update_epoch": 1680310835.218739,
+  "last_update": "31/Mar/2023 @ 19:00:39 PDT",
+  "last_update_epoch": 1680314439.440051,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "31/Mar/2023 @ 18:00:09 PDT",
+    "last_update": "31/Mar/2023 @ 19:00:08 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4107,7 +4153,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 18:00:09 PDT",
+    "last_update": "31/Mar/2023 @ 19:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5893,7 +5939,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 18:00:14 PDT",
+    "last_update": "31/Mar/2023 @ 19:00:14 PDT",
     "launches": {
       "future": [
         {
