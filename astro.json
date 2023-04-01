@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "31/Mar/2023 @ 19:00:03 PDT",
+    "last_update": "31/Mar/2023 @ 20:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg",
     "title": "Seeing Titan (31/Mar/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -459,7 +459,7 @@
         ],
         "eid": "us6000k11p",
         "location": "http://maps.google.com/maps?q=34.4083,93.7828",
-        "name": "M 4.1 - southern Qinghai, China",
+        "name": "M 4.1 - Southern Qinghai, China",
         "source": [
           {
             "sid": "USGS",
@@ -603,7 +603,7 @@
         ],
         "eid": "us6000k167",
         "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
-        "name": "M 4.5 - 252 km ENE of Levuka, Fiji",
+        "name": "M 4.5 - Fiji region",
         "source": [
           {
             "sid": "USGS",
@@ -865,7 +865,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "31/Mar/2023 @ 19:00:05 PDT",
+    "last_update": "31/Mar/2023 @ 20:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -911,7 +911,7 @@
           24.0823
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - 252 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
           -17.3832,
           -178.4089
         ],
@@ -956,7 +956,7 @@
           141.4644
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=34.4083,93.7828\"><b>M 4.1 - Southern Qinghai, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k11p\">USGS</a>",
           34.4083,
           93.7828
         ],
@@ -3932,11 +3932,11 @@
     },
     "title": "47 events (31/Mar/2023 PDT)"
   },
-  "last_update": "31/Mar/2023 @ 19:00:39 PDT",
-  "last_update_epoch": 1680314439.440051,
+  "last_update": "31/Mar/2023 @ 20:00:39 PDT",
+  "last_update_epoch": 1680318039.664329,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "31/Mar/2023 @ 19:00:08 PDT",
+    "last_update": "31/Mar/2023 @ 20:00:09 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4153,7 +4153,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "31/Mar/2023 @ 19:00:09 PDT",
+    "last_update": "31/Mar/2023 @ 20:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5939,7 +5939,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "31/Mar/2023 @ 19:00:14 PDT",
+    "last_update": "31/Mar/2023 @ 20:00:14 PDT",
     "launches": {
       "future": [
         {
