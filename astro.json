@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 08:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 09:00:08 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -739,6 +739,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k167",
+        "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
+        "name": "M 4.5 - 252 km ENE of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1bt",
         "location": "http://maps.google.com/maps?q=-16.6773,-69.7533",
         "name": "M 4.5 - 8 km NNW of Mazo Cruz, Peru",
@@ -749,24 +767,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bt"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k167",
-        "location": "http://maps.google.com/maps?q=-17.3832,-178.4089",
-        "name": "M 4.5 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167"
       },
       {
         "category": [
@@ -795,7 +795,7 @@
         ],
         "eid": "us6000k1b0",
         "location": "http://maps.google.com/maps?q=27.7012,86.1877",
-        "name": "M 4.6 - Nepal",
+        "name": "M 4.6 - 36 km SE of Kodāri̇̄, Nepal",
         "source": [
           {
             "sid": "USGS",
@@ -831,7 +831,7 @@
         ],
         "eid": "us6000k1be",
         "location": "http://maps.google.com/maps?q=-3.0479,129.9004",
-        "name": "M 4.7 - 113 km ENE of Amahai, Indonesia",
+        "name": "M 4.7 - Seram, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -857,24 +857,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k168"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k15z",
-        "location": "http://maps.google.com/maps?q=41.1623,142.7722",
-        "name": "M 4.9 - 127 km ENE of Misawa, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15z"
       },
       {
         "category": [
@@ -921,7 +903,7 @@
         ],
         "eid": "us6000k1bu",
         "location": "http://maps.google.com/maps?q=38.2794,138.7922",
-        "name": "M 5.0 - near the west coast of Honshu, Japan",
+        "name": "M 5.0 - 38 km NE of Ryōtsu-minato, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -1021,7 +1003,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 08:00:08 PDT",
+    "last_update": "01/Apr/2023 @ 09:00:09 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1052,7 +1034,7 @@
           159.8902
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=38.2794,138.7922\"><b>M 5.0 - near the west coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=38.2794,138.7922\"><b>M 5.0 - 38 km NE of Ryōtsu-minato, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bu\">USGS</a>",
           38.2794,
           138.7922
         ],
@@ -1062,7 +1044,7 @@
           -69.7533
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.0479,129.9004\"><b>M 4.7 - 113 km ENE of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-3.0479,129.9004\"><b>M 4.7 - Seram, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be\">USGS</a>",
           -3.0479,
           129.9004
         ],
@@ -1072,7 +1054,7 @@
           129.0141
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=27.7012,86.1877\"><b>M 4.6 - Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b0\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=27.7012,86.1877\"><b>M 4.6 - 36 km SE of Kodāri̇̄, Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b0\">USGS</a>",
           27.7012,
           86.1877
         ],
@@ -1122,14 +1104,9 @@
           24.0823
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-17.3832,-178.4089\"><b>M 4.5 - 252 km ENE of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k167\">USGS</a>",
           -17.3832,
           -178.4089
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=41.1623,142.7722\"><b>M 4.9 - 127 km ENE of Misawa, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15z\">USGS</a>",
-          41.1623,
-          142.7722
         ]
       ],
       "Floods": [],
@@ -4801,13 +4778,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "55 events (01/Apr/2023 PDT)"
+    "title": "54 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 08:00:41 PDT",
-  "last_update_epoch": 1680361241.478882,
+  "last_update": "01/Apr/2023 @ 09:00:50 PDT",
+  "last_update_epoch": 1680364850.293689,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 08:00:12 PDT",
+    "last_update": "01/Apr/2023 @ 09:00:10 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -5024,7 +5001,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 08:00:12 PDT",
+    "last_update": "01/Apr/2023 @ 09:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6810,7 +6787,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 08:00:17 PDT",
+    "last_update": "01/Apr/2023 @ 09:00:15 PDT",
     "launches": {
       "future": [
         {
