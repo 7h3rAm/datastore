@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 05:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 06:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -673,6 +673,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1cb",
+        "location": "http://maps.google.com/maps?q=-15.3955,-70.2652",
+        "name": "M 4.7 - 10 km SSW of Calapuja, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1cb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1be",
         "location": "http://maps.google.com/maps?q=-3.0479,129.9004",
         "name": "M 4.7 - 113 km ENE of Amahai, Indonesia",
@@ -865,11 +883,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 05:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 06:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.3955,-70.2652\"><b>M 4.7 - 10 km SSW of Calapuja, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1cb\">USGS</a>",
+          -15.3955,
+          -70.2652
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-20.3957,169.4023\"><b>M 4.9 - 95 km S of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1c0\">USGS</a>",
           -20.3957,
@@ -3940,13 +3963,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (01/Apr/2023 PDT)"
+    "title": "48 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 05:00:37 PDT",
-  "last_update_epoch": 1680350437.613052,
+  "last_update": "01/Apr/2023 @ 06:00:34 PDT",
+  "last_update_epoch": 1680354034.718967,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 05:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 06:00:08 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4163,7 +4186,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 05:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 06:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5949,7 +5972,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 05:00:13 PDT",
+    "last_update": "01/Apr/2023 @ 06:00:13 PDT",
     "launches": {
       "future": [
         {
