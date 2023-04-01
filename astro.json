@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 14:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 15:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,6 +577,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1ec",
+        "location": "http://maps.google.com/maps?q=27.9319,54.3847",
+        "name": "M 4.1 - 38 km NE of Gerāsh, Iran",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ec"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1ac",
         "location": "http://maps.google.com/maps?q=-2.7038,138.9651",
         "name": "M 4.2 - 185 km W of Abepura, Indonesia",
@@ -659,6 +677,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bw"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1dy",
+        "location": "http://maps.google.com/maps?q=11.6817,-86.1428",
+        "name": "M 4.3 - near the coast of Nicaragua",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy"
       },
       {
         "category": [
@@ -949,11 +985,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 14:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 15:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=27.9319,54.3847\"><b>M 4.1 - 38 km NE of Gerāsh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ec\">USGS</a>",
+          27.9319,
+          54.3847
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=11.6817,-86.1428\"><b>M 4.3 - near the coast of Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy\">USGS</a>",
+          11.6817,
+          -86.1428
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-12.9313,169.3352\"><b>M 4.9 - 219 km ENE of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dq\">USGS</a>",
           -12.9313,
@@ -4714,13 +4760,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "51 events (01/Apr/2023 PDT)"
+    "title": "53 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 14:00:40 PDT",
-  "last_update_epoch": 1680382840.938787,
+  "last_update": "01/Apr/2023 @ 15:00:43 PDT",
+  "last_update_epoch": 1680386443.261416,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 14:00:08 PDT",
+    "last_update": "01/Apr/2023 @ 15:00:09 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4937,7 +4983,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 14:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 15:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6723,7 +6769,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 14:00:13 PDT",
+    "last_update": "01/Apr/2023 @ 15:00:15 PDT",
     "launches": {
       "future": [
         {
