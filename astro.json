@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 03:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 04:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -583,6 +583,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1bw",
+        "location": "http://maps.google.com/maps?q=54.3001,159.8902",
+        "name": "M 4.3 - 93 km ESE of Mil’kovo, Russia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bw"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1b5",
         "location": "http://maps.google.com/maps?q=2.2493,129.0141",
         "name": "M 4.4 - 125 km ENE of Tobelo, Indonesia",
@@ -593,24 +611,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k12y",
-        "location": "http://maps.google.com/maps?q=2.3955,128.3208",
-        "name": "M 4.4 - 81 km NNE of Tobelo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12y"
       },
       {
         "category": [
@@ -745,16 +745,34 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k138",
-        "location": "http://maps.google.com/maps?q=-24.7616,-70.1594",
-        "name": "M 5.2 - 78 km NNE of Taltal, Chile",
+        "eid": "us6000k1c0",
+        "location": "http://maps.google.com/maps?q=-20.3957,169.4023",
+        "name": "M 4.9 - 95 km S of Isangel, Vanuatu",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k138"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1c0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1bu",
+        "location": "http://maps.google.com/maps?q=38.2794,138.7922",
+        "name": "M 5.0 - near the west coast of Honshu, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bu"
       },
       {
         "category": [
@@ -818,7 +836,7 @@
           }
         ],
         "eid": "EONET_6335",
-        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/-17.8,106.7/-18.2,106.9/-18.6,107.1/@-13.3,100.4,3z",
+        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/-17.8,106.7/-18.2,106.9/-18.6,107.1/-19.1,106.9/@-13.3,100.4,3z",
         "name": "Tropical Cyclone Herman",
         "source": [
           {
@@ -847,11 +865,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 03:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 04:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-20.3957,169.4023\"><b>M 4.9 - 95 km S of Isangel, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1c0\">USGS</a>",
+          -20.3957,
+          169.4023
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=54.3001,159.8902\"><b>M 4.3 - 93 km ESE of Mil’kovo, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bw\">USGS</a>",
+          54.3001,
+          159.8902
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.2794,138.7922\"><b>M 5.0 - near the west coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bu\">USGS</a>",
+          38.2794,
+          138.7922
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-16.6773,-69.7533\"><b>M 4.5 - 8 km NNW of Mazo Cruz, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bt\">USGS</a>",
           -16.6773,
@@ -931,16 +964,6 @@
           "<a href=\"http://maps.google.com/maps?q=-22.6839,-66.3582\"><b>M 4.2 - 68 km W of Abra Pampa, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k15n\">USGS</a>",
           -22.6839,
           -66.3582
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.7616,-70.1594\"><b>M 5.2 - 78 km NNE of Taltal, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k138\">USGS</a>",
-          -24.7616,
-          -70.1594
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=2.3955,128.3208\"><b>M 4.4 - 81 km NNE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k12y\">USGS</a>",
-          2.3955,
-          128.3208
         ]
       ],
       "Floods": [],
@@ -3873,6 +3896,11 @@
           "<a href=\"http://maps.google.com/maps?q=-18.6,107.1\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
           -18.6,
           107.1
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-19.1,106.9\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
+          -19.1,
+          106.9
         ]
       ],
       "Snow": [],
@@ -3912,13 +3940,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (01/Apr/2023 PDT)"
+    "title": "47 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 03:00:31 PDT",
-  "last_update_epoch": 1680343231.33466,
+  "last_update": "01/Apr/2023 @ 04:00:37 PDT",
+  "last_update_epoch": 1680346837.189618,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 03:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 04:00:09 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4135,7 +4163,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 03:00:06 PDT",
+    "last_update": "01/Apr/2023 @ 04:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5921,7 +5949,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 03:00:10 PDT",
+    "last_update": "01/Apr/2023 @ 04:00:15 PDT",
     "launches": {
       "future": [
         {
