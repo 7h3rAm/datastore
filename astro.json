@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 00:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 01:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -673,6 +673,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1be",
+        "location": "http://maps.google.com/maps?q=-3.0479,129.9004",
+        "name": "M 4.7 - 113 km ENE of Amahai, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k12g",
         "location": "http://maps.google.com/maps?q=-9.7454,115.1016",
         "name": "M 4.8 - 105 km S of Nusa Dua, Indonesia",
@@ -865,11 +883,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 00:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 01:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-3.0479,129.9004\"><b>M 4.7 - 113 km ENE of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be\">USGS</a>",
+          -3.0479,
+          129.9004
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=2.2493,129.0141\"><b>M 4.4 - 125 km ENE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b5\">USGS</a>",
           2.2493,
@@ -3935,13 +3958,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (01/Apr/2023 PDT)"
+    "title": "48 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 00:00:37 PDT",
-  "last_update_epoch": 1680332437.124537,
+  "last_update": "01/Apr/2023 @ 01:00:31 PDT",
+  "last_update_epoch": 1680336031.350552,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 00:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 01:00:05 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4158,7 +4181,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 00:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 01:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -5944,7 +5967,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 00:00:15 PDT",
+    "last_update": "01/Apr/2023 @ 01:00:10 PDT",
     "launches": {
       "future": [
         {
