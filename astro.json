@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 11:00:04 PDT",
+    "last_update": "01/Apr/2023 @ 12:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,24 +577,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k16v",
-        "location": "http://maps.google.com/maps?q=11.8701,93.7364",
-        "name": "M 4.2 - 110 km ENE of Port Blair, India",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16v"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1ac",
         "location": "http://maps.google.com/maps?q=-2.7038,138.9651",
         "name": "M 4.2 - 185 km W of Abepura, Indonesia",
@@ -847,6 +829,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1dp",
+        "location": "http://maps.google.com/maps?q=-12.9013,169.3223",
+        "name": "M 4.7 - 220 km ENE of Sola, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dp"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1dq",
+        "location": "http://maps.google.com/maps?q=-12.9313,169.3352",
+        "name": "M 4.9 - 219 km ENE of Sola, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1c0",
         "location": "http://maps.google.com/maps?q=-20.3957,169.4023",
         "name": "M 4.9 - 95 km S of Isangel, Vanuatu",
@@ -985,11 +1003,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 11:00:06 PDT",
+    "last_update": "01/Apr/2023 @ 12:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-12.9313,169.3352\"><b>M 4.9 - 219 km ENE of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dq\">USGS</a>",
+          -12.9313,
+          169.3352
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-12.9013,169.3223\"><b>M 4.7 - 220 km ENE of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dp\">USGS</a>",
+          -12.9013,
+          169.3223
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=27.3325,53.0705\"><b>M 5.1 - 30 km SE of Mohr, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1d6\">USGS</a>",
           27.3325,
@@ -1079,11 +1107,6 @@
           "<a href=\"http://maps.google.com/maps?q=38.738,142.0863\"><b>M 4.3 - 48 km SE of Ōfunato, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k17g\">USGS</a>",
           38.738,
           142.0863
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=11.8701,93.7364\"><b>M 4.2 - 110 km ENE of Port Blair, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16v\">USGS</a>",
-          11.8701,
-          93.7364
         ]
       ],
       "Floods": [],
@@ -4760,13 +4783,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "53 events (01/Apr/2023 PDT)"
+    "title": "54 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 11:00:54 PDT",
-  "last_update_epoch": 1680372054.459861,
+  "last_update": "01/Apr/2023 @ 12:00:42 PDT",
+  "last_update_epoch": 1680375642.979076,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 11:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 12:00:09 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4983,7 +5006,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 11:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 12:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6769,7 +6792,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 11:00:16 PDT",
+    "last_update": "01/Apr/2023 @ 12:00:15 PDT",
     "launches": {
       "future": [
         {
