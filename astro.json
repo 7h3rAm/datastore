@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 10:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 11:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -739,6 +739,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k187",
+        "location": "http://maps.google.com/maps?q=14.5857,56.2063",
+        "name": "M 4.4 - Owen Fracture Zone region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k187"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1bt",
         "location": "http://maps.google.com/maps?q=-16.6773,-69.7533",
         "name": "M 4.5 - 8 km NNW of Mazo Cruz, Peru",
@@ -777,7 +795,7 @@
         ],
         "eid": "us6000k1b0",
         "location": "http://maps.google.com/maps?q=27.7012,86.1877",
-        "name": "M 4.6 - 36 km SE of Kodāri̇̄, Nepal",
+        "name": "M 4.6 - Nepal",
         "source": [
           {
             "sid": "USGS",
@@ -813,7 +831,7 @@
         ],
         "eid": "us6000k1be",
         "location": "http://maps.google.com/maps?q=-3.0479,129.9004",
-        "name": "M 4.7 - Seram, Indonesia",
+        "name": "M 4.7 - 113 km ENE of Amahai, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -821,24 +839,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k16s",
-        "location": "http://maps.google.com/maps?q=-7.984,120.7193",
-        "name": "M 4.9 - 74 km NNE of Ruteng, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16s"
       },
       {
         "category": [
@@ -867,7 +867,7 @@
         ],
         "eid": "us6000k1bu",
         "location": "http://maps.google.com/maps?q=38.2794,138.7922",
-        "name": "M 5.0 - 38 km NE of Ryōtsu-minato, Japan",
+        "name": "M 5.0 - near the west coast of Honshu, Japan",
         "source": [
           {
             "sid": "USGS",
@@ -985,7 +985,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 10:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 11:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1021,7 +1021,7 @@
           159.8902
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=38.2794,138.7922\"><b>M 5.0 - 38 km NE of Ryōtsu-minato, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bu\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=38.2794,138.7922\"><b>M 5.0 - near the west coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bu\">USGS</a>",
           38.2794,
           138.7922
         ],
@@ -1031,7 +1031,7 @@
           -69.7533
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-3.0479,129.9004\"><b>M 4.7 - Seram, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-3.0479,129.9004\"><b>M 4.7 - 113 km ENE of Amahai, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be\">USGS</a>",
           -3.0479,
           129.9004
         ],
@@ -1041,7 +1041,7 @@
           129.0141
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=27.7012,86.1877\"><b>M 4.6 - 36 km SE of Kodāri̇̄, Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b0\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=27.7012,86.1877\"><b>M 4.6 - Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b0\">USGS</a>",
           27.7012,
           86.1877
         ],
@@ -1066,6 +1066,11 @@
           113.9109
         ],
         [
+          "<a href=\"http://maps.google.com/maps?q=14.5857,56.2063\"><b>M 4.4 - Owen Fracture Zone region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k187\">USGS</a>",
+          14.5857,
+          56.2063
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=40.9506,78.0801\"><b>M 4.3 - 152 km SSE of Kadzhi-Say, Kyrgyzstan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k17l\">USGS</a>",
           40.9506,
           78.0801
@@ -1079,11 +1084,6 @@
           "<a href=\"http://maps.google.com/maps?q=11.8701,93.7364\"><b>M 4.2 - 110 km ENE of Port Blair, India</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16v\">USGS</a>",
           11.8701,
           93.7364
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.984,120.7193\"><b>M 4.9 - 74 km NNE of Ruteng, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k16s\">USGS</a>",
-          -7.984,
-          120.7193
         ]
       ],
       "Floods": [],
@@ -4762,11 +4762,11 @@
     },
     "title": "53 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 10:00:40 PDT",
-  "last_update_epoch": 1680368440.132813,
+  "last_update": "01/Apr/2023 @ 11:00:16 PDT",
+  "last_update_epoch": 1680372016.196912,
   "neo": {
     "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 10:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 11:00:09 PDT",
     "objects": [
       {
         "cat": "01/Apr/2023 @ 19:06:00 ",
@@ -4983,7 +4983,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 10:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 11:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6769,7 +6769,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 10:00:14 PDT",
+    "last_update": "01/Apr/2023 @ 11:00:16 PDT",
     "launches": {
       "future": [
         {
