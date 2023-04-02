@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 12:00:03 PDT",
+    "last_update": "02/Apr/2023 @ 13:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -523,24 +523,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1ec",
-        "location": "http://maps.google.com/maps?q=27.9319,54.3847",
-        "name": "M 4.1 - 38 km NE of Gerāsh, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ec"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1ek",
         "location": "http://maps.google.com/maps?q=41.0365,33.5547",
         "name": "M 4.2 - central Turkey",
@@ -587,24 +569,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1dy",
-        "location": "http://maps.google.com/maps?q=11.6817,-86.1428",
-        "name": "M 4.3 - near the coast of Nicaragua",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy"
       },
       {
         "category": [
@@ -883,6 +847,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1ki",
+        "location": "http://maps.google.com/maps?q=6.4024,115.8451",
+        "name": "M 5.5 - South China Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ki"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1id",
         "location": "http://maps.google.com/maps?q=-4.2924,143.155",
         "name": "M 7.0 - New Guinea, Papua New Guinea",
@@ -967,11 +949,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 12:00:05 PDT",
+    "last_update": "02/Apr/2023 @ 13:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=6.4024,115.8451\"><b>M 5.5 - South China Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ki\">USGS</a>",
+          6.4024,
+          115.8451
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.2924,143.155\"><b>M 7.0 - New Guinea, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1id\">USGS</a>",
           -4.2924,
@@ -1071,16 +1058,6 @@
           "<a href=\"http://maps.google.com/maps?q=41.0365,33.5547\"><b>M 4.2 - central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ek\">USGS</a>",
           41.0365,
           33.5547
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.9319,54.3847\"><b>M 4.1 - 38 km NE of Gerāsh, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ec\">USGS</a>",
-          27.9319,
-          54.3847
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=11.6817,-86.1428\"><b>M 4.3 - near the coast of Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy\">USGS</a>",
-          11.6817,
-          -86.1428
         ]
       ],
       "Floods": [],
@@ -4622,13 +4599,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "52 events (02/Apr/2023 PDT)"
+    "title": "51 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 12:00:43 PDT",
-  "last_update_epoch": 1680462043.666776,
+  "last_update": "02/Apr/2023 @ 13:00:34 PDT",
+  "last_update_epoch": 1680465634.172714,
   "neo": {
     "date": "02/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 12:00:10 PDT",
+    "last_update": "02/Apr/2023 @ 13:00:09 PDT",
     "objects": [
       {
         "cat": "02/Apr/2023 @ 23:52:00 ",
@@ -4899,7 +4876,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 12:00:10 PDT",
+    "last_update": "02/Apr/2023 @ 13:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6685,7 +6662,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 12:00:16 PDT",
+    "last_update": "02/Apr/2023 @ 13:00:14 PDT",
     "launches": {
       "future": [
         {
