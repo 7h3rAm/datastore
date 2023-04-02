@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 15:00:03 PDT",
+    "last_update": "02/Apr/2023 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -523,24 +523,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1et",
-        "location": "http://maps.google.com/maps?q=43.8529,-129.8143",
-        "name": "M 4.2 - off the coast of Oregon",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1et"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1gv",
         "location": "http://maps.google.com/maps?q=-18.0117,-178.0059",
         "name": "M 4.3 - Fiji region",
@@ -721,6 +703,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1f8",
+        "location": "http://maps.google.com/maps?q=-31.5629,-69.5557",
+        "name": "M 4.6 - 28 km SSW of Calingasta, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1hi",
         "location": "http://maps.google.com/maps?q=-24.3807,-67.2053",
         "name": "M 4.6 - Salta, Argentina",
@@ -731,24 +731,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hi"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1f8",
-        "location": "http://maps.google.com/maps?q=-31.5629,-69.5557",
-        "name": "M 4.6 - San Juan, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8"
       },
       {
         "category": [
@@ -931,7 +913,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 15:00:05 PDT",
+    "last_update": "02/Apr/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1022,7 +1004,7 @@
           -177.5067
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-31.5629,-69.5557\"><b>M 4.6 - San Juan, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-31.5629,-69.5557\"><b>M 4.6 - 28 km SSW of Calingasta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8\">USGS</a>",
           -31.5629,
           -69.5557
         ],
@@ -1030,11 +1012,6 @@
           "<a href=\"http://maps.google.com/maps?q=50.2709,-129.6\"><b>M 4.6 - Vancouver Island, Canada region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f5\">USGS</a>",
           50.2709,
           -129.6
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=43.8529,-129.8143\"><b>M 4.2 - off the coast of Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1et\">USGS</a>",
-          43.8529,
-          -129.8143
         ]
       ],
       "Floods": [],
@@ -4576,13 +4553,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "50 events (02/Apr/2023 PDT)"
+    "title": "49 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 15:00:57 PDT",
-  "last_update_epoch": 1680472857.569655,
+  "last_update": "02/Apr/2023 @ 16:00:37 PDT",
+  "last_update_epoch": 1680476437.29608,
   "neo": {
     "date": "02/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 15:00:10 PDT",
+    "last_update": "02/Apr/2023 @ 16:00:09 PDT",
     "objects": [
       {
         "cat": "02/Apr/2023 @ 23:52:00 ",
@@ -4853,7 +4830,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 15:00:10 PDT",
+    "last_update": "02/Apr/2023 @ 16:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6639,7 +6616,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 15:00:18 PDT",
+    "last_update": "02/Apr/2023 @ 16:00:16 PDT",
     "launches": {
       "future": [
         {
