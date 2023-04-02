@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 00:00:02 PDT",
+    "last_update": "02/Apr/2023 @ 01:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -829,24 +829,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1be",
-        "location": "http://maps.google.com/maps?q=-3.0479,129.9004",
-        "name": "M 4.7 - Seram, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1dq",
         "location": "http://maps.google.com/maps?q=-12.9313,169.3352",
         "name": "M 4.9 - 219 km ENE of Sola, Vanuatu",
@@ -1003,7 +985,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 00:00:04 PDT",
+    "last_update": "02/Apr/2023 @ 01:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1122,11 +1104,6 @@
           "<a href=\"http://maps.google.com/maps?q=-16.6773,-69.7533\"><b>M 4.5 - 8 km NNW of Mazo Cruz, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1bt\">USGS</a>",
           -16.6773,
           -69.7533
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.0479,129.9004\"><b>M 4.7 - Seram, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1be\">USGS</a>",
-          -3.0479,
-          129.9004
         ]
       ],
       "Floods": [],
@@ -4663,13 +4640,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "54 events (02/Apr/2023 PDT)"
+    "title": "53 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 00:00:41 PDT",
-  "last_update_epoch": 1680418841.088729,
+  "last_update": "02/Apr/2023 @ 01:00:39 PDT",
+  "last_update_epoch": 1680422439.840068,
   "neo": {
     "date": "02/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 00:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 01:00:09 PDT",
     "objects": [
       {
         "cat": "02/Apr/2023 @ 23:52:00 ",
@@ -4940,7 +4917,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 00:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 01:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6726,7 +6703,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 00:00:13 PDT",
+    "last_update": "02/Apr/2023 @ 01:00:14 PDT",
     "launches": {
       "future": [
         {
