@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 09:00:03 PDT",
+    "last_update": "02/Apr/2023 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,6 +577,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1dy",
+        "location": "http://maps.google.com/maps?q=11.6817,-86.1428",
+        "name": "M 4.3 - 7 km SE of La Conquista, Nicaragua",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1gv",
         "location": "http://maps.google.com/maps?q=-18.0117,-178.0059",
         "name": "M 4.3 - Fiji region",
@@ -587,24 +605,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1dy",
-        "location": "http://maps.google.com/maps?q=11.6817,-86.1428",
-        "name": "M 4.3 - near the coast of Nicaragua",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy"
       },
       {
         "category": [
@@ -793,6 +793,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1f8",
+        "location": "http://maps.google.com/maps?q=-31.5629,-69.5557",
+        "name": "M 4.6 - 28 km SSW of Calingasta, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1hi",
         "location": "http://maps.google.com/maps?q=-24.3807,-67.2053",
         "name": "M 4.6 - Salta, Argentina",
@@ -803,24 +821,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hi"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1f8",
-        "location": "http://maps.google.com/maps?q=-31.5629,-69.5557",
-        "name": "M 4.6 - San Juan, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8"
       },
       {
         "category": [
@@ -985,7 +985,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 09:00:05 PDT",
+    "last_update": "02/Apr/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1061,7 +1061,7 @@
           -177.5067
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-31.5629,-69.5557\"><b>M 4.6 - San Juan, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-31.5629,-69.5557\"><b>M 4.6 - 28 km SSW of Calingasta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8\">USGS</a>",
           -31.5629,
           -69.5557
         ],
@@ -1091,7 +1091,7 @@
           54.3847
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=11.6817,-86.1428\"><b>M 4.3 - near the coast of Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=11.6817,-86.1428\"><b>M 4.3 - 7 km SE of La Conquista, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1dy\">USGS</a>",
           11.6817,
           -86.1428
         ],
@@ -4647,11 +4647,11 @@
     },
     "title": "53 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 09:00:36 PDT",
-  "last_update_epoch": 1680451236.548835,
+  "last_update": "02/Apr/2023 @ 10:00:38 PDT",
+  "last_update_epoch": 1680454838.00477,
   "neo": {
     "date": "02/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 09:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 10:00:09 PDT",
     "objects": [
       {
         "cat": "02/Apr/2023 @ 23:52:00 ",
@@ -4922,7 +4922,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 09:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 10:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6708,7 +6708,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 09:00:15 PDT",
+    "last_update": "02/Apr/2023 @ 10:00:14 PDT",
     "launches": {
       "future": [
         {
