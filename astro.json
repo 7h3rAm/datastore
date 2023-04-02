@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 16:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 17:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg",
     "title": "NGC 2442: Galaxy in Volans (01/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -649,6 +649,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1et",
+        "location": "http://maps.google.com/maps?q=43.8529,-129.8143",
+        "name": "M 4.2 - off the coast of Oregon",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1et"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1cg",
         "location": "http://maps.google.com/maps?q=36.0453,35.8115",
         "name": "M 4.3 - 22 km WSW of Uzunbağ, Turkey",
@@ -985,11 +1003,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 16:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 17:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=43.8529,-129.8143\"><b>M 4.2 - off the coast of Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1et\">USGS</a>",
+          43.8529,
+          -129.8143
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=26.7802,102.9002\"><b>M 4.6 - 100 km SW of Zhaotong, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1eq\">USGS</a>",
           26.7802,
@@ -4765,160 +4788,214 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "53 events (01/Apr/2023 PDT)"
+    "title": "54 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 16:00:38 PDT",
-  "last_update_epoch": 1680390038.326054,
+  "last_update": "01/Apr/2023 @ 17:00:40 PDT",
+  "last_update_epoch": 1680393640.626121,
   "neo": {
-    "date": "01/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 16:00:08 PDT",
+    "date": "02/Apr/2023 PDT",
+    "last_update": "01/Apr/2023 @ 17:00:10 PDT",
     "objects": [
       {
-        "cat": "01/Apr/2023 @ 19:06:00 ",
-        "diameter": "0.11-0.26 miles",
-        "distance": "22,184,872.42 miles",
-        "hazardous": true,
-        "name": "Asteroid (2009 HA21)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3457840",
-        "velocity": "69,341.70 mph"
-      },
-      {
-        "cat": "01/Apr/2023 @ 02:02:00 ",
-        "diameter": "0.12-0.26 miles",
-        "distance": "35,535,933.07 miles",
+        "cat": "02/Apr/2023 @ 23:52:00 ",
+        "diameter": "0.11-0.25 miles",
+        "distance": "27,882,647.92 miles",
         "hazardous": false,
-        "name": "Asteroid (2010 LM68)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3529625",
-        "velocity": "19,437.04 mph"
+        "name": "Asteroid (2002 GQ5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3120889",
+        "velocity": "51,277.54 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 06:35:00 ",
-        "diameter": "0.01-0.02 miles",
-        "distance": "29,617,653.72 miles",
+        "cat": "02/Apr/2023 @ 07:24:00 ",
+        "diameter": "0.06-0.14 miles",
+        "distance": "28,542,346.76 miles",
         "hazardous": false,
-        "name": "Asteroid (2012 RT16)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3608667",
-        "velocity": "26,243.01 mph"
+        "name": "Asteroid (2008 UN3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3433064",
+        "velocity": "32,918.89 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 23:49:00 ",
-        "diameter": "0.00-0.01 miles",
-        "distance": "39,683,323.08 miles",
+        "cat": "02/Apr/2023 @ 18:25:00 ",
+        "diameter": "0.10-0.23 miles",
+        "distance": "45,887,260.42 miles",
         "hazardous": false,
-        "name": "Asteroid (2015 TX144)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3729834",
-        "velocity": "17,467.87 mph"
+        "name": "Asteroid (2013 EY27)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3631822",
+        "velocity": "23,536.42 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 20:02:00 ",
-        "diameter": "0.08-0.18 miles",
-        "distance": "45,775,407.81 miles",
-        "hazardous": true,
-        "name": "Asteroid (2017 GK4)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3773752",
-        "velocity": "20,312.97 mph"
-      },
-      {
-        "cat": "01/Apr/2023 @ 23:48:00 ",
-        "diameter": "0.02-0.06 miles",
-        "distance": "35,152,402.75 miles",
+        "cat": "02/Apr/2023 @ 08:09:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "21,015,763.15 miles",
         "hazardous": false,
-        "name": "Asteroid (2018 UY1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3835502",
-        "velocity": "30,268.36 mph"
+        "name": "Asteroid (2015 BB4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3704149",
+        "velocity": "3,167.44 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 01:56:00 ",
+        "cat": "02/Apr/2023 @ 18:51:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "45,903,351.89 miles",
+        "hazardous": false,
+        "name": "Asteroid (2015 QJ)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3726444",
+        "velocity": "18,912.25 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 14:39:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "34,780,302.25 miles",
+        "hazardous": false,
+        "name": "Asteroid (2016 VL3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3763475",
+        "velocity": "11,811.51 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 01:23:00 ",
         "diameter": "0.03-0.07 miles",
-        "distance": "27,142,878.51 miles",
+        "distance": "21,288,892.81 miles",
         "hazardous": false,
-        "name": "Asteroid (2021 RU7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54194978",
-        "velocity": "28,539.13 mph"
+        "name": "Asteroid (2019 GM4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3840867",
+        "velocity": "33,860.30 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 04:51:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "37,151,726.82 miles",
+        "cat": "02/Apr/2023 @ 12:18:00 ",
+        "diameter": "0.05-0.11 miles",
+        "distance": "28,552,392.92 miles",
         "hazardous": false,
-        "name": "Asteroid (2022 KH1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54279935",
-        "velocity": "19,571.49 mph"
+        "name": "Asteroid (2019 OH1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3843359",
+        "velocity": "23,599.79 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 07:49:00 ",
-        "diameter": "0.11-0.24 miles",
-        "distance": "18,607,815.32 miles",
-        "hazardous": false,
-        "name": "Asteroid (2022 UN85)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54329630",
-        "velocity": "28,489.02 mph"
-      },
-      {
-        "cat": "01/Apr/2023 @ 03:02:00 ",
-        "diameter": "0.11-0.24 miles",
-        "distance": "31,478,616.14 miles",
-        "hazardous": false,
-        "name": "Asteroid (2023 DE3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54349265",
-        "velocity": "28,204.98 mph"
-      },
-      {
-        "cat": "01/Apr/2023 @ 12:58:00 ",
+        "cat": "02/Apr/2023 @ 09:01:00 ",
         "diameter": "0.01-0.02 miles",
-        "distance": "2,078,201.16 miles",
+        "distance": "40,416,462.33 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FF7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54352942",
-        "velocity": "24,136.61 mph"
+        "name": "Asteroid (2019 UU)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3879244",
+        "velocity": "19,179.26 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 19:21:00 ",
+        "cat": "02/Apr/2023 @ 15:22:00 ",
+        "diameter": "0.06-0.13 miles",
+        "distance": "29,524,556.92 miles",
+        "hazardous": false,
+        "name": "Asteroid (2020 FV2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54016306",
+        "velocity": "40,325.92 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 16:54:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "4,220,291.52 miles",
+        "hazardous": false,
+        "name": "Asteroid (2021 GN1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54134665",
+        "velocity": "31,657.66 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 14:15:00 ",
         "diameter": "0.01-0.03 miles",
-        "distance": "7,931,899.44 miles",
+        "distance": "36,439,395.23 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FJ1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54350425",
-        "velocity": "13,415.40 mph"
+        "name": "Asteroid (2022 FC3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54265891",
+        "velocity": "39,795.68 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 15:45:00 ",
-        "diameter": "0.02-0.03 miles",
-        "distance": "8,577,902.73 miles",
+        "cat": "02/Apr/2023 @ 12:57:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "4,057,316.95 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FS1)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54350432",
-        "velocity": "8,967.84 mph"
+        "name": "Asteroid (2022 GO3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54271303",
+        "velocity": "25,935.74 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 23:11:00 ",
-        "diameter": "0.04-0.08 miles",
-        "distance": "8,067,611.16 miles",
+        "cat": "02/Apr/2023 @ 22:59:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "9,787,792.52 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FV)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54350418",
-        "velocity": "44,476.70 mph"
+        "name": "Asteroid (2022 GU1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54269063",
+        "velocity": "40,383.99 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 16:32:00 ",
+        "cat": "02/Apr/2023 @ 02:06:00 ",
         "diameter": "0.00-0.01 miles",
-        "distance": "652,228.79 miles",
+        "distance": "17,064,527.27 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FZ10)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54353146",
-        "velocity": "6,160.64 mph"
+        "name": "Asteroid (2022 SF63)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54314204",
+        "velocity": "7,747.78 mph"
       },
       {
-        "cat": "01/Apr/2023 @ 03:37:00 ",
-        "diameter": "0.51-1.15 miles",
-        "distance": "22,256,222.34 miles",
-        "hazardous": true,
-        "name": "Asteroid 69230 Hermes (1937 UB)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2069230",
-        "velocity": "27,675.42 mph"
+        "cat": "02/Apr/2023 @ 01:27:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "25,671,238.21 miles",
+        "hazardous": false,
+        "name": "Asteroid (2022 UO)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54316690",
+        "velocity": "37,297.97 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 01:43:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "7,815,694.79 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 AM2)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54339183",
+        "velocity": "12,270.46 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 13:08:00 ",
+        "diameter": "0.03-0.06 miles",
+        "distance": "5,699,088.15 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 FC)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54349049",
+        "velocity": "16,215.08 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 17:15:00 ",
+        "diameter": "0.02-0.04 miles",
+        "distance": "6,915,365.53 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 FE7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54352941",
+        "velocity": "29,456.24 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 23:56:00 ",
+        "diameter": "0.02-0.03 miles",
+        "distance": "6,353,883.39 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 FO5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54352565",
+        "velocity": "33,004.89 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 10:56:00 ",
+        "diameter": "0.01-0.03 miles",
+        "distance": "2,382,606.42 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 FY6)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54352936",
+        "velocity": "50,338.07 mph"
+      },
+      {
+        "cat": "02/Apr/2023 @ 23:52:00 ",
+        "diameter": "0.11-0.25 miles",
+        "distance": "27,882,647.95 miles",
+        "hazardous": false,
+        "name": "Asteroid 612346 (2002 GQ5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2612346",
+        "velocity": "51,277.54 mph"
       }
     ],
-    "title": "16 objects making close approach (01/Apr/2023 PDT)"
+    "title": "22 objects making close approach (02/Apr/2023 PDT)"
   },
   "satview": {
     "date": "01/Apr/2023 PDT",
@@ -4988,7 +5065,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 16:00:09 PDT",
+    "last_update": "01/Apr/2023 @ 17:00:11 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6774,7 +6851,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 16:00:13 PDT",
+    "last_update": "01/Apr/2023 @ 17:00:16 PDT",
     "launches": {
       "future": [
         {
