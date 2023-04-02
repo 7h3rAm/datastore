@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 14:00:03 PDT",
+    "last_update": "02/Apr/2023 @ 15:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -523,24 +523,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1ek",
-        "location": "http://maps.google.com/maps?q=41.0365,33.5547",
-        "name": "M 4.2 - central Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ek"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1et",
         "location": "http://maps.google.com/maps?q=43.8529,-129.8143",
         "name": "M 4.2 - off the coast of Oregon",
@@ -731,24 +713,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1eq",
-        "location": "http://maps.google.com/maps?q=26.7802,102.9002",
-        "name": "M 4.6 - 100 km SW of Zhaotong, China",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1eq"
       },
       {
         "category": [
@@ -967,7 +931,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 14:00:05 PDT",
+    "last_update": "02/Apr/2023 @ 15:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1071,16 +1035,6 @@
           "<a href=\"http://maps.google.com/maps?q=43.8529,-129.8143\"><b>M 4.2 - off the coast of Oregon</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1et\">USGS</a>",
           43.8529,
           -129.8143
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=26.7802,102.9002\"><b>M 4.6 - 100 km SW of Zhaotong, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1eq\">USGS</a>",
-          26.7802,
-          102.9002
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=41.0365,33.5547\"><b>M 4.2 - central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ek\">USGS</a>",
-          41.0365,
-          33.5547
         ]
       ],
       "Floods": [],
@@ -4622,13 +4576,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "52 events (02/Apr/2023 PDT)"
+    "title": "50 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 14:00:31 PDT",
-  "last_update_epoch": 1680469231.468262,
+  "last_update": "02/Apr/2023 @ 15:00:57 PDT",
+  "last_update_epoch": 1680472857.569655,
   "neo": {
     "date": "02/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 14:00:05 PDT",
+    "last_update": "02/Apr/2023 @ 15:00:10 PDT",
     "objects": [
       {
         "cat": "02/Apr/2023 @ 23:52:00 ",
@@ -4899,7 +4853,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 14:00:06 PDT",
+    "last_update": "02/Apr/2023 @ 15:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6685,7 +6639,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 14:00:12 PDT",
+    "last_update": "02/Apr/2023 @ 15:00:18 PDT",
     "launches": {
       "future": [
         {
