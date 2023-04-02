@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "01/Apr/2023 @ 22:00:03 PDT",
+    "last_update": "01/Apr/2023 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -543,7 +543,7 @@
         ],
         "eid": "us6000k1cm",
         "location": "http://maps.google.com/maps?q=36.0392,35.9102",
-        "name": "M 4.2 - Central Turkey",
+        "name": "M 4.2 - 15 km SW of Uzunbağ, Turkey",
         "source": [
           {
             "sid": "USGS",
@@ -767,24 +767,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1b0",
-        "location": "http://maps.google.com/maps?q=27.7012,86.1877",
-        "name": "M 4.6 - Nepal",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b0"
       },
       {
         "category": [
@@ -1021,7 +1003,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "01/Apr/2023 @ 22:00:04 PDT",
+    "last_update": "01/Apr/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1102,7 +1084,7 @@
           126.2041
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.0392,35.9102\"><b>M 4.2 - Central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1cm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.0392,35.9102\"><b>M 4.2 - 15 km SW of Uzunbağ, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1cm\">USGS</a>",
           36.0392,
           35.9102
         ],
@@ -1145,11 +1127,6 @@
           "<a href=\"http://maps.google.com/maps?q=2.2493,129.0141\"><b>M 4.4 - 125 km ENE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b5\">USGS</a>",
           2.2493,
           129.0141
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.7012,86.1877\"><b>M 4.6 - Nepal</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1b0\">USGS</a>",
-          27.7012,
-          86.1877
         ]
       ],
       "Floods": [],
@@ -4686,13 +4663,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "55 events (01/Apr/2023 PDT)"
+    "title": "54 events (01/Apr/2023 PDT)"
   },
-  "last_update": "01/Apr/2023 @ 22:00:40 PDT",
-  "last_update_epoch": 1680411640.471498,
+  "last_update": "01/Apr/2023 @ 23:00:41 PDT",
+  "last_update_epoch": 1680415241.722202,
   "neo": {
     "date": "02/Apr/2023 PDT",
-    "last_update": "01/Apr/2023 @ 22:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 23:00:06 PDT",
     "objects": [
       {
         "cat": "02/Apr/2023 @ 23:52:00 ",
@@ -4963,7 +4940,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "01/Apr/2023 @ 22:00:05 PDT",
+    "last_update": "01/Apr/2023 @ 23:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6749,7 +6726,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "01/Apr/2023 @ 22:00:11 PDT",
+    "last_update": "01/Apr/2023 @ 23:00:11 PDT",
     "launches": {
       "future": [
         {
