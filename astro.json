@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 13:00:03 PDT",
+    "last_update": "02/Apr/2023 @ 14:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -811,6 +811,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1k9",
+        "location": "http://maps.google.com/maps?q=2.826,95.4878",
+        "name": "M 4.9 - Simeulue, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1k9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1fb",
         "location": "http://maps.google.com/maps?q=-26.0661,-177.5067",
         "name": "M 4.9 - south of the Fiji Islands",
@@ -949,7 +967,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 13:00:04 PDT",
+    "last_update": "02/Apr/2023 @ 14:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -958,6 +976,11 @@
           "<a href=\"http://maps.google.com/maps?q=6.4024,115.8451\"><b>M 5.5 - South China Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ki\">USGS</a>",
           6.4024,
           115.8451
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=2.826,95.4878\"><b>M 4.9 - Simeulue, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1k9\">USGS</a>",
+          2.826,
+          95.4878
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.2924,143.155\"><b>M 7.0 - New Guinea, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1id\">USGS</a>",
@@ -4599,13 +4622,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "51 events (02/Apr/2023 PDT)"
+    "title": "52 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 13:00:34 PDT",
-  "last_update_epoch": 1680465634.172714,
+  "last_update": "02/Apr/2023 @ 14:00:31 PDT",
+  "last_update_epoch": 1680469231.468262,
   "neo": {
     "date": "02/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 13:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 14:00:05 PDT",
     "objects": [
       {
         "cat": "02/Apr/2023 @ 23:52:00 ",
@@ -4876,7 +4899,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 13:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 14:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6662,7 +6685,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 13:00:14 PDT",
+    "last_update": "02/Apr/2023 @ 14:00:12 PDT",
     "launches": {
       "future": [
         {
