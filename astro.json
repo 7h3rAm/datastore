@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 06:00:03 PDT",
+    "last_update": "02/Apr/2023 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -739,24 +739,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1cv",
-        "location": "http://maps.google.com/maps?q=0.8134,126.2041",
-        "name": "M 4.5 - Molucca Sea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1cv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1eq",
         "location": "http://maps.google.com/maps?q=26.7802,102.9002",
         "name": "M 4.6 - 100 km SW of Zhaotong, China",
@@ -967,7 +949,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 06:00:04 PDT",
+    "last_update": "02/Apr/2023 @ 07:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1076,11 +1058,6 @@
           "<a href=\"http://maps.google.com/maps?q=27.3325,53.0705\"><b>M 5.1 - 30 km SE of Mohr, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1d6\">USGS</a>",
           27.3325,
           53.0705
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=0.8134,126.2041\"><b>M 4.5 - Molucca Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1cv\">USGS</a>",
-          0.8134,
-          126.2041
         ]
       ],
       "Floods": [],
@@ -4622,13 +4599,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "52 events (02/Apr/2023 PDT)"
+    "title": "51 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 06:00:37 PDT",
-  "last_update_epoch": 1680440437.594351,
+  "last_update": "02/Apr/2023 @ 07:00:43 PDT",
+  "last_update_epoch": 1680444043.600154,
   "neo": {
     "date": "02/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 06:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 07:00:12 PDT",
     "objects": [
       {
         "cat": "02/Apr/2023 @ 23:52:00 ",
@@ -4899,7 +4876,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 06:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 07:00:12 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6685,7 +6662,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 06:00:14 PDT",
+    "last_update": "02/Apr/2023 @ 07:00:18 PDT",
     "launches": {
       "future": [
         {
