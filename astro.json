@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Apr/2023 @ 02:00:03 PDT",
+    "last_update": "03/Apr/2023 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -505,24 +505,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1gv",
-        "location": "http://maps.google.com/maps?q=-18.0117,-178.0059",
-        "name": "M 4.3 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1lt",
         "location": "http://maps.google.com/maps?q=-4.4517,143.0407",
         "name": "M 4.3 - New Guinea, Papua New Guinea",
@@ -605,24 +587,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1gs",
-        "location": "http://maps.google.com/maps?q=-4.3607,136.822",
-        "name": "M 4.4 - near the south coast of Papua, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gs"
       },
       {
         "category": [
@@ -859,7 +823,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "03/Apr/2023 @ 02:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 03:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -933,16 +897,6 @@
           "<a href=\"http://maps.google.com/maps?q=-3.4924,131.1367\"><b>M 4.5 - Ceram Sea, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1h3\">USGS</a>",
           -3.4924,
           131.1367
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-4.3607,136.822\"><b>M 4.4 - near the south coast of Papua, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gs\">USGS</a>",
-          -4.3607,
-          136.822
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.0117,-178.0059\"><b>M 4.3 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gv\">USGS</a>",
-          -18.0117,
-          -178.0059
         ]
       ],
       "Floods": [],
@@ -4484,13 +4438,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (03/Apr/2023 PDT)"
+    "title": "44 events (03/Apr/2023 PDT)"
   },
-  "last_update": "03/Apr/2023 @ 02:00:41 PDT",
-  "last_update_epoch": 1680512441.223754,
+  "last_update": "03/Apr/2023 @ 03:00:42 PDT",
+  "last_update_epoch": 1680516042.9489,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "03/Apr/2023 @ 02:00:09 PDT",
+    "last_update": "03/Apr/2023 @ 03:00:10 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4716,7 +4670,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Apr/2023 @ 02:00:09 PDT",
+    "last_update": "03/Apr/2023 @ 03:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6502,7 +6456,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Apr/2023 @ 02:00:15 PDT",
+    "last_update": "03/Apr/2023 @ 03:00:17 PDT",
     "launches": {
       "future": [
         {
