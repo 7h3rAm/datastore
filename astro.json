@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Apr/2023 @ 12:00:02 PDT",
+    "last_update": "03/Apr/2023 @ 13:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -596,8 +596,8 @@
           }
         ],
         "eid": "us6000k1ss",
-        "location": "http://maps.google.com/maps?q=-8.7754,115.6457",
-        "name": "M 4.4 - 36 km S of Amlapura, Indonesia",
+        "location": "http://maps.google.com/maps?q=-8.7267,115.6384",
+        "name": "M 4.4 - 30 km S of Amlapura, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -605,6 +605,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1s1",
+        "location": "http://maps.google.com/maps?q=-7.8634,118.7183",
+        "name": "M 4.4 - Flores Sea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1s1"
       },
       {
         "category": [
@@ -659,24 +677,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1ki",
-        "location": "http://maps.google.com/maps?q=6.4024,115.8451",
-        "name": "M 5.5 - South China Sea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ki"
       },
       {
         "category": [
@@ -787,15 +787,20 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "03/Apr/2023 @ 12:00:04 PDT",
+    "last_update": "03/Apr/2023 @ 13:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.7754,115.6457\"><b>M 4.4 - 36 km S of Amlapura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
-          -8.7754,
-          115.6457
+          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - 30 km S of Amlapura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
+          -8.7267,
+          115.6384
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-7.8634,118.7183\"><b>M 4.4 - Flores Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1s1\">USGS</a>",
+          -7.8634,
+          118.7183
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=0.8854,98.8409\"><b>M 6.1 - 72 km SW of Padangsidempuan, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1qa\">USGS</a>",
@@ -846,11 +851,6 @@
           "<a href=\"http://maps.google.com/maps?q=-4.4517,143.0407\"><b>M 4.3 - New Guinea, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1lt\">USGS</a>",
           -4.4517,
           143.0407
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=6.4024,115.8451\"><b>M 5.5 - South China Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ki\">USGS</a>",
-          6.4024,
-          115.8451
         ]
       ],
       "Floods": [],
@@ -4394,11 +4394,11 @@
     },
     "title": "42 events (03/Apr/2023 PDT)"
   },
-  "last_update": "03/Apr/2023 @ 12:00:32 PDT",
-  "last_update_epoch": 1680548432.158632,
+  "last_update": "03/Apr/2023 @ 13:00:38 PDT",
+  "last_update_epoch": 1680552038.2029,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "03/Apr/2023 @ 12:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 13:00:07 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4624,7 +4624,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Apr/2023 @ 12:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 13:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6410,7 +6410,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Apr/2023 @ 12:00:10 PDT",
+    "last_update": "03/Apr/2023 @ 13:00:13 PDT",
     "launches": {
       "future": [
         {
