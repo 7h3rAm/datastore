@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 22:00:03 PDT",
+    "last_update": "02/Apr/2023 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -595,24 +595,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1g4",
-        "location": "http://maps.google.com/maps?q=-17.835,-178.0347",
-        "name": "M 4.4 - Fiji region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1g4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1hn",
         "location": "http://maps.google.com/maps?q=-7.3921,130.3693",
         "name": "M 4.4 - Kepulauan Tanimbar, Indonesia",
@@ -913,7 +895,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 22:00:05 PDT",
+    "last_update": "02/Apr/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1007,11 +989,6 @@
           "<a href=\"http://maps.google.com/maps?q=27.1929,52.9741\"><b>M 4.4 - southern Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1gg\">USGS</a>",
           27.1929,
           52.9741
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.835,-178.0347\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1g4\">USGS</a>",
-          -17.835,
-          -178.0347
         ]
       ],
       "Floods": [],
@@ -4553,13 +4530,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "49 events (02/Apr/2023 PDT)"
+    "title": "48 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 22:00:36 PDT",
-  "last_update_epoch": 1680498036.535692,
+  "last_update": "02/Apr/2023 @ 23:00:40 PDT",
+  "last_update_epoch": 1680501640.394211,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 22:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 23:00:05 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4785,7 +4762,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 22:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 23:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6571,7 +6548,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 22:00:14 PDT",
+    "last_update": "02/Apr/2023 @ 23:00:13 PDT",
     "launches": {
       "future": [
         {
