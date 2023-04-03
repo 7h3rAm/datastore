@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Apr/2023 @ 07:00:07 PDT",
+    "last_update": "03/Apr/2023 @ 08:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -505,6 +505,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1ng",
+        "location": "http://maps.google.com/maps?q=52.652,106.721",
+        "name": "M 4.2 - 27 km SE of Yelantsy, Russia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ng"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1pj",
+        "location": "http://maps.google.com/maps?q=-9.5379,-75.7205",
+        "name": "M 4.2 - 40 km SE of Tingo María, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1pj"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1lt",
         "location": "http://maps.google.com/maps?q=-4.4517,143.0407",
         "name": "M 4.3 - New Guinea, Papua New Guinea",
@@ -551,24 +587,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n3"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1hn",
-        "location": "http://maps.google.com/maps?q=-7.3921,130.3693",
-        "name": "M 4.4 - Kepulauan Tanimbar, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hn"
       },
       {
         "category": [
@@ -769,15 +787,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "03/Apr/2023 @ 07:00:09 PDT",
+    "last_update": "03/Apr/2023 @ 08:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=-9.5379,-75.7205\"><b>M 4.2 - 40 km SE of Tingo María, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1pj\">USGS</a>",
+          -9.5379,
+          -75.7205
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=12.2693,-89.3896\"><b>M 5.0 - 135 km S of La Libertad, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1pd\">USGS</a>",
           12.2693,
           -89.3896
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=52.652,106.721\"><b>M 4.2 - 27 km SE of Yelantsy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ng\">USGS</a>",
+          52.652,
+          106.721
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-58.5581,-25.002\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n8\">USGS</a>",
@@ -823,11 +851,6 @@
           "<a href=\"http://maps.google.com/maps?q=-4.2924,143.155\"><b>M 7.0 - New Guinea, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1id\">USGS</a>",
           -4.2924,
           143.155
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-7.3921,130.3693\"><b>M 4.4 - Kepulauan Tanimbar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hn\">USGS</a>",
-          -7.3921,
-          130.3693
         ]
       ],
       "Floods": [],
@@ -4369,13 +4392,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "41 events (03/Apr/2023 PDT)"
+    "title": "42 events (03/Apr/2023 PDT)"
   },
-  "last_update": "03/Apr/2023 @ 07:00:41 PDT",
-  "last_update_epoch": 1680530441.31283,
+  "last_update": "03/Apr/2023 @ 08:00:42 PDT",
+  "last_update_epoch": 1680534042.252122,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "03/Apr/2023 @ 07:00:10 PDT",
+    "last_update": "03/Apr/2023 @ 08:00:09 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4601,7 +4624,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Apr/2023 @ 07:00:10 PDT",
+    "last_update": "03/Apr/2023 @ 08:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6387,7 +6410,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Apr/2023 @ 07:00:15 PDT",
+    "last_update": "03/Apr/2023 @ 08:00:15 PDT",
     "launches": {
       "future": [
         {
