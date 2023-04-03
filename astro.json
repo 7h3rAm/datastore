@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Apr/2023 @ 03:00:03 PDT",
+    "last_update": "03/Apr/2023 @ 04:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -823,7 +823,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "03/Apr/2023 @ 03:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 04:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4440,11 +4440,11 @@
     },
     "title": "44 events (03/Apr/2023 PDT)"
   },
-  "last_update": "03/Apr/2023 @ 03:00:42 PDT",
-  "last_update_epoch": 1680516042.9489,
+  "last_update": "03/Apr/2023 @ 04:00:37 PDT",
+  "last_update_epoch": 1680519637.730452,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "03/Apr/2023 @ 03:00:10 PDT",
+    "last_update": "03/Apr/2023 @ 04:00:09 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4670,7 +4670,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Apr/2023 @ 03:00:10 PDT",
+    "last_update": "03/Apr/2023 @ 04:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6456,7 +6456,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Apr/2023 @ 03:00:17 PDT",
+    "last_update": "03/Apr/2023 @ 04:00:15 PDT",
     "launches": {
       "future": [
         {
