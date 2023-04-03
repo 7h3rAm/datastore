@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 23:00:03 PDT",
+    "last_update": "03/Apr/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "02/Apr/2023 PDT",
+    "date": "03/Apr/2023 PDT",
     "events": [
       {
         "category": [
@@ -895,7 +895,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 23:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4530,13 +4530,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (02/Apr/2023 PDT)"
+    "title": "48 events (03/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 23:00:40 PDT",
-  "last_update_epoch": 1680501640.394211,
+  "last_update": "03/Apr/2023 @ 00:00:36 PDT",
+  "last_update_epoch": 1680505236.420106,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 23:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 00:00:06 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4695,7 +4695,7 @@
     "title": "17 objects making close approach (03/Apr/2023 PDT)"
   },
   "satview": {
-    "date": "02/Apr/2023 PDT",
+    "date": "03/Apr/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 01/Apr/2023 @ 15:17:36 PDT.",
@@ -4762,7 +4762,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 23:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 00:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4815,7 +4815,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (02/Apr/2023 PDT)"
+    "title": "10 people in space (03/Apr/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -6548,7 +6548,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 23:00:13 PDT",
+    "last_update": "03/Apr/2023 @ 00:00:11 PDT",
     "launches": {
       "future": [
         {
