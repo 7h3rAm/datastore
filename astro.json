@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 18:00:03 PDT",
+    "last_update": "02/Apr/2023 @ 19:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
     "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -739,42 +739,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1f8",
-        "location": "http://maps.google.com/maps?q=-31.5629,-69.5557",
-        "name": "M 4.6 - San Juan, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1f5",
-        "location": "http://maps.google.com/maps?q=50.2709,-129.6",
-        "name": "M 4.6 - Vancouver Island, Canada region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f5"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1k9",
         "location": "http://maps.google.com/maps?q=2.826,95.4878",
         "name": "M 4.9 - Simeulue, Indonesia",
@@ -931,7 +895,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 18:00:05 PDT",
+    "last_update": "02/Apr/2023 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1025,16 +989,6 @@
           "<a href=\"http://maps.google.com/maps?q=-26.0661,-177.5067\"><b>M 4.9 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1fb\">USGS</a>",
           -26.0661,
           -177.5067
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-31.5629,-69.5557\"><b>M 4.6 - San Juan, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f8\">USGS</a>",
-          -31.5629,
-          -69.5557
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=50.2709,-129.6\"><b>M 4.6 - Vancouver Island, Canada region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1f5\">USGS</a>",
-          50.2709,
-          -129.6
         ]
       ],
       "Floods": [],
@@ -4576,13 +4530,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "50 events (02/Apr/2023 PDT)"
+    "title": "48 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 18:00:40 PDT",
-  "last_update_epoch": 1680483640.523124,
+  "last_update": "02/Apr/2023 @ 19:00:43 PDT",
+  "last_update_epoch": 1680487243.165028,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 18:00:10 PDT",
+    "last_update": "02/Apr/2023 @ 19:00:09 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4808,7 +4762,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 18:00:10 PDT",
+    "last_update": "02/Apr/2023 @ 19:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6594,7 +6548,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 18:00:15 PDT",
+    "last_update": "02/Apr/2023 @ 19:00:16 PDT",
     "launches": {
       "future": [
         {
