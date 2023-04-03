@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Apr/2023 @ 06:00:03 PDT",
+    "last_update": "03/Apr/2023 @ 07:00:07 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -541,24 +541,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1he",
-        "location": "http://maps.google.com/maps?q=10.5103,-86.1548",
-        "name": "M 4.3 - off the coast of Costa Rica",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1he"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1n3",
         "location": "http://maps.google.com/maps?q=28.0114,56.915",
         "name": "M 4.3 - southern Iran",
@@ -605,24 +587,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1md"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1hi",
-        "location": "http://maps.google.com/maps?q=-24.3807,-67.2053",
-        "name": "M 4.6 - Salta, Argentina",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hi"
       },
       {
         "category": [
@@ -805,7 +769,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "03/Apr/2023 @ 06:00:09 PDT",
+    "last_update": "03/Apr/2023 @ 07:00:09 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -864,16 +828,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.3921,130.3693\"><b>M 4.4 - Kepulauan Tanimbar, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hn\">USGS</a>",
           -7.3921,
           130.3693
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.3807,-67.2053\"><b>M 4.6 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hi\">USGS</a>",
-          -24.3807,
-          -67.2053
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=10.5103,-86.1548\"><b>M 4.3 - off the coast of Costa Rica</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1he\">USGS</a>",
-          10.5103,
-          -86.1548
         ]
       ],
       "Floods": [],
@@ -4415,13 +4369,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "43 events (03/Apr/2023 PDT)"
+    "title": "41 events (03/Apr/2023 PDT)"
   },
-  "last_update": "03/Apr/2023 @ 06:00:39 PDT",
-  "last_update_epoch": 1680526839.218675,
+  "last_update": "03/Apr/2023 @ 07:00:41 PDT",
+  "last_update_epoch": 1680530441.31283,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "03/Apr/2023 @ 06:00:10 PDT",
+    "last_update": "03/Apr/2023 @ 07:00:10 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4647,7 +4601,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Apr/2023 @ 06:00:10 PDT",
+    "last_update": "03/Apr/2023 @ 07:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6433,7 +6387,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Apr/2023 @ 06:00:16 PDT",
+    "last_update": "03/Apr/2023 @ 07:00:15 PDT",
     "launches": {
       "future": [
         {
