@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "02/Apr/2023 @ 21:00:03 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg",
-    "title": "M57: The Ring Nebula from Hubble (02/Apr/2023 PDT)",
+    "last_update": "02/Apr/2023 @ 22:00:03 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
+    "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -541,6 +541,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1n0",
+        "location": "http://maps.google.com/maps?q=37.9232,36.271",
+        "name": "M 4.3 - central Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1he",
         "location": "http://maps.google.com/maps?q=10.5103,-86.1548",
         "name": "M 4.3 - off the coast of Costa Rica",
@@ -551,6 +569,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1he"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1n3",
+        "location": "http://maps.google.com/maps?q=28.0114,56.915",
+        "name": "M 4.3 - southern Iran",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n3"
       },
       {
         "category": [
@@ -587,24 +623,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1hn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1fx",
-        "location": "http://maps.google.com/maps?q=36.2977,141.5322",
-        "name": "M 4.4 - near the east coast of Honshu, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1fx"
       },
       {
         "category": [
@@ -731,6 +749,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1k9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1n8",
+        "location": "http://maps.google.com/maps?q=-58.5581,-25.002",
+        "name": "M 5.1 - South Sandwich Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n8"
       },
       {
         "category": [
@@ -877,11 +913,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "02/Apr/2023 @ 21:00:05 PDT",
+    "last_update": "02/Apr/2023 @ 22:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-58.5581,-25.002\"><b>M 5.1 - South Sandwich Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n8\">USGS</a>",
+          -58.5581,
+          -25.002
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=28.0114,56.915\"><b>M 4.3 - southern Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n3\">USGS</a>",
+          28.0114,
+          56.915
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=37.9232,36.271\"><b>M 4.3 - central Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1n0\">USGS</a>",
+          37.9232,
+          36.271
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=52.7772,158.4839\"><b>M 6.5 - near the east coast of the Kamchatka Peninsula, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1mn\">USGS</a>",
           52.7772,
@@ -961,11 +1012,6 @@
           "<a href=\"http://maps.google.com/maps?q=-17.835,-178.0347\"><b>M 4.4 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1g4\">USGS</a>",
           -17.835,
           -178.0347
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.2977,141.5322\"><b>M 4.4 - near the east coast of Honshu, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1fx\">USGS</a>",
-          36.2977,
-          141.5322
         ]
       ],
       "Floods": [],
@@ -4507,13 +4553,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (02/Apr/2023 PDT)"
+    "title": "49 events (02/Apr/2023 PDT)"
   },
-  "last_update": "02/Apr/2023 @ 21:00:41 PDT",
-  "last_update_epoch": 1680494441.526692,
+  "last_update": "02/Apr/2023 @ 22:00:36 PDT",
+  "last_update_epoch": 1680498036.535692,
   "neo": {
     "date": "03/Apr/2023 PDT",
-    "last_update": "02/Apr/2023 @ 21:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 22:00:09 PDT",
     "objects": [
       {
         "cat": "03/Apr/2023 @ 12:16:00 ",
@@ -4739,7 +4785,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "02/Apr/2023 @ 21:00:09 PDT",
+    "last_update": "02/Apr/2023 @ 22:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6525,7 +6571,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "02/Apr/2023 @ 21:00:15 PDT",
+    "last_update": "02/Apr/2023 @ 22:00:14 PDT",
     "launches": {
       "future": [
         {
