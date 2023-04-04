@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 05:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 06:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -505,24 +505,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1pg",
-        "location": "http://maps.google.com/maps?q=38.0967,37.7671",
-        "name": "M 4.1 - 9 km W of Doğanşehir, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1pg"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1pj",
         "location": "http://maps.google.com/maps?q=-9.5379,-75.7205",
         "name": "M 4.2 - 40 km SE of Tingo María, Peru",
@@ -561,7 +543,7 @@
         ],
         "eid": "us6000k1ss",
         "location": "http://maps.google.com/maps?q=-8.7267,115.6384",
-        "name": "M 4.4 - 30 km S of Amlapura, Indonesia",
+        "name": "M 4.4 - Bali region, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -597,7 +579,7 @@
         ],
         "eid": "us6000k1us",
         "location": "http://maps.google.com/maps?q=4.5894,127.3401",
-        "name": "M 4.5 - 226 km ESE of Sarangani, Philippines",
+        "name": "M 4.5 - Kepulauan Talaud, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -695,24 +677,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1tm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1pd",
-        "location": "http://maps.google.com/maps?q=12.2693,-89.3896",
-        "name": "M 5.0 - 135 km S of La Libertad, El Salvador",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1pd"
       },
       {
         "category": [
@@ -895,7 +859,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 05:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 06:00:10 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -931,7 +895,7 @@
           -96.9219
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - 226 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - Kepulauan Talaud, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
           4.5894,
           127.3401
         ],
@@ -961,7 +925,7 @@
           123.795
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - 30 km S of Amlapura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - Bali region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
           -8.7267,
           115.6384
         ],
@@ -979,16 +943,6 @@
           "<a href=\"http://maps.google.com/maps?q=-9.5379,-75.7205\"><b>M 4.2 - 40 km SE of Tingo María, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1pj\">USGS</a>",
           -9.5379,
           -75.7205
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.0967,37.7671\"><b>M 4.1 - 9 km W of Doğanşehir, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1pg\">USGS</a>",
-          38.0967,
-          37.7671
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=12.2693,-89.3896\"><b>M 5.0 - 135 km S of La Libertad, El Salvador</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1pd\">USGS</a>",
-          12.2693,
-          -89.3896
         ]
       ],
       "Floods": [],
@@ -4530,13 +4484,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (04/Apr/2023 PDT)"
+    "title": "46 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 05:00:30 PDT",
-  "last_update_epoch": 1680609630.758504,
+  "last_update": "04/Apr/2023 @ 06:00:39 PDT",
+  "last_update_epoch": 1680613239.609539,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 05:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 06:00:11 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4735,7 +4689,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 05:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 06:00:11 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6521,7 +6475,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 05:00:11 PDT",
+    "last_update": "04/Apr/2023 @ 06:00:17 PDT",
     "launches": {
       "future": [
         {
