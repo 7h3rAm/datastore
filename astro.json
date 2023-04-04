@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 10:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 11:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -507,7 +507,7 @@
         ],
         "eid": "us6000k1xv",
         "location": "http://maps.google.com/maps?q=28.2978,56.9272",
-        "name": "M 4.0 - southern Iran",
+        "name": "M 4.0 - 109 km S of Kūh Sefīd, Iran",
         "source": [
           {
             "sid": "USGS",
@@ -551,6 +551,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xp"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1yx",
+        "location": "http://maps.google.com/maps?q=-4.3958,143.1225",
+        "name": "M 4.3 - 39 km ESE of Ambunti, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yx"
       },
       {
         "category": [
@@ -605,6 +623,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1yv",
+        "location": "http://maps.google.com/maps?q=38.0556,74.2375",
+        "name": "M 4.6 - 26 km ESE of Murghob, Tajikistan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yv"
       },
       {
         "category": [
@@ -721,6 +757,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1z0",
+        "location": "http://maps.google.com/maps?q=34.2696,8.0273",
+        "name": "M 5.0 - 10 km ESE of Chebika, Tunisia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1z0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1tm",
         "location": "http://maps.google.com/maps?q=-8.2418,123.795",
         "name": "M 5.0 - 124 km NNW of Pante Makasar, Timor Leste",
@@ -731,24 +785,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1tm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1z0",
-        "location": "http://maps.google.com/maps?q=34.2696,8.0273",
-        "name": "M 5.0 - Tunisia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1z0"
       },
       {
         "category": [
@@ -931,15 +967,25 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 10:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 11:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=34.2696,8.0273\"><b>M 5.0 - Tunisia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1z0\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=34.2696,8.0273\"><b>M 5.0 - 10 km ESE of Chebika, Tunisia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1z0\">USGS</a>",
           34.2696,
           8.0273
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-4.3958,143.1225\"><b>M 4.3 - 39 km ESE of Ambunti, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yx\">USGS</a>",
+          -4.3958,
+          143.1225
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=38.0556,74.2375\"><b>M 4.6 - 26 km ESE of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yv\">USGS</a>",
+          38.0556,
+          74.2375
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=42.814,144.9514\"><b>M 4.6 - 50 km ESE of Kushiro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yq\">USGS</a>",
@@ -947,7 +993,7 @@
           144.9514
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=28.2978,56.9272\"><b>M 4.0 - southern Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xv\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=28.2978,56.9272\"><b>M 4.0 - 109 km S of Kūh Sefīd, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xv\">USGS</a>",
           28.2978,
           56.9272
         ],
@@ -4576,13 +4622,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "50 events (04/Apr/2023 PDT)"
+    "title": "52 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 10:00:30 PDT",
-  "last_update_epoch": 1680627630.825306,
+  "last_update": "04/Apr/2023 @ 11:00:34 PDT",
+  "last_update_epoch": 1680631234.38024,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 10:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 11:00:06 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4717,8 +4763,8 @@
     "date": "04/Apr/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 02/Apr/2023 @ 15:36:16 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/04/02/jpg/epic_1b_20230402224104.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 03/Apr/2023 @ 15:26:56 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/04/03/jpg/epic_1b_20230403223146.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -4781,7 +4827,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 10:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 11:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6567,7 +6613,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 10:00:11 PDT",
+    "last_update": "04/Apr/2023 @ 11:00:12 PDT",
     "launches": {
       "future": [
         {
