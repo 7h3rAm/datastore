@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Apr/2023 @ 23:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "03/Apr/2023 PDT",
+    "date": "04/Apr/2023 PDT",
     "events": [
       {
         "category": [
@@ -559,9 +559,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1vp",
+        "location": "http://maps.google.com/maps?q=-4.1806,143.2038",
+        "name": "M 4.2 - 42 km E of Ambunti, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vp"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1ss",
         "location": "http://maps.google.com/maps?q=-8.7267,115.6384",
-        "name": "M 4.4 - Bali region, Indonesia",
+        "name": "M 4.4 - 30 km S of Amlapura, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -597,7 +615,7 @@
         ],
         "eid": "us6000k1us",
         "location": "http://maps.google.com/maps?q=4.5894,127.3401",
-        "name": "M 4.5 - Kepulauan Talaud, Indonesia",
+        "name": "M 4.5 - 226 km ESE of Sarangani, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -859,11 +877,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "03/Apr/2023 @ 23:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 00:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-4.1806,143.2038\"><b>M 4.2 - 42 km E of Ambunti, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vp\">USGS</a>",
+          -4.1806,
+          143.2038
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=2.5867,128.3256\"><b>M 4.6 - 101 km NNE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vb\">USGS</a>",
           2.5867,
@@ -880,7 +903,7 @@
           -96.9219
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - Kepulauan Talaud, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - 226 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
           4.5894,
           127.3401
         ],
@@ -910,7 +933,7 @@
           123.795
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - Bali region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - 30 km S of Amlapura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
           -8.7267,
           115.6384
         ],
@@ -4484,13 +4507,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (03/Apr/2023 PDT)"
+    "title": "47 events (04/Apr/2023 PDT)"
   },
-  "last_update": "03/Apr/2023 @ 23:00:35 PDT",
-  "last_update_epoch": 1680588035.810354,
+  "last_update": "04/Apr/2023 @ 00:00:31 PDT",
+  "last_update_epoch": 1680591631.157693,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "03/Apr/2023 @ 23:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 00:00:05 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4622,7 +4645,7 @@
     "title": "14 objects making close approach (04/Apr/2023 PDT)"
   },
   "satview": {
-    "date": "03/Apr/2023 PDT",
+    "date": "04/Apr/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 02/Apr/2023 @ 15:36:16 PDT.",
@@ -4689,7 +4712,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Apr/2023 @ 23:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 00:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4742,7 +4765,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (03/Apr/2023 PDT)"
+    "title": "10 people in space (04/Apr/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -6475,7 +6498,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Apr/2023 @ 23:00:11 PDT",
+    "last_update": "04/Apr/2023 @ 00:00:12 PDT",
     "launches": {
       "future": [
         {
