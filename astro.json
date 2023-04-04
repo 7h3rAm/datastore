@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 03:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 04:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -561,7 +561,7 @@
         ],
         "eid": "us6000k1ss",
         "location": "http://maps.google.com/maps?q=-8.7267,115.6384",
-        "name": "M 4.4 - Bali region, Indonesia",
+        "name": "M 4.4 - 30 km S of Amlapura, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -597,7 +597,7 @@
         ],
         "eid": "us6000k1us",
         "location": "http://maps.google.com/maps?q=4.5894,127.3401",
-        "name": "M 4.5 - Kepulauan Talaud, Indonesia",
+        "name": "M 4.5 - 226 km ESE of Sarangani, Philippines",
         "source": [
           {
             "sid": "USGS",
@@ -631,6 +631,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1wb",
+        "location": "http://maps.google.com/maps?q=-15.6072,168.0436",
+        "name": "M 4.7 - 85 km NE of Norsup, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1wb"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1v0",
         "location": "http://maps.google.com/maps?q=-18.1968,-178.0618",
         "name": "M 4.8 - 277 km E of Levuka, Fiji",
@@ -641,6 +659,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1vu",
+        "location": "http://maps.google.com/maps?q=27.0852,141.4644",
+        "name": "M 4.9 - Bonin Islands, Japan region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vu"
       },
       {
         "category": [
@@ -723,7 +759,7 @@
         ],
         "eid": "us6000k1uw",
         "location": "http://maps.google.com/maps?q=16.2878,-96.9219",
-        "name": "M 5.3 - Oaxaca, Mexico",
+        "name": "M 5.3 - 8 km NW of San Jerónimo Coatlán, Mexico",
         "source": [
           {
             "sid": "USGS",
@@ -859,11 +895,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 03:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 04:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-15.6072,168.0436\"><b>M 4.7 - 85 km NE of Norsup, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1wb\">USGS</a>",
+          -15.6072,
+          168.0436
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=27.0852,141.4644\"><b>M 4.9 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vu\">USGS</a>",
+          27.0852,
+          141.4644
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.1806,143.2038\"><b>M 4.2 - 42 km E of Ambunti, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vp\">USGS</a>",
           -4.1806,
@@ -880,12 +926,12 @@
           -178.0618
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=16.2878,-96.9219\"><b>M 5.3 - Oaxaca, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1uw\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=16.2878,-96.9219\"><b>M 5.3 - 8 km NW of San Jerónimo Coatlán, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1uw\">USGS</a>",
           16.2878,
           -96.9219
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - Kepulauan Talaud, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - 226 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
           4.5894,
           127.3401
         ],
@@ -915,7 +961,7 @@
           123.795
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - Bali region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - 30 km S of Amlapura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
           -8.7267,
           115.6384
         ],
@@ -4484,13 +4530,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (04/Apr/2023 PDT)"
+    "title": "48 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 03:00:31 PDT",
-  "last_update_epoch": 1680602431.893514,
+  "last_update": "04/Apr/2023 @ 04:00:32 PDT",
+  "last_update_epoch": 1680606032.360477,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 03:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 04:00:06 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4689,7 +4735,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 03:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 04:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6475,7 +6521,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 03:00:11 PDT",
+    "last_update": "04/Apr/2023 @ 04:00:10 PDT",
     "launches": {
       "future": [
         {
