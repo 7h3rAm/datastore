@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Apr/2023 @ 18:00:03 PDT",
+    "last_update": "03/Apr/2023 @ 19:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -613,6 +613,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1us",
+        "location": "http://maps.google.com/maps?q=4.5894,127.3401",
+        "name": "M 4.5 - Kepulauan Talaud, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1md",
         "location": "http://maps.google.com/maps?q=-0.951,126.8991",
         "name": "M 4.5 - Molucca Sea",
@@ -859,11 +877,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "03/Apr/2023 @ 18:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - Kepulauan Talaud, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
+          4.5894,
+          127.3401
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=14.5149,56.3995\"><b>M 5.3 - Owen Fracture Zone region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1u2\">USGS</a>",
           14.5149,
@@ -4484,13 +4507,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (03/Apr/2023 PDT)"
+    "title": "47 events (03/Apr/2023 PDT)"
   },
-  "last_update": "03/Apr/2023 @ 18:00:35 PDT",
-  "last_update_epoch": 1680570035.786511,
+  "last_update": "03/Apr/2023 @ 19:00:42 PDT",
+  "last_update_epoch": 1680573642.651019,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "03/Apr/2023 @ 18:00:06 PDT",
+    "last_update": "03/Apr/2023 @ 19:00:06 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4689,7 +4712,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Apr/2023 @ 18:00:06 PDT",
+    "last_update": "03/Apr/2023 @ 19:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6475,7 +6498,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Apr/2023 @ 18:00:12 PDT",
+    "last_update": "03/Apr/2023 @ 19:00:13 PDT",
     "launches": {
       "future": [
         {
