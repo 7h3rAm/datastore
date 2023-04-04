@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 13:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 14:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -775,24 +775,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1tm",
-        "location": "http://maps.google.com/maps?q=-8.2418,123.795",
-        "name": "M 5.0 - 124 km NNW of Pante Makasar, Timor Leste",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1tm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1zc",
         "location": "http://maps.google.com/maps?q=9.0616,93.9377",
         "name": "M 5.0 - Nicobar Islands, India region",
@@ -1003,7 +985,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 13:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 14:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1122,11 +1104,6 @@
           "<a href=\"http://maps.google.com/maps?q=14.4932,56.3003\"><b>M 5.5 - Owen Fracture Zone region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1tw\">USGS</a>",
           14.4932,
           56.3003
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-8.2418,123.795\"><b>M 5.0 - 124 km NNW of Pante Makasar, Timor Leste</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1tm\">USGS</a>",
-          -8.2418,
-          123.795
         ]
       ],
       "Floods": [],
@@ -4668,13 +4645,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "54 events (04/Apr/2023 PDT)"
+    "title": "53 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 13:00:43 PDT",
-  "last_update_epoch": 1680638443.889255,
+  "last_update": "04/Apr/2023 @ 14:00:31 PDT",
+  "last_update_epoch": 1680642031.336397,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 13:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 14:00:06 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4873,7 +4850,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 13:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 14:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6659,7 +6636,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 13:00:24 PDT",
+    "last_update": "04/Apr/2023 @ 14:00:11 PDT",
     "launches": {
       "future": [
         {
