@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 12:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 13:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,16 +577,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1zm",
-        "location": "http://maps.google.com/maps?q=13.7723,125.4109",
-        "name": "M 4.5 - 110 km E of Gigmoto, Philippines",
+        "eid": "us6000k1us",
+        "location": "http://maps.google.com/maps?q=4.5894,127.3401",
+        "name": "M 4.5 - 226 km ESE of Sarangani, Philippines",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us"
       },
       {
         "category": [
@@ -595,16 +595,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1us",
-        "location": "http://maps.google.com/maps?q=4.5894,127.3401",
-        "name": "M 4.5 - Kepulauan Talaud, Indonesia",
+        "eid": "us6000k1zm",
+        "location": "http://maps.google.com/maps?q=13.7723,125.4109",
+        "name": "M 4.5 - Philippine Islands region",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm"
       },
       {
         "category": [
@@ -901,6 +901,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1zt",
+        "location": "http://maps.google.com/maps?q=-27.4227,-70.9897",
+        "name": "M 5.9 - Atacama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1x2",
         "location": "http://maps.google.com/maps?q=13.7533,125.5404",
         "name": "M 6.2 - 124 km E of Gigmoto, Philippines",
@@ -985,13 +1003,18 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 12:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 13:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=13.7723,125.4109\"><b>M 4.5 - 110 km E of Gigmoto, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-27.4227,-70.9897\"><b>M 5.9 - Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt\">USGS</a>",
+          -27.4227,
+          -70.9897
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=13.7723,125.4109\"><b>M 4.5 - Philippine Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm\">USGS</a>",
           13.7723,
           125.4109
         ],
@@ -1076,7 +1099,7 @@
           -96.958
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - Kepulauan Talaud, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - 226 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
           4.5894,
           127.3401
         ],
@@ -4645,13 +4668,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "53 events (04/Apr/2023 PDT)"
+    "title": "54 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 12:00:34 PDT",
-  "last_update_epoch": 1680634834.353025,
+  "last_update": "04/Apr/2023 @ 13:00:43 PDT",
+  "last_update_epoch": 1680638443.889255,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 12:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 13:00:06 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4850,7 +4873,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 12:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 13:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6636,7 +6659,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 12:00:11 PDT",
+    "last_update": "04/Apr/2023 @ 13:00:24 PDT",
     "launches": {
       "future": [
         {
