@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 14:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 15:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,8 +577,26 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1zu",
+        "location": "http://maps.google.com/maps?q=-27.3616,-71.1104",
+        "name": "M 4.3 - 77 km W of Copiapó, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1us",
-        "location": "http://maps.google.com/maps?q=4.5894,127.3401",
+        "location": "http://maps.google.com/maps?q=4.5928,127.3429",
         "name": "M 4.5 - 226 km ESE of Sarangani, Philippines",
         "source": [
           {
@@ -793,24 +811,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1ty",
-        "location": "http://maps.google.com/maps?q=-21.457,-66.8319",
-        "name": "M 5.1 - 85 km SW of Atocha, Bolivia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ty"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1u2",
         "location": "http://maps.google.com/maps?q=14.5149,56.3995",
         "name": "M 5.3 - Owen Fracture Zone region",
@@ -839,42 +839,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1uw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1u1",
-        "location": "http://maps.google.com/maps?q=14.4203,56.3116",
-        "name": "M 5.5 - Owen Fracture Zone region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1u1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1tw",
-        "location": "http://maps.google.com/maps?q=14.4932,56.3003",
-        "name": "M 5.5 - Owen Fracture Zone region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1tw"
       },
       {
         "category": [
@@ -985,11 +949,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 14:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 15:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-27.3616,-71.1104\"><b>M 4.3 - 77 km W of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zu\">USGS</a>",
+          -27.3616,
+          -71.1104
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-27.4227,-70.9897\"><b>M 5.9 - Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt\">USGS</a>",
           -27.4227,
@@ -1081,29 +1050,14 @@
           -96.958
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=4.5894,127.3401\"><b>M 4.5 - 226 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
-          4.5894,
-          127.3401
+          "<a href=\"http://maps.google.com/maps?q=4.5928,127.3429\"><b>M 4.5 - 226 km ESE of Sarangani, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1us\">USGS</a>",
+          4.5928,
+          127.3429
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=14.5149,56.3995\"><b>M 5.3 - Owen Fracture Zone region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1u2\">USGS</a>",
           14.5149,
           56.3995
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.457,-66.8319\"><b>M 5.1 - 85 km SW of Atocha, Bolivia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ty\">USGS</a>",
-          -21.457,
-          -66.8319
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.4203,56.3116\"><b>M 5.5 - Owen Fracture Zone region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1u1\">USGS</a>",
-          14.4203,
-          56.3116
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=14.4932,56.3003\"><b>M 5.5 - Owen Fracture Zone region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1tw\">USGS</a>",
-          14.4932,
-          56.3003
         ]
       ],
       "Floods": [],
@@ -4645,13 +4599,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "53 events (04/Apr/2023 PDT)"
+    "title": "51 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 14:00:31 PDT",
-  "last_update_epoch": 1680642031.336397,
+  "last_update": "04/Apr/2023 @ 15:00:38 PDT",
+  "last_update_epoch": 1680645638.717167,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 14:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 15:00:07 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4850,7 +4804,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 14:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 15:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6636,7 +6590,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 14:00:11 PDT",
+    "last_update": "04/Apr/2023 @ 15:00:13 PDT",
     "launches": {
       "future": [
         {
