@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 08:00:04 PDT",
+    "last_update": "04/Apr/2023 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -595,6 +595,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1xu",
+        "location": "http://maps.google.com/maps?q=13.7153,125.4613",
+        "name": "M 4.7 - 116 km E of Gigmoto, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xu"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1wb",
         "location": "http://maps.google.com/maps?q=-15.6072,168.0436",
         "name": "M 4.7 - 85 km NE of Norsup, Vanuatu",
@@ -705,7 +723,7 @@
         ],
         "eid": "us6000k1uw",
         "location": "http://maps.google.com/maps?q=16.2878,-96.9219",
-        "name": "M 5.3 - Oaxaca, Mexico",
+        "name": "M 5.3 - 8 km NW of San Jerónimo Coatlán, Mexico",
         "source": [
           {
             "sid": "USGS",
@@ -767,24 +785,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1tw"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1qa",
-        "location": "http://maps.google.com/maps?q=0.8854,98.8409",
-        "name": "M 6.1 - 72 km SW of Padangsidempuan, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1qa"
       },
       {
         "category": [
@@ -877,11 +877,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 08:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 09:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=13.7153,125.4613\"><b>M 4.7 - 116 km E of Gigmoto, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xu\">USGS</a>",
+          13.7153,
+          125.4613
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-3.1159,-75.7143\"><b>M 4.8 - 89 km ENE of Alianza Cristiana, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xe\">USGS</a>",
           -3.1159,
@@ -918,7 +923,7 @@
           -178.0618
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=16.2878,-96.9219\"><b>M 5.3 - Oaxaca, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1uw\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=16.2878,-96.9219\"><b>M 5.3 - 8 km NW of San Jerónimo Coatlán, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1uw\">USGS</a>",
           16.2878,
           -96.9219
         ],
@@ -961,11 +966,6 @@
           "<a href=\"http://maps.google.com/maps?q=-7.8634,118.7183\"><b>M 4.4 - Flores Sea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1s1\">USGS</a>",
           -7.8634,
           118.7183
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=0.8854,98.8409\"><b>M 6.1 - 72 km SW of Padangsidempuan, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1qa\">USGS</a>",
-          0.8854,
-          98.8409
         ]
       ],
       "Floods": [],
@@ -4509,11 +4509,11 @@
     },
     "title": "47 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 08:00:34 PDT",
-  "last_update_epoch": 1680620434.362856,
+  "last_update": "04/Apr/2023 @ 09:00:36 PDT",
+  "last_update_epoch": 1680624036.301192,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 08:00:07 PDT",
+    "last_update": "04/Apr/2023 @ 09:00:05 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4712,7 +4712,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 08:00:07 PDT",
+    "last_update": "04/Apr/2023 @ 09:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6498,7 +6498,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 08:00:12 PDT",
+    "last_update": "04/Apr/2023 @ 09:00:14 PDT",
     "launches": {
       "future": [
         {
