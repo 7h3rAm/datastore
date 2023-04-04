@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "03/Apr/2023 @ 17:00:05 PDT",
+    "last_update": "03/Apr/2023 @ 18:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/GalCenRadioArc_MeerKat_1080.jpg",
     "title": "The Galactic Center Radio Arc (03/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -579,7 +579,7 @@
         ],
         "eid": "us6000k1ss",
         "location": "http://maps.google.com/maps?q=-8.7267,115.6384",
-        "name": "M 4.4 - 30 km S of Amlapura, Indonesia",
+        "name": "M 4.4 - Bali region, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -859,7 +859,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "03/Apr/2023 @ 17:00:06 PDT",
+    "last_update": "03/Apr/2023 @ 18:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -890,7 +890,7 @@
           123.795
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - 30 km S of Amlapura, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.7267,115.6384\"><b>M 4.4 - Bali region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1ss\">USGS</a>",
           -8.7267,
           115.6384
         ],
@@ -4486,11 +4486,11 @@
     },
     "title": "46 events (03/Apr/2023 PDT)"
   },
-  "last_update": "03/Apr/2023 @ 17:00:43 PDT",
-  "last_update_epoch": 1680566443.172792,
+  "last_update": "03/Apr/2023 @ 18:00:35 PDT",
+  "last_update_epoch": 1680570035.786511,
   "neo": {
     "date": "04/Apr/2023 PDT",
-    "last_update": "03/Apr/2023 @ 17:00:07 PDT",
+    "last_update": "03/Apr/2023 @ 18:00:06 PDT",
     "objects": [
       {
         "cat": "04/Apr/2023 @ 04:44:00 ",
@@ -4689,7 +4689,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "03/Apr/2023 @ 17:00:07 PDT",
+    "last_update": "03/Apr/2023 @ 18:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6475,7 +6475,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "03/Apr/2023 @ 17:00:12 PDT",
+    "last_update": "03/Apr/2023 @ 18:00:12 PDT",
     "launches": {
       "future": [
         {
