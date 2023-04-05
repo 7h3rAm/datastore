@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 22:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 23:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -523,24 +523,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k21a",
-        "location": "http://maps.google.com/maps?q=-35.8758,-73.9166",
-        "name": "M 4.2 - 118 km NW of Talcahuano, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21a"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k224",
         "location": "http://maps.google.com/maps?q=-6.1431,130.468",
         "name": "M 4.2 - 259 km WSW of Tual, Indonesia",
@@ -551,24 +533,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k224"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1vp",
-        "location": "http://maps.google.com/maps?q=-4.1806,143.2038",
-        "name": "M 4.2 - 42 km E of Ambunti, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vp"
       },
       {
         "category": [
@@ -631,6 +595,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1zm",
+        "location": "http://maps.google.com/maps?q=13.7723,125.4109",
+        "name": "M 4.5 - 110 km E of Gigmoto, Philippines",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "nc73866925",
         "location": "http://maps.google.com/maps?q=36.801,-121.323",
         "name": "M 4.5 - 1km NNW of Tres Pinos, CA",
@@ -659,24 +641,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k218"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1zm",
-        "location": "http://maps.google.com/maps?q=13.7723,125.4109",
-        "name": "M 4.5 - Philippine Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm"
       },
       {
         "category": [
@@ -775,6 +739,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k212",
+        "location": "http://maps.google.com/maps?q=-4.3797,143.2272",
+        "name": "M 4.8 - 48 km ESE of Ambunti, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1xe",
         "location": "http://maps.google.com/maps?q=-3.1159,-75.7143",
         "name": "M 4.8 - 89 km ENE of Alianza Cristiana, Peru",
@@ -793,16 +775,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k212",
-        "location": "http://maps.google.com/maps?q=-4.3797,143.2272",
-        "name": "M 4.8 - New Guinea, Papua New Guinea",
+        "eid": "us6000k21z",
+        "location": "http://maps.google.com/maps?q=-22.5964,-174.4603",
+        "name": "M 4.9 - 148 km SSE of ‘Ohonua, Tonga",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21z"
       },
       {
         "category": [
@@ -821,24 +803,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k21z",
-        "location": "http://maps.google.com/maps?q=-22.5964,-174.4603",
-        "name": "M 4.9 - Tonga region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21z"
       },
       {
         "category": [
@@ -885,7 +849,7 @@
         ],
         "eid": "us6000k1zt",
         "location": "http://maps.google.com/maps?q=-27.4227,-70.9897",
-        "name": "M 5.9 - Atacama, Chile",
+        "name": "M 5.9 - 65 km W of Copiapó, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -1003,7 +967,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 22:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 23:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1014,7 +978,7 @@
           130.468
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-22.5964,-174.4603\"><b>M 4.9 - Tonga region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21z\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-22.5964,-174.4603\"><b>M 4.9 - 148 km SSE of ‘Ohonua, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21z\">USGS</a>",
           -22.5964,
           -174.4603
         ],
@@ -1029,7 +993,7 @@
           167.3091
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-4.3797,143.2272\"><b>M 4.8 - New Guinea, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-4.3797,143.2272\"><b>M 4.8 - 48 km ESE of Ambunti, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212\">USGS</a>",
           -4.3797,
           143.2272
         ],
@@ -1049,12 +1013,12 @@
           -71.1104
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-27.4227,-70.9897\"><b>M 5.9 - Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-27.4227,-70.9897\"><b>M 5.9 - 65 km W of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt\">USGS</a>",
           -27.4227,
           -70.9897
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=13.7723,125.4109\"><b>M 4.5 - Philippine Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=13.7723,125.4109\"><b>M 4.5 - 110 km E of Gigmoto, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm\">USGS</a>",
           13.7723,
           125.4109
         ],
@@ -1117,16 +1081,6 @@
           "<a href=\"http://maps.google.com/maps?q=27.0852,141.4644\"><b>M 4.9 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vu\">USGS</a>",
           27.0852,
           141.4644
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-4.1806,143.2038\"><b>M 4.2 - 42 km E of Ambunti, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vp\">USGS</a>",
-          -4.1806,
-          143.2038
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-35.8758,-73.9166\"><b>M 4.2 - 118 km NW of Talcahuano, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21a\">USGS</a>",
-          -35.8758,
-          -73.9166
         ]
       ],
       "Floods": [],
@@ -4668,13 +4622,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "54 events (04/Apr/2023 PDT)"
+    "title": "52 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 22:00:36 PDT",
-  "last_update_epoch": 1680670836.628838,
+  "last_update": "04/Apr/2023 @ 23:00:35 PDT",
+  "last_update_epoch": 1680674435.682502,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 22:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 23:00:06 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4882,7 +4836,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 22:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 23:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6668,7 +6622,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 22:00:11 PDT",
+    "last_update": "04/Apr/2023 @ 23:00:13 PDT",
     "launches": {
       "future": [
         {
