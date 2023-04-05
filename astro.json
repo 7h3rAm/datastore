@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 21:00:04 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
-    "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
+    "last_update": "04/Apr/2023 @ 22:00:03 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
+    "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -577,24 +577,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1vb",
-        "location": "http://maps.google.com/maps?q=2.5855,128.3102",
-        "name": "M 4.3 - 100 km NNE of Tobelo, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1xp",
         "location": "http://maps.google.com/maps?q=30.5839,131.1345",
         "name": "M 4.3 - 20 km SE of Nishinoomote, Japan",
@@ -1021,7 +1003,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 21:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 22:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1145,11 +1127,6 @@
           "<a href=\"http://maps.google.com/maps?q=-35.8758,-73.9166\"><b>M 4.2 - 118 km NW of Talcahuano, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21a\">USGS</a>",
           -35.8758,
           -73.9166
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=2.5855,128.3102\"><b>M 4.3 - 100 km NNE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vb\">USGS</a>",
-          2.5855,
-          128.3102
         ]
       ],
       "Floods": [],
@@ -4691,13 +4668,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "55 events (04/Apr/2023 PDT)"
+    "title": "54 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 21:00:40 PDT",
-  "last_update_epoch": 1680667240.65105,
+  "last_update": "04/Apr/2023 @ 22:00:36 PDT",
+  "last_update_epoch": 1680670836.628838,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 21:00:07 PDT",
+    "last_update": "04/Apr/2023 @ 22:00:06 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4905,7 +4882,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 21:00:07 PDT",
+    "last_update": "04/Apr/2023 @ 22:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6691,7 +6668,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 21:00:12 PDT",
+    "last_update": "04/Apr/2023 @ 22:00:11 PDT",
     "launches": {
       "future": [
         {
