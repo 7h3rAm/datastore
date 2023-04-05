@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 00:00:04 PDT",
+    "last_update": "05/Apr/2023 @ 01:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -793,24 +793,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1vu",
-        "location": "http://maps.google.com/maps?q=27.0852,141.4644",
-        "name": "M 4.9 - Bonin Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1z0",
         "location": "http://maps.google.com/maps?q=34.2696,8.0273",
         "name": "M 5.0 - 10 km ESE of Chebika, Tunisia",
@@ -985,7 +967,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 00:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 01:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1099,11 +1081,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.6072,168.0436\"><b>M 4.7 - 85 km NE of Norsup, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1wb\">USGS</a>",
           -15.6072,
           168.0436
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.0852,141.4644\"><b>M 4.9 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vu\">USGS</a>",
-          27.0852,
-          141.4644
         ]
       ],
       "Floods": [],
@@ -4645,13 +4622,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "53 events (05/Apr/2023 PDT)"
+    "title": "52 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 00:00:34 PDT",
-  "last_update_epoch": 1680678034.55844,
+  "last_update": "05/Apr/2023 @ 01:00:42 PDT",
+  "last_update_epoch": 1680681642.666978,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 00:00:07 PDT",
+    "last_update": "05/Apr/2023 @ 01:00:06 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4859,7 +4836,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 00:00:07 PDT",
+    "last_update": "05/Apr/2023 @ 01:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6645,7 +6622,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 00:00:12 PDT",
+    "last_update": "05/Apr/2023 @ 01:00:12 PDT",
     "launches": {
       "future": [
         {
