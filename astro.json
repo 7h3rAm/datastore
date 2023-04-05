@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 01:00:04 PDT",
+    "last_update": "05/Apr/2023 @ 02:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -559,6 +559,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k234",
+        "location": "http://maps.google.com/maps?q=-12.8042,169.3885",
+        "name": "M 4.3 - 231 km ENE of Sola, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1yx",
         "location": "http://maps.google.com/maps?q=-4.3958,143.1225",
         "name": "M 4.3 - 39 km ESE of Ambunti, Papua New Guinea",
@@ -793,6 +811,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k23a",
+        "location": "http://maps.google.com/maps?q=-21.3749,169.7319",
+        "name": "M 4.9 - 192 km E of Tadine, New Caledonia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k23a"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1z0",
         "location": "http://maps.google.com/maps?q=34.2696,8.0273",
         "name": "M 5.0 - 10 km ESE of Chebika, Tunisia",
@@ -967,11 +1003,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 01:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 02:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-21.3749,169.7319\"><b>M 4.9 - 192 km E of Tadine, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k23a\">USGS</a>",
+          -21.3749,
+          169.7319
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-12.8042,169.3885\"><b>M 4.3 - 231 km ENE of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234\">USGS</a>",
+          -12.8042,
+          169.3885
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-9.4082,-71.4487\"><b>M 5.1 - 156 km ESE of Marechal Thaumaturgo, Brazil</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k22u\">USGS</a>",
           -9.4082,
@@ -4622,13 +4668,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "52 events (05/Apr/2023 PDT)"
+    "title": "54 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 01:00:42 PDT",
-  "last_update_epoch": 1680681642.666978,
+  "last_update": "05/Apr/2023 @ 02:00:36 PDT",
+  "last_update_epoch": 1680685236.184235,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 01:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 02:00:06 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4836,7 +4882,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 01:00:07 PDT",
+    "last_update": "05/Apr/2023 @ 02:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6622,7 +6668,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 01:00:12 PDT",
+    "last_update": "05/Apr/2023 @ 02:00:10 PDT",
     "launches": {
       "future": [
         {
