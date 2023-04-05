@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 15:00:03 PDT",
+    "last_update": "05/Apr/2023 @ 16:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,24 +577,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "nc73866925",
-        "location": "http://maps.google.com/maps?q=36.801,-121.323",
-        "name": "M 4.4 - 1km NNW of Tres Pinos, CA",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k270",
         "location": "http://maps.google.com/maps?q=-15.7039,-72.3474",
         "name": "M 4.4 - southern Peru",
@@ -789,24 +771,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k20g",
-        "location": "http://maps.google.com/maps?q=7.5834,-82.3214",
-        "name": "M 6.3 - 71 km S of Boca Chica, Panama",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k20g"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -877,7 +841,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 15:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -956,16 +920,6 @@
           "<a href=\"http://maps.google.com/maps?q=-4.3797,143.2272\"><b>M 4.8 - 48 km ESE of Ambunti, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212\">USGS</a>",
           -4.3797,
           143.2272
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=36.801,-121.323\"><b>M 4.4 - 1km NNW of Tres Pinos, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925\">USGS</a>",
-          36.801,
-          -121.323
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=7.5834,-82.3214\"><b>M 6.3 - 71 km S of Boca Chica, Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k20g\">USGS</a>",
-          7.5834,
-          -82.3214
         ]
       ],
       "Floods": [],
@@ -4507,13 +4461,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (05/Apr/2023 PDT)"
+    "title": "45 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 15:00:33 PDT",
-  "last_update_epoch": 1680732033.402878,
+  "last_update": "05/Apr/2023 @ 16:00:36 PDT",
+  "last_update_epoch": 1680735636.985624,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 15:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 16:00:08 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4721,7 +4675,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 15:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 16:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6507,7 +6461,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 15:00:12 PDT",
+    "last_update": "05/Apr/2023 @ 16:00:13 PDT",
     "launches": {
       "future": [
         {
