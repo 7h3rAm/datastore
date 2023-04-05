@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 17:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 18:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -595,6 +595,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1v7",
+        "location": "http://maps.google.com/maps?q=-28.633,-71.2505",
+        "name": "M 4.4 - Near the coast of Atacama, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v7"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "nc73866925",
+        "location": "http://maps.google.com/maps?q=36.801,-121.323",
+        "name": "M 4.5 - 1km NNW of Tres Pinos, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1us",
         "location": "http://maps.google.com/maps?q=4.5928,127.3429",
         "name": "M 4.5 - 226 km ESE of Sarangani, Philippines",
@@ -623,24 +659,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v0"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "nc73866925",
-        "location": "http://maps.google.com/maps?q=36.8035011,-121.3219986",
-        "name": "M 4.5 - 2km N of Tres Pinos, CA",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925"
       },
       {
         "category": [
@@ -967,15 +985,15 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 17:00:07 PDT",
+    "last_update": "04/Apr/2023 @ 18:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=36.8035011,-121.3219986\"><b>M 4.5 - 2km N of Tres Pinos, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925\">USGS</a>",
-          36.8035011,
-          -121.3219986
+          "<a href=\"http://maps.google.com/maps?q=36.801,-121.323\"><b>M 4.5 - 1km NNW of Tres Pinos, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925\">USGS</a>",
+          36.801,
+          -121.323
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=7.5834,-82.3214\"><b>M 6.3 - 71 km S of Boca Chica, Panama</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k20g\">USGS</a>",
@@ -1066,6 +1084,11 @@
           "<a href=\"http://maps.google.com/maps?q=2.5867,128.3256\"><b>M 4.6 - 101 km NNE of Tobelo, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1vb\">USGS</a>",
           2.5867,
           128.3256
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-28.633,-71.2505\"><b>M 4.4 - Near the coast of Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v7\">USGS</a>",
+          -28.633,
+          -71.2505
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=-18.135,-178.0888\"><b>M 4.5 - 274 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v0\">USGS</a>",
@@ -4622,13 +4645,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "52 events (04/Apr/2023 PDT)"
+    "title": "53 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 17:00:40 PDT",
-  "last_update_epoch": 1680652840.105701,
+  "last_update": "04/Apr/2023 @ 18:00:40 PDT",
+  "last_update_epoch": 1680656440.428312,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 17:00:08 PDT",
+    "last_update": "04/Apr/2023 @ 18:00:07 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4836,7 +4859,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 17:00:08 PDT",
+    "last_update": "04/Apr/2023 @ 18:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6622,7 +6645,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 17:00:13 PDT",
+    "last_update": "04/Apr/2023 @ 18:00:12 PDT",
     "launches": {
       "future": [
         {
