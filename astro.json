@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 06:00:03 PDT",
+    "last_update": "05/Apr/2023 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -793,24 +793,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1xe",
-        "location": "http://maps.google.com/maps?q=-3.1159,-75.7143",
-        "name": "M 4.8 - 89 km ENE of Alianza Cristiana, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xe"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k252",
         "location": "http://maps.google.com/maps?q=-28.585,-177.8026",
         "name": "M 4.8 - Kermadec Islands region",
@@ -1021,7 +1003,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 06:00:08 PDT",
+    "last_update": "05/Apr/2023 @ 07:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -1145,11 +1127,6 @@
           "<a href=\"http://maps.google.com/maps?q=30.5839,131.1345\"><b>M 4.3 - 20 km SE of Nishinoomote, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xp\">USGS</a>",
           30.5839,
           131.1345
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-3.1159,-75.7143\"><b>M 4.8 - 89 km ENE of Alianza Cristiana, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xe\">USGS</a>",
-          -3.1159,
-          -75.7143
         ]
       ],
       "Floods": [],
@@ -4691,13 +4668,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "55 events (05/Apr/2023 PDT)"
+    "title": "54 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 06:00:40 PDT",
-  "last_update_epoch": 1680699640.542814,
+  "last_update": "05/Apr/2023 @ 07:00:36 PDT",
+  "last_update_epoch": 1680703236.200167,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 06:00:08 PDT",
+    "last_update": "05/Apr/2023 @ 07:00:06 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4905,7 +4882,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 06:00:08 PDT",
+    "last_update": "05/Apr/2023 @ 07:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6691,7 +6668,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 06:00:13 PDT",
+    "last_update": "05/Apr/2023 @ 07:00:11 PDT",
     "launches": {
       "future": [
         {
