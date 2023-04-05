@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 07:00:03 PDT",
+    "last_update": "05/Apr/2023 @ 08:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -505,24 +505,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1xv",
-        "location": "http://maps.google.com/maps?q=28.2978,56.9272",
-        "name": "M 4.0 - 109 km S of Kūh Sefīd, Iran",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k224",
         "location": "http://maps.google.com/maps?q=-6.1431,130.468",
         "name": "M 4.2 - 259 km WSW of Tual, Indonesia",
@@ -533,24 +515,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k224"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1xp",
-        "location": "http://maps.google.com/maps?q=30.5839,131.1345",
-        "name": "M 4.3 - 20 km SE of Nishinoomote, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xp"
       },
       {
         "category": [
@@ -757,24 +721,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1xu",
-        "location": "http://maps.google.com/maps?q=13.7153,125.4613",
-        "name": "M 4.7 - 116 km E of Gigmoto, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k212",
         "location": "http://maps.google.com/maps?q=-4.3797,143.2272",
         "name": "M 4.8 - 48 km ESE of Ambunti, Papua New Guinea",
@@ -839,6 +785,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k23a"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k25r",
+        "location": "http://maps.google.com/maps?q=-18.1698,-178.8696",
+        "name": "M 4.9 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r"
       },
       {
         "category": [
@@ -1003,11 +967,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 07:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 08:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
+          -18.1698,
+          -178.8696
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-4.5559,-75.5913\"><b>M 4.6 - northern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y\">USGS</a>",
           -4.5559,
@@ -1112,21 +1081,6 @@
           "<a href=\"http://maps.google.com/maps?q=42.814,144.9514\"><b>M 4.6 - 50 km ESE of Kushiro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yq\">USGS</a>",
           42.814,
           144.9514
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=28.2978,56.9272\"><b>M 4.0 - 109 km S of Kūh Sefīd, Iran</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xv\">USGS</a>",
-          28.2978,
-          56.9272
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.7153,125.4613\"><b>M 4.7 - 116 km E of Gigmoto, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xu\">USGS</a>",
-          13.7153,
-          125.4613
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=30.5839,131.1345\"><b>M 4.3 - 20 km SE of Nishinoomote, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1xp\">USGS</a>",
-          30.5839,
-          131.1345
         ]
       ],
       "Floods": [],
@@ -4668,13 +4622,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "54 events (05/Apr/2023 PDT)"
+    "title": "52 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 07:00:36 PDT",
-  "last_update_epoch": 1680703236.200167,
+  "last_update": "05/Apr/2023 @ 08:00:39 PDT",
+  "last_update_epoch": 1680706839.047355,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 07:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 08:00:06 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4882,7 +4836,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 07:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 08:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6668,7 +6622,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 07:00:11 PDT",
+    "last_update": "05/Apr/2023 @ 08:00:12 PDT",
     "launches": {
       "future": [
         {
