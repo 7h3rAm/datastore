@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 16:00:03 PDT",
+    "last_update": "04/Apr/2023 @ 17:00:05 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/OlympusMons_MarsExpress_960.jpg",
     "title": "Olympus Mons: Largest Volcano in the Solar System (04/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -595,24 +595,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1zm",
-        "location": "http://maps.google.com/maps?q=13.7723,125.4109",
-        "name": "M 4.5 - 110 km E of Gigmoto, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k1us",
         "location": "http://maps.google.com/maps?q=4.5928,127.3429",
         "name": "M 4.5 - 226 km ESE of Sarangani, Philippines",
@@ -631,6 +613,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k1v0",
+        "location": "http://maps.google.com/maps?q=-18.135,-178.0888",
+        "name": "M 4.5 - 274 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "nc73866925",
         "location": "http://maps.google.com/maps?q=36.8035011,-121.3219986",
         "name": "M 4.5 - 2km N of Tres Pinos, CA",
@@ -641,6 +641,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k1zm",
+        "location": "http://maps.google.com/maps?q=13.7723,125.4109",
+        "name": "M 4.5 - Philippine Islands region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm"
       },
       {
         "category": [
@@ -731,24 +749,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1wb"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1v0",
-        "location": "http://maps.google.com/maps?q=-18.1968,-178.0618",
-        "name": "M 4.8 - 277 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v0"
       },
       {
         "category": [
@@ -849,7 +849,7 @@
         ],
         "eid": "us6000k1zt",
         "location": "http://maps.google.com/maps?q=-27.4227,-70.9897",
-        "name": "M 5.9 - 65 km W of Copiapó, Chile",
+        "name": "M 5.9 - Atacama, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -967,7 +967,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 16:00:05 PDT",
+    "last_update": "04/Apr/2023 @ 17:00:07 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -988,12 +988,12 @@
           -71.1104
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-27.4227,-70.9897\"><b>M 5.9 - 65 km W of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-27.4227,-70.9897\"><b>M 5.9 - Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt\">USGS</a>",
           -27.4227,
           -70.9897
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=13.7723,125.4109\"><b>M 4.5 - 110 km E of Gigmoto, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=13.7723,125.4109\"><b>M 4.5 - Philippine Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm\">USGS</a>",
           13.7723,
           125.4109
         ],
@@ -1068,9 +1068,9 @@
           128.3256
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.1968,-178.0618\"><b>M 4.8 - 277 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v0\">USGS</a>",
-          -18.1968,
-          -178.0618
+          "<a href=\"http://maps.google.com/maps?q=-18.135,-178.0888\"><b>M 4.5 - 274 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1v0\">USGS</a>",
+          -18.135,
+          -178.0888
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=16.1556,-96.9475\"><b>M 5.4 - 11 km SW of San Jerónimo Coatlán, Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1uw\">USGS</a>",
@@ -4624,140 +4624,149 @@
     },
     "title": "52 events (04/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 16:00:38 PDT",
-  "last_update_epoch": 1680649238.392621,
+  "last_update": "04/Apr/2023 @ 17:00:40 PDT",
+  "last_update_epoch": 1680652840.105701,
   "neo": {
-    "date": "04/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 16:00:06 PDT",
+    "date": "05/Apr/2023 PDT",
+    "last_update": "04/Apr/2023 @ 17:00:08 PDT",
     "objects": [
       {
-        "cat": "04/Apr/2023 @ 04:44:00 ",
-        "diameter": "0.02-0.05 miles",
-        "distance": "5,188,800.82 miles",
-        "hazardous": false,
-        "name": "Asteroid (2004 OW10)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3248972",
-        "velocity": "11,439.67 mph"
-      },
-      {
-        "cat": "04/Apr/2023 @ 00:26:00 ",
-        "diameter": "0.06-0.14 miles",
-        "distance": "15,376,863.59 miles",
-        "hazardous": false,
-        "name": "Asteroid (2008 GS3)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3408586",
-        "velocity": "33,577.68 mph"
-      },
-      {
-        "cat": "04/Apr/2023 @ 22:43:00 ",
+        "cat": "05/Apr/2023 @ 12:18:00 ",
         "diameter": "0.11-0.25 miles",
-        "distance": "11,115,405.01 miles",
-        "hazardous": false,
-        "name": "Asteroid (2012 HH8)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3602784",
-        "velocity": "59,403.56 mph"
-      },
-      {
-        "cat": "04/Apr/2023 @ 04:12:00 ",
-        "diameter": "0.03-0.06 miles",
-        "distance": "12,850,095.77 miles",
-        "hazardous": false,
-        "name": "Asteroid (2013 GZ7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3634186",
-        "velocity": "6,385.68 mph"
-      },
-      {
-        "cat": "04/Apr/2023 @ 10:55:00 ",
-        "diameter": "0.02-0.04 miles",
-        "distance": "45,426,763.24 miles",
-        "hazardous": false,
-        "name": "Asteroid (2013 RO5)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3647016",
-        "velocity": "40,753.94 mph"
-      },
-      {
-        "cat": "04/Apr/2023 @ 21:18:00 ",
-        "diameter": "0.08-0.19 miles",
-        "distance": "25,715,963.13 miles",
-        "hazardous": false,
-        "name": "Asteroid (2018 HK)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3803904",
-        "velocity": "45,386.89 mph"
-      },
-      {
-        "cat": "04/Apr/2023 @ 23:12:00 ",
-        "diameter": "0.01-0.03 miles",
-        "distance": "36,382,306.67 miles",
-        "hazardous": false,
-        "name": "Asteroid (2019 WN6)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3893864",
-        "velocity": "13,409.45 mph"
-      },
-      {
-        "cat": "04/Apr/2023 @ 00:05:00 ",
-        "diameter": "0.01-0.01 miles",
-        "distance": "29,528,444.89 miles",
-        "hazardous": false,
-        "name": "Asteroid (2020 XH2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54098712",
-        "velocity": "35,016.21 mph"
-      },
-      {
-        "cat": "04/Apr/2023 @ 09:08:00 ",
-        "diameter": "0.08-0.18 miles",
-        "distance": "33,016,383.56 miles",
+        "distance": "35,504,574.00 miles",
         "hazardous": true,
-        "name": "Asteroid (2022 SF11)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54308046",
-        "velocity": "36,159.64 mph"
+        "name": "Asteroid (2007 DL41)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3368864",
+        "velocity": "55,253.48 mph"
       },
       {
-        "cat": "04/Apr/2023 @ 01:33:00 ",
+        "cat": "05/Apr/2023 @ 03:05:00 ",
+        "diameter": "0.08-0.19 miles",
+        "distance": "15,089,297.35 miles",
+        "hazardous": false,
+        "name": "Asteroid (2007 EK88)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3371139",
+        "velocity": "18,885.82 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 21:42:00 ",
+        "diameter": "0.09-0.20 miles",
+        "distance": "39,944,291.48 miles",
+        "hazardous": false,
+        "name": "Asteroid (2010 GA7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3514959",
+        "velocity": "56,737.94 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 08:34:00 ",
         "diameter": "0.01-0.03 miles",
-        "distance": "1,394,752.26 miles",
+        "distance": "35,646,942.82 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FA7)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54352937",
-        "velocity": "53,694.46 mph"
+        "name": "Asteroid (2016 LG)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3753644",
+        "velocity": "39,564.79 mph"
       },
       {
-        "cat": "04/Apr/2023 @ 11:01:00 ",
-        "diameter": "0.03-0.08 miles",
-        "distance": "14,022,360.86 miles",
+        "cat": "05/Apr/2023 @ 05:34:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "34,187,717.26 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FH11)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54353148",
-        "velocity": "25,206.77 mph"
+        "name": "Asteroid (2019 GV3)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3840853",
+        "velocity": "47,963.74 mph"
       },
       {
-        "cat": "04/Apr/2023 @ 15:51:00 ",
+        "cat": "05/Apr/2023 @ 01:39:00 ",
+        "diameter": "0.09-0.19 miles",
+        "distance": "26,091,532.48 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 SM7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3872625",
+        "velocity": "30,435.83 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 03:07:00 ",
+        "diameter": "0.00-0.00 miles",
+        "distance": "12,768,469.10 miles",
+        "hazardous": false,
+        "name": "Asteroid (2019 VB5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=3892775",
+        "velocity": "9,943.65 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 00:46:00 ",
         "diameter": "0.01-0.02 miles",
-        "distance": "5,421,685.24 miles",
+        "distance": "20,306,826.19 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FQ2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54351254",
-        "velocity": "15,717.40 mph"
+        "name": "Asteroid (2021 CE1)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54110066",
+        "velocity": "12,594.67 mph"
       },
       {
-        "cat": "04/Apr/2023 @ 15:10:00 ",
-        "diameter": "0.03-0.07 miles",
-        "distance": "31,065,955.56 miles",
+        "cat": "05/Apr/2023 @ 05:16:00 ",
+        "diameter": "0.01-0.01 miles",
+        "distance": "15,188,613.99 miles",
         "hazardous": false,
-        "name": "Asteroid (2023 FY2)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54351262",
-        "velocity": "13,828.74 mph"
+        "name": "Asteroid (2021 GD5)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54135787",
+        "velocity": "41,082.97 mph"
       },
       {
-        "cat": "04/Apr/2023 @ 17:44:00 ",
-        "diameter": "0.51-1.14 miles",
-        "distance": "30,580,681.31 miles",
+        "cat": "05/Apr/2023 @ 01:29:00 ",
+        "diameter": "0.02-0.05 miles",
+        "distance": "25,891,948.18 miles",
         "hazardous": false,
-        "name": "Asteroid 224926 (2007 DA41)",
-        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2224926",
-        "velocity": "52,858.95 mph"
+        "name": "Asteroid (2021 UL4)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54213623",
+        "velocity": "22,965.25 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 17:03:00 ",
+        "diameter": "0.02-0.03 miles",
+        "distance": "9,792,299.90 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 FK)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54349263",
+        "velocity": "7,839.38 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 22:03:00 ",
+        "diameter": "0.01-0.02 miles",
+        "distance": "3,578,587.08 miles",
+        "hazardous": false,
+        "name": "Asteroid (2023 FQ7)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=54353137",
+        "velocity": "18,737.46 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 07:09:00 ",
+        "diameter": "0.71-1.59 miles",
+        "distance": "37,674,973.69 miles",
+        "hazardous": false,
+        "name": "Asteroid 138877 (2000 XG47)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2138877",
+        "velocity": "31,546.44 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 08:57:00 ",
+        "diameter": "0.55-1.23 miles",
+        "distance": "35,029,088.80 miles",
+        "hazardous": true,
+        "name": "Asteroid 143649 (2003 QQ47)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2143649",
+        "velocity": "78,879.69 mph"
+      },
+      {
+        "cat": "05/Apr/2023 @ 12:18:00 ",
+        "diameter": "0.11-0.25 miles",
+        "distance": "35,504,574.03 miles",
+        "hazardous": true,
+        "name": "Asteroid 613714 (2007 DL41)",
+        "url": "http://ssd.jpl.nasa.gov/sbdb.cgi?sstr=2613714",
+        "velocity": "55,253.48 mph"
       }
     ],
-    "title": "14 objects making close approach (04/Apr/2023 PDT)"
+    "title": "15 objects making close approach (05/Apr/2023 PDT)"
   },
   "satview": {
     "date": "04/Apr/2023 PDT",
@@ -4827,7 +4836,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 16:00:06 PDT",
+    "last_update": "04/Apr/2023 @ 17:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6613,7 +6622,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 16:00:11 PDT",
+    "last_update": "04/Apr/2023 @ 17:00:13 PDT",
     "launches": {
       "future": [
         {
