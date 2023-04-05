@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 04:00:03 PDT",
+    "last_update": "05/Apr/2023 @ 05:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -559,6 +559,42 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k234",
+        "location": "http://maps.google.com/maps?q=-12.8042,169.3885",
+        "name": "M 4.3 - 231 km ENE of Sola, Vanuatu",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k24p",
+        "location": "http://maps.google.com/maps?q=-6.3374,147.6331",
+        "name": "M 4.3 - 33 km NW of Finschhafen, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24p"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1yx",
         "location": "http://maps.google.com/maps?q=-4.3958,143.1225",
         "name": "M 4.3 - 39 km ESE of Ambunti, Papua New Guinea",
@@ -587,24 +623,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zu"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k234",
-        "location": "http://maps.google.com/maps?q=-12.8042,169.3885",
-        "name": "M 4.3 - Santa Cruz Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234"
       },
       {
         "category": [
@@ -713,6 +731,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yq"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k24y",
+        "location": "http://maps.google.com/maps?q=-4.5559,-75.5913",
+        "name": "M 4.6 - 74 km N of Lagunas, Peru",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y"
       },
       {
         "category": [
@@ -985,18 +1021,28 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 04:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 05:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-4.5559,-75.5913\"><b>M 4.6 - 74 km N of Lagunas, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y\">USGS</a>",
+          -4.5559,
+          -75.5913
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.3374,147.6331\"><b>M 4.3 - 33 km NW of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24p\">USGS</a>",
+          -6.3374,
+          147.6331
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-21.3749,169.7319\"><b>M 4.9 - 192 km E of Tadine, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k23a\">USGS</a>",
           -21.3749,
           169.7319
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-12.8042,169.3885\"><b>M 4.3 - Santa Cruz Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-12.8042,169.3885\"><b>M 4.3 - 231 km ENE of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234\">USGS</a>",
           -12.8042,
           169.3885
         ],
@@ -4645,13 +4691,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "53 events (05/Apr/2023 PDT)"
+    "title": "55 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 04:00:39 PDT",
-  "last_update_epoch": 1680692439.168944,
+  "last_update": "05/Apr/2023 @ 05:00:34 PDT",
+  "last_update_epoch": 1680696034.404674,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 04:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 05:00:05 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4859,7 +4905,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 04:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 05:00:05 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6645,7 +6691,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 04:00:11 PDT",
+    "last_update": "05/Apr/2023 @ 05:00:10 PDT",
     "launches": {
       "future": [
         {
