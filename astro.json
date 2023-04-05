@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 10:00:03 PDT",
+    "last_update": "05/Apr/2023 @ 11:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -613,24 +613,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k1zm",
-        "location": "http://maps.google.com/maps?q=13.7723,125.4109",
-        "name": "M 4.5 - 110 km E of Gigmoto, Philippines",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k218",
         "location": "http://maps.google.com/maps?q=-14.1485,167.3091",
         "name": "M 4.5 - 39 km SW of Sola, Vanuatu",
@@ -669,7 +651,7 @@
         ],
         "eid": "us6000k24y",
         "location": "http://maps.google.com/maps?q=-4.5559,-75.5913",
-        "name": "M 4.6 - northern Peru",
+        "name": "M 4.6 - 74 km N of Lagunas, Peru",
         "source": [
           {
             "sid": "USGS",
@@ -677,24 +659,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k212",
-        "location": "http://maps.google.com/maps?q=-4.3797,143.2272",
-        "name": "M 4.8 - 48 km ESE of Ambunti, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212"
       },
       {
         "category": [
@@ -721,16 +685,34 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k21z",
-        "location": "http://maps.google.com/maps?q=-22.5964,-174.4603",
-        "name": "M 4.9 - 148 km SSE of ‘Ohonua, Tonga",
+        "eid": "us6000k212",
+        "location": "http://maps.google.com/maps?q=-4.3797,143.2272",
+        "name": "M 4.8 - New Guinea, Papua New Guinea",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21z"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k25r",
+        "location": "http://maps.google.com/maps?q=-18.1698,-178.8696",
+        "name": "M 4.9 - 192 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r"
       },
       {
         "category": [
@@ -757,34 +739,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k25r",
-        "location": "http://maps.google.com/maps?q=-18.1698,-178.8696",
-        "name": "M 4.9 - Fiji region",
+        "eid": "us6000k21z",
+        "location": "http://maps.google.com/maps?q=-22.5964,-174.4603",
+        "name": "M 4.9 - Tonga region",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1zc",
-        "location": "http://maps.google.com/maps?q=9.0616,93.9377",
-        "name": "M 5.0 - Nicobar Islands, India region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zc"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21z"
       },
       {
         "category": [
@@ -813,7 +777,7 @@
         ],
         "eid": "us6000k1zt",
         "location": "http://maps.google.com/maps?q=-27.4227,-70.9897",
-        "name": "M 5.9 - 65 km W of Copiapó, Chile",
+        "name": "M 5.9 - Atacama, Chile",
         "source": [
           {
             "sid": "USGS",
@@ -913,7 +877,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 10:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 11:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -924,12 +888,12 @@
           -73.7826
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - 192 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
           -18.1698,
           -178.8696
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-4.5559,-75.5913\"><b>M 4.6 - northern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-4.5559,-75.5913\"><b>M 4.6 - 74 km N of Lagunas, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y\">USGS</a>",
           -4.5559,
           -75.5913
         ],
@@ -964,7 +928,7 @@
           130.468
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-22.5964,-174.4603\"><b>M 4.9 - 148 km SSE of ‘Ohonua, Tonga</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21z\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-22.5964,-174.4603\"><b>M 4.9 - Tonga region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21z\">USGS</a>",
           -22.5964,
           -174.4603
         ],
@@ -979,7 +943,7 @@
           167.3091
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-4.3797,143.2272\"><b>M 4.8 - 48 km ESE of Ambunti, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-4.3797,143.2272\"><b>M 4.8 - New Guinea, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k212\">USGS</a>",
           -4.3797,
           143.2272
         ],
@@ -999,19 +963,9 @@
           -71.1104
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-27.4227,-70.9897\"><b>M 5.9 - 65 km W of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-27.4227,-70.9897\"><b>M 5.9 - Atacama, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zt\">USGS</a>",
           -27.4227,
           -70.9897
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=13.7723,125.4109\"><b>M 4.5 - 110 km E of Gigmoto, Philippines</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm\">USGS</a>",
-          13.7723,
-          125.4109
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=9.0616,93.9377\"><b>M 5.0 - Nicobar Islands, India region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zc\">USGS</a>",
-          9.0616,
-          93.9377
         ]
       ],
       "Floods": [],
@@ -4553,13 +4507,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "49 events (05/Apr/2023 PDT)"
+    "title": "47 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 10:00:34 PDT",
-  "last_update_epoch": 1680714034.251279,
+  "last_update": "05/Apr/2023 @ 11:00:37 PDT",
+  "last_update_epoch": 1680717637.04484,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 10:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 11:00:07 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4767,7 +4721,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 10:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 11:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6553,7 +6507,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 10:00:11 PDT",
+    "last_update": "05/Apr/2023 @ 11:00:12 PDT",
     "launches": {
       "future": [
         {
