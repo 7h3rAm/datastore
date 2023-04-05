@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "04/Apr/2023 @ 23:00:03 PDT",
+    "last_update": "05/Apr/2023 @ 00:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "04/Apr/2023 PDT",
+    "date": "05/Apr/2023 PDT",
     "events": [
       {
         "category": [
@@ -595,6 +595,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "nc73866925",
+        "location": "http://maps.google.com/maps?q=36.801,-121.323",
+        "name": "M 4.4 - 1km NNW of Tres Pinos, CA",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1zm",
         "location": "http://maps.google.com/maps?q=13.7723,125.4109",
         "name": "M 4.5 - 110 km E of Gigmoto, Philippines",
@@ -605,24 +623,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1zm"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "nc73866925",
-        "location": "http://maps.google.com/maps?q=36.801,-121.323",
-        "name": "M 4.5 - 1km NNW of Tres Pinos, CA",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925"
       },
       {
         "category": [
@@ -847,6 +847,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k22u",
+        "location": "http://maps.google.com/maps?q=-9.4082,-71.4487",
+        "name": "M 5.1 - 156 km ESE of Marechal Thaumaturgo, Brazil",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k22u"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k1zt",
         "location": "http://maps.google.com/maps?q=-27.4227,-70.9897",
         "name": "M 5.9 - 65 km W of Copiapó, Chile",
@@ -967,11 +985,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "04/Apr/2023 @ 23:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 00:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-9.4082,-71.4487\"><b>M 5.1 - 156 km ESE of Marechal Thaumaturgo, Brazil</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k22u\">USGS</a>",
+          -9.4082,
+          -71.4487
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-6.1431,130.468\"><b>M 4.2 - 259 km WSW of Tual, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k224\">USGS</a>",
           -6.1431,
@@ -998,7 +1021,7 @@
           143.2272
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=36.801,-121.323\"><b>M 4.5 - 1km NNW of Tres Pinos, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=36.801,-121.323\"><b>M 4.4 - 1km NNW of Tres Pinos, CA</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/nc73866925\">USGS</a>",
           36.801,
           -121.323
         ],
@@ -4622,13 +4645,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "52 events (04/Apr/2023 PDT)"
+    "title": "53 events (05/Apr/2023 PDT)"
   },
-  "last_update": "04/Apr/2023 @ 23:00:35 PDT",
-  "last_update_epoch": 1680674435.682502,
+  "last_update": "05/Apr/2023 @ 00:00:34 PDT",
+  "last_update_epoch": 1680678034.55844,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "04/Apr/2023 @ 23:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 00:00:07 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4769,7 +4792,7 @@
     "title": "15 objects making close approach (05/Apr/2023 PDT)"
   },
   "satview": {
-    "date": "04/Apr/2023 PDT",
+    "date": "05/Apr/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 03/Apr/2023 @ 15:26:56 PDT.",
@@ -4836,7 +4859,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "04/Apr/2023 @ 23:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 00:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4889,7 +4912,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (04/Apr/2023 PDT)"
+    "title": "10 people in space (05/Apr/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -6622,7 +6645,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "04/Apr/2023 @ 23:00:13 PDT",
+    "last_update": "05/Apr/2023 @ 00:00:12 PDT",
     "launches": {
       "future": [
         {
