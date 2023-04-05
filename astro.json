@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 08:00:04 PDT",
+    "last_update": "05/Apr/2023 @ 09:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
     "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -541,6 +541,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k25y",
+        "location": "http://maps.google.com/maps?q=-37.8613,-73.7826",
+        "name": "M 4.3 - 30 km SSW of Lebu, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25y"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k24p",
         "location": "http://maps.google.com/maps?q=-6.3374,147.6331",
         "name": "M 4.3 - 33 km NW of Finschhafen, Papua New Guinea",
@@ -659,42 +677,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k21b"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1yv",
-        "location": "http://maps.google.com/maps?q=38.0556,74.2375",
-        "name": "M 4.6 - 26 km ESE of Murghob, Tajikistan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yv"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k1yq",
-        "location": "http://maps.google.com/maps?q=42.814,144.9514",
-        "name": "M 4.6 - 50 km ESE of Kushiro, Japan",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yq"
       },
       {
         "category": [
@@ -967,11 +949,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 08:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 09:00:06 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-37.8613,-73.7826\"><b>M 4.3 - 30 km SSW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25y\">USGS</a>",
+          -37.8613,
+          -73.7826
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
           -18.1698,
@@ -1071,16 +1058,6 @@
           "<a href=\"http://maps.google.com/maps?q=-4.3958,143.1225\"><b>M 4.3 - 39 km ESE of Ambunti, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yx\">USGS</a>",
           -4.3958,
           143.1225
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=38.0556,74.2375\"><b>M 4.6 - 26 km ESE of Murghob, Tajikistan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yv\">USGS</a>",
-          38.0556,
-          74.2375
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=42.814,144.9514\"><b>M 4.6 - 50 km ESE of Kushiro, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1yq\">USGS</a>",
-          42.814,
-          144.9514
         ]
       ],
       "Floods": [],
@@ -4622,13 +4599,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "52 events (05/Apr/2023 PDT)"
+    "title": "51 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 08:00:39 PDT",
-  "last_update_epoch": 1680706839.047355,
+  "last_update": "05/Apr/2023 @ 09:00:37 PDT",
+  "last_update_epoch": 1680710437.861073,
   "neo": {
     "date": "05/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 08:00:06 PDT",
+    "last_update": "05/Apr/2023 @ 09:00:06 PDT",
     "objects": [
       {
         "cat": "05/Apr/2023 @ 12:18:00 ",
@@ -4836,7 +4813,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 08:00:07 PDT",
+    "last_update": "05/Apr/2023 @ 09:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6622,7 +6599,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 08:00:12 PDT",
+    "last_update": "05/Apr/2023 @ 09:00:12 PDT",
     "launches": {
       "future": [
         {
