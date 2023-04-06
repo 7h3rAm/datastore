@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 21:00:04 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2304/RubinsGalaxy_hst1024.jpg",
-    "title": "Rubin's Galaxy (05/Apr/2023 PDT)",
+    "last_update": "05/Apr/2023 @ 22:00:03 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
+    "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -721,6 +721,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2ai",
+        "location": "http://maps.google.com/maps?q=44.4273,147.8574",
+        "name": "M 4.9 - 88 km S of Kuril’sk, Russia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ai"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k22u",
         "location": "http://maps.google.com/maps?q=-9.4082,-71.4487",
         "name": "M 5.1 - 156 km ESE of Marechal Thaumaturgo, Brazil",
@@ -841,11 +859,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 21:00:05 PDT",
+    "last_update": "05/Apr/2023 @ 22:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=44.4273,147.8574\"><b>M 4.9 - 88 km S of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ai\">USGS</a>",
+          44.4273,
+          147.8574
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
           -24.2926,
@@ -4461,13 +4484,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (05/Apr/2023 PDT)"
+    "title": "46 events (05/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 21:00:39 PDT",
-  "last_update_epoch": 1680753639.397626,
+  "last_update": "05/Apr/2023 @ 22:00:38 PDT",
+  "last_update_epoch": 1680757238.268893,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 21:00:07 PDT",
+    "last_update": "05/Apr/2023 @ 22:00:06 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4756,7 +4779,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 21:00:07 PDT",
+    "last_update": "05/Apr/2023 @ 22:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6542,7 +6565,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 21:00:13 PDT",
+    "last_update": "05/Apr/2023 @ 22:00:11 PDT",
     "launches": {
       "future": [
         {
