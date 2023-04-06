@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "05/Apr/2023 @ 23:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 00:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "05/Apr/2023 PDT",
+    "date": "06/Apr/2023 PDT",
     "events": [
       {
         "category": [
@@ -507,7 +507,7 @@
         ],
         "eid": "us6000k29x",
         "location": "http://maps.google.com/maps?q=53.1352,153.4949",
-        "name": "M 4.1 - Sea of Okhotsk",
+        "name": "M 4.1 - 274 km NW of Ozernovskiy, Russia",
         "source": [
           {
             "sid": "USGS",
@@ -739,16 +739,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k22u",
-        "location": "http://maps.google.com/maps?q=-9.4082,-71.4487",
-        "name": "M 5.1 - 156 km ESE of Marechal Thaumaturgo, Brazil",
+        "eid": "us6000k2b0",
+        "location": "http://maps.google.com/maps?q=11.6502,-85.7939",
+        "name": "M 5.1 - 16 km NW of Moyogalpa, Nicaragua",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k22u"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b0"
       },
       {
         "category": [
@@ -859,11 +859,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "05/Apr/2023 @ 23:00:04 PDT",
+    "last_update": "06/Apr/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=11.6502,-85.7939\"><b>M 5.1 - 16 km NW of Moyogalpa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b0\">USGS</a>",
+          11.6502,
+          -85.7939
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=44.4273,147.8574\"><b>M 4.9 - 88 km S of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ai\">USGS</a>",
           44.4273,
@@ -880,7 +885,7 @@
           -109.0376
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.1352,153.4949\"><b>M 4.1 - Sea of Okhotsk</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.1352,153.4949\"><b>M 4.1 - 274 km NW of Ozernovskiy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x\">USGS</a>",
           53.1352,
           153.4949
         ],
@@ -938,11 +943,6 @@
           "<a href=\"http://maps.google.com/maps?q=-12.8042,169.3885\"><b>M 4.3 - 231 km ENE of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234\">USGS</a>",
           -12.8042,
           169.3885
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-9.4082,-71.4487\"><b>M 5.1 - 156 km ESE of Marechal Thaumaturgo, Brazil</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k22u\">USGS</a>",
-          -9.4082,
-          -71.4487
         ]
       ],
       "Floods": [],
@@ -4484,13 +4484,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (05/Apr/2023 PDT)"
+    "title": "46 events (06/Apr/2023 PDT)"
   },
-  "last_update": "05/Apr/2023 @ 23:00:05 PDT",
-  "last_update_epoch": 1680760805.951722,
+  "last_update": "06/Apr/2023 @ 00:00:32 PDT",
+  "last_update_epoch": 1680764432.05355,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "05/Apr/2023 @ 23:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 00:00:06 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4712,7 +4712,7 @@
     "title": "24 objects making close approach (06/Apr/2023 PDT)"
   },
   "satview": {
-    "date": "05/Apr/2023 PDT",
+    "date": "06/Apr/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 04/Apr/2023 @ 15:08:14 PDT.",
@@ -4779,7 +4779,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "05/Apr/2023 @ 22:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 00:00:07 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4832,7 +4832,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (05/Apr/2023 PDT)"
+    "title": "10 people in space (06/Apr/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -6565,7 +6565,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "05/Apr/2023 @ 22:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 00:00:11 PDT",
     "launches": {
       "future": [
         {
