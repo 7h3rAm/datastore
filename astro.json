@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 11:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 12:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,24 +577,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k270",
-        "location": "http://maps.google.com/maps?q=-15.7039,-72.3474",
-        "name": "M 4.4 - 8 km WSW of Ayo, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2ff",
         "location": "http://maps.google.com/maps?q=-5.3925,150.1883",
         "name": "M 4.5 - 18 km NNE of Kimbe, Papua New Guinea",
@@ -805,7 +787,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 11:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 12:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -869,11 +851,6 @@
           "<a href=\"http://maps.google.com/maps?q=-2.6579,68.0898\"><b>M 4.5 - Carlsberg Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k27p\">USGS</a>",
           -2.6579,
           68.0898
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - 8 km WSW of Ayo, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
-          -15.7039,
-          -72.3474
         ]
       ],
       "Floods": [],
@@ -4415,13 +4392,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "43 events (06/Apr/2023 PDT)"
+    "title": "42 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 11:00:38 PDT",
-  "last_update_epoch": 1680804038.623681,
+  "last_update": "06/Apr/2023 @ 12:00:35 PDT",
+  "last_update_epoch": 1680807635.595014,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 11:00:12 PDT",
+    "last_update": "06/Apr/2023 @ 12:00:11 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4710,7 +4687,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 11:00:13 PDT",
+    "last_update": "06/Apr/2023 @ 12:00:11 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6496,7 +6473,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 11:00:18 PDT",
+    "last_update": "06/Apr/2023 @ 12:00:16 PDT",
     "launches": {
       "future": [
         {
