@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 04:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 05:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -505,6 +505,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2b9",
+        "location": "http://maps.google.com/maps?q=35.791,-96.9669",
+        "name": "M 4.0 - 4 km ESE of Carney, Oklahoma",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k29x",
         "location": "http://maps.google.com/maps?q=53.1352,153.4949",
         "name": "M 4.1 - 274 km NW of Ozernovskiy, Russia",
@@ -541,24 +559,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2b9",
-        "location": "http://maps.google.com/maps?q=35.7873,-96.9639",
-        "name": "M 4.2 - Oklahoma",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k25y",
         "location": "http://maps.google.com/maps?q=-37.8613,-73.7826",
         "name": "M 4.3 - 30 km SSW of Lebu, Chile",
@@ -579,7 +579,7 @@
         ],
         "eid": "us6000k2ad",
         "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
-        "name": "M 4.3 - Salta, Argentina",
+        "name": "M 4.3 - Chile-Argentina border region",
         "source": [
           {
             "sid": "USGS",
@@ -597,7 +597,7 @@
         ],
         "eid": "us6000k270",
         "location": "http://maps.google.com/maps?q=-15.7039,-72.3474",
-        "name": "M 4.4 - 8 km WSW of Ayo, Peru",
+        "name": "M 4.4 - southern Peru",
         "source": [
           {
             "sid": "USGS",
@@ -631,27 +631,9 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k24y",
-        "location": "http://maps.google.com/maps?q=-4.5559,-75.5913",
-        "name": "M 4.6 - 74 km N of Lagunas, Peru",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - off the coast of Central America",
+        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
         "source": [
           {
             "sid": "USGS",
@@ -659,42 +641,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k252",
-        "location": "http://maps.google.com/maps?q=-28.585,-177.8026",
-        "name": "M 4.8 - Kermadec Islands region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k252"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k25r",
-        "location": "http://maps.google.com/maps?q=-18.1698,-178.8696",
-        "name": "M 4.9 - 192 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r"
       },
       {
         "category": [
@@ -713,6 +659,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ai"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k25r",
+        "location": "http://maps.google.com/maps?q=-18.1698,-178.8696",
+        "name": "M 4.9 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r"
       },
       {
         "category": [
@@ -841,20 +805,20 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 04:00:04 PDT",
+    "last_update": "06/Apr/2023 @ 05:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=35.7873,-96.9639\"><b>M 4.2 - Oklahoma</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b9\">USGS</a>",
-          35.7873,
-          -96.9639
+          "<a href=\"http://maps.google.com/maps?q=35.791,-96.9669\"><b>M 4.0 - 4 km ESE of Carney, Oklahoma</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b9\">USGS</a>",
+          35.791,
+          -96.9669
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=11.6502,-85.7939\"><b>M 5.1 - 16 km NW of Moyogalpa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b0\">USGS</a>",
@@ -867,7 +831,7 @@
           147.8574
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
           -24.2926,
           -67.1646
         ],
@@ -897,7 +861,7 @@
           68.0898
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - 8 km WSW of Ayo, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - southern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
           -15.7039,
           -72.3474
         ],
@@ -907,19 +871,9 @@
           -73.7826
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - 192 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
           -18.1698,
           -178.8696
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-4.5559,-75.5913\"><b>M 4.6 - 74 km N of Lagunas, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y\">USGS</a>",
-          -4.5559,
-          -75.5913
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-28.585,-177.8026\"><b>M 4.8 - Kermadec Islands region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k252\">USGS</a>",
-          -28.585,
-          -177.8026
         ]
       ],
       "Floods": [],
@@ -4461,13 +4415,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (06/Apr/2023 PDT)"
+    "title": "43 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 04:00:38 PDT",
-  "last_update_epoch": 1680778838.193859,
+  "last_update": "06/Apr/2023 @ 05:00:40 PDT",
+  "last_update_epoch": 1680782440.69899,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 04:00:10 PDT",
+    "last_update": "06/Apr/2023 @ 05:00:10 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4756,7 +4710,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 04:00:10 PDT",
+    "last_update": "06/Apr/2023 @ 05:00:11 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6542,7 +6496,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 04:00:15 PDT",
+    "last_update": "06/Apr/2023 @ 05:00:17 PDT",
     "launches": {
       "future": [
         {
