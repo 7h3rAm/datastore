@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 07:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 08:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -525,7 +525,7 @@
         ],
         "eid": "us6000k29x",
         "location": "http://maps.google.com/maps?q=53.1352,153.4949",
-        "name": "M 4.1 - Sea of Okhotsk",
+        "name": "M 4.1 - 274 km NW of Ozernovskiy, Russia",
         "source": [
           {
             "sid": "USGS",
@@ -551,24 +551,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29p"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k25y",
-        "location": "http://maps.google.com/maps?q=-37.8613,-73.7826",
-        "name": "M 4.3 - 30 km SSW of Lebu, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25y"
       },
       {
         "category": [
@@ -659,24 +641,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k25r",
-        "location": "http://maps.google.com/maps?q=-18.1698,-178.8696",
-        "name": "M 4.9 - 192 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r"
       },
       {
         "category": [
@@ -823,7 +787,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 07:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 08:00:04 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -864,7 +828,7 @@
           -109.0376
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.1352,153.4949\"><b>M 4.1 - Sea of Okhotsk</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.1352,153.4949\"><b>M 4.1 - 274 km NW of Ozernovskiy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x\">USGS</a>",
           53.1352,
           153.4949
         ],
@@ -887,16 +851,6 @@
           "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - 8 km WSW of Ayo, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
           -15.7039,
           -72.3474
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-37.8613,-73.7826\"><b>M 4.3 - 30 km SSW of Lebu, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25y\">USGS</a>",
-          -37.8613,
-          -73.7826
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - 192 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
-          -18.1698,
-          -178.8696
         ]
       ],
       "Floods": [],
@@ -4438,13 +4392,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (06/Apr/2023 PDT)"
+    "title": "42 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 07:00:42 PDT",
-  "last_update_epoch": 1680789642.268703,
+  "last_update": "06/Apr/2023 @ 08:00:45 PDT",
+  "last_update_epoch": 1680793245.620044,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 07:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 08:00:10 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4733,7 +4687,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 07:00:12 PDT",
+    "last_update": "06/Apr/2023 @ 08:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6519,7 +6473,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 07:00:18 PDT",
+    "last_update": "06/Apr/2023 @ 08:00:17 PDT",
     "launches": {
       "future": [
         {
