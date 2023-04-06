@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 13:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 14:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -541,6 +541,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2i9",
+        "location": "http://maps.google.com/maps?q=51.1271,-178.5311",
+        "name": "M 4.1 - Andreanof Islands, Aleutian Islands, Alaska",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2i9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k29p",
         "location": "http://maps.google.com/maps?q=37.6963,35.5231",
         "name": "M 4.2 - 19 km NE of Aladağ, Turkey",
@@ -579,7 +597,7 @@
         ],
         "eid": "us6000k2ad",
         "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
-        "name": "M 4.3 - Chile-Argentina border region",
+        "name": "M 4.3 - Salta, Argentina",
         "source": [
           {
             "sid": "USGS",
@@ -651,7 +669,7 @@
         ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
+        "name": "M 4.6 - off the coast of Central America",
         "source": [
           {
             "sid": "USGS",
@@ -823,11 +841,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 13:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 14:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=51.1271,-178.5311\"><b>M 4.1 - Andreanof Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2i9\">USGS</a>",
+          51.1271,
+          -178.5311
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-36.9565,177.507\"><b>M 4.5 - 118 km N of Opotiki, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hy\">USGS</a>",
           -36.9565,
@@ -854,7 +877,7 @@
           104.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ],
@@ -874,7 +897,7 @@
           147.8574
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
           -24.2926,
           -67.1646
         ],
@@ -4438,13 +4461,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (06/Apr/2023 PDT)"
+    "title": "45 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 13:00:38 PDT",
-  "last_update_epoch": 1680811238.88502,
+  "last_update": "06/Apr/2023 @ 14:00:37 PDT",
+  "last_update_epoch": 1680814837.261373,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 13:00:10 PDT",
+    "last_update": "06/Apr/2023 @ 14:00:10 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4733,7 +4756,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 13:00:10 PDT",
+    "last_update": "06/Apr/2023 @ 14:00:11 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6519,7 +6542,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 13:00:15 PDT",
+    "last_update": "06/Apr/2023 @ 14:00:16 PDT",
     "launches": {
       "future": [
         {
