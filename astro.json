@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 06:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -525,7 +525,7 @@
         ],
         "eid": "us6000k29x",
         "location": "http://maps.google.com/maps?q=53.1352,153.4949",
-        "name": "M 4.1 - 274 km NW of Ozernovskiy, Russia",
+        "name": "M 4.1 - Sea of Okhotsk",
         "source": [
           {
             "sid": "USGS",
@@ -623,6 +623,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k27p"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2dt",
+        "location": "http://maps.google.com/maps?q=-5.7362,104.0722",
+        "name": "M 4.6 - 134 km SW of Kotabumi, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2dt"
       },
       {
         "category": [
@@ -805,11 +823,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 06:00:08 PDT",
+    "last_update": "06/Apr/2023 @ 07:00:11 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.7362,104.0722\"><b>M 4.6 - 134 km SW of Kotabumi, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2dt\">USGS</a>",
+          -5.7362,
+          104.0722
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
@@ -841,7 +864,7 @@
           -109.0376
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=53.1352,153.4949\"><b>M 4.1 - 274 km NW of Ozernovskiy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=53.1352,153.4949\"><b>M 4.1 - Sea of Okhotsk</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x\">USGS</a>",
           53.1352,
           153.4949
         ],
@@ -4415,13 +4438,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "43 events (06/Apr/2023 PDT)"
+    "title": "44 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 06:00:39 PDT",
-  "last_update_epoch": 1680786039.360557,
+  "last_update": "06/Apr/2023 @ 07:00:42 PDT",
+  "last_update_epoch": 1680789642.268703,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 06:00:09 PDT",
+    "last_update": "06/Apr/2023 @ 07:00:11 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4710,7 +4733,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 06:00:09 PDT",
+    "last_update": "06/Apr/2023 @ 07:00:12 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6496,7 +6519,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 06:00:15 PDT",
+    "last_update": "06/Apr/2023 @ 07:00:18 PDT",
     "launches": {
       "future": [
         {
