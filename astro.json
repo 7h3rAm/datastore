@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 12:00:04 PDT",
+    "last_update": "06/Apr/2023 @ 13:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -559,9 +559,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2gx",
+        "location": "http://maps.google.com/maps?q=-27.4316,-71.1811",
+        "name": "M 4.2 - 84 km W of Copiapó, Chile",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2gx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2ad",
         "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
-        "name": "M 4.3 - Salta, Argentina",
+        "name": "M 4.3 - Chile-Argentina border region",
         "source": [
           {
             "sid": "USGS",
@@ -569,6 +587,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2hy",
+        "location": "http://maps.google.com/maps?q=-36.9565,177.507",
+        "name": "M 4.5 - 118 km N of Opotiki, New Zealand",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hy"
       },
       {
         "category": [
@@ -587,24 +623,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ff"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k27p",
-        "location": "http://maps.google.com/maps?q=-2.6579,68.0898",
-        "name": "M 4.5 - Carlsberg Ridge",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k27p"
       },
       {
         "category": [
@@ -633,7 +651,7 @@
         ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - off the coast of Central America",
+        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
         "source": [
           {
             "sid": "USGS",
@@ -641,6 +659,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2hq",
+        "location": "http://maps.google.com/maps?q=34.547,82.0439",
+        "name": "M 4.6 - western Xizang",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hq"
       },
       {
         "category": [
@@ -787,11 +823,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 12:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 13:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-36.9565,177.507\"><b>M 4.5 - 118 km N of Opotiki, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hy\">USGS</a>",
+          -36.9565,
+          177.507
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=34.547,82.0439\"><b>M 4.6 - western Xizang</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hq\">USGS</a>",
+          34.547,
+          82.0439
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-27.4316,-71.1811\"><b>M 4.2 - 84 km W of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2gx\">USGS</a>",
+          -27.4316,
+          -71.1811
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-5.3925,150.1883\"><b>M 4.5 - 18 km NNE of Kimbe, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ff\">USGS</a>",
           -5.3925,
@@ -803,7 +854,7 @@
           104.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ],
@@ -823,7 +874,7 @@
           147.8574
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
           -24.2926,
           -67.1646
         ],
@@ -846,11 +897,6 @@
           "<a href=\"http://maps.google.com/maps?q=-0.4926,122.2314\"><b>M 5.2 - 80 km NW of Luwuk, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29k\">USGS</a>",
           -0.4926,
           122.2314
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-2.6579,68.0898\"><b>M 4.5 - Carlsberg Ridge</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k27p\">USGS</a>",
-          -2.6579,
-          68.0898
         ]
       ],
       "Floods": [],
@@ -4392,13 +4438,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "42 events (06/Apr/2023 PDT)"
+    "title": "44 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 12:00:35 PDT",
-  "last_update_epoch": 1680807635.595014,
+  "last_update": "06/Apr/2023 @ 13:00:38 PDT",
+  "last_update_epoch": 1680811238.88502,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 12:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 13:00:10 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4687,7 +4733,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 12:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 13:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6473,7 +6519,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 12:00:16 PDT",
+    "last_update": "06/Apr/2023 @ 13:00:15 PDT",
     "launches": {
       "future": [
         {
