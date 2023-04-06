@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 08:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -561,7 +561,7 @@
         ],
         "eid": "us6000k2ad",
         "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
-        "name": "M 4.3 - Salta, Argentina",
+        "name": "M 4.3 - Chile-Argentina border region",
         "source": [
           {
             "sid": "USGS",
@@ -579,7 +579,7 @@
         ],
         "eid": "us6000k270",
         "location": "http://maps.google.com/maps?q=-15.7039,-72.3474",
-        "name": "M 4.4 - 8 km WSW of Ayo, Peru",
+        "name": "M 4.4 - southern Peru",
         "source": [
           {
             "sid": "USGS",
@@ -587,6 +587,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2ff",
+        "location": "http://maps.google.com/maps?q=-5.3925,150.1883",
+        "name": "M 4.5 - 18 km NNE of Kimbe, Papua New Guinea",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ff"
       },
       {
         "category": [
@@ -633,7 +651,7 @@
         ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - off the coast of Central America",
+        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
         "source": [
           {
             "sid": "USGS",
@@ -787,18 +805,23 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 08:00:04 PDT",
+    "last_update": "06/Apr/2023 @ 09:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-5.3925,150.1883\"><b>M 4.5 - 18 km NNE of Kimbe, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ff\">USGS</a>",
+          -5.3925,
+          150.1883
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-5.7362,104.0722\"><b>M 4.6 - 134 km SW of Kotabumi, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2dt\">USGS</a>",
           -5.7362,
           104.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ],
@@ -818,7 +841,7 @@
           147.8574
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
           -24.2926,
           -67.1646
         ],
@@ -848,7 +871,7 @@
           68.0898
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - 8 km WSW of Ayo, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - southern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
           -15.7039,
           -72.3474
         ]
@@ -4392,13 +4415,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "42 events (06/Apr/2023 PDT)"
+    "title": "43 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 08:00:45 PDT",
-  "last_update_epoch": 1680793245.620044,
+  "last_update": "06/Apr/2023 @ 09:00:36 PDT",
+  "last_update_epoch": 1680796836.620445,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 08:00:10 PDT",
+    "last_update": "06/Apr/2023 @ 09:00:06 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4687,7 +4710,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 08:00:10 PDT",
+    "last_update": "06/Apr/2023 @ 09:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6473,7 +6496,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 08:00:17 PDT",
+    "last_update": "06/Apr/2023 @ 09:00:15 PDT",
     "launches": {
       "future": [
         {
