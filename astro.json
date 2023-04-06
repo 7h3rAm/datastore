@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 00:00:04 PDT",
+    "last_update": "06/Apr/2023 @ 01:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -541,24 +541,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k234",
-        "location": "http://maps.google.com/maps?q=-12.8042,169.3885",
-        "name": "M 4.3 - 231 km ENE of Sola, Vanuatu",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k25y",
         "location": "http://maps.google.com/maps?q=-37.8613,-73.7826",
         "name": "M 4.3 - 30 km SSW of Lebu, Chile",
@@ -859,7 +841,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 00:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 01:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -938,11 +920,6 @@
           "<a href=\"http://maps.google.com/maps?q=-21.3749,169.7319\"><b>M 4.9 - 192 km E of Tadine, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k23a\">USGS</a>",
           -21.3749,
           169.7319
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-12.8042,169.3885\"><b>M 4.3 - 231 km ENE of Sola, Vanuatu</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k234\">USGS</a>",
-          -12.8042,
-          169.3885
         ]
       ],
       "Floods": [],
@@ -4484,13 +4461,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (06/Apr/2023 PDT)"
+    "title": "45 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 00:00:32 PDT",
-  "last_update_epoch": 1680764432.05355,
+  "last_update": "06/Apr/2023 @ 01:00:31 PDT",
+  "last_update_epoch": 1680768031.05868,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 00:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 01:00:06 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4779,7 +4756,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 00:00:07 PDT",
+    "last_update": "06/Apr/2023 @ 01:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6565,7 +6542,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 00:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 01:00:11 PDT",
     "launches": {
       "future": [
         {
