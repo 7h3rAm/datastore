@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 01:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 02:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -579,7 +579,7 @@
         ],
         "eid": "us6000k2ad",
         "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
-        "name": "M 4.3 - Salta, Argentina",
+        "name": "M 4.3 - Chile-Argentina border region",
         "source": [
           {
             "sid": "USGS",
@@ -597,7 +597,7 @@
         ],
         "eid": "us6000k270",
         "location": "http://maps.google.com/maps?q=-15.7039,-72.3474",
-        "name": "M 4.4 - 8 km WSW of Ayo, Peru",
+        "name": "M 4.4 - southern Peru",
         "source": [
           {
             "sid": "USGS",
@@ -633,7 +633,7 @@
         ],
         "eid": "us6000k24y",
         "location": "http://maps.google.com/maps?q=-4.5559,-75.5913",
-        "name": "M 4.6 - 74 km N of Lagunas, Peru",
+        "name": "M 4.6 - northern Peru",
         "source": [
           {
             "sid": "USGS",
@@ -667,42 +667,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k25r",
-        "location": "http://maps.google.com/maps?q=-18.1698,-178.8696",
-        "name": "M 4.9 - 192 km E of Levuka, Fiji",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k23a",
-        "location": "http://maps.google.com/maps?q=-21.3749,169.7319",
-        "name": "M 4.9 - 192 km E of Tadine, New Caledonia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k23a"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2ai",
         "location": "http://maps.google.com/maps?q=44.4273,147.8574",
         "name": "M 4.9 - 88 km S of Kuril’sk, Russia",
@@ -713,6 +677,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ai"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k25r",
+        "location": "http://maps.google.com/maps?q=-18.1698,-178.8696",
+        "name": "M 4.9 - Fiji region",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r"
       },
       {
         "category": [
@@ -841,7 +823,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 01:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 02:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -857,7 +839,7 @@
           147.8574
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
           -24.2926,
           -67.1646
         ],
@@ -887,7 +869,7 @@
           68.0898
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - 8 km WSW of Ayo, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - southern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
           -15.7039,
           -72.3474
         ],
@@ -897,12 +879,12 @@
           -73.7826
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - 192 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-18.1698,-178.8696\"><b>M 4.9 - Fiji region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k25r\">USGS</a>",
           -18.1698,
           -178.8696
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-4.5559,-75.5913\"><b>M 4.6 - 74 km N of Lagunas, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-4.5559,-75.5913\"><b>M 4.6 - northern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24y\">USGS</a>",
           -4.5559,
           -75.5913
         ],
@@ -915,11 +897,6 @@
           "<a href=\"http://maps.google.com/maps?q=-6.3374,147.6331\"><b>M 4.3 - 33 km NW of Finschhafen, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k24p\">USGS</a>",
           -6.3374,
           147.6331
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-21.3749,169.7319\"><b>M 4.9 - 192 km E of Tadine, New Caledonia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k23a\">USGS</a>",
-          -21.3749,
-          169.7319
         ]
       ],
       "Floods": [],
@@ -4461,13 +4438,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (06/Apr/2023 PDT)"
+    "title": "44 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 01:00:31 PDT",
-  "last_update_epoch": 1680768031.05868,
+  "last_update": "06/Apr/2023 @ 02:00:36 PDT",
+  "last_update_epoch": 1680771636.113499,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 01:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 02:00:10 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4756,7 +4733,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 01:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 02:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6542,7 +6519,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 01:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 02:00:15 PDT",
     "launches": {
       "future": [
         {
