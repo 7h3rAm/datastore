@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 09:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 10:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -561,7 +561,7 @@
         ],
         "eid": "us6000k2ad",
         "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
-        "name": "M 4.3 - Chile-Argentina border region",
+        "name": "M 4.3 - Salta, Argentina",
         "source": [
           {
             "sid": "USGS",
@@ -579,7 +579,7 @@
         ],
         "eid": "us6000k270",
         "location": "http://maps.google.com/maps?q=-15.7039,-72.3474",
-        "name": "M 4.4 - southern Peru",
+        "name": "M 4.4 - 8 km WSW of Ayo, Peru",
         "source": [
           {
             "sid": "USGS",
@@ -651,7 +651,7 @@
         ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
+        "name": "M 4.6 - off the coast of Central America",
         "source": [
           {
             "sid": "USGS",
@@ -805,7 +805,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 09:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -821,7 +821,7 @@
           104.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ],
@@ -841,7 +841,7 @@
           147.8574
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
           -24.2926,
           -67.1646
         ],
@@ -871,7 +871,7 @@
           68.0898
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - southern Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-15.7039,-72.3474\"><b>M 4.4 - 8 km WSW of Ayo, Peru</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k270\">USGS</a>",
           -15.7039,
           -72.3474
         ]
@@ -4417,11 +4417,11 @@
     },
     "title": "43 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 09:00:36 PDT",
-  "last_update_epoch": 1680796836.620445,
+  "last_update": "06/Apr/2023 @ 10:00:36 PDT",
+  "last_update_epoch": 1680800436.175686,
   "neo": {
     "date": "06/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 09:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 10:00:10 PDT",
     "objects": [
       {
         "cat": "06/Apr/2023 @ 16:54:00 ",
@@ -4710,7 +4710,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 09:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 10:00:10 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6496,7 +6496,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 09:00:15 PDT",
+    "last_update": "06/Apr/2023 @ 10:00:15 PDT",
     "launches": {
       "future": [
         {
