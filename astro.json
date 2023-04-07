@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 20:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 21:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -559,24 +559,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2ad",
-        "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
-        "name": "M 4.3 - Chile-Argentina border region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2jd",
         "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
         "name": "M 4.3 - Sumbawa region, Indonesia",
@@ -757,24 +739,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2ae",
-        "location": "http://maps.google.com/maps?q=-35.5792,-109.0376",
-        "name": "M 5.1 - southern East Pacific Rise",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ae"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2kk",
         "location": "http://maps.google.com/maps?q=49.8608,155.2628",
         "name": "M 5.8 - 109 km SW of Severo-Kuril’sk, Russia",
@@ -859,7 +823,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 20:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 21:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -933,16 +897,6 @@
           "<a href=\"http://maps.google.com/maps?q=44.4273,147.8574\"><b>M 4.9 - 88 km S of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ai\">USGS</a>",
           44.4273,
           147.8574
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
-          -24.2926,
-          -67.1646
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-35.5792,-109.0376\"><b>M 5.1 - southern East Pacific Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ae\">USGS</a>",
-          -35.5792,
-          -109.0376
         ]
       ],
       "Floods": [],
@@ -4484,13 +4438,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (06/Apr/2023 PDT)"
+    "title": "44 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 20:00:37 PDT",
-  "last_update_epoch": 1680836437.95608,
+  "last_update": "06/Apr/2023 @ 21:00:40 PDT",
+  "last_update_epoch": 1680840040.288955,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 20:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 21:00:09 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4698,7 +4652,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 20:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 21:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6484,7 +6438,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 20:00:12 PDT",
+    "last_update": "06/Apr/2023 @ 21:00:15 PDT",
     "launches": {
       "future": [
         {
