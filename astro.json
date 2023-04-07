@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 12:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 13:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -523,24 +523,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2i9",
-        "location": "http://maps.google.com/maps?q=51.1271,-178.5311",
-        "name": "M 4.1 - Andreanof Islands, Aleutian Islands, Alaska",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2i9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2pc",
         "location": "http://maps.google.com/maps?q=41.8388,81.9491",
         "name": "M 4.2 - 82 km W of Kuqa, China",
@@ -577,24 +559,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2jd",
-        "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
-        "name": "M 4.3 - 54 km NE of Pototano, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2pn",
         "location": "http://maps.google.com/maps?q=-22.7789,-66.3794",
         "name": "M 4.3 - 70 km W of Abra Pampa, Argentina",
@@ -605,6 +569,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pn"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2jd",
+        "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
+        "name": "M 4.3 - Sumbawa region, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd"
       },
       {
         "category": [
@@ -859,7 +841,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 12:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 13:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -935,7 +917,7 @@
           141.3771
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - 54 km NE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - Sumbawa region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
           -8.0476,
           117.8071
         ],
@@ -943,11 +925,6 @@
           "<a href=\"http://maps.google.com/maps?q=15.2447,-93.3167\"><b>M 4.9 - 27 km SW of La Esperanza (El Zapotal), Mexico</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2j4\">USGS</a>",
           15.2447,
           -93.3167
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=51.1271,-178.5311\"><b>M 4.1 - Andreanof Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2i9\">USGS</a>",
-          51.1271,
-          -178.5311
         ]
       ],
       "Floods": [],
@@ -4398,13 +4375,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (07/Apr/2023 PDT)"
+    "title": "45 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 12:00:36 PDT",
-  "last_update_epoch": 1680894036.762881,
+  "last_update": "07/Apr/2023 @ 13:00:40 PDT",
+  "last_update_epoch": 1680897640.540751,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 12:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 13:00:09 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4612,7 +4589,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 12:00:06 PDT",
+    "last_update": "07/Apr/2023 @ 13:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6398,7 +6375,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 12:00:11 PDT",
+    "last_update": "07/Apr/2023 @ 13:00:16 PDT",
     "launches": {
       "future": [
         {
