@@ -2,9 +2,9 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 21:00:04 PDT",
-    "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
-    "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
+    "last_update": "06/Apr/2023 @ 22:00:03 PDT",
+    "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
+    "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
@@ -561,7 +561,7 @@
         ],
         "eid": "us6000k2jd",
         "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
-        "name": "M 4.3 - Sumbawa region, Indonesia",
+        "name": "M 4.3 - 54 km NE of Pototano, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -569,6 +569,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2ld",
+        "location": "http://maps.google.com/maps?q=-24.7302,179.8123",
+        "name": "M 4.4 - south of the Fiji Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ld"
       },
       {
         "category": [
@@ -631,9 +649,27 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2l9",
+        "location": "http://maps.google.com/maps?q=8.9543,-76.3284",
+        "name": "M 4.6 - 7 km NNE of Los Córdobas, Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2l9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
+        "name": "M 4.6 - off the coast of Central America",
         "source": [
           {
             "sid": "USGS",
@@ -695,24 +731,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2j4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k2ai",
-        "location": "http://maps.google.com/maps?q=44.4273,147.8574",
-        "name": "M 4.9 - 88 km S of Kuril’sk, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ai"
       },
       {
         "category": [
@@ -823,11 +841,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 21:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 22:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.7302,179.8123\"><b>M 4.4 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ld\">USGS</a>",
+          -24.7302,
+          179.8123
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=8.9543,-76.3284\"><b>M 4.6 - 7 km NNE of Los Córdobas, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2l9\">USGS</a>",
+          8.9543,
+          -76.3284
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=49.8608,155.2628\"><b>M 5.8 - 109 km SW of Severo-Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2kk\">USGS</a>",
           49.8608,
@@ -839,7 +867,7 @@
           141.3771
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - Sumbawa region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - 54 km NE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
           -8.0476,
           117.8071
         ],
@@ -879,7 +907,7 @@
           104.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ],
@@ -892,11 +920,6 @@
           "<a href=\"http://maps.google.com/maps?q=11.6502,-85.7939\"><b>M 5.1 - 16 km NW of Moyogalpa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b0\">USGS</a>",
           11.6502,
           -85.7939
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=44.4273,147.8574\"><b>M 4.9 - 88 km S of Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ai\">USGS</a>",
-          44.4273,
-          147.8574
         ]
       ],
       "Floods": [],
@@ -4438,13 +4461,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (06/Apr/2023 PDT)"
+    "title": "45 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 21:00:40 PDT",
-  "last_update_epoch": 1680840040.288955,
+  "last_update": "06/Apr/2023 @ 22:00:39 PDT",
+  "last_update_epoch": 1680843639.056256,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 21:00:09 PDT",
+    "last_update": "06/Apr/2023 @ 22:00:09 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4652,7 +4675,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 21:00:09 PDT",
+    "last_update": "06/Apr/2023 @ 22:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6438,7 +6461,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 21:00:15 PDT",
+    "last_update": "06/Apr/2023 @ 22:00:14 PDT",
     "launches": {
       "future": [
         {
