@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 06:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 07:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -505,6 +505,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2n9",
+        "location": "http://maps.google.com/maps?q=36.8003,141.3934",
+        "name": "M 4.1 - 53 km ESE of Iwaki, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2n9"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2i9",
         "location": "http://maps.google.com/maps?q=51.1271,-178.5311",
         "name": "M 4.1 - Andreanof Islands, Aleutian Islands, Alaska",
@@ -533,6 +551,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2gx"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2n7",
+        "location": "http://maps.google.com/maps?q=-17.8529,-178.5003",
+        "name": "M 4.3 - 232 km E of Levuka, Fiji",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2n7"
       },
       {
         "category": [
@@ -641,24 +677,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2m4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k2dt",
-        "location": "http://maps.google.com/maps?q=-5.7362,104.0722",
-        "name": "M 4.6 - 134 km SW of Kotabumi, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2dt"
       },
       {
         "category": [
@@ -877,11 +895,21 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 06:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 07:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=36.8003,141.3934\"><b>M 4.1 - 53 km ESE of Iwaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2n9\">USGS</a>",
+          36.8003,
+          141.3934
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-17.8529,-178.5003\"><b>M 4.3 - 232 km E of Levuka, Fiji</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2n7\">USGS</a>",
+          -17.8529,
+          -178.5003
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=41.9022,82.0174\"><b>M 5.0 - 78 km WNW of Kuqa, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2n0\">USGS</a>",
           41.9022,
@@ -961,11 +989,6 @@
           "<a href=\"http://maps.google.com/maps?q=-5.3925,150.1883\"><b>M 4.5 - 18 km NNE of Kimbe, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ff\">USGS</a>",
           -5.3925,
           150.1883
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-5.7362,104.0722\"><b>M 4.6 - 134 km SW of Kotabumi, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2dt\">USGS</a>",
-          -5.7362,
-          104.0722
         ]
       ],
       "Floods": [],
@@ -4507,13 +4530,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "47 events (07/Apr/2023 PDT)"
+    "title": "48 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 06:00:33 PDT",
-  "last_update_epoch": 1680872433.796406,
+  "last_update": "07/Apr/2023 @ 07:00:36 PDT",
+  "last_update_epoch": 1680876036.629024,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 06:00:06 PDT",
+    "last_update": "07/Apr/2023 @ 07:00:09 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4721,7 +4744,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 06:00:06 PDT",
+    "last_update": "07/Apr/2023 @ 07:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6507,7 +6530,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 06:00:11 PDT",
+    "last_update": "07/Apr/2023 @ 07:00:15 PDT",
     "launches": {
       "future": [
         {
