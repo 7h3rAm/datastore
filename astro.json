@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 13:00:04 PDT",
+    "last_update": "07/Apr/2023 @ 14:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -559,6 +559,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2jd",
+        "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
+        "name": "M 4.3 - 54 km NE of Pototano, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2pn",
         "location": "http://maps.google.com/maps?q=-22.7789,-66.3794",
         "name": "M 4.3 - 70 km W of Abra Pampa, Argentina",
@@ -569,24 +587,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k2jd",
-        "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
-        "name": "M 4.3 - Sumbawa region, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd"
       },
       {
         "category": [
@@ -641,6 +641,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2m4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2qp",
+        "location": "http://maps.google.com/maps?q=-24.1123,-179.8573",
+        "name": "M 4.5 - south of the Fiji Islands",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2qp"
       },
       {
         "category": [
@@ -841,11 +859,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 13:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 14:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-24.1123,-179.8573\"><b>M 4.5 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2qp\">USGS</a>",
+          -24.1123,
+          -179.8573
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-22.7789,-66.3794\"><b>M 4.3 - 70 km W of Abra Pampa, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pn\">USGS</a>",
           -22.7789,
@@ -917,7 +940,7 @@
           141.3771
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - Sumbawa region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - 54 km NE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
           -8.0476,
           117.8071
         ],
@@ -4375,13 +4398,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (07/Apr/2023 PDT)"
+    "title": "46 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 13:00:40 PDT",
-  "last_update_epoch": 1680897640.540751,
+  "last_update": "07/Apr/2023 @ 14:00:38 PDT",
+  "last_update_epoch": 1680901238.554036,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 13:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 14:00:08 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4589,7 +4612,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 13:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 14:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6375,7 +6398,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 13:00:16 PDT",
+    "last_update": "07/Apr/2023 @ 14:00:13 PDT",
     "launches": {
       "future": [
         {
