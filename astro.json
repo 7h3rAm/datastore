@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 11:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 12:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -631,24 +631,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2hy",
-        "location": "http://maps.google.com/maps?q=-36.9565,177.507",
-        "name": "M 4.5 - 118 km N of Opotiki, New Zealand",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hy"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2m1",
         "location": "http://maps.google.com/maps?q=-6.1815,103.8903",
         "name": "M 4.5 - 173 km WSW of Bandar Lampung, Indonesia",
@@ -713,24 +695,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2l9"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k2hq",
-        "location": "http://maps.google.com/maps?q=34.547,82.0439",
-        "name": "M 4.6 - western Xizang",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hq"
       },
       {
         "category": [
@@ -895,7 +859,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 11:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 12:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -984,16 +948,6 @@
           "<a href=\"http://maps.google.com/maps?q=51.1271,-178.5311\"><b>M 4.1 - Andreanof Islands, Aleutian Islands, Alaska</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2i9\">USGS</a>",
           51.1271,
           -178.5311
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-36.9565,177.507\"><b>M 4.5 - 118 km N of Opotiki, New Zealand</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hy\">USGS</a>",
-          -36.9565,
-          177.507
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=34.547,82.0439\"><b>M 4.6 - western Xizang</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hq\">USGS</a>",
-          34.547,
-          82.0439
         ]
       ],
       "Floods": [],
@@ -4444,13 +4398,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (07/Apr/2023 PDT)"
+    "title": "46 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 11:00:45 PDT",
-  "last_update_epoch": 1680890445.304473,
+  "last_update": "07/Apr/2023 @ 12:00:36 PDT",
+  "last_update_epoch": 1680894036.762881,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 11:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 12:00:05 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4658,7 +4612,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 11:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 12:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6444,7 +6398,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 11:00:14 PDT",
+    "last_update": "07/Apr/2023 @ 12:00:11 PDT",
     "launches": {
       "future": [
         {
