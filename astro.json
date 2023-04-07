@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 17:00:06 PDT",
+    "last_update": "06/Apr/2023 @ 18:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -559,24 +559,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k29p",
-        "location": "http://maps.google.com/maps?q=37.6963,35.5231",
-        "name": "M 4.2 - 19 km NE of Aladağ, Turkey",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29p"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2gx",
         "location": "http://maps.google.com/maps?q=-27.4316,-71.1811",
         "name": "M 4.2 - 84 km W of Copiapó, Chile",
@@ -595,16 +577,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2ad",
-        "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
-        "name": "M 4.3 - Chile-Argentina border region",
+        "eid": "us6000k2jd",
+        "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
+        "name": "M 4.3 - 54 km NE of Pototano, Indonesia",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd"
       },
       {
         "category": [
@@ -613,16 +595,16 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2jd",
-        "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
-        "name": "M 4.3 - Sumbawa region, Indonesia",
+        "eid": "us6000k2ad",
+        "location": "http://maps.google.com/maps?q=-24.2926,-67.1646",
+        "name": "M 4.3 - Salta, Argentina",
         "source": [
           {
             "sid": "USGS",
             "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
           }
         ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd"
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad"
       },
       {
         "category": [
@@ -687,7 +669,7 @@
         ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
+        "name": "M 4.6 - off the coast of Central America",
         "source": [
           {
             "sid": "USGS",
@@ -807,24 +789,6 @@
       {
         "category": [
           {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k29k",
-        "location": "http://maps.google.com/maps?q=-0.4926,122.2314",
-        "name": "M 5.2 - 80 km NW of Luwuk, Indonesia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29k"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -895,7 +859,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 17:00:07 PDT",
+    "last_update": "06/Apr/2023 @ 18:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -906,7 +870,7 @@
           141.3771
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - Sumbawa region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - 54 km NE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
           -8.0476,
           117.8071
         ],
@@ -946,7 +910,7 @@
           104.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ],
@@ -966,7 +930,7 @@
           147.8574
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Chile-Argentina border region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-24.2926,-67.1646\"><b>M 4.3 - Salta, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ad\">USGS</a>",
           -24.2926,
           -67.1646
         ],
@@ -979,16 +943,6 @@
           "<a href=\"http://maps.google.com/maps?q=53.1352,153.4949\"><b>M 4.1 - 274 km NW of Ozernovskiy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x\">USGS</a>",
           53.1352,
           153.4949
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=37.6963,35.5231\"><b>M 4.2 - 19 km NE of Aladağ, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29p\">USGS</a>",
-          37.6963,
-          35.5231
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-0.4926,122.2314\"><b>M 5.2 - 80 km NW of Luwuk, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29k\">USGS</a>",
-          -0.4926,
-          122.2314
         ]
       ],
       "Floods": [],
@@ -4530,13 +4484,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (06/Apr/2023 PDT)"
+    "title": "46 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 17:00:40 PDT",
-  "last_update_epoch": 1680825640.981686,
+  "last_update": "06/Apr/2023 @ 18:00:37 PDT",
+  "last_update_epoch": 1680829237.035189,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 17:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 18:00:09 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4744,7 +4698,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 17:00:11 PDT",
+    "last_update": "06/Apr/2023 @ 18:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6530,7 +6484,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 17:00:17 PDT",
+    "last_update": "06/Apr/2023 @ 18:00:14 PDT",
     "launches": {
       "future": [
         {
