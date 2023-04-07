@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 08:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 09:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -541,24 +541,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2gx",
-        "location": "http://maps.google.com/maps?q=-27.4316,-71.1811",
-        "name": "M 4.2 - 84 km W of Copiapó, Chile",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2gx"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2n7",
         "location": "http://maps.google.com/maps?q=-17.8529,-178.5003",
         "name": "M 4.3 - 232 km E of Levuka, Fiji",
@@ -641,24 +623,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2m1"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k2ff",
-        "location": "http://maps.google.com/maps?q=-5.3925,150.1883",
-        "name": "M 4.5 - 18 km NNE of Kimbe, Papua New Guinea",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ff"
       },
       {
         "category": [
@@ -895,7 +859,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 08:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 09:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -979,16 +943,6 @@
           "<a href=\"http://maps.google.com/maps?q=34.547,82.0439\"><b>M 4.6 - western Xizang</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2hq\">USGS</a>",
           34.547,
           82.0439
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-27.4316,-71.1811\"><b>M 4.2 - 84 km W of Copiapó, Chile</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2gx\">USGS</a>",
-          -27.4316,
-          -71.1811
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-5.3925,150.1883\"><b>M 4.5 - 18 km NNE of Kimbe, Papua New Guinea</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ff\">USGS</a>",
-          -5.3925,
-          150.1883
         ]
       ],
       "Floods": [],
@@ -4530,13 +4484,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "48 events (07/Apr/2023 PDT)"
+    "title": "46 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 08:00:06 PDT",
-  "last_update_epoch": 1680879606.117054,
+  "last_update": "07/Apr/2023 @ 09:00:37 PDT",
+  "last_update_epoch": 1680883237.298127,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 08:00:06 PDT",
+    "last_update": "07/Apr/2023 @ 09:00:08 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4744,7 +4698,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 07:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 09:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6530,7 +6484,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 07:00:15 PDT",
+    "last_update": "07/Apr/2023 @ 09:00:14 PDT",
     "launches": {
       "future": [
         {
