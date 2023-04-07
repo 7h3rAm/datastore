@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 01:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 02:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -505,24 +505,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "ok2023gsgn",
-        "location": "http://maps.google.com/maps?q=35.7935,-96.96983333",
-        "name": "M 4.0 - 4 km ESE of Carney, Oklahoma",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2023gsgn"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2i9",
         "location": "http://maps.google.com/maps?q=51.1271,-178.5311",
         "name": "M 4.1 - Andreanof Islands, Aleutian Islands, Alaska",
@@ -841,7 +823,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 01:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 02:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -915,11 +897,6 @@
           "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=35.7935,-96.96983333\"><b>M 4.0 - 4 km ESE of Carney, Oklahoma</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ok2023gsgn\">USGS</a>",
-          35.7935,
-          -96.96983333
         ]
       ],
       "Floods": [],
@@ -4461,13 +4438,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (07/Apr/2023 PDT)"
+    "title": "44 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 01:00:40 PDT",
-  "last_update_epoch": 1680854440.580583,
+  "last_update": "07/Apr/2023 @ 02:00:41 PDT",
+  "last_update_epoch": 1680858041.063968,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 01:00:08 PDT",
+    "last_update": "07/Apr/2023 @ 02:00:06 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4675,7 +4652,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 01:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 02:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6461,7 +6438,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 01:00:13 PDT",
+    "last_update": "07/Apr/2023 @ 02:00:11 PDT",
     "launches": {
       "future": [
         {
