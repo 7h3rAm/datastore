@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 04:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 05:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -667,6 +667,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2mr",
+        "location": "http://maps.google.com/maps?q=23.1941,121.4223",
+        "name": "M 4.7 - 88 km SSW of Hualien City, Taiwan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2mr"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2ju",
         "location": "http://maps.google.com/maps?q=27.3416,141.3771",
         "name": "M 4.7 - Bonin Islands, Japan region",
@@ -805,11 +823,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 04:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 05:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=23.1941,121.4223\"><b>M 4.7 - 88 km SSW of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2mr\">USGS</a>",
+          23.1941,
+          121.4223
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=18.714,145.7677\"><b>M 4.9 - Pagan region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2lv\">USGS</a>",
           18.714,
@@ -4415,13 +4438,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "43 events (07/Apr/2023 PDT)"
+    "title": "44 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 04:00:38 PDT",
-  "last_update_epoch": 1680865238.030994,
+  "last_update": "07/Apr/2023 @ 05:00:38 PDT",
+  "last_update_epoch": 1680868838.410342,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 04:00:08 PDT",
+    "last_update": "07/Apr/2023 @ 05:00:09 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4565,8 +4588,8 @@
     "date": "07/Apr/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
-      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 04/Apr/2023 @ 15:08:14 PDT.",
-      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/04/04/jpg/epic_1b_20230404221303.jpg"
+      "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 05/Apr/2023 @ 14:49:32 PDT.",
+      "source": "https://epic.gsfc.nasa.gov/archive/natural/2023/04/05/jpg/epic_1b_20230405215421.jpg"
     },
     "elektrol": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/elektrol.jpg",
@@ -4629,7 +4652,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 04:00:08 PDT",
+    "last_update": "07/Apr/2023 @ 05:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6415,7 +6438,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 04:00:13 PDT",
+    "last_update": "07/Apr/2023 @ 05:00:14 PDT",
     "launches": {
       "future": [
         {
