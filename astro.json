@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 03:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 04:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -649,24 +649,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2c2",
-        "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - off the coast of Central America",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2hq",
         "location": "http://maps.google.com/maps?q=34.547,82.0439",
         "name": "M 4.6 - western Xizang",
@@ -823,7 +805,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 03:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 04:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -892,11 +874,6 @@
           "<a href=\"http://maps.google.com/maps?q=-5.7362,104.0722\"><b>M 4.6 - 134 km SW of Kotabumi, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2dt\">USGS</a>",
           -5.7362,
           104.0722
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
-          12.2567,
-          -88.0043
         ]
       ],
       "Floods": [],
@@ -4438,13 +4415,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (07/Apr/2023 PDT)"
+    "title": "43 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 03:00:38 PDT",
-  "last_update_epoch": 1680861638.581669,
+  "last_update": "07/Apr/2023 @ 04:00:38 PDT",
+  "last_update_epoch": 1680865238.030994,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 03:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 04:00:08 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4652,7 +4629,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 03:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 04:00:08 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6438,7 +6415,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 03:00:14 PDT",
+    "last_update": "07/Apr/2023 @ 04:00:13 PDT",
     "launches": {
       "future": [
         {
