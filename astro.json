@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 15:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 16:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -577,6 +577,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2ru",
+        "location": "http://maps.google.com/maps?q=6.8414,-72.9784",
+        "name": "M 4.4 - 9 km N of Cepitá, Colombia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ru"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2ld",
         "location": "http://maps.google.com/maps?q=-24.7302,179.8123",
         "name": "M 4.4 - south of the Fiji Islands",
@@ -703,24 +721,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k2ju",
-        "location": "http://maps.google.com/maps?q=27.3416,141.3771",
-        "name": "M 4.7 - Bonin Islands, Japan region",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ju"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2lv",
         "location": "http://maps.google.com/maps?q=18.714,145.7677",
         "name": "M 4.9 - Pagan region, Northern Mariana Islands",
@@ -823,11 +823,16 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 15:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 16:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=6.8414,-72.9784\"><b>M 4.4 - 9 km N of Cepitá, Colombia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ru\">USGS</a>",
+          6.8414,
+          -72.9784
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=-24.1123,-179.8573\"><b>M 4.5 - south of the Fiji Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2qp\">USGS</a>",
           -24.1123,
@@ -897,11 +902,6 @@
           "<a href=\"http://maps.google.com/maps?q=49.8608,155.2628\"><b>M 5.8 - 109 km SW of Severo-Kuril’sk, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2kk\">USGS</a>",
           49.8608,
           155.2628
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=27.3416,141.3771\"><b>M 4.7 - Bonin Islands, Japan region</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ju\">USGS</a>",
-          27.3416,
-          141.3771
         ]
       ],
       "Floods": [],
@@ -4354,11 +4354,11 @@
     },
     "title": "44 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 15:00:33 PDT",
-  "last_update_epoch": 1680904833.559731,
+  "last_update": "07/Apr/2023 @ 16:00:38 PDT",
+  "last_update_epoch": 1680908438.787327,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 15:00:06 PDT",
+    "last_update": "07/Apr/2023 @ 16:00:09 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4566,7 +4566,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 15:00:06 PDT",
+    "last_update": "07/Apr/2023 @ 16:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6352,7 +6352,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 15:00:11 PDT",
+    "last_update": "07/Apr/2023 @ 16:00:15 PDT",
     "launches": {
       "future": [
         {
