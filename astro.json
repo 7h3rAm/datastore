@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 09:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 10:00:04 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -541,6 +541,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2pc",
+        "location": "http://maps.google.com/maps?q=41.8388,81.9491",
+        "name": "M 4.2 - 82 km W of Kuqa, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pc"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2n7",
         "location": "http://maps.google.com/maps?q=-17.8529,-178.5003",
         "name": "M 4.3 - 232 km E of Levuka, Fiji",
@@ -561,7 +579,7 @@
         ],
         "eid": "us6000k2jd",
         "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
-        "name": "M 4.3 - Sumbawa region, Indonesia",
+        "name": "M 4.3 - 54 km NE of Pototano, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -569,6 +587,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2pn",
+        "location": "http://maps.google.com/maps?q=-22.7789,-66.3794",
+        "name": "M 4.3 - 70 km W of Abra Pampa, Argentina",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pn"
       },
       {
         "category": [
@@ -641,6 +677,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2m4"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2pd",
+        "location": "http://maps.google.com/maps?q=25.4655,126.1365",
+        "name": "M 4.6 - 111 km NE of Hirara, Japan",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pd"
       },
       {
         "category": [
@@ -825,24 +879,6 @@
       {
         "category": [
           {
-            "emoji": "🌀",
-            "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/severeStorms"
-          }
-        ],
-        "eid": "EONET_6335",
-        "location": "https://www.google.com/maps/dir/-13.3,100.4/-13.7,101/-14,102.2/-14.4,103/-14.9,104/-15.4,104.8/-15.7,105.4/-16.3,105.8/-16.7,106.2/-17.4,106.4/-17.8,106.7/-18.2,106.9/-18.6,107.1/-19.1,106.9/-19.6,106.9/-19.8,106.8/-19.8,106.7/-19.8,105.6/@-13.3,100.4,3z",
-        "name": "Tropical Cyclone Herman",
-        "source": [
-          {
-            "sid": "JTWC",
-            "url": "https://www.metoc.navy.mil/jtwc/products/sh1723.tcw"
-          }
-        ],
-        "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6335"
-      },
-      {
-        "category": [
-          {
             "emoji": "🌋",
             "url": "https://eonet.sci.gsfc.nasa.gov/api/v3/categories/volcanoes"
           }
@@ -859,11 +895,26 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 09:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 10:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
+        [
+          "<a href=\"http://maps.google.com/maps?q=-22.7789,-66.3794\"><b>M 4.3 - 70 km W of Abra Pampa, Argentina</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pn\">USGS</a>",
+          -22.7789,
+          -66.3794
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=25.4655,126.1365\"><b>M 4.6 - 111 km NE of Hirara, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pd\">USGS</a>",
+          25.4655,
+          126.1365
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=41.8388,81.9491\"><b>M 4.2 - 82 km W of Kuqa, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2pc\">USGS</a>",
+          41.8388,
+          81.9491
+        ],
         [
           "<a href=\"http://maps.google.com/maps?q=36.8003,141.3934\"><b>M 4.1 - 53 km ESE of Iwaki, Japan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2n9\">USGS</a>",
           36.8003,
@@ -920,7 +971,7 @@
           141.3771
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - Sumbawa region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - 54 km NE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
           -8.0476,
           117.8071
         ],
@@ -4355,98 +4406,7 @@
           -33.68
         ]
       ],
-      "Severe Storms": [
-        [
-          "<a href=\"http://maps.google.com/maps?q=-13.3,100.4\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -13.3,
-          100.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-13.7,101\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -13.7,
-          101
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14,102.2\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -14,
-          102.2
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.4,103\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -14.4,
-          103
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-14.9,104\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -14.9,
-          104
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.4,104.8\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -15.4,
-          104.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-15.7,105.4\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -15.7,
-          105.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-16.3,105.8\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -16.3,
-          105.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-16.7,106.2\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -16.7,
-          106.2
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.4,106.4\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -17.4,
-          106.4
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-17.8,106.7\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -17.8,
-          106.7
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.2,106.9\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -18.2,
-          106.9
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-18.6,107.1\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -18.6,
-          107.1
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-19.1,106.9\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -19.1,
-          106.9
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-19.6,106.9\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -19.6,
-          106.9
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-19.8,106.8\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -19.8,
-          106.8
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-19.8,106.7\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -19.8,
-          106.7
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=-19.8,105.6\"><b>Tropical Cyclone Herman</b></a><br/><b>Category</b>: Severe Storms<br/><b>Source</b>: <a href=\"https://www.metoc.navy.mil/jtwc/products/sh1723.tcw\">JTWC</a>",
-          -19.8,
-          105.6
-        ]
-      ],
+      "Severe Storms": [],
       "Snow": [],
       "Temperature Extremes": [],
       "Volcanoes": [
@@ -4484,13 +4444,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (07/Apr/2023 PDT)"
+    "title": "48 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 09:00:37 PDT",
-  "last_update_epoch": 1680883237.298127,
+  "last_update": "07/Apr/2023 @ 10:00:35 PDT",
+  "last_update_epoch": 1680886835.458145,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 09:00:08 PDT",
+    "last_update": "07/Apr/2023 @ 10:00:06 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4698,7 +4658,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 09:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 10:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6484,7 +6444,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 09:00:14 PDT",
+    "last_update": "07/Apr/2023 @ 10:00:12 PDT",
     "launches": {
       "future": [
         {
