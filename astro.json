@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 07:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 08:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -895,7 +895,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 07:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 08:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -4532,11 +4532,11 @@
     },
     "title": "48 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 07:00:36 PDT",
-  "last_update_epoch": 1680876036.629024,
+  "last_update": "07/Apr/2023 @ 08:00:06 PDT",
+  "last_update_epoch": 1680879606.117054,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 07:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 08:00:06 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
