@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 18:00:03 PDT",
+    "last_update": "06/Apr/2023 @ 19:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg",
     "title": "Terran 1 Burns Methalox (06/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -523,24 +523,6 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
-        "eid": "us6000k29x",
-        "location": "http://maps.google.com/maps?q=53.1352,153.4949",
-        "name": "M 4.1 - 274 km NW of Ozernovskiy, Russia",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
         "eid": "us6000k2i9",
         "location": "http://maps.google.com/maps?q=51.1271,-178.5311",
         "name": "M 4.1 - Andreanof Islands, Aleutian Islands, Alaska",
@@ -859,7 +841,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 18:00:05 PDT",
+    "last_update": "06/Apr/2023 @ 19:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -938,11 +920,6 @@
           "<a href=\"http://maps.google.com/maps?q=-35.5792,-109.0376\"><b>M 5.1 - southern East Pacific Rise</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ae\">USGS</a>",
           -35.5792,
           -109.0376
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=53.1352,153.4949\"><b>M 4.1 - 274 km NW of Ozernovskiy, Russia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k29x\">USGS</a>",
-          53.1352,
-          153.4949
         ]
       ],
       "Floods": [],
@@ -4484,13 +4461,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "46 events (06/Apr/2023 PDT)"
+    "title": "45 events (06/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 18:00:37 PDT",
-  "last_update_epoch": 1680829237.035189,
+  "last_update": "06/Apr/2023 @ 19:00:37 PDT",
+  "last_update_epoch": 1680832837.030095,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 18:00:09 PDT",
+    "last_update": "06/Apr/2023 @ 19:00:08 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4698,7 +4675,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 18:00:09 PDT",
+    "last_update": "06/Apr/2023 @ 19:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6484,7 +6461,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 18:00:14 PDT",
+    "last_update": "06/Apr/2023 @ 19:00:13 PDT",
     "launches": {
       "future": [
         {
