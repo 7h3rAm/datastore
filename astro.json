@@ -2,13 +2,13 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "06/Apr/2023 @ 23:00:04 PDT",
+    "last_update": "07/Apr/2023 @ 00:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
   },
   "earthevents": {
-    "date": "06/Apr/2023 PDT",
+    "date": "07/Apr/2023 PDT",
     "events": [
       {
         "category": [
@@ -561,7 +561,7 @@
         ],
         "eid": "us6000k2jd",
         "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
-        "name": "M 4.3 - Sumbawa region, Indonesia",
+        "name": "M 4.3 - 54 km NE of Pototano, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -669,7 +669,7 @@
         ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
+        "name": "M 4.6 - off the coast of Central America",
         "source": [
           {
             "sid": "USGS",
@@ -731,24 +731,6 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2j4"
-      },
-      {
-        "category": [
-          {
-            "emoji": "🔴",
-            "url": "https://earthquake.usgs.gov/earthquakes/"
-          }
-        ],
-        "eid": "us6000k2b0",
-        "location": "http://maps.google.com/maps?q=11.6502,-85.7939",
-        "name": "M 5.1 - 16 km NW of Moyogalpa, Nicaragua",
-        "source": [
-          {
-            "sid": "USGS",
-            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
-          }
-        ],
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b0"
       },
       {
         "category": [
@@ -841,7 +823,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "06/Apr/2023 @ 23:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 00:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -867,7 +849,7 @@
           141.3771
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - Sumbawa region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - 54 km NE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
           -8.0476,
           117.8071
         ],
@@ -907,7 +889,7 @@
           104.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ],
@@ -915,11 +897,6 @@
           "<a href=\"http://maps.google.com/maps?q=35.7935,-96.96983333\"><b>M 4.0 - 4 km ESE of Carney, Oklahoma</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/ok2023gsgn\">USGS</a>",
           35.7935,
           -96.96983333
-        ],
-        [
-          "<a href=\"http://maps.google.com/maps?q=11.6502,-85.7939\"><b>M 5.1 - 16 km NW of Moyogalpa, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2b0\">USGS</a>",
-          11.6502,
-          -85.7939
         ]
       ],
       "Floods": [],
@@ -4461,13 +4438,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "45 events (06/Apr/2023 PDT)"
+    "title": "44 events (07/Apr/2023 PDT)"
   },
-  "last_update": "06/Apr/2023 @ 23:00:43 PDT",
-  "last_update_epoch": 1680847243.658743,
+  "last_update": "07/Apr/2023 @ 00:00:33 PDT",
+  "last_update_epoch": 1680850833.694537,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "06/Apr/2023 @ 23:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 00:00:06 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4608,7 +4585,7 @@
     "title": "15 objects making close approach (07/Apr/2023 PDT)"
   },
   "satview": {
-    "date": "06/Apr/2023 PDT",
+    "date": "07/Apr/2023 PDT",
     "dscovr_epic": {
       "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/dscovr_epic.jpg",
       "message": "This image was taken by NASA's EPIC camera onboard the NOAA DSCOVR spacecraft on 04/Apr/2023 @ 15:08:14 PDT.",
@@ -4675,7 +4652,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "06/Apr/2023 @ 23:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 00:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -4728,7 +4705,7 @@
         "url": "https://www.google.com/search?q=Astronaut+Zhang+Lu"
       }
     ],
-    "title": "10 people in space (06/Apr/2023 PDT)"
+    "title": "10 people in space (07/Apr/2023 PDT)"
   },
   "spacex": {
     "capsules": [
@@ -6461,7 +6438,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "06/Apr/2023 @ 23:00:14 PDT",
+    "last_update": "07/Apr/2023 @ 00:00:11 PDT",
     "launches": {
       "future": [
         {
