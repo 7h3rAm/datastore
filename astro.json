@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 02:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 03:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -543,7 +543,7 @@
         ],
         "eid": "us6000k2jd",
         "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
-        "name": "M 4.3 - Sumbawa region, Indonesia",
+        "name": "M 4.3 - 54 km NE of Pototano, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -651,7 +651,7 @@
         ],
         "eid": "us6000k2c2",
         "location": "http://maps.google.com/maps?q=12.2567,-88.0043",
-        "name": "M 4.6 - 80 km SW of Jiquilillo, Nicaragua",
+        "name": "M 4.6 - off the coast of Central America",
         "source": [
           {
             "sid": "USGS",
@@ -823,7 +823,7 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 02:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 03:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
@@ -854,7 +854,7 @@
           141.3771
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - Sumbawa region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - 54 km NE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
           -8.0476,
           117.8071
         ],
@@ -894,7 +894,7 @@
           104.0722
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - 80 km SW of Jiquilillo, Nicaragua</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=12.2567,-88.0043\"><b>M 4.6 - off the coast of Central America</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2c2\">USGS</a>",
           12.2567,
           -88.0043
         ]
@@ -4440,11 +4440,11 @@
     },
     "title": "44 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 02:00:41 PDT",
-  "last_update_epoch": 1680858041.063968,
+  "last_update": "07/Apr/2023 @ 03:00:38 PDT",
+  "last_update_epoch": 1680861638.581669,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 02:00:06 PDT",
+    "last_update": "07/Apr/2023 @ 03:00:09 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4652,7 +4652,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 02:00:06 PDT",
+    "last_update": "07/Apr/2023 @ 03:00:09 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6438,7 +6438,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 02:00:11 PDT",
+    "last_update": "07/Apr/2023 @ 03:00:14 PDT",
     "launches": {
       "future": [
         {
