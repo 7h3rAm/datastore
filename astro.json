@@ -2,7 +2,7 @@
   "apod": {
     "archiveurl": "https://apod.nasa.gov/apod/archivepix.html",
     "datastore": "https://raw.githubusercontent.com/7h3rAm/datastore/master/apod.jpg",
-    "last_update": "07/Apr/2023 @ 05:00:03 PDT",
+    "last_update": "07/Apr/2023 @ 06:00:03 PDT",
     "source": "https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg",
     "title": "Rigel Wide (07/Apr/2023 PDT)",
     "todayurl": "https://apod.nasa.gov/apod/astropix.html"
@@ -543,7 +543,7 @@
         ],
         "eid": "us6000k2jd",
         "location": "http://maps.google.com/maps?q=-8.0476,117.8071",
-        "name": "M 4.3 - 54 km NE of Pototano, Indonesia",
+        "name": "M 4.3 - Sumbawa region, Indonesia",
         "source": [
           {
             "sid": "USGS",
@@ -595,6 +595,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2m1",
+        "location": "http://maps.google.com/maps?q=-6.1815,103.8903",
+        "name": "M 4.5 - 173 km WSW of Bandar Lampung, Indonesia",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2m1"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2ff",
         "location": "http://maps.google.com/maps?q=-5.3925,150.1883",
         "name": "M 4.5 - 18 km NNE of Kimbe, Papua New Guinea",
@@ -605,6 +623,24 @@
           }
         ],
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2ff"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
+        "eid": "us6000k2m4",
+        "location": "http://maps.google.com/maps?q=39.1205,40.4259",
+        "name": "M 4.5 - 26 km NNW of Bingöl, Turkey",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2m4"
       },
       {
         "category": [
@@ -739,6 +775,24 @@
             "url": "https://earthquake.usgs.gov/earthquakes/"
           }
         ],
+        "eid": "us6000k2n0",
+        "location": "http://maps.google.com/maps?q=41.9022,82.0174",
+        "name": "M 5.0 - 78 km WNW of Kuqa, China",
+        "source": [
+          {
+            "sid": "USGS",
+            "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"
+          }
+        ],
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2n0"
+      },
+      {
+        "category": [
+          {
+            "emoji": "🔴",
+            "url": "https://earthquake.usgs.gov/earthquakes/"
+          }
+        ],
         "eid": "us6000k2kk",
         "location": "http://maps.google.com/maps?q=49.8608,155.2628",
         "name": "M 5.8 - 109 km SW of Severo-Kuril’sk, Russia",
@@ -823,15 +877,30 @@
         "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6338"
       }
     ],
-    "last_update": "07/Apr/2023 @ 05:00:05 PDT",
+    "last_update": "07/Apr/2023 @ 06:00:05 PDT",
     "mapdata": {
       "Drought": [],
       "Dust and Haze": [],
       "Earthquakes": [
         [
+          "<a href=\"http://maps.google.com/maps?q=41.9022,82.0174\"><b>M 5.0 - 78 km WNW of Kuqa, China</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2n0\">USGS</a>",
+          41.9022,
+          82.0174
+        ],
+        [
           "<a href=\"http://maps.google.com/maps?q=23.1941,121.4223\"><b>M 4.7 - 88 km SSW of Hualien City, Taiwan</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2mr\">USGS</a>",
           23.1941,
           121.4223
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=39.1205,40.4259\"><b>M 4.5 - 26 km NNW of Bingöl, Turkey</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2m4\">USGS</a>",
+          39.1205,
+          40.4259
+        ],
+        [
+          "<a href=\"http://maps.google.com/maps?q=-6.1815,103.8903\"><b>M 4.5 - 173 km WSW of Bandar Lampung, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2m1\">USGS</a>",
+          -6.1815,
+          103.8903
         ],
         [
           "<a href=\"http://maps.google.com/maps?q=18.714,145.7677\"><b>M 4.9 - Pagan region, Northern Mariana Islands</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2lv\">USGS</a>",
@@ -859,7 +928,7 @@
           141.3771
         ],
         [
-          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - 54 km NE of Pototano, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
+          "<a href=\"http://maps.google.com/maps?q=-8.0476,117.8071\"><b>M 4.3 - Sumbawa region, Indonesia</b></a><br/>Category: Earthquake<br/>Source: <a href=\"https://earthquake.usgs.gov/earthquakes/eventpage/us6000k2jd\">USGS</a>",
           -8.0476,
           117.8071
         ],
@@ -4438,13 +4507,13 @@
       "Water Color": [],
       "Wildfires": []
     },
-    "title": "44 events (07/Apr/2023 PDT)"
+    "title": "47 events (07/Apr/2023 PDT)"
   },
-  "last_update": "07/Apr/2023 @ 05:00:38 PDT",
-  "last_update_epoch": 1680868838.410342,
+  "last_update": "07/Apr/2023 @ 06:00:33 PDT",
+  "last_update_epoch": 1680872433.796406,
   "neo": {
     "date": "07/Apr/2023 PDT",
-    "last_update": "07/Apr/2023 @ 05:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 06:00:06 PDT",
     "objects": [
       {
         "cat": "07/Apr/2023 @ 21:09:00 ",
@@ -4652,7 +4721,7 @@
     }
   },
   "spaceppl": {
-    "last_update": "07/Apr/2023 @ 05:00:09 PDT",
+    "last_update": "07/Apr/2023 @ 06:00:06 PDT",
     "people": [
       {
         "name": "Andrey Fedyaev",
@@ -6438,7 +6507,7 @@
         "url": "https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship"
       }
     ],
-    "last_update": "07/Apr/2023 @ 05:00:14 PDT",
+    "last_update": "07/Apr/2023 @ 06:00:11 PDT",
     "launches": {
       "future": [
         {
